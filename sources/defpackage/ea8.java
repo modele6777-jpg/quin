@@ -1,0 +1,17 @@
+package defpackage;
+
+import ai.askquin.R;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+public enum ea8 {
+    QuestionConfirm(R.string.divintation_loading_question),
+    Analysis(R.string.divintation_loading_analysis),
+    Explanation(R.string.divintation_loading_explanation);
+
+    private final int stringId;
+
+    ea8(int i) {
+        this.stringId = i;
+    }
+}

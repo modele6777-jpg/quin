@@ -1,0 +1,12 @@
+package defpackage;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+public interface z09 extends nv2 {
+    Object g0(xn2 xn2Var, a26 a26Var);
+
+    @Override // defpackage.nv2
+    default ov2 getKey() {
+        return hj6.O0;
+    }
+}

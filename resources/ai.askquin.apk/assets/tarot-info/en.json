@@ -1,0 +1,2030 @@
+[
+  {
+    "cardKey": "the_fool",
+    "englishName": "The Fool",
+    "name": "The Fool",
+    "element": "Air",
+    "planet": "Uranus",
+    "zodiac": null,
+    "keywords": [
+      "Innocence",
+      "Beginnings",
+      "Risk",
+      "Potential"
+    ],
+    "uprightKeywords": [
+      "Beginning",
+      "Adventure",
+      "Innocence"
+    ],
+    "reversedKeywords": [
+      "Recklessness",
+      "Lostness",
+      "Stagnation"
+    ],
+    "meaning": "The Fool signals fresh beginnings and fearless trust. It reflects a state of setting worries aside and following the heart into an unknown journey, representing infinite possibility and freedom, encouraging you to flow with life's unfolding. Yet innocence needs grounding—ignoring risk entirely can slide into recklessness. Since you've chosen to set out, bring a beginner's boldness as you explore, while staying mindful of real-world conditions along the way and channeling impulse into genuine wisdom.",
+    "description": "A young wanderer stands at the precipice of a cliff, stepping boldly toward the unknown abyss — that sheer edge marking the boundary between mortal peril and a brand-new journey. In his left hand he cradles a white rose, an emblem of his original vow toward purity and the spirit; over his right shoulder a wooden staff carries a small bundle, hinting that though he travels light, the pack is laden with memories and experience from the unconscious. At his heel a white dog barks wildly — instinct and reason sounding their warning, trying to recall him to the dangers of the real world — yet he tilts his face to the sky, utterly blind to the chasm below, displaying a near-divine obliviousness and absolute fearlessness as he strides with confidence into the free journey that belongs only to him."
+  },
+  {
+    "cardKey": "the_magician",
+    "englishName": "The Magician",
+    "name": "The Magician",
+    "element": "Air",
+    "planet": "Mercury",
+    "zodiac": null,
+    "keywords": [
+      "Action",
+      "Creativity",
+      "Will",
+      "Success"
+    ],
+    "uprightKeywords": [
+      "Action",
+      "Manifestation",
+      "Ambition"
+    ],
+    "reversedKeywords": [
+      "Deception",
+      "Waste",
+      "Fantasy"
+    ],
+    "meaning": "The Magician is about action and manifestation. It shows that the practical ability to turn inspiration into reality is already in place—will is focused and resources are aligned, making this the perfect moment to move proactively. Since the tools are in hand, pursue goals with clear intent and focused execution, while keeping methods honest. Only by grounding creativity in sincerity and pragmatism can truly promising new chapters begin.",
+    "description": "At the center of a lush garden, the Magician Hermes bridges heaven and earth: his right hand points upward, his left hand points down, opening the channel between the sacred and the mundane as he proclaims, \"As above, so below.\" On the altar before him a chalice, a sword, a wand, and a pentacle are laid out in a row — all four elements present, signaling that everything needed for creation is assembled and only action remains. The ouroboros serpent coiled at his waist speaks of infinite spiritual cycles; the lemniscate hovering above his head declares his inexhaustible will. He stands at the summit of transmuting formless inspiration into tangible reality: manifestation and creation are happening this very instant."
+  },
+  {
+    "cardKey": "the_high_priestess",
+    "englishName": "The High Priestess",
+    "name": "The High Priestess",
+    "element": "Water",
+    "planet": "Moon",
+    "zodiac": null,
+    "keywords": [
+      "Secrets",
+      "Intuition",
+      "Wisdom",
+      "Subconscious"
+    ],
+    "uprightKeywords": [
+      "Intuition",
+      "Secrets",
+      "Learning"
+    ],
+    "reversedKeywords": [
+      "Suppression",
+      "Confusion",
+      "Superficiality"
+    ],
+    "meaning": "The High Priestess focuses on the awakening of intuition and inner stillness. It reflects a state of turning inward rather than acting outwardly on impulse, hinting that truths yet to emerge lie beneath the surface. When a situation remains unclear, it is wise to pause, giving yourself time for patient observation and introspection. Don't rush for answers—let intuition and deep reflection guide you until clarity naturally surfaces.",
+    "description": "The High Priestess sits in serene silence between two pillars — one black, one white — which embody the principle of yin and yang and the law of duality, placing her in the guardian's seat of perfect balance. The scroll in her hands is half-concealed, signaling that deep wisdom of the unconscious can only be sought within and must never be carelessly disclosed. At her feet a crescent moon mirrors her profound bond with intuition and the feminine unconscious. Her flowing blue robe streams inward like water; the pomegranate-embroidered curtain behind her shuts out the clamor of the world. She dwells in a still and inward-turning meditation, neither seeking expression nor revealing herself, keeping faithful watch over latent potential as yet unknown."
+  },
+  {
+    "cardKey": "the_empress",
+    "englishName": "The Empress",
+    "name": "The Empress",
+    "element": "Earth",
+    "planet": "Venus",
+    "zodiac": null,
+    "keywords": [
+      "Abundance",
+      "Acceptance",
+      "Nurture",
+      "Creativity"
+    ],
+    "uprightKeywords": [
+      "Creation",
+      "Abundance",
+      "Nurture"
+    ],
+    "reversedKeywords": [
+      "Lack",
+      "Dependence",
+      "Stagnation"
+    ],
+    "meaning": "The Empress embodies abundance and nurturing. It portrays the flourishing of the material and sensory world, radiating vibrant vitality and generous nourishment, heralding a period of plenty, joy, and creativity. In the face of this abundance, simply enjoy the comfort of the present, and remember to share that warmth with those around you—while also tending to your own needs as you grow.",
+    "description": "Crowned with a diadem of twelve stars — each one standing for one of the twelve zodiacal signs and the rhythms of the cosmos — a woman reclines at ease on a plush couch in a flourishing forest. The Empress is the harvest goddess Demeter herself; her white gown is adorned with pomegranates, ancient emblems of abundance and fertility. Golden wheat sways at her feet, offering the riches of the earth; a waterfall in the distance nourishes the land, bestowing its blessing of growth upon every living thing. She tends all creatures with boundless compassion and maternal warmth. Sensory delight and the quickening of life have already arrived."
+  },
+  {
+    "cardKey": "the_emperor",
+    "englishName": "The Emperor",
+    "name": "The Emperor",
+    "element": "Fire",
+    "planet": null,
+    "zodiac": "Aries",
+    "keywords": [
+      "Authority",
+      "Order",
+      "Structure",
+      "Control"
+    ],
+    "uprightKeywords": [
+      "Order",
+      "Power",
+      "Boundaries"
+    ],
+    "reversedKeywords": [
+      "Tyranny",
+      "Rigidity",
+      "Loss of control"
+    ],
+    "meaning": "The Emperor's core is order and control. It portrays a state of building structures of power through reason, rules, and self-discipline, projecting stable authority and pragmatism. This means boundaries must be drawn to command the situation. When faced with a need to take the helm, replace emotion with logic and take decisive responsibility—establish clear rules and boundaries so that a lasting, resilient foundation in reality can be built.",
+    "description": "Scepter gripped firmly in his right hand and orb held steady in his left, the Emperor sits before a backdrop of severe, craggy mountains — Zeus himself, sovereign of law. Beneath his scarlet robes gleams cold armor, declaring that even in benevolence, iron discipline must uphold order. Ram's heads crown each corner of his throne, blazing with the impulse and leadership of the Aries archetype he embodies. He governs his realm with absolute authority; his iron will is forging a worldly order that no one may transgress. A stable foundation and the firm mastery of rules have already taken shape."
+  },
+  {
+    "cardKey": "the_hierophant",
+    "englishName": "The Hierophant",
+    "name": "The Hierophant",
+    "element": "Earth",
+    "planet": null,
+    "zodiac": "Taurus",
+    "keywords": [
+      "Tradition",
+      "Belief",
+      "Education",
+      "Guidance"
+    ],
+    "uprightKeywords": [
+      "Consensus",
+      "Vows",
+      "Teaching"
+    ],
+    "reversedKeywords": [
+      "Rebellion",
+      "Dogma",
+      "Confinement"
+    ],
+    "meaning": "The Hierophant represents the establishment of tradition and belief. It reflects the transmission of spiritual guidance and moral frameworks, suggesting a need to study established knowledge, follow social norms, or seek counsel from experienced mentors. To find peace and growth, embrace traditional values and look for guidance within existing order and structure—through structured learning and sincere adherence to norms, you can find your own rightful place.",
+    "description": "Prayers of devotion echo between the stone pillars of a solemn cathedral. The Hierophant gazes down at the two disciples kneeling at his feet. As the spiritual bridge to the divine, he wears the triple crown symbolizing the three realms of body, mind, and spirit; in his left hand he holds the triple-cross scepter, the emblem of faith's authority. Two devotees — one robed in red, one in white — look up in earnest, seeking his guidance. Through sacred doctrine and compassion he lights the way home for those who are lost. Here, the refuge of institution and the shelter of faith stand fully revealed."
+  },
+  {
+    "cardKey": "the_lovers",
+    "englishName": "The Lovers",
+    "name": "The Lovers",
+    "element": "Air",
+    "planet": null,
+    "zodiac": "Gemini",
+    "keywords": [
+      "Choice",
+      "Alignment",
+      "Love",
+      "Values"
+    ],
+    "uprightKeywords": [
+      "Love",
+      "Choice",
+      "Union"
+    ],
+    "reversedKeywords": [
+      "Imbalance",
+      "Avoidance",
+      "Conflict"
+    ],
+    "meaning": "The Lovers interpret choice and union. It reflects the clarification and realignment of values when faced with a fork in life's road, meaning a decision that honors the heart must be made. At a crossroads where one path must be chosen, stop wavering—settle your mind and confirm the principles you truly value, then act decisively, for the right choice can lead to a higher level of integration.",
+    "description": "In the Garden of Eden, Adam and Eve stand naked, face to face. High above, a winged archangel gazes down upon them — a higher-dimensional gaze that embodies conscience. The man looks at the woman; the woman tilts her head heavenward, listening for divine revelation. Behind them the Tree of Life burns, while a serpent coils down the Tree of Knowledge, heralding the awakening of temptation and wisdom. These two stand at the crossroads of desire and conscience, their choice imminent; the covenant of souls awaiting its seal, and the exercise of free will converging in this single moment."
+  },
+  {
+    "cardKey": "the_chariot",
+    "englishName": "The Chariot",
+    "name": "The Chariot",
+    "element": "Water",
+    "planet": null,
+    "zodiac": "Cancer",
+    "keywords": [
+      "Will",
+      "Control",
+      "Victory",
+      "Advance"
+    ],
+    "uprightKeywords": [
+      "Advance",
+      "Resolve",
+      "Command"
+    ],
+    "reversedKeywords": [
+      "Lost course",
+      "Loss of control",
+      "Setback"
+    ],
+    "meaning": "The Chariot signifies will and victory. It portrays a forward charge—harnessing inner and outer conflict through unwavering resolve and rigorous self-discipline to overcome obstacles, demanding intense focus and self-mastery. To achieve a breakthrough, you must steady your mind, rein in instinctive impulses with reason, and channel your energy squarely at the target. As long as you maintain control of the situation, you can conquer the road ahead and reach the finish line.",
+    "description": "Commanding a sphinx of pure white and one of deepest black, the charioteer is an Arthurian knight in triumphant return. He stands before the city's moat, crowned with stars and clad in armor etched with alchemical symbols, gripping the reins through sheer force of will. The two great beasts embody contradictory instincts — the warring drives within the unconscious — yet he must find equilibrium in their tension, forging through every obstacle toward the far shore of glory. Through the power of unwavering will, victory over adversity is already within his grasp."
+  },
+  {
+    "cardKey": "strength",
+    "englishName": "Strength",
+    "name": "Strength",
+    "element": "Fire",
+    "planet": null,
+    "zodiac": "Leo",
+    "keywords": [
+      "Courage",
+      "Patience",
+      "Resilience",
+      "Inner"
+    ],
+    "uprightKeywords": [
+      "Mastery",
+      "Endurance",
+      "Gentleness"
+    ],
+    "reversedKeywords": [
+      "Cowardice",
+      "Outburst",
+      "Loss of control"
+    ],
+    "meaning": "Strength is about gentle yet firm taming. It illustrates how compassion and patience can guide primal instincts, turning wildness into willing compliance, showing that true power lies in understanding and transformation. When faced with fierce resistance or emotional eruption, don't respond with suppression—stay calm, and with yielding softness and enduring patience dissolve what is hard. Through acceptance, deep mastery is achieved.",
+    "description": "A woman bends gently forward and rests her hands upon the open jaws of a fierce lion, coaxing the great beast to lower its tail in willing submission. The saint of the Strength card wears the lemniscate above her brow; she does not rely on force, but radiates compassion and patience through her flowing blue robe and garland of flowers. The lion embodies the fears and primal instincts within; through yielding she overcomes, stilling the wild rage with inner resilience and mercy. In this extraordinary harmony, the soul's self-mastery shines forth — softness is sufficient to subdue the savage."
+  },
+  {
+    "cardKey": "the_hermit",
+    "englishName": "The Hermit",
+    "name": "The Hermit",
+    "element": "Earth",
+    "planet": null,
+    "zodiac": "Virgo",
+    "keywords": [
+      "Introspection",
+      "Solitude",
+      "Precipitation",
+      "Guidance"
+    ],
+    "uprightKeywords": [
+      "Analysis",
+      "Solitude",
+      "Search"
+    ],
+    "reversedKeywords": [
+      "Closedness",
+      "Withdrawal",
+      "Lostness"
+    ],
+    "meaning": "The Hermit focuses on the pursuit of truth in solitude. It reflects a deliberate withdrawal from noise, turning inward to seek wisdom in silence. To see things clearly, step away from the clamor and give yourself time alone—listen carefully to the voice within, rely on your own experience and reflection to arrive at understanding, and treat solitude as a training ground for the mind.",
+    "description": "Upon the summit of an ice-bound mountain, the prophet Enoch stands alone in his search for truth. The Hermit is cloaked in grey, merging with the desolate landscape as a sign of humility and restraint. In one hand he holds a lantern radiating the light of a Star of David; with the other he steadies himself on a long staff, bowing his head toward the cliff face, deliberately turning his back on the noise of the world. The lantern in his hand is the symbol of the faint inner light that guides him. Trudging through wind and snow, he has chosen to withdraw from the crowd and explore within — sustained reflection and introspection are now crystallizing into a beacon."
+  },
+  {
+    "cardKey": "the_wheel_of_fortune",
+    "englishName": "The Wheel of Fortune",
+    "name": "The Wheel of Fortune",
+    "element": null,
+    "planet": "Jupiter",
+    "zodiac": null,
+    "keywords": [
+      "Cycles",
+      "Turning Points",
+      "Fate",
+      "Opportunities"
+    ],
+    "uprightKeywords": [
+      "Luck",
+      "Turning point",
+      "Fate"
+    ],
+    "reversedKeywords": [
+      "Stuck",
+      "Misfortune",
+      "Resistance"
+    ],
+    "meaning": "The Wheel of Fortune embodies irresistible cycles and turning points. It reflects a moment when life arrives at a pivotal juncture, as fate ripens and karma unfolds to shift the course of events, heralding the end of one chapter and the opening of another. When faced with changes beyond your control, flow with them rather than resist—accept the turning with an open heart and calmly welcome the possibilities that follow one after another.",
+    "description": "In the vast sea of clouds, a cosmic clock turns at the urging of divine hands. Anubis crouches at the base of the Wheel of Fortune, holding it aloft — the rising force of spiritual ascent. The serpent god Set slides downward with the wheel's rotation, embodying inevitable decline and dissolution; alchemical symbols are inscribed at the wheel's center, while at its four corners a bull, an eagle, an angel, and a lion sit in quiet study of their books. The wheel's teeth mesh slowly and surely, the great cyclical turning of cosmic cause and effect laid bare. Only by flowing with the rise and fall can one discover life within the current."
+  },
+  {
+    "cardKey": "justice",
+    "englishName": "Justice",
+    "name": "Justice",
+    "element": "Air",
+    "planet": null,
+    "zodiac": "Libra",
+    "keywords": [
+      "Fairness",
+      "Balance",
+      "Objectivity",
+      "Karma"
+    ],
+    "uprightKeywords": [
+      "Decision",
+      "Balance",
+      "Fairness"
+    ],
+    "reversedKeywords": [
+      "Partiality",
+      "Avoidance",
+      "Imbalance"
+    ],
+    "meaning": "Justice's core lies in absolute judgment on the scales of cause and effect. It reflects a truth-seeking process that sets aside bias and weighs matters from a neutral, impartial standpoint, declaring that every action must bring its corresponding consequence. In moments requiring judgment or accountability, you must set aside prejudice, weigh with an objective and rational attitude, make the most fair decision based on the facts, and take clear-eyed responsibility for your choices.",
+    "description": "Absolute, dispassionate reason is delivering a verdict that admits no appeal. On the throne of a majestic hall, the goddess of Justice, Astraea, is robed in red: in her right hand she raises the sharp sword of decisive judgment; in her left she holds the precise scales that weigh good against evil; her gaze meets the viewer head-on, without favoritism. The sword's double edge declares that cause and effect cannot be escaped; the scales speak of a law of balance that tolerates not even the slightest deviation. She is bringing down her sword on every falsehood and delusion. The atmosphere is grave and implacable — all accounts are settled in this moment, and the law of fairness cannot be questioned."
+  },
+  {
+    "cardKey": "the_hanged_man",
+    "englishName": "The Hanged Man",
+    "name": "The Hanged Man",
+    "element": "Water",
+    "planet": "Neptune",
+    "zodiac": null,
+    "keywords": [
+      "Pause",
+      "Perspective",
+      "Surrender",
+      "Sacrifice"
+    ],
+    "uprightKeywords": [
+      "Waiting",
+      "Sacrifice",
+      "Perspective shift"
+    ],
+    "reversedKeywords": [
+      "Futility",
+      "Resistance",
+      "Stalemate"
+    ],
+    "meaning": "The Hanged Man signifies a shift in perspective through suspension. It reflects a voluntary pause chosen for a higher purpose or deeper awareness, gaining entirely new insights by ceasing outward effort and viewing things from a different angle. When you hit a dead end, don't rush to force your way through—instead, deliberately pause, re-examine the current situation from a new vantage point, accept the temporary suspension, and seek a new direction for breaking through while waiting.",
+    "description": "Beneath a dim-lit tree, a golden-haired figure hangs upside down from a T-shaped wooden frame, his right leg crossed behind his left, his hands bound behind his back without any sign of struggle. The Hanged Man is Odin himself, who sacrificed and hung in pursuit of wisdom — yet a golden nimbus glows around his head, signaling the flash of enlightenment won through stillness and suffering. By voluntarily enduring this suspension, he is re-examining the world through an inverted perspective. In absolute stillness, a turning point is occurring; surrender and sacrifice have bought him a soul awakening, and a shift in viewpoint is gestating."
+  },
+  {
+    "cardKey": "death",
+    "englishName": "Death",
+    "name": "Death",
+    "element": "Water",
+    "planet": null,
+    "zodiac": "Scorpio",
+    "keywords": [
+      "Endings",
+      "Transformation",
+      "Letting Go",
+      "Rebirth"
+    ],
+    "uprightKeywords": [
+      "Transformation",
+      "Ending",
+      "Rebirth"
+    ],
+    "reversedKeywords": [
+      "Stagnation",
+      "Attachment",
+      "Resistance"
+    ],
+    "meaning": "Death is about inevitable endings and profound transformation. It reflects the natural conclusion of a phase or old pattern, making space for a new beginning—a deep metamorphosis and renewal. When faced with a situation that must end, stop forcing it to continue. Accept this inevitable closing, let go of the burdens of the past, free your hands, and open yourself to the new beginning that is on its way.",
+    "description": "Across a vast and blighted earth, a skeletal horseman in black armor rides a white horse in slow and measured procession. Death is the world-ender who brings the final hour; he carries a black banner painted with a white rose — purity of new life gestating within death and utter dissolution. His mount's hooves pass without mercy over a fallen king, declaring the collapse of worldly power and old structures before the laws of the universe. A weeping child and a praying woman embody the instinctive resistance and grief that attend all great changes. Yet on the far horizon, a golden dawn rises between twin towers, proclaiming that the death of what is decayed makes way for new life — a transformation that breaks the old and ushers in the new cannot be reversed."
+  },
+  {
+    "cardKey": "temperance",
+    "englishName": "Temperance",
+    "name": "Temperance",
+    "element": "Fire",
+    "planet": null,
+    "zodiac": "Sagittarius",
+    "keywords": [
+      "Harmony",
+      "Balance",
+      "Moderation",
+      "Purification"
+    ],
+    "uprightKeywords": [
+      "Negotiation",
+      "Balance",
+      "Reconciliation"
+    ],
+    "reversedKeywords": [
+      "Imbalance",
+      "Excess",
+      "Conflict"
+    ],
+    "meaning": "Temperance interprets the art of balance in flow. It portrays the blending and harmonizing of opposing elements, arriving at a vibrant harmony through patient calibration and inner wisdom—finding the middle way rather than going to extremes. When pulled in opposing directions, don't rush to take sides. Try to integrate the conflicting factors, gradually adjust the rhythm with patience, and find just the right balance point.",
+    "description": "An angel with a radiant solar triangle blazing on the chest stands with one foot in the water and one on the land, pouring clear water between two golden cups in an unhurried, harmonious flow. The angel of Temperance is Iris, the rainbow goddess who balances yin and yang; a mountain road in the distance leads toward a crown and the rising sun. With extraordinary patience she seeks the middle way between extremes, blending opposing elements to perfection. The flowing sacred water symbolizes the refinement of the soul; a spirit of distillation runs through this tranquil scene, and the wisdom of balance transforms conflict into clear, pure essence."
+  },
+  {
+    "cardKey": "the_devil",
+    "englishName": "The Devil",
+    "name": "The Devil",
+    "element": "Earth",
+    "planet": null,
+    "zodiac": "Capricorn",
+    "keywords": [
+      "Desire",
+      "Bondage",
+      "Obsession",
+      "Material"
+    ],
+    "uprightKeywords": [
+      "Limitation",
+      "Desire",
+      "Bondage"
+    ],
+    "reversedKeywords": [
+      "Break free",
+      "Release",
+      "Awakening"
+    ],
+    "meaning": "The Devil refers to bondage by desire and material obsession. It reflects a state of being enslaved by worldly cravings, addictive habits, or narrow beliefs—mirroring the invisible prison built by one's own greed. When swept up in desire, don't let yourself sink further. Try to confront your inner fears and greed directly, recognize that you can sever the attachment at any time, and break the illusion of self-imprisonment.",
+    "description": "In the darkness of night, Lucifer sits astride a black stone pillar, imprisoning souls. The Devil bears the horns of a goat and the wings of a bat; his right hand raises a burning torch, his left reaches downward, and the inverted pentagram above him embodies the fall of matter reigning over spirit. At his feet, a man and a woman stand naked, their necks loosely chained — the chains of desire — while horns and tails sprouting from their bodies signal their gradual assimilation by the bestial. The chains are slack and could be thrown off easily, yet they bow their heads in submission. A tragedy of willing degradation is unfolding: greed and fear blind the eyes while each one weaves their own cage."
+  },
+  {
+    "cardKey": "the_tower",
+    "englishName": "The Tower",
+    "name": "The Tower",
+    "element": "Fire",
+    "planet": "Mars",
+    "zodiac": null,
+    "keywords": [
+      "Upheaval",
+      "Collapse",
+      "Release",
+      "Revelation"
+    ],
+    "uprightKeywords": [
+      "Destruction",
+      "Revelation",
+      "Collapse"
+    ],
+    "reversedKeywords": [
+      "Avoidance",
+      "Undercurrent",
+      "Delay"
+    ],
+    "meaning": "The Tower signals sudden upheaval and the destabilization of old structures. Long-suppressed issues suddenly erupt, instantly shattering a precarious status quo. Though the shock is stunning, it forcibly clears out outdated patterns, jolting you awake from blindness—a necessary restructuring. When sudden change strikes, don't cling to structures about to collapse. Instead, let go with the flow, look within the wreckage for resources to rebuild with, and lay a more solid foundation for yourself.",
+    "description": "In a tempestuous night of wind and rain, a blinding bolt of lightning strikes a magnificent tower that pierces the clouds. The Tower is the proud Tower of Babel struck down by divine will; the crown atop it is blasted away — the worldly power and arrogant ego toppled. Fire blazes across the tower's body, consuming every false glory. A man and a woman plunge in despair from the heights into the abyss, while sparks and debris rain down in all directions, representing the violent tearing away of old securities. Every comfortable illusion is shattered utterly; only through this brutal ruin can the light of truth finally pierce the wreckage."
+  },
+  {
+    "cardKey": "the_star",
+    "englishName": "The Star",
+    "name": "The Star",
+    "element": "Air",
+    "planet": null,
+    "zodiac": "Aquarius",
+    "keywords": [
+      "Hope",
+      "Healing",
+      "Inspiration",
+      "Serenity"
+    ],
+    "uprightKeywords": [
+      "Hope",
+      "Guidance",
+      "Healing"
+    ],
+    "reversedKeywords": [
+      "Confusion",
+      "Disillusionment",
+      "Disconnection"
+    ],
+    "meaning": "The Star is about healing and hope after the storm. It reflects how, after a great shock, the heart refills with tranquility and anticipation for the future, expressing a serene resilience and inviting you to trust in goodness and let inspiration flow naturally. After experiencing turbulence, give your spirit time to heal, release excessive control, naturally feel the calm of the present moment, and walk slowly forward by the faint light within.",
+    "description": "Beneath a tranquil star-filled sky, a naked woman kneels on one knee, pouring clear water from a pitcher back into a pool with her left hand while letting water flow onto the parched earth with her right. She is Isis, the mother of hope, descending after the great flood to restore life to the world. Her nakedness speaks of authentic vulnerability in the aftermath of catastrophe; above her in the sky a magnificent eight-pointed star blazes — the guiding light of hope and the spirit. Birds companion her flight; in the distance a shrub teems with new life. She is nourishing a wounded world with the clear water of the spirit. In the stillness after the storm, the promise of healing and renewal descends quietly."
+  },
+  {
+    "cardKey": "the_moon",
+    "englishName": "The Moon",
+    "name": "The Moon",
+    "element": "Water",
+    "planet": null,
+    "zodiac": "Pisces",
+    "keywords": [
+      "Subconscious",
+      "Illusions",
+      "Intuition",
+      "Unease"
+    ],
+    "uprightKeywords": [
+      "Crisis",
+      "Deep emotion",
+      "Illusion"
+    ],
+    "reversedKeywords": [
+      "Fear",
+      "Release",
+      "Confusion"
+    ],
+    "meaning": "The Moon focuses on the undercurrent of dread and fog. It reflects a shadowy realm beyond conscious awareness, where lurking doubts, fears, and unresolved matters slowly surface, leaving one feeling subjectively confused and unsettled. When faced with vague, unnamed worries, don't let your own imagination frighten you. Face your inner unease directly, try to give concrete form to the blurry fears, clear out the hidden hazards in the dark, and summon the courage to walk through the psychological fog.",
+    "description": "In the shadowy night, a face of sorrowful countenance hangs above a full moon. Two dogs howl at it across the wilderness, while a crayfish labors up from the murky depths of a pool. The Moon card is Hecate herself, guardian of the underworld; the crayfish represents primal fears buried in the unconscious, now slowly surfacing. A winding path crosses the wasteland toward twin towers disappearing into thick mist in the distance — the arduous journey into the unknown. Illusions and unease surge forth like a tide; the lost traveler gropes forward through an eerie and distorted night. The fog of the unknown still awaits its parting."
+  },
+  {
+    "cardKey": "the_sun",
+    "englishName": "The Sun",
+    "name": "The Sun",
+    "element": "Fire",
+    "planet": "Sun",
+    "zodiac": null,
+    "keywords": [
+      "Success",
+      "Vitality",
+      "Absolute",
+      "Joy"
+    ],
+    "uprightKeywords": [
+      "Growth",
+      "Restoration",
+      "Joy"
+    ],
+    "reversedKeywords": [
+      "Cloudiness",
+      "Delay",
+      "Low mood"
+    ],
+    "meaning": "The Sun embodies pure joy and success. It portrays a flourishing state of confident ease—body and mind at ease—where efforts are about to receive clear rewards. This marks a period of smooth development in which all doubts and obstacles will dissolve. Since you are in excellent form, generously show your true self, actively seize the current opportunities, and enjoy the fruits and happiness that your efforts have earned.",
+    "description": "Four great sunflowers stretch open in brilliant sunlight, their faces turned in pure adoration toward the radiance. The child at the center of the Sun card is an avatar of Apollo, the bringer of light: he rides a white horse bareback, his soul unblemished and pure, a feathered crown on his head and his arms flung wide in a radiant smile. He holds a red banner aloft, as if he has just burst through the low wall behind him, proclaiming the victory of life. Every shadow is chased away; joy without a single cloud freely releases the vital force and innocence within. The soul celebrates the ultimate earthly happiness in the absolute light."
+  },
+  {
+    "cardKey": "judgement",
+    "englishName": "Judgement",
+    "name": "Judgement",
+    "element": "Fire",
+    "planet": "Pluto",
+    "zodiac": null,
+    "keywords": [
+      "Awakening",
+      "Reckoning",
+      "Rebirth",
+      "Calling"
+    ],
+    "uprightKeywords": [
+      "The past",
+      "Rebirth",
+      "Reckoning"
+    ],
+    "reversedKeywords": [
+      "Avoidance",
+      "Self-doubt",
+      "Self-blame"
+    ],
+    "meaning": "Judgment's core is the awakening and reckoning of the soul. It reflects the process of answering an inner calling, breaking free from old situations to be reborn, requiring a thorough reckoning with past actions and beliefs. At a life turning point, stop drifting through the days in a muddle—pause and carefully review past gains and losses, heed the inner calling and make bold changes, and embrace the relieving fresh start.",
+    "description": "From the clouds a trumpet sounds the last day; the cross-banner unfurls; the great archangel Gabriel summons the souls from their cold tombs. The hour of Judgment has come. The trumpet's call embodies the soul's deepest summons: a man, a woman, and a child rise from their coffins, eyes closed and arms spread wide, welcoming the divine light descending from heaven. The cross-banner hints at redemption that transcends death. Snow-capped peaks in the distance bear witness to this sacred moment. The departed, answering the divine call, are casting off their old shells; the debts of past cause and effect are cleared here, and spiritual rebirth receives its ultimate salvation."
+  },
+  {
+    "cardKey": "the_world",
+    "englishName": "The World",
+    "name": "The World",
+    "element": "Earth",
+    "planet": "Saturn",
+    "zodiac": null,
+    "keywords": [
+      "Fulfillment",
+      "Completion",
+      "Wholeness",
+      "Achievement"
+    ],
+    "uprightKeywords": [
+      "Success",
+      "Completion",
+      "Integration"
+    ],
+    "reversedKeywords": [
+      "Incomplete",
+      "Lack",
+      "Procrastination"
+    ],
+    "meaning": "The World is about the fulfillment and pinnacle of the cycle. It portrays the perfect completion of a long or significant endeavor, marking the ripening of all that was cultivated, an achievement of the highest level in experience and understanding, and the winning of true ease and belonging. Having reached the finish line, celebrate this hard-won victory with full joy, while internalizing this journey as wisdom and preparing to welcome an even broader chapter of life.",
+    "description": "Inside an oval wreath of laurel, a dancer draped in a purple sash twirls lightly on one leg, a slender wand held in each hand. The dancer of the World card is the perfected soul born of alchemical culmination; the wreath embodies victory and the closure of a cycle. At the four corners, a lion, a bull, an eagle, and a human figure stand in quiet guardianship, representing the ultimate integration of the four elements and the material world. A long journey at last arrives at its moment of supreme fulfillment; the perfect union of inner and outer is achieved right now. The old cycle announces its end, and a brand-new cosmic epoch is on the threshold of beginning."
+  },
+  {
+    "cardKey": "ace_of_wands",
+    "englishName": "Ace of Wands",
+    "name": "Ace of Wands",
+    "element": "Fire",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Inspiration",
+      "Action",
+      "Potential",
+      "Start"
+    ],
+    "uprightKeywords": [
+      "Inspiration",
+      "Action",
+      "Passion"
+    ],
+    "reversedKeywords": [
+      "Burnt out",
+      "Procrastination",
+      "Powerlessness"
+    ],
+    "meaning": "The Ace of Wands signals the first spark of action and the seed of inspiration. Powerful creative energy floods into life, giving birth to new adventures and directions—momentum is at its peak and it is time to put ideas into practice. Since inspiration has arrived, stop hesitating. Take the decisive first step with courage and confidence, nurture the nascent plan with focus and action, and transform will into actual progress that shapes the future.",
+    "description": "From within the mist a hand reaches forth and holds aloft a long staff from which fresh green leaves are sprouting. The Ace of Wands is the spark of fire bestowed by the divine: the leaves embody the germination of vitality and creative inspiration; golden autumn leaves drift down on the wind, hinting at the gift of natural change. Below, a garden stream winds through the scene and a castle appears in the distance, representing the foundations of a manifest reality. Burning energy heralds the launching of new action; sacred life-force is about to be poured into the mortal world. The impulse to create can no longer be restrained; the prologue of inspiration and driving will is formally raised by these sprouting branches — sparks of passion await their moment to set the world alight."
+  },
+  {
+    "cardKey": "two_of_wands",
+    "englishName": "Two of Wands",
+    "name": "Two of Wands",
+    "element": "Fire",
+    "planet": "Mars",
+    "zodiac": "Aries",
+    "keywords": [
+      "Plan",
+      "Decision",
+      "Vision",
+      "Control"
+    ],
+    "uprightKeywords": [
+      "Planning",
+      "Dominion",
+      "The unknown"
+    ],
+    "reversedKeywords": [
+      "Short-sighted",
+      "Cancelled",
+      "Confined"
+    ],
+    "meaning": "The Two of Wands is about the vision and choices within planning. Standing on an established foundation with results already in hand, you are nonetheless weighing different paths forward—the key now is to steer the direction of development through careful deliberation. At this crossroads, stop agonizing over gains and losses. Boldly assess the possibilities, take the initiative, break through hesitation to set your forward coordinates, and turn ideas into clear decisions.",
+    "description": "The red-robed lord of the Two of Wands is like Alexander facing a momentous choice, standing with his back to a high castle wall, contemplating the scope of his empire. In his right hand he holds a globe representing the world — hinting at the vast unknown and the ambition to conquer; his left hand grips a wand fixed firmly to the wall, representing his present security and limitation. His gaze travels past the moat and rests upon the wide ocean in the distance. Though he already holds a strong citadel at his back, he still longs for a broader, uncharted horizon. He stands at the starting point of a plan, preparing to step out of his comfort zone — far-reaching vision yearns to be exercised."
+  },
+  {
+    "cardKey": "three_of_wands",
+    "englishName": "Three of Wands",
+    "name": "Three of Wands",
+    "element": "Fire",
+    "planet": "Sun",
+    "zodiac": "Aries",
+    "keywords": [
+      "Expansion",
+      "Foresight",
+      "Exploration",
+      "Results"
+    ],
+    "uprightKeywords": [
+      "Expansion",
+      "Vision",
+      "Waiting"
+    ],
+    "reversedKeywords": [
+      "Stalled",
+      "Delayed",
+      "Short-sighted"
+    ],
+    "meaning": "The Three of Wands focuses on the enactment of foresight and expansion. Early planning has built a high vantage point, allowing you to measure your future with a broader vision—whether in forging business alliances or advancing goals, progress is steadily unfolding as expected. When you see initial results, don't settle for the status quo. Maintain patience and foresight to keep expanding outward, use existing achievements to connect with more resources and broaden your boundaries, and prepare for the next leap forward.",
+    "description": "Gazing quietly at three tall ships sailing with the wind toward an unknown far shore, the merchant of the Three of Wands is an explorer waiting for the return of his trade investment. On a cliff above the coastline, robed in gold and facing away from the viewer, he stands with one wand in hand while two others are planted deep at his feet, symbolizing the stable foundation already established and the capital already invested. He waits with patience for the ships to come home; the golden rolling waves of the sea augur commercial prosperity. He hopes this foresight will yield a rich harvest; the rewards of exploration are about to arrive on the wind."
+  },
+  {
+    "cardKey": "four_of_wands",
+    "englishName": "Four of Wands",
+    "name": "Four of Wands",
+    "element": "Fire",
+    "planet": "Venus",
+    "zodiac": "Aries",
+    "keywords": [
+      "Celebration",
+      "Harmony",
+      "Stability",
+      "Belonging"
+    ],
+    "uprightKeywords": [
+      "Celebration",
+      "Stability",
+      "Belonging"
+    ],
+    "reversedKeywords": [
+      "Unstable",
+      "Moving",
+      "No belonging"
+    ],
+    "meaning": "The Four of Wands embodies solid building and celebration. Hard work has borne its fruit and you are stepping into a stable period worthy of raising a glass—the foundation laid through steady action has brought a reassuring harmony to home, career, or partnership. Now that things have settled, generously acknowledge the present achievements, share the fruits of victory with partners, use this stable environment to rest and recharge, and lay the groundwork for the next phase.",
+    "description": "Four wands form an archway of blossoming flowers, symbolizing celebration and shelter, with a warm castle in the distance. The Four of Wands is like a harvest banquet hosted by a lord for his people: a couple holding bouquets stand ready to welcome the riders coming home on white horses. Garlands and fruit adorn the scene, representing the gifts of nature and the fullness of life. A mood of festive joy fills the air; after a long journey they have at last returned to a stable home and embrace their loved ones tightly, savoring the hard-won peace and earthly happiness. Solid belonging and joyful reunion are intertwined."
+  },
+  {
+    "cardKey": "five_of_wands",
+    "englishName": "Five of Wands",
+    "name": "Five of Wands",
+    "element": "Fire",
+    "planet": "Saturn",
+    "zodiac": "Leo",
+    "keywords": [
+      "Conflict",
+      "Competition",
+      "Disagreement",
+      "Friction"
+    ],
+    "uprightKeywords": [
+      "Competition",
+      "Conflict",
+      "Chaos"
+    ],
+    "reversedKeywords": [
+      "Compromise",
+      "Avoidance",
+      "Reconciliation"
+    ],
+    "meaning": "The Five of Wands signals the sparks of competition and the growing pains of development. Encountering external obstacles or internal friction on the path to your dreams, you find yourself drawn into a state of charged rivalry. This kind of conflict isn't born of malice—it is the collision of different views. When pulled in many directions at once, don't fear the clash. Treat it as a test for clarifying your position, meet it with a proactive attitude, and find your breakthrough point within the competition.",
+    "description": "Refusing to yield to each other, the young people in the Five of Wands are like apprentices competing in a trial of strength: on an open ground five figures brandish their wands and clash in chaotic opposition, movements fierce. Five wands crisscross and create obstacles, symbolizing a divergence of opinion and a collision of positions. The air crackles with the restlessness of the fire element; conflict is on the verge of erupting. The contest is not a fight to the death, but the clashing of different views has brought the situation to a standstill — the competitive chaos needs a victor before this spirited dispute can be settled."
+  },
+  {
+    "cardKey": "six_of_wands",
+    "englishName": "Six of Wands",
+    "name": "Six of Wands",
+    "element": "Fire",
+    "planet": "Jupiter",
+    "zodiac": "Leo",
+    "keywords": [
+      "Victory",
+      "Recognition",
+      "Progress",
+      "Confidence"
+    ],
+    "uprightKeywords": [
+      "Victory",
+      "Recognition",
+      "Pride"
+    ],
+    "reversedKeywords": [
+      "Defeat",
+      "Loss of recognition",
+      "Fall"
+    ],
+    "meaning": "The Six of Wands is about the glory of triumph and being crowned with recognition. Winning through perseverance and conviction, you earn widespread praise and validation—your sweat is finally witnessed, your value shines brightly, and all that follows is pride and conviction. When facing flowers and applause, don't treat victory as the finish line. While enjoying the sense of achievement, maintain a measure of humility and clear-headedness, consolidate the current win, and convert this momentum into fuel for what comes next.",
+    "description": "The crowd presses in with congratulations; the horse steps forward with lifted head; ribbons flutter in the air. The general of the Six of Wands is a conquering hero: crowned with the laurels of victory, he rides a white horse holding a wand adorned with vines. The green garland beneath the hooves and the cheers of the throng confirm that action has won him incomparable recognition. Having just won a hard-fought campaign, he accepts with pride the adulation of all eyes. The pinnacle of honor speaks of the glory of triumph; this is the moment to savor the applause and the pride. Outstanding achievement shines brilliantly."
+  },
+  {
+    "cardKey": "seven_of_wands",
+    "englishName": "Seven of Wands",
+    "name": "Seven of Wands",
+    "element": "Fire",
+    "planet": "Mars",
+    "zodiac": "Leo",
+    "keywords": [
+      "Defense",
+      "Persistence",
+      "Challenge",
+      "Baseline"
+    ],
+    "uprightKeywords": [
+      "Defence",
+      "Persistence",
+      "Challenge"
+    ],
+    "reversedKeywords": [
+      "Compromise",
+      "Retreat",
+      "Surrender"
+    ],
+    "meaning": "The Seven of Wands' core is steadfast defense and holding your ground. Facing competitive challenges, the stance of actively guarding hard-won results is not about provoking conflict—it is a strategic defense born of knowing your own boundaries and refusing to yield. When encountering external pressure and competition, hold your position and don't retreat a single step. Fight hard to meet the challenges in front of you; as long as you hold the line, what you protect is not just your results but also your confirmation of your own value.",
+    "description": "Facing the assault of many without flinching, commanding the ground beneath him from the high position, the warrior of the Seven of Wands is a lone defender holding his post. On a steep hillside, clad in green, he swings his wand fiercely in an attempt to beat back the six wands pressing up from below. The six wands embody the relentless challenges and the covetousness of rivals; the heights are cold and lonely, and he must fight with everything he has. Steadfast in adversity, he grits his teeth and refuses to let the ground he has worked so hard to win be taken from him so easily. The resolve to meet every challenge head-on is burning."
+  },
+  {
+    "cardKey": "eight_of_wands",
+    "englishName": "Eight of Wands",
+    "name": "Eight of Wands",
+    "element": "Fire",
+    "planet": "Mercury",
+    "zodiac": "Sagittarius",
+    "keywords": [
+      "Speed",
+      "Action",
+      "Progress",
+      "Smoothness"
+    ],
+    "uprightKeywords": [
+      "Speed",
+      "Action",
+      "Change"
+    ],
+    "reversedKeywords": [
+      "Delay",
+      "Block",
+      "Slowdown"
+    ],
+    "meaning": "The Eight of Wands embodies the swift torrent and free flow. Plans that were once stalled suddenly acquire powerful momentum, rushing forward at great speed with obstacles seemingly swept away—bringing smooth progress or a gush of creativity without hindrance. When rapid advancement arrives unexpectedly, don't over-interfere or try to control it. Ride the momentum and move quickly, seizing this high-efficiency period to put your goals into action.",
+    "description": "Bearing the force to uproot and level all before it, the Eight of Wands is like a volley of fire-arrows loosed by the divine, instantly cleaving through the stagnant air. In an open sky, eight wands streak like arrows at tremendous speed, cutting through the clouds in perfect alignment, while hills and green fields below await their arrival. The flying wands symbolize the lightning-fast transmission of news and the sudden acceleration of action — everything is moving at a breakneck pace. One must seize the moment and charge forward with this irresistible current. The sudden development catches everyone off guard."
+  },
+  {
+    "cardKey": "nine_of_wands",
+    "englishName": "Nine of Wands",
+    "name": "Nine of Wands",
+    "element": "Fire",
+    "planet": "Moon",
+    "zodiac": "Sagittarius",
+    "keywords": [
+      "Resilience",
+      "Vigilance",
+      "Fatigue",
+      "Holding on"
+    ],
+    "uprightKeywords": [
+      "Vigilance",
+      "Endurance",
+      "Fatigue"
+    ],
+    "reversedKeywords": [
+      "Disarming",
+      "Deflating",
+      "Withdrawing"
+    ],
+    "meaning": "The Nine of Wands signifies vigilant defense and hard-won resilience. After many trials, experience has built a solid defensive line; you guard your established territory with a cautious stance, staying perpetually alert and ready to repel new assaults, holding your ground under heavy pressure through sheer tenacity. But long vigilance inevitably brings fatigue. While staying alert, examine whether your defenses have become excessive, try to find a balance between standing firm and relaxing, and leave yourself a little space to recover your energy.",
+    "description": "His brow bound in bandages, the green-clad man grips a wand tightly and leans behind a fence of eight wands planted upright, embodying defense and boundaries. The man of the Nine of Wands is a survivor who has just come through brutal fighting, wearily watching the front with unwavering vigilance. The bandage speaks of past wounds and depletion; though utterly exhausted he still holds his last line of defense, refusing to fall. Tenacious will drives him to clench his teeth and hold on at the final threshold, so close to success — not giving up a single inch. Endurance is protecting the faintest flicker of hope."
+  },
+  {
+    "cardKey": "ten_of_wands",
+    "englishName": "Ten of Wands",
+    "name": "Ten of Wands",
+    "element": "Fire",
+    "planet": "Saturn",
+    "zodiac": "Sagittarius",
+    "keywords": [
+      "Burden",
+      "Responsibility",
+      "Pressure",
+      "Overload"
+    ],
+    "uprightKeywords": [
+      "Burden",
+      "Responsibility",
+      "Strain"
+    ],
+    "reversedKeywords": [
+      "Release",
+      "Delegate",
+      "Collapse"
+    ],
+    "meaning": "The Ten of Wands is about bearing an oppressive load and taking on burdens blindly. Carrying weight far beyond one's limit—born of stubbornness, excessive demands, or taking on everything yourself—you press on with your head down, yet the obstruction of your view causes you to ignore the need for strategic adjustment and rest. Many burdens can actually be set down. When you feel about to be crushed, stop white-knuckling it. Take stock of the responsibilities at hand, delegate what can be delegated, learn to refuse unreasonable requests, and replace solitary struggling with collaboration.",
+    "description": "A man in red robes bends beneath the weight of ten heavy wands he is struggling to carry forward. The bearer of the Ten of Wands is a laborer crushed by his own ambition: he staggers, nearly unable to breathe beneath his burden. The ten wands block his line of sight, leaving him no room to lift his eyes toward the house not far away — a symbol of a goal within reach that excessive toil has blinded him to. He cannot bear to set down a single one, and so he struggles alone under the crushing weight. The bitter fruit of over-commitment warns of the heavy price paid by desire and responsibility in overload; stubborn carrying causes one to miss the scenery along the way."
+  },
+  {
+    "cardKey": "page_of_wands",
+    "englishName": "Page of Wands",
+    "name": "Page of Wands",
+    "element": "Fire",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Message",
+      "Curiosity",
+      "Passion",
+      "Start"
+    ],
+    "uprightKeywords": [
+      "Exploration",
+      "Passion",
+      "Discovery"
+    ],
+    "reversedKeywords": [
+      "Boredom",
+      "Apathy",
+      "Drag"
+    ],
+    "meaning": "The Page of Wands focuses on capturing inspiration and the trial by fire of enthusiasm. Receiving a new opportunity or creative spark, an eager desire to explore the unknown is ignited—full of curiosity for fresh things, urging the transformation of inspiration into small actions. When first encountering something new, stay curious and dare to try, but don't let it remain only a fleeting enthusiasm. Channel that passion into concrete learning and practice, and steadily build your skills.",
+    "description": "A young man wearing a wide-brimmed hat holds in both hands a wand from which new leaves are sprouting, standing on tiptoe and gazing upward with eager curiosity. The new leaves embody the first stirring of inspiration. The Page of Wands is a messenger bearing a new assignment; the desert around him seems to breathe the vitality of an oasis, and his eyes shimmer with curiosity and longing for the unknown. The lizard at his feet hints at transformation and adaptability; the passing of the fire-spark has ignited his whole heart. He is ready to launch an unknown exploration with innocence and vitality; sincere enthusiasm and a hunger for knowledge await their transformation into action."
+  },
+  {
+    "cardKey": "knight_of_wands",
+    "englishName": "Knight of Wands",
+    "name": "Knight of Wands",
+    "element": "Fire",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Action",
+      "Impulse",
+      "Adventure",
+      "Drive"
+    ],
+    "uprightKeywords": [
+      "Drive",
+      "Adventure",
+      "Energy"
+    ],
+    "reversedKeywords": [
+      "Overshoot",
+      "Setback",
+      "Deflated"
+    ],
+    "meaning": "The Knight of Wands embodies the wild surge of passion and a fearless charge. Driven by a powerful vision, swift action seeks speed and breakthroughs—this energy is brave and deeply infectious, fearing no obstacle and daring to take risks. When brimming with drive, don't forget to balance practical considerations and strategy. Don't fall into a dead end through courage without foresight; let passion serve as the spear of advancement, while coupling it with the shield of reason.",
+    "description": "The warhorse rears high on its forelegs; the cloak billows like a tongue of flame, embodying blazing force of action. The Knight of Wands is a fanatical warrior charging into battle: clad in salamander armor, he gallops at full speed across a vast plain. The salamander on his armor speaks of the resilience to survive in fire; he raises his wand high and storms the battlefield with a momentum that levels all before it, pressing recklessly forward in pursuit of glory through adventure. Blind impulsiveness makes him hard to rein in, and he can all too easily cause destruction in the charge. A rash advance, though displaying courage, conceals hidden crisis."
+  },
+  {
+    "cardKey": "queen_of_wands",
+    "englishName": "Queen of Wands",
+    "name": "Queen of Wands",
+    "element": "Fire",
+    "planet": null,
+    "zodiac": "Aries",
+    "keywords": [
+      "Confidence",
+      "Charm",
+      "Independence",
+      "Charisma"
+    ],
+    "uprightKeywords": [
+      "Confidence",
+      "Charisma",
+      "Vitality"
+    ],
+    "reversedKeywords": [
+      "Envy",
+      "Exclusion",
+      "Self-doubt"
+    ],
+    "meaning": "The Queen of Wands signifies the full bloom of charisma and the stirring of warmth. Transforming inner passion into magnetism and approachability, she graces those around her with a confident, radiant presence—this cheerful and generous vitality excels at inspiring others and creating a positive atmosphere. While radiating charm and helping others, take care of your own state as well. Don't exhaust your energy through giving too much; maintain independence in your sense of self-worth so that your light can shine for a long time.",
+    "description": "Seated on a throne of black panthers beneath the full warmth of the sun, the Queen of Wands is a woman of magnetic charisma — a visionary entrepreneur. The panther embodies a tamed instinct and the intuition of the unconscious. She wears her crown and holds a sunflower and a budding wand, gazing forward with self-possession, her enthusiasm contagious to all around her. The sunflower represents the creative power that turns toward the light; a black cat keeps her company. She nourishes the dream in her heart with an inner magnetism, elegantly transforming her own passion into real-world achievement — shining without depending on anyone else. The abundance and fluidity of water-within-fire merge perfectly in her."
+  },
+  {
+    "cardKey": "king_of_wands",
+    "englishName": "King of Wands",
+    "name": "King of Wands",
+    "element": "Fire",
+    "planet": null,
+    "zodiac": "Leo",
+    "keywords": [
+      "Leadership",
+      "Vision",
+      "Decisiveness",
+      "Authority"
+    ],
+    "uprightKeywords": [
+      "Leadership",
+      "Vision",
+      "Authority"
+    ],
+    "reversedKeywords": [
+      "Tyrant",
+      "Short-sighted",
+      "Heavy-handed"
+    ],
+    "meaning": "The King of Wands is about masterful command and visionary conquest. Wielding the fire element with mature authority, he fuses grand vision with pragmatic execution—this commanding and righteous magnetism leads the multitude through belief and glory. When power is in hand, arrogance can easily arise; conduct yourself with openness and fairness. Don't suppress different opinions out of self-conceit. Lead the team with honor and generosity, and be the one who illuminates everyone else's path.",
+    "description": "The King of Wands is a far-sighted sovereign: he grips a budding wand and sits on a majestic throne, his gaze fixed with steadiness upon the horizon. A fire salamander rests upon his shoulder, symbolizing transformation and rebirth; the lion throne at his feet declares absolute mastery. The salamander bites its own tail, forming a cycle that embodies the ceaseless vitality of power. He presides over all with enormous strength of will and decisive action, uniting grand vision with pragmatic strategy. With irresistible resolve he opens up the domain that belongs to him alone — the authority of the fire element and the bold power of the pioneer are here crowned."
+  },
+  {
+    "cardKey": "ace_of_cups",
+    "englishName": "Ace of Cups",
+    "name": "Ace of Cups",
+    "element": "Water",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Emotion",
+      "Intuition",
+      "Connection",
+      "Love"
+    ],
+    "uprightKeywords": [
+      "Emotion",
+      "New relationship",
+      "Intuition"
+    ],
+    "reversedKeywords": [
+      "Suppression",
+      "Emotional block",
+      "Avoidance"
+    ],
+    "meaning": "The Ace of Cups embodies the overflowing of emotion and the beginning of a spiritual opening. Deep joy stirs within; new bonds or inspiration arrive, representing the starting point of love, joy, and emotional fullness—a moment of opening the heart to receive nourishment. When facing new feelings or creativity, don't put up walls or overthink. Go with the flow of emotion, let love and inspiration flow naturally, and enjoy the deep sense of fulfillment and happiness.",
+    "description": "A white dove descends bearing a communion wafer — the blessing of the spirit and the descent of the Holy Ghost — while lotus blossoms float upon the water, bearing inspiration surfacing from the unconscious. The Ace of Cups is the grace bestowed by the divine: from within the clouds a hand emerges, palm upraised, cradling a chalice overflowing with clear water. The spring within the cup spills over in abundance, signaling the birth of pure feeling and the fullness of love. The sweet rain of life is being poured into the thirsty world, proclaiming the blossoming of a new emotion and the opening of a spiritual wellspring. Deep within the soul, a readiness to receive this overflowing joy and the arrival of love is stirring — the abundance of the heart is about to speak."
+  },
+  {
+    "cardKey": "two_of_cups",
+    "englishName": "Two of Cups",
+    "name": "Two of Cups",
+    "element": "Water",
+    "planet": "Venus",
+    "zodiac": "Cancer",
+    "keywords": [
+      "Union",
+      "Harmony",
+      "Cooperation",
+      "Attraction"
+    ],
+    "uprightKeywords": [
+      "Union",
+      "Attraction",
+      "Partnership"
+    ],
+    "reversedKeywords": [
+      "Imbalance",
+      "Distance",
+      "Severance"
+    ],
+    "meaning": "The Two of Cups signifies the resonance of souls and a covenant of equals. A sincere, mutually beneficial, and deeply connected interaction is built between two people or two energies—whether in emotion or collaboration, it points toward harmony and balance, experiencing the joy of union in giving and receiving. For a lasting relationship, never sacrifice one-sidedly or seek to control. While opening your heart for deep exchange, hold the line of mutuality and sincerity, and nurture this understanding together so the spring of resonance keeps flowing.",
+    "description": "Each holding a chalice extended toward the other, the figures stand on either side of a caduceus — twin serpents coiled around a staff — which embodies healing and union. The lovers of the Two of Cups are partners who have sealed a covenant; in a tranquil courtyard Adam and Eve stand face to face, gazing into each other's eyes. Between them the lion's head and the caduceus represent the mutual attraction and benefit at the heart of this emotional or professional bond; equal love and equal promise are being exchanged. Beneath a sacred and watchful gaze, two hearts are crossing the distance between them and fusing together. The resonance of souls has brought about a perfect union of kindred spirits, and a harmony of gentle attachment and mutual attraction is quietly blossoming."
+  },
+  {
+    "cardKey": "three_of_cups",
+    "englishName": "Three of Cups",
+    "name": "Three of Cups",
+    "element": "Water",
+    "planet": "Mercury",
+    "zodiac": "Cancer",
+    "keywords": [
+      "Celebration",
+      "Friendship",
+      "Community",
+      "Sharing"
+    ],
+    "uprightKeywords": [
+      "Celebration",
+      "Gathering",
+      "Friendship"
+    ],
+    "reversedKeywords": [
+      "Falling out",
+      "Boundary breach",
+      "Isolation"
+    ],
+    "meaning": "The Three of Cups is about sharing joy and reaping the harvest of friendship. In a light and cheerful atmosphere, you share happiness, achievements, and deep bonds with others—this is a golden period filled with social delight, collective celebration, and emotional support. When joining in the group festivities, keep a measure of clear-headedness and boundaries. Make sure the happiness comes from genuine resonance rather than hollow noise, and don't lose your true self in socializing.",
+    "description": "Celebrating the gifts of the earth and the sweetness of friendship, the women of the Three of Cups are handmaidens of joy gathered to share in the harvest. In a bountiful orchard, three figures wearing flower garlands have formed a circle, raising their cups in celebration. The garlands speak of victory and festivity; at their feet lie ripe fruits and gourds, symbols of what they have nurtured together. They are deeply woven into each other's lives, giving form to emotional communion and social harmony. This warm gathering embodies the fulfillment of collaboration; the resonance of feeling reaches a moment of pure joy and satisfaction, and the jubilant song of friendship weaves itself into poetry."
+  },
+  {
+    "cardKey": "four_of_cups",
+    "englishName": "Four of Cups",
+    "name": "Four of Cups",
+    "element": "Water",
+    "planet": "Moon",
+    "zodiac": "Cancer",
+    "keywords": [
+      "Apathy",
+      "Withdrawal",
+      "Indifference",
+      "Neglect"
+    ],
+    "uprightKeywords": [
+      "Apathy",
+      "Discontent",
+      "Missed opportunity"
+    ],
+    "reversedKeywords": [
+      "Stepping out",
+      "Trying",
+      "Awakening"
+    ],
+    "meaning": "The Four of Cups focuses on the stagnation of weariness and the gifts being missed. Finding external stimulation uninspiring, sinking into boredom and emotional numbness, you are so focused on lack and disappointment that you fail to notice a new opportunity right in front of you. When you're dissatisfied with the status quo but can't summon the motivation, stop retreating into yourself. Actively break through the mental deadlock, take a fresh look around—those overlooked glimmers of light may be exactly what's needed to break the dullness and be emotionally nourished once more.",
+    "description": "Three chalices stand before him; from out of a cloud a hand reaches forward and offers a fourth — the arrival of a new opportunity — yet he is blind to it. The man of the Four of Cups is an ascetic wearied by the world: his eyes are closed and his arms are folded across his chest as he sits cross-legged beneath a great tree. His rejecting posture speaks of a heart closed inward and a spirit sunk in ennui. Though he sits in the midst of abundance, his soul feels vacant and numb. He refuses the new possibility that the universe is extending toward him, locking himself inside a bored resistance. His indifference is causing him to miss an emotional turning-point."
+  },
+  {
+    "cardKey": "five_of_cups",
+    "englishName": "Five of Cups",
+    "name": "Five of Cups",
+    "element": "Water",
+    "planet": "Mars",
+    "zodiac": "Scorpio",
+    "keywords": [
+      "Grief",
+      "Loss",
+      "Regret",
+      "Mourning"
+    ],
+    "uprightKeywords": [
+      "Loss",
+      "Regret",
+      "Sorrow"
+    ],
+    "reversedKeywords": [
+      "Acceptance",
+      "Walking out",
+      "Recovering"
+    ],
+    "meaning": "The Five of Cups embodies immersion in loss and the lingering echo of regret. Grieving what has passed, your gaze remains on the overturned past while sinking into sorrow—experiencing the low tide of disappointment and heartache. Allowing yourself to mourn is perfectly right. But there is no use staring at the spilled milk. After the grief, wipe away the tears and turn around. Accept what is broken and treasure what remains. Don't let the swamp of regret hold your feet; pick up the vitality around you that can still be grasped.",
+    "description": "Behind her, a turbulent river eats away at the bank — the outpouring and movement of emotion — and just at her back, two full chalices stand quietly, though she has never turned to look. The woman of the Five of Cups is like Eve expelled from Eden, her dark cloak pulled around her against the chill wind, head bowed over three overturned cups as she mourns. The fallen cups represent love that has passed and expectations betrayed; past pain has blinded her eyes to the residual beauty that remains close at hand. Her tragedy of sinking into grief prevents her from lifting herself out of the shadow of loss, and the gloom of regret obscures all hope."
+  },
+  {
+    "cardKey": "six_of_cups",
+    "englishName": "Six of Cups",
+    "name": "Six of Cups",
+    "element": "Water",
+    "planet": "Sun",
+    "zodiac": "Scorpio",
+    "keywords": [
+      "Nostalgia",
+      "Past",
+      "Innocence",
+      "Memories"
+    ],
+    "uprightKeywords": [
+      "Nostalgia",
+      "Innocence",
+      "Memory"
+    ],
+    "reversedKeywords": [
+      "Farewell",
+      "Moving on",
+      "Reality"
+    ],
+    "meaning": "The Six of Cups signifies the warmth of old dreams and a return to childlike innocence. Immersed in nostalgia and the beautiful past, revisiting pure emotions and shelter, absorbing warmth and strength from memories, and recovering the purity of first feelings—nostalgia is beautiful, but don't become so lost in it you can't find your way back. Don't use an idealized past as an escape from reality. Let the warmth of the past be the confidence that propels you forward, not a cage that confines you. Bring that purity back to the present and keep growing.",
+    "description": "In the background an old manor stands watch; an old man with a staff guards the scene, embodying the protection of an elder and the keeping of the past. The children of the Six of Cups are the very embodiment of innocence revisiting an old dream. In a peaceful garden, a small boy holds out to a small girl a chalice brimming with flowers. The flower-filled cup holds memories of childhood; steeped in the warmth of times gone by, they share a pure and uncomplicated kindness. Feeling moves backward through time, and that old sweetness — those good things once known — becomes a gentle solace, softly consoling the heart in the present. The tenderness of nostalgia warms the soul."
+  },
+  {
+    "cardKey": "seven_of_cups",
+    "englishName": "Seven of Cups",
+    "name": "Seven of Cups",
+    "element": "Water",
+    "planet": "Venus",
+    "zodiac": "Scorpio",
+    "keywords": [
+      "Choice",
+      "Illusion",
+      "Confusion",
+      "Temptation"
+    ],
+    "uprightKeywords": [
+      "Fantasy",
+      "Choice",
+      "Confusion"
+    ],
+    "reversedKeywords": [
+      "Focus",
+      "Sobering up",
+      "Action"
+    ],
+    "meaning": "The Seven of Cups is about the labyrinth of illusions and the floating shadows of desire. Countless enticing visions arise within, yet for lack of resolve and depth they go no further than daydreams, leaving you lost among various desires with truth and illusion hard to tell apart. Thinking alone, without action, amounts to nothing. Break through the fog, rein in the scattered mind, distinguish what is genuine longing from what is escapism, make grounded choices, place your imagination on achievable goals, and act rather than dream.",
+    "description": "The cups hold castles, jewels, and garlands — a mirage of desire — and he stares at these visions, bewildered, not knowing which to choose. The man of the Seven of Cups is Faust lost in a sea of desire, reaching toward seven chalices materializing out of mist and cloud, his face full of confusion. The mist represents the illusions of the unconscious and the reveries of daydreams; lost amid greed and fantasy, he has lost his way. The phantom temptations prevent him from seeing reality clearly or discerning the true path. The trap of desire and the maze of illusion have already snared him."
+  },
+  {
+    "cardKey": "eight_of_cups",
+    "englishName": "Eight of Cups",
+    "name": "Eight of Cups",
+    "element": "Water",
+    "planet": "Saturn",
+    "zodiac": "Pisces",
+    "keywords": [
+      "Leaving",
+      "Searching",
+      "Abandoning",
+      "Pursuit"
+    ],
+    "uprightKeywords": [
+      "Leaving",
+      "Letting go",
+      "Searching"
+    ],
+    "reversedKeywords": [
+      "Lingering",
+      "Returning",
+      "Reluctance"
+    ],
+    "meaning": "The Eight of Cups focuses on the resolute quest and the brave act of leaving behind. Feeling deeply that the current situation can no longer fill the spiritual void, you resolutely leave comfort to seek a higher purpose—relinquishing what you have in answer to an inner calling. Though solitude accompanies the journey, it is a necessary part of advancement. When you feel the current environment can no longer nourish you, don't settle. Heed the inner guidance and say goodbye decisively, go seek a place that truly fits, walk forward with clear-eyed resolve—leaving is in order to arrive somewhere better.",
+    "description": "Unable to fill the inner void with present possessions and emotions, he resolves with absolute determination to leave comfort behind. The seeker of the Eight of Cups is like an ascetic setting out on pilgrimage; in the pale light of the moon, robed in red and leaning on a staff, he turns away from eight neatly arranged cups and trudges with heavy steps toward the rugged mountains in the distance — toward a higher spiritual pursuit. He deliberately leaves the full cups behind, a decisive abandonment of surface satisfaction. Facing solitude, he moves toward the call of a higher dimension. This departure of the soul has already been decided; a deeper search has overcome stagnation."
+  },
+  {
+    "cardKey": "nine_of_cups",
+    "englishName": "Nine of Cups",
+    "name": "Nine of Cups",
+    "element": "Water",
+    "planet": "Jupiter",
+    "zodiac": "Pisces",
+    "keywords": [
+      "Satisfaction",
+      "Enjoyment",
+      "Abundance",
+      "Wishes"
+    ],
+    "uprightKeywords": [
+      "Satisfaction",
+      "Wishes",
+      "Enjoyment"
+    ],
+    "reversedKeywords": [
+      "Discontent",
+      "Excess",
+      "Emptiness"
+    ],
+    "meaning": "The Nine of Cups embodies the bliss of contentment and worldly abundance. A deep wish of the heart has been fulfilled, experiencing ultimate pleasure and the joy of satisfaction—a golden period where wishes come true and the sweetness of life is fully savored. This is true contentment. When a wish comes true, immerse yourself fully in this joy and affirm your own worth and effort; but don't fall into self-indulgence or excessive gratification. Keep a sense of gratitude and openness so that this abundance continues to flow gently and steadily.",
+    "description": "Behind him nine chalices are arranged in an elegant arc — a perfect display of wishes granted and the ultimate fulfillment of feeling. The king of the Nine of Cups is Solomon exhibiting his treasures: dressed in blue and red robes, he sits with arms folded on a lavish dais, wearing a satisfied smile. He savors alone the supreme banquet of the material and the sensory; the moment of a dream made real fills him with utter contentment. Every emotion and desire has been gratified; he surrenders entirely to this self-sufficient abundance. The peak of satisfaction and the joy of the senses have arrived as promised."
+  },
+  {
+    "cardKey": "ten_of_cups",
+    "englishName": "Ten of Cups",
+    "name": "Ten of Cups",
+    "element": "Water",
+    "planet": "Mars",
+    "zodiac": "Pisces",
+    "keywords": [
+      "Fulfillment",
+      "Family",
+      "Harmony",
+      "Happiness"
+    ],
+    "uprightKeywords": [
+      "Happiness",
+      "Harmony",
+      "Wholeness"
+    ],
+    "reversedKeywords": [
+      "Surface harmony",
+      "Value conflict",
+      "Discord"
+    ],
+    "meaning": "The Ten of Cups signifies emotional fulfillment and the settling of home. After many twists and turns, you finally arrive at an emotional utopia—binding enduring happiness within love and acceptance, with relationships or family reaching deep harmony. This is the perfect conclusion to the emotional journey. Fulfillment is not a one-time achievement. Cherish and share this profound love and peace, build a shared vision with your loved ones, sustain relationships with enduring understanding and tolerance, and in long companionship continually renew the meaning of love.",
+    "description": "A couple opens their arms to embrace each other; two children dance with delight on the grass; a warm home is just visible in the distance. The family of the Ten of Cups is like the Holy Family blessed by the divine: beneath a brilliant rainbow, ten chalices are arrayed in the sky in a gleaming arc, symbolizing the highest harmony of the emotions and the blessing of the universe. They are bathed in the happiness of domestic concord, savoring the warmth of blood and belonging. This is the ultimate elevation of love — transcending the personal fulfillment of the Nine — as the joy of collective harmony nourishes every heart."
+  },
+  {
+    "cardKey": "page_of_cups",
+    "englishName": "Page of Cups",
+    "name": "Page of Cups",
+    "element": "Water",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Message",
+      "Intuition",
+      "Sensitivity",
+      "Romance"
+    ],
+    "uprightKeywords": [
+      "Messages",
+      "Sensitivity",
+      "Inner child"
+    ],
+    "reversedKeywords": [
+      "Moodiness",
+      "Immaturity",
+      "Withdrawal"
+    ],
+    "meaning": "The Page of Cups is about sensitive reception and the stirring of tender feelings. Receiving subtle emotional messages or inspiration, full of curiosity and empathy for the inner world, this pure and delicate energy is learning to understand and express emotions. A heart too soft is easily hurt. While listening to intuition and the inner voice, protect your inner peace. Transform this sensitivity into a gift for artistic creation or healing, and don't let it become a blade that exhausts you from within.",
+    "description": "He gazes at the wondrous gift with a face full of wonder: from within the cup a small fish peeks out, embodying the messages of the unconscious and the surfacing of inspiration. The Page of Cups is the little Cupid who carries love's tidings; wearing a soft cap, he stands by the water's edge in a wetland, cupping the chalice in both hands. He is receiving in delight the tender message arising from within his own heart, cradling this newborn inspiration with great care, preparing to carry this pure love and creative impulse out into the world. The first tide of feeling and the stirring of intuition are ready to break free."
+  },
+  {
+    "cardKey": "knight_of_cups",
+    "englishName": "Knight of Cups",
+    "name": "Knight of Cups",
+    "element": "Water",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Charm",
+      "Invitation",
+      "Pursuit",
+      "Ideal"
+    ],
+    "uprightKeywords": [
+      "Romance",
+      "Invitation",
+      "Action"
+    ],
+    "reversedKeywords": [
+      "Flightiness",
+      "Avoidance",
+      "Unrealism"
+    ],
+    "meaning": "The Knight of Cups focuses on the romantic quest and the call of ideals. Setting out with a beautiful vision and deep feeling, pursuing the heart's ideal with elegant grace—this romantic, considerate, and imaginative energy believes in poetry and conviction. Too much romance, however, can become impractical. When pursuing ideal relationships, be wary of becoming lost in fantasy or sentimental excess. Seek balance between romantic longing and pragmatic consideration, don't let yourself be burned by an illusory reflection, and see the other person as they truly are.",
+    "description": "Brimming with idealism, he pursues the romantic dream in his heart through the shimmering shallows. The Knight of Cups is Galahad in quest of the Grail, riding a white horse in a gentle wade through a still and shallow stream. Chalice in hand, his bearing is graceful and romantic; his cloak is painted with fish, the emblem of the stirring unconscious and the guidance of emotion. He is tender and passionate, longing to transform the love within into action — though he is also prone to drifting in sentimental ripples and wandering beyond the borders of reality. A romantic proposal and a sensory pursuit unfurl slowly with the current."
+  },
+  {
+    "cardKey": "queen_of_cups",
+    "englishName": "Queen of Cups",
+    "name": "Queen of Cups",
+    "element": "Water",
+    "planet": null,
+    "zodiac": "Cancer",
+    "keywords": [
+      "Empathy",
+      "Gentleness",
+      "Healing",
+      "Intuition"
+    ],
+    "uprightKeywords": [
+      "Intuition",
+      "Nurture",
+      "Empathy"
+    ],
+    "reversedKeywords": [
+      "Mood swings",
+      "Dependence",
+      "Withdrawn"
+    ],
+    "meaning": "The Queen of Cups embodies deep empathy and boundless nourishment. With emotions highly refined, she can sensitively perceive and heal both her own inner world and that of others—this gentle and accepting power heals wounds with love and intuits the subtle and hidden. Being a confidant for others still requires having a bottom line. When using empathy to forge deep connections and create safe environments, stand firm in your own boundaries. Don't let yourself run dry by absorbing too much of the outside world's emotions; keep your inner clarity.",
+    "description": "Enthroned on a lotus seat beside a tranquil lake, the Queen of Cups is the sea goddess who guards the deep. She wears her crown and holds a delicate chalice with both hands, gazing into its depths; her gown trails into the water, speaking of the deep interweaving of emotion and the unconscious. The angel icon on the cup represents sacred listening. With astonishing perceptiveness she reads every joy and sorrow in the world, yet she speaks no word — she nourishes all things with boundless compassion and love. She quietly guards the wisdom of the heart and soothes wounded souls, her profound empathy and intuitive mercy rippling outward like water."
+  },
+  {
+    "cardKey": "king_of_cups",
+    "englishName": "King of Cups",
+    "name": "King of Cups",
+    "element": "Water",
+    "planet": null,
+    "zodiac": "Scorpio",
+    "keywords": [
+      "Tolerance",
+      "Steadiness",
+      "Diplomacy",
+      "Control"
+    ],
+    "uprightKeywords": [
+      "Composure",
+      "Acceptance",
+      "Balance"
+    ],
+    "reversedKeywords": [
+      "Loss of control",
+      "Insincerity",
+      "Manipulation"
+    ],
+    "meaning": "The King of Cups signifies the mastery of emotions and compassionate reason. Fusing deep feeling with rational command, governing the great power of emotion through still and deep waters—this mature and magnanimous influence calms turbulence through emotional intelligence. Restraint can easily become repression. Calmly manage emotional upheaval, channel emotions through reason, and be a wise sovereign of the mind; but don't let emotional control become manipulation. Maintain justice and compassion and let emotional energy flow in a healthy way.",
+    "description": "In the background a whale leaps from the sea and a sailing ship cuts through the waves, symbolizing the swells of the unconscious and the sailing of emotion. The King of Cups is Neptune, sovereign of the ocean: draped in blue robes, he sits on a throne of sea-horses amid surging waves, the sea-horses embodying the intuitive mastery of the unconscious. One hand holds a scepter, the other cradles a chalice; his gaze is deep and he navigates with practiced ease between reason and feeling. He transforms the stirrings of love into capacious strength and steers this torrent with wisdom, protecting the order within and keeping love's vessel on course. The maturity of emotion and the generous strategy of the heart steady the ship of love."
+  },
+  {
+    "cardKey": "ace_of_swords",
+    "englishName": "Ace of Swords",
+    "name": "Ace of Swords",
+    "element": "Air",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Clarity",
+      "Truth",
+      "Communication",
+      "Breakthrough"
+    ],
+    "uprightKeywords": [
+      "Breakthrough",
+      "Truth",
+      "Power"
+    ],
+    "reversedKeywords": [
+      "Confusion",
+      "Powerlessness",
+      "Bias"
+    ],
+    "meaning": "The Ace of Swords embodies the dawn of reason and the sharp blade of truth. A sudden mental clarity sees insight cutting through fog and illusion, representing a new beginning grounded in logic and truth—mind sharp, conviction like iron. Once you have seen through to the heart of the matter, decisively apply wisdom and resolve to draw clear lines and point directly at the core issue; but don't let the pursuit of truth make you harsh. Let truth be a tool for solving problems, not a weapon for wounding people.",
+    "description": "The blade of truth, granted by the divine, surges suddenly forth: a hand grips a double-edged sword pointing straight at the sky, its two edges embodying the dual nature of justice and harm — capable of giving life or of taking it. The tip of the Ace of Swords lifts a laurel wreath and a palm frond; the wreath represents spiritual victory and the palm speaks of a hope revived. One fierce sweep cleaves the confused heavens and severs every falsehood and illusion. The power of divine decision is descending into the mortal world, proclaiming the triumph of reason. A mind awake and clear is enough to cleave through every obstacle; a new line of thinking and a breakthrough truth have already been unsheathed."
+  },
+  {
+    "cardKey": "two_of_swords",
+    "englishName": "Two of Swords",
+    "name": "Two of Swords",
+    "element": "Air",
+    "planet": "Moon",
+    "zodiac": "Libra",
+    "keywords": [
+      "Stalemate",
+      "Weighing",
+      "Balance",
+      "Blind spot"
+    ],
+    "uprightKeywords": [
+      "Stalemate",
+      "Avoidance",
+      "Balance"
+    ],
+    "reversedKeywords": [
+      "Decision",
+      "Breakthrough",
+      "Release"
+    ],
+    "meaning": "The Two of Swords signifies a difficult standoff and a blinding stalemate. The mind is caught in an evenly matched tug-of-war, choosing self-blindfolding to maintain balance, with excessive deliberation and fear of loss causing stagnation and closed-off withdrawal. Avoiding choices cannot solve the problem. The truth beneath the blindfold still exists—better to remove your psychological defenses, face your fears and true feelings, and break the deadlock. Even if making the decision is painful, it will earn greater inner freedom than going in circles.",
+    "description": "The woman of the Two of Swords is like blind justice caught in a dilemma: she sits on a stone bench by a darkened sea. Her eyes are blindfolded — a refusal to see reality clearly and a retreat inward — while her arms are crossed over her chest, each hand gripping a sword, representing conflicting ideas and a rationality locked in deadlock. Behind her a crescent moon and barren rocks rise above water that churns in secret turmoil, hinting at emotional undercurrents. She seeks a temporary peace through self-deception; in the conflict of reason she cannot make a choice. Two swords cross; the walls go up; inner contradiction has brought the situation to a dead standstill, and the rigid resistance cries out to have its balance broken."
+  },
+  {
+    "cardKey": "three_of_swords",
+    "englishName": "Three of Swords",
+    "name": "Three of Swords",
+    "element": "Air",
+    "planet": "Saturn",
+    "zodiac": "Libra",
+    "keywords": [
+      "Pain",
+      "Grief",
+      "Separation",
+      "Trauma"
+    ],
+    "uprightKeywords": [
+      "Heartbreak",
+      "Sorrow",
+      "Separation"
+    ],
+    "reversedKeywords": [
+      "Release",
+      "Healing",
+      "Avoidance"
+    ],
+    "meaning": "The Three of Swords is about emotional hurt and the growing pain of seeing reality clearly. The ache that comes when reason and emotion collide, the emergence of truth breaking through original comfort and illusion—the grief of loss or unmet expectations is very real. When you feel pain inside, don't grit your teeth and pretend everything is fine. Instead, face the sorrow openly, give grief an outlet, use the sting to see reality clearly, treat this experience as an opportunity for growth, and let yourself become more resilient.",
+    "description": "Three sharp swords descend from the sky and pierce with merciless coldness: the three blades running through it embody the extreme harm that intellect inflicts on feeling, while the scarlet heart represents vivid sensitivity wounded by the dissection of thought. The background of the Three of Swords is a grey and oppressive sky, utterly lifeless; torrential rain embodies the outpouring of emotion and the baptism of grief. It is bearing the most extreme anguish of heartbreak. Yet the rain will cease in time and the heart goes on beating; this tearing, rending pain is the necessary ordeal through which the soul passes on its way to clarity. The depths of sorrow and the severance of heartbreak pierce to the very bone."
+  },
+  {
+    "cardKey": "four_of_swords",
+    "englishName": "Four of Swords",
+    "name": "Four of Swords",
+    "element": "Air",
+    "planet": "Jupiter",
+    "zodiac": "Libra",
+    "keywords": [
+      "Rest",
+      "Recovery",
+      "Contemplation",
+      "Stagnation"
+    ],
+    "uprightKeywords": [
+      "Rest",
+      "Meditation",
+      "Recovery"
+    ],
+    "reversedKeywords": [
+      "Rising again",
+      "Action",
+      "Restlessness"
+    ],
+    "meaning": "The Four of Swords focuses on the rest of a ceasefire and silent reorganization. After fierce mental or external conflict, body and mind enter a state of recuperation and healing, needing to temporarily retreat from the noise and restore vitality through solitude and meditation. When you feel exhausted in body and mind, give yourself a complete break, let the overloaded brain cool down, and seek inner guidance in the silence. But rest is not avoidance—once you have replenished your spirit, you must set out again with a clearer head.",
+    "description": "Three swords hang on the wall; one rests slanted against his side; the faint light of peace filters in. The four suspended swords embody the slowing and resting of the mind. The man of the Four of Swords is an ascetic monk in retreat: in the dim underground crypt of a cathedral he lies on a stone sarcophagus, hands pressed together in prayer. The sarcophagus embodies a temporary withdrawal and the silencing of the body. Away from the noise of the world, he allows body and mind to recover in sacred space. This is not surrender but a period of lying low after serious wounding, gathering strength for the next engagement. Quiet recuperation and healing turned inward proceed in silence."
+  },
+  {
+    "cardKey": "five_of_swords",
+    "englishName": "Five of Swords",
+    "name": "Five of Swords",
+    "element": "Air",
+    "planet": "Venus",
+    "zodiac": "Aquarius",
+    "keywords": [
+      "Conflict",
+      "Cost",
+      "Failure",
+      "Selfishness"
+    ],
+    "uprightKeywords": [
+      "Conflict",
+      "Defeat",
+      "Futility"
+    ],
+    "reversedKeywords": [
+      "Reconciliation",
+      "Reflection",
+      "Release"
+    ],
+    "meaning": "The Five of Swords embodies a hollow victory and pointless inner conflict. Winning a surface advantage in conflict at the cost of relationships or moral integrity, you ultimately fall into isolation and emptiness—stubbornness or vanity leading to broken relationships and regret. Winning the argument but losing the hearts of others is still losing. Stop clinging to pointless conflict and hostility; withdraw from the ruins of the battle and reflect that true victory is never about knocking others down. Better to let go of biases and recover inner peace.",
+    "description": "He glances back at two figures walking away in dejection; on the ground lie two abandoned swords. The water's surface heaves with hidden turbulence, hinting at the chaos and spiritual loss that follow conflict. The victor of the Five of Swords is an ambitious schemer who has won a hollow victory: on a bleak beach he holds three swords, and a cold wind cuts through. Though he has won the confrontation, he stands isolated on a frozen battlefield, having lost the trust and fellowship of others. The swords in his hand cannot fill the spiritual vacuum; this empty victory is entirely without meaning. He is savoring alone the bitterness and isolation that malicious competition has brought him — a pointless struggle leaves nothing but a desolate, pyrrhic triumph."
+  },
+  {
+    "cardKey": "six_of_swords",
+    "englishName": "Six of Swords",
+    "name": "Six of Swords",
+    "element": "Air",
+    "planet": "Mercury",
+    "zodiac": "Aquarius",
+    "keywords": [
+      "Transition",
+      "Healing",
+      "Stability",
+      "Journey"
+    ],
+    "uprightKeywords": [
+      "Transition",
+      "Leaving",
+      "Healing"
+    ],
+    "reversedKeywords": [
+      "Stuck",
+      "Returning",
+      "Stagnation"
+    ],
+    "meaning": "The Six of Swords signifies rational passage and the transition through wounds. Bidding farewell to turbulence and pain, sailing toward calm under reason's protection—a transition from turmoil toward stability. Though the departure is reluctant, it is wise. Leaving a mess behind doesn't mean all the problems are solved. Flow with the shift, accept the change in circumstances, let time and space gradually soothe the wounds; but as you move forward steadily, continue to work through unresolved knots until you have truly let go and made peace with the past.",
+    "description": "Charon, ferryman of souls, slowly poles his small boat forward. The skiff of the Six of Swords makes its way across a calm lake surface; six swords are planted in the boat, symbolizing the unbearable past and the burden of thought being carried away — unable to be fully removed, they travel along. The boat bears a blindfolded woman and a young child, leading the wounded out from the side of churning water toward the mirror-calm shore on the other side. The water shifts from turbulent to still, signifying the settling of the spirit; the traumatized soul moves forward carrying its worries, though the crossing is smooth but still guarded. Going with the current, they are slowly sailing away from the mire of pain. A stable transition and rational healing drift quietly with the waves."
+  },
+  {
+    "cardKey": "seven_of_swords",
+    "englishName": "Seven of Swords",
+    "name": "Seven of Swords",
+    "element": "Air",
+    "planet": "Moon",
+    "zodiac": "Aquarius",
+    "keywords": [
+      "Strategy",
+      "Stealth",
+      "Escape",
+      "Flexibility"
+    ],
+    "uprightKeywords": [
+      "Strategy",
+      "Deception",
+      "Evasion"
+    ],
+    "reversedKeywords": [
+      "Exposure",
+      "Confession",
+      "Stop"
+    ],
+    "meaning": "The Seven of Swords is about covert maneuvering and taking clever routes. In a disadvantaged position or deadlock, an attempt is made to achieve the goal through unconventional or even clandestine means—this quick-witted, cunning energy moves through grey areas. Extraordinary times may call for extraordinary measures to resolve an urgent need. But deception and scheming ultimately carry the risk of exposure; never let cleverness become the reason for losing trust. Only by directing ingenuity toward the right path and turning cleverness into strategy can you truly turn danger into safety.",
+    "description": "At the edge of a night-shrouded encampment, Odysseus steals away on tiptoe carrying five swords, leaving two planted before the tent — the symbol of a defense left incomplete and a truth that could not be taken away entire. The figure of the Seven of Swords is the architect of the Trojan Horse: he glances back with a crafty smile, using cunning and deception to carve a passage through a narrow situation, attempting to gain something for nothing. The yellow tent represents worldly ambition; this indirect, evasive approach may solve an immediate problem, but it also plants a dangerous seed. The lie may be exposed at any moment, and the treacherous scheming and covert maneuvering are fraught with hidden peril."
+  },
+  {
+    "cardKey": "eight_of_swords",
+    "englishName": "Eight of Swords",
+    "name": "Eight of Swords",
+    "element": "Air",
+    "planet": "Jupiter",
+    "zodiac": "Gemini",
+    "keywords": [
+      "Restriction",
+      "Fear",
+      "Dilemma",
+      "Bondage"
+    ],
+    "uprightKeywords": [
+      "Restraint",
+      "Limitation",
+      "Fear"
+    ],
+    "reversedKeywords": [
+      "Release",
+      "Breakthrough",
+      "Seeing"
+    ],
+    "meaning": "The Eight of Swords focuses on the prison of the mind and an illusory predicament. Trapped in invisible shackles by fear, anxiety, and excessive worry, feeling there is no way out, imprisoned by negative thoughts, and prone to falling into a victim mentality. Most of the restrictions you face are self-imposed. The ropes are not impossible to break free from—don't be frightened by your imagination. Take off the blindfold, examine your actual situation with reason, summon the courage to take the first step, and you will discover the predicament is not as unbreakable as you imagined.",
+    "description": "Eight swords are planted in the mud around her, hemming her in — a cage of thought and self-limiting belief — while a castle in the distance appears unreachable on the far shore, representing the goal that feels cut off and inaccessible. The woman of the Eight of Swords is like a prisoner trapped by her own demons: in a gloomy and desolate place, blindfolded and loosely bound by rope, she stands motionless. The blindfold speaks of a dread of looking directly at the truth; the mud hints at mental exhaustion and stagnation. She dares not move; the situation appears hopeless — but if only she would dare to remove the blindfold and take one step, she would find the shackles easy to slip and a gap in the surrounding ring. The phantom of fear will dissolve before reason; blind anxiety will ultimately be broken."
+  },
+  {
+    "cardKey": "nine_of_swords",
+    "englishName": "Nine of Swords",
+    "name": "Nine of Swords",
+    "element": "Air",
+    "planet": "Mars",
+    "zodiac": "Gemini",
+    "keywords": [
+      "Anxiety",
+      "Nightmare",
+      "Worry",
+      "Friction"
+    ],
+    "uprightKeywords": [
+      "Anxiety",
+      "Nightmares",
+      "Worry"
+    ],
+    "reversedKeywords": [
+      "Relief",
+      "Recovery",
+      "Improvement"
+    ],
+    "meaning": "The Nine of Swords embodies midnight anxiety and hidden dread. Inner worries are magnified in the stillness, bearing heavy mental burdens alone, with intense unease and insomnia triggered by excessive worry, pressure, or guilt. Most of what is feared is a phantom conjured by the mind itself. Most suffering comes from imagination rather than reality—don't chew on your fears alone in the dead of night. Face the inner darkness directly, give concrete form to anxiety and break it down rationally, seek external support, and regain clarity and peace.",
+    "description": "Nine swords hang upon the wall; the edge of the quilt is embroidered with roses and constellations, hinting that much of the suffering arises from the imagination of the unconscious and the weight of the mind — the roses representing beauty wounded by the thorns of thought. The woman of the Nine of Swords is an insomniac consumed by anxiety: in the pitch-black night she jolts upright in bed, both hands pressed over her face, completely overwhelmed by fear and worry. The situation appears fraught with danger at every turn, yet the swords on the wall are not pointed at her — when daylight comes, all will at last ease. She is waiting for a thread of morning light to dispel the specter that the mind has conjured. The endless inner torment will finally meet its dawn."
+  },
+  {
+    "cardKey": "ten_of_swords",
+    "englishName": "Ten of Swords",
+    "name": "Ten of Swords",
+    "element": "Air",
+    "planet": "Sun",
+    "zodiac": "Gemini",
+    "keywords": [
+      "Ending",
+      "Rock Bottom",
+      "Pain",
+      "Rebirth"
+    ],
+    "uprightKeywords": [
+      "Rock bottom",
+      "Ending",
+      "Final pain"
+    ],
+    "reversedKeywords": [
+      "Recovery",
+      "Resisting endings",
+      "Stalling"
+    ],
+    "meaning": "The Ten of Swords signifies the lowest point of the cycle and the darkest hour before dawn. A belief, relationship, or situation has suffered a devastating blow—suffering has reached its peak, and an unavoidable ending is descending. The darkest night means dawn is near. Hitting the lowest point is precisely the starting point for a rebound. Since the worst has already happened, stop clinging desperately to the ruins. Accept the complete ending, clear up the wreckage, and every step taken from here on is a step toward new life.",
+    "description": "In the darkness before dawn, a martyr lies face-down on black earth, ten swords thrust into his back — the symbol of absolute finality and the collapse of the mind's ultimate limit; blood soaks the ground, representing the death of old patterns. The agony of the Ten of Swords has reached its most extreme point. Yet in the distance, a golden daybreak is piercing the clouds; the water's surface begins to shimmer with a faint glow, hinting that after the darkest night light must follow. Ten blades through the heart mean the old order has died completely — but they also presage the end of suffering. The deepest darkness before dawn is about to be torn apart by the breaking day; the ending at rock bottom announces that what is utterly exhausted must turn and rise."
+  },
+  {
+    "cardKey": "page_of_swords",
+    "englishName": "Page of Swords",
+    "name": "Page of Swords",
+    "element": "Air",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Sharpness",
+      "Message",
+      "Vigilance",
+      "Curiosity"
+    ],
+    "uprightKeywords": [
+      "Alertness",
+      "Curiosity",
+      "Communication"
+    ],
+    "reversedKeywords": [
+      "Gossip",
+      "Nervous",
+      "Misunderstanding"
+    ],
+    "meaning": "The Page of Swords is about sharp observation and the first test of new thinking. Quick to catch new ideas and fresh information, surveying the surroundings with curious caution—this clever and adaptable mental energy is busy gathering intelligence. The mind moves fast but can also become impulsive. Stay mentally active and open, perceive the truth in details, but cultivate focus and deep thinking. Don't believe rumours too easily; transform quickness of mind into solid cognitive and communication skills.",
+    "description": "The Page of Swords is the intelligence agent of the air family: both hands raise a sword in a windswept open plain as he stands on tiptoe, alert and watchful in all directions. Birds start up and scatter, symbolizing the flux of thought and the dispersal of news in flight. Like a fresh breath of wind, he is catching the barely perceptible movements in the air. He brings new ideas and signals of crisis; at every moment he is ready to use keen intellect to analyze the situation before him, missing not a single detail. Sharp perception and a hunger for knowledge are in search of the truth."
+  },
+  {
+    "cardKey": "knight_of_swords",
+    "englishName": "Knight of Swords",
+    "name": "Knight of Swords",
+    "element": "Air",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Swiftness",
+      "Charge",
+      "Decisiveness",
+      "Sharpness"
+    ],
+    "uprightKeywords": [
+      "Speed",
+      "Action",
+      "Directness"
+    ],
+    "reversedKeywords": [
+      "Overshoot",
+      "Loss of control",
+      "Disarray"
+    ],
+    "meaning": "The Knight of Swords focuses on fierce assault and headstrong charging. Pushing forward views with thunderbolt force, the mind becomes a fearless blade—this brave and decisive energy that can easily tip into impulsive extremism believes in black and white. Too much charge too easily becomes uncontrolled. Don't hesitate when it's time to act decisively, but strength also needs to be checked by reason and empathy, to prevent damage caused by recklessness, lack of strategy, or forcing your will on others. Keep hold of the mind's reins—don't hurt others or yourself.",
+    "description": "Across a windswept plain, the furious war god of the air family charges forward on a red horse, sword raised high, cloak billowing like the rage of the wind and the velocity of thought. The bearing of the Knight of Swords is fierce; even trees are broken by his momentum — a symbol of reason severing natural emotion. He storms the battlefield with swift and violent decisiveness, attempting to sweep away every obstacle by sheer force. Though his action is bold, blind impulsiveness makes him difficult to master, and it is all too easy for him to cause irreparable damage in the charge. Rash action and a headlong advance conceal hidden danger beneath their apparent courage."
+  },
+  {
+    "cardKey": "queen_of_swords",
+    "englishName": "Queen of Swords",
+    "name": "Queen of Swords",
+    "element": "Air",
+    "planet": null,
+    "zodiac": "Libra",
+    "keywords": [
+      "Independence",
+      "Reason",
+      "Boundaries",
+      "Clarity"
+    ],
+    "uprightKeywords": [
+      "Independence",
+      "Clarity",
+      "Cold edge"
+    ],
+    "reversedKeywords": [
+      "Extreme",
+      "Cruel",
+      "Grudge-holding"
+    ],
+    "meaning": "The Queen of Swords embodies cold-eyed perception and independent judgment. Combining mental sharpness with subtle sensitivity, she pierces illusion with absolute objectivity and clarity—words are incisive and strike the core; deception is not tolerated. Sometimes seeing through something without saying so is the gentler choice. Use independent thinking and clear boundaries to uphold truth, unraveling complexity in the midst of confusion; but while pursuing truth, retain a thread of tenderness. Don't let excessive severity damage close relationships; let reason serve as a protective wall.",
+    "description": "The Queen of Swords is Athena herself, who has severed all carnal desire: enthroned high above the clouds, she holds a sword erect in her right hand while her left extends slightly outward in a gesture that beckons yet keeps all at a distance — embodying the cold acceptance of truth. Her face is grave and sorrowful; white robes stir in a cold wind; birds circle around her, representing the circling of thought. With a supremely dispassionate gaze she dissects all things and draws a clear line between feeling and reason. She suffers no illusions, striking directly at the truth with objective independence, bringing her sword down to sever every thread of false sentiment. Cold-eyed judgment and clear-cut boundaries clarify the tangle."
+  },
+  {
+    "cardKey": "king_of_swords",
+    "englishName": "King of Swords",
+    "name": "King of Swords",
+    "element": "Air",
+    "planet": null,
+    "zodiac": "Aquarius",
+    "keywords": [
+      "Authority",
+      "Logic",
+      "Judgment",
+      "Fairness"
+    ],
+    "uprightKeywords": [
+      "Reason",
+      "Authority",
+      "Resolve"
+    ],
+    "reversedKeywords": [
+      "Tyranny",
+      "Unjust",
+      "Going down a rabbit hole"
+    ],
+    "meaning": "The King of Swords signifies absolute reason and authoritative judgment. The apex of mental power, governing everything with transcendent calm and rigorous logic—this commanding, unquestionable authority follows only wisdom and rules. But making rules also calls for human feeling. Use a clear head and firm principles to make the most logical decisions and hold the line; yet absolute reason can easily become coldness. Leaving room for compassion on the throne of reason—that is true wisdom.",
+    "description": "In a vast sea of cloud, the iron-willed autocrat of the air family sits enthroned, his gaze burning like a torch: in his right hand a straight sword, in his left an iron gauntlet — the emblem of power — while the trees behind him bend and break in the gale, representing the conquest of nature by reason and the establishment of order. The King of Swords presides over all that unfolds with rules and order that admit no question. A butterfly motif hints at the metamorphosis of the intellect; he judges with clarity, undistracted by emotion, wielding the scepter of judgment with ice-cold logic and authority. The absolute sovereignty of the mind and the authority of reason are beyond shaking."
+  },
+  {
+    "cardKey": "ace_of_pentacles",
+    "englishName": "Ace of Pentacles",
+    "name": "Ace of Pentacles",
+    "element": "Earth",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Opportunity",
+      "Wealth",
+      "Material",
+      "Foundation"
+    ],
+    "uprightKeywords": [
+      "Opportunity",
+      "Wealth",
+      "Foundation"
+    ],
+    "reversedKeywords": [
+      "Missed chance",
+      "Wastefulness",
+      "Instability"
+    ],
+    "meaning": "The Ace of Pentacles is about the seed of wealth and the manifestation of the tangible. A new beginning in material or practical benefit, where inspiration begins to take root and bear fruit, bringing fresh opportunity for a solid foundation—a new job, investment, or skill just sprouting. Don't just think without doing; seize this grounded energy and take solid steps toward real goals. Material manifestation requires continuous cultivation. Don't dismiss small beginnings—water them with patience and hard work, and the small seed will eventually grow into a great tree.",
+    "description": "A hand emerges from the clouds bearing a great pentacle engraved with a five-pointed star — the star itself the union of the human spirit and the material world. The Ace of Pentacles is a spiritual jewel bestowed by the Earth Goddess, carried aloft over a blooming garden where flowers and vines intertwine, lilies and roses in full flower below, representing the harmonious marriage of soul and matter. An arched gateway opens toward distant mountains, hinting that the door to abundance has swung open. Heaven-sent fortune is being poured into the mortal world; seize this coin and the solid cornerstone of prosperity and plenty is laid."
+  },
+  {
+    "cardKey": "two_of_pentacles",
+    "englishName": "Two of Pentacles",
+    "name": "Two of Pentacles",
+    "element": "Earth",
+    "planet": "Jupiter",
+    "zodiac": "Capricorn",
+    "keywords": [
+      "Balance",
+      "Juggling",
+      "Flexibility",
+      "Fluctuation"
+    ],
+    "uprightKeywords": [
+      "Balance",
+      "Adjustment",
+      "Flexibility"
+    ],
+    "reversedKeywords": [
+      "Imbalance",
+      "Excess",
+      "Loss of control"
+    ],
+    "meaning": "The Two of Pentacles focuses on flexible balancing and juggling multiple priorities. Moving between multiple tasks or resources in an attempt to maintain a delicate balance, requiring tremendous adaptability and elasticity, constantly adjusting priorities amid ups and downs. Trying to manage both sides easily leads to neglecting one for the other. Meet multi-front pressure with a light-hearted attitude and stay adaptable; but prolonged fluctuation breeds fatigue. Guard against becoming shallow through over-distraction—establish core goals and don't lose your driving force in the balancing act.",
+    "description": "On a sea of rolling waves, the juggler of the Two of Pentacles is like an acrobat riding the tides of commerce: in each hand a pentacle, connected by a figure-eight of infinity, symbolizing ceaseless rotation and the effort to find balance between two poles. He sways his body with the pitch of the ship, light on his feet, working to maneuver between the ups and downs of life and the demands of multiple tasks. Ships in the distance represent goals still being sailed toward. By remaining flexible and keeping his sense of humor, he holds steady in the distribution and reallocation of resources. Elastic equilibrium displays the very rhythm of life."
+  },
+  {
+    "cardKey": "three_of_pentacles",
+    "englishName": "Three of Pentacles",
+    "name": "Three of Pentacles",
+    "element": "Earth",
+    "planet": "Mars",
+    "zodiac": "Capricorn",
+    "keywords": [
+      "Cooperation",
+      "Skill",
+      "Profession",
+      "Planning"
+    ],
+    "uprightKeywords": [
+      "Cooperation",
+      "Learning",
+      "Craft"
+    ],
+    "reversedKeywords": [
+      "Lone effort",
+      "Poor quality",
+      "Disagreement"
+    ],
+    "meaning": "The Three of Pentacles embodies collaborative construction and the sharpening of craftsmanship. Team collaboration turns initial ideas into concrete blueprints, refining quality through exchange and mutual critique, building a solid material structure through professional skill and collective wisdom. For great achievements, don't go it alone. Respect expertise, listen with an open mind, hone your craft through cooperation—true value comes from solid foundations and seamless teamwork. Don't aim too high too fast; pour your craftsman's heart into every brick laid right now.",
+    "description": "Beneath the great arched gate of a magnificent monastery, the craftsmen of the Three of Pentacles are building the Temple of Solomon. A master holds architectural plans while discussing the pentacle carvings on the wall with a robed monk and a stonemason; the carvings embody the materialization of the spiritual and the skill of rendering a blueprint into reality. The three work in their respective roles, collaborating seamlessly, transmuting the sacred design step by step into solid form. With an attitude of mastery and refinement they hone their craft; the teamwork of this fellowship is gradually shaping an immortal edifice, and professional artistry joined with nascent skill is raising a formidable achievement."
+  },
+  {
+    "cardKey": "four_of_pentacles",
+    "englishName": "Four of Pentacles",
+    "name": "Four of Pentacles",
+    "element": "Earth",
+    "planet": "Sun",
+    "zodiac": "Capricorn",
+    "keywords": [
+      "Conservatism",
+      "Control",
+      "Stubbornness",
+      "Savings"
+    ],
+    "uprightKeywords": [
+      "Control",
+      "Hoarding",
+      "Stability"
+    ],
+    "reversedKeywords": [
+      "Releasing",
+      "Spending",
+      "Risk"
+    ],
+    "meaning": "The Four of Pentacles signifies obsessive clinging and standing still in the name of security. Excessive control over and hoarding of material possessions, resources, or established security—refusing to share or change out of fear of loss—causes energy to become rigid and closed off. Being a miser won't do. Material things are naturally flowing tools; excessive hoarding becomes a shackle instead. Loosen the tightly gripping hand to an appropriate degree, learn to circulate and give, break through conservative barriers, and let energy flow—only then can a more abundant harvest arrive.",
+    "description": "Before the buildings of a prosperous city, the man of the Four of Pentacles is the miser Grandet himself: he clutches one pentacle tightly to his chest, balances one on his head, and pins two more firmly beneath his feet. His hoarding posture embodies an extreme dread of loss and a deep inner sense of scarcity. He glances around him in tension, fearing someone will seize his wealth, staking the whole value of his existence on an inert object and clinging to a rigid, frozen fortune. Trapped by fear of loss, he dares not let energy flow and be shared; this state of hoarding from profound insecurity has turned material wealth into a prison."
+  },
+  {
+    "cardKey": "five_of_pentacles",
+    "englishName": "Five of Pentacles",
+    "name": "Five of Pentacles",
+    "element": "Earth",
+    "planet": "Mercury",
+    "zodiac": "Taurus",
+    "keywords": [
+      "Scarcity",
+      "Hardship",
+      "Isolation",
+      "Help"
+    ],
+    "uprightKeywords": [
+      "Lack",
+      "Hardship",
+      "Isolation"
+    ],
+    "reversedKeywords": [
+      "Recovery",
+      "Restoration",
+      "Finding"
+    ],
+    "meaning": "The Five of Pentacles is about material hardship and inner desolation. Encountering scarcity in material or spiritual terms, feeling isolated and left out in the cold—often associated with a low period of shortage or loss, walking alone in the chill. When in trouble, don't give up on yourself. Even in difficulty, don't let pain blind you to the helping hands and warmth right nearby. Maintain hope and actively seek support—it is the bridge through hard times, and also the opportunity to rebuild inner faith.",
+    "description": "On a night of driving snow, two ragged and limping beggars shuffle past a church's stained-glass window — a window that symbolizes the spiritual salvation and inner warmth that are right at hand, though they ignore it entirely. The beggars of the Five of Pentacles are like wandering outcasts: warm light glows within the window, yet they can only shiver in the frozen darkness, their faces desolate. They are sunk in extremity and isolation, suffering a dual want of material and spiritual sustenance. Yet the church nearby is not locked against them — they simply hang their heads in lamentation and miss the chance to seek shelter and aid."
+  },
+  {
+    "cardKey": "six_of_pentacles",
+    "englishName": "Six of Pentacles",
+    "name": "Six of Pentacles",
+    "element": "Earth",
+    "planet": "Moon",
+    "zodiac": "Taurus",
+    "keywords": [
+      "Generosity",
+      "Charity",
+      "Assistance",
+      "Balance"
+    ],
+    "uprightKeywords": [
+      "Giving",
+      "Receiving",
+      "Fairness"
+    ],
+    "reversedKeywords": [
+      "Debt",
+      "Unfairness",
+      "Imbalance"
+    ],
+    "meaning": "The Six of Pentacles focuses on flowing generosity and harmony across different levels. Wealth circulates between giving and receiving, sustaining a dynamic balance—whether giving or receiving, each is experiencing the wisdom of material flow. Both giving and receiving have their own proper way. When you have, share with kindness; when you are in need, receive with gratitude. True generosity comes from a belief in abundance, not from looking down from above; and receiving is not lowly. Maintaining the balance and dignity of giving and receiving leads to fulfillment.",
+    "description": "In a bustling marketplace, the merchant of the Six of Pentacles is a philanthropist of generous heart; elegantly dressed, he holds scales in his left hand and distributes coins with his right to the supplicants kneeling at his feet. The scales at his side weigh the fairness of giving and receiving, symbolizing the law of cosmic balance and the flow of cause and effect. He is conducting an exchange that conforms to the order of the universe — generously and with discernment. He understands how to create value through giving, whether of material or knowledge, allowing love and abundance to circulate and return through sharing. Flowing generosity and fair exchange uphold the balance of the world."
+  },
+  {
+    "cardKey": "seven_of_pentacles",
+    "englishName": "Seven of Pentacles",
+    "name": "Seven of Pentacles",
+    "element": "Earth",
+    "planet": "Saturn",
+    "zodiac": "Taurus",
+    "keywords": [
+      "Evaluation",
+      "Patience",
+      "Waiting",
+      "Return"
+    ],
+    "uprightKeywords": [
+      "Waiting",
+      "Assessment",
+      "Cultivation"
+    ],
+    "reversedKeywords": [
+      "No return",
+      "Frustration",
+      "Pivot"
+    ],
+    "meaning": "The Seven of Pentacles embodies patient assessment and a thorough review of investment. After hard work, pausing to calmly evaluate the returns on past effort—needing to wait patiently for results to ripen, perhaps accompanied by doubts about the current path. You can't rush what needs time. Natural rhythms can't be forced; anxiety helps nothing. Review objectively: if the direction is right, wait patiently for the flowers to bloom; if results haven't met expectations, rationally adjust strategy. Turn waiting into a practice of accumulating inner strength.",
+    "description": "Three more pentacles are still growing at his feet; he pauses to assess half a year of devoted effort, his eyes a mixture of anticipation and uncertainty. The farmer of the Seven of Pentacles is like an anxious capitalist awaiting the harvest, leaning on his hoe beneath dense vines, looking with weary eyes at six pentacles already ripening on the branches. The fruit symbolizes the initial returns of investment and the slow accumulation of effort. The work has yielded its first results, but the final harvest has not yet arrived; he must maintain patience and wait for the seed to break through the soil — or alter his strategy. The scrutiny of cultivation and the long waiting test his perseverance."
+  },
+  {
+    "cardKey": "eight_of_pentacles",
+    "englishName": "Eight of Pentacles",
+    "name": "Eight of Pentacles",
+    "element": "Earth",
+    "planet": "Sun",
+    "zodiac": "Virgo",
+    "keywords": [
+      "Focus",
+      "Diligence",
+      "Refinement",
+      "Details"
+    ],
+    "uprightKeywords": [
+      "Focus",
+      "Effort",
+      "Refinement"
+    ],
+    "reversedKeywords": [
+      "Perfunctory",
+      "Lacking drive",
+      "Pivot"
+    ],
+    "meaning": "The Eight of Pentacles signifies the focused artisan and grounded refinement. Pouring undivided attention into skill acquisition and perfecting one's work, pursuing the highest craftsmanship through deliberate daily practice, forging professional excellence in the details. A craftsperson must endure the loneliness of the process. Settle your mind, enjoy the flow state that comes with focus, find the glow of improvement in repetition, set aside restless ambition, weave love into every moment—craftsmanship will ultimately earn respect.",
+    "description": "Six pentacles already completed lie at his feet; two more hang on the wall. Day after day he repeats the striking and carving. The craftsman of the Eight of Pentacles is a devoted guild member of the Middle Ages, seated on a bench in a quiet workshop, entirely absorbed in engraving the pentacle in his hands. The engraving motion embodies the refining of a craft and the absorption of deep flow. Undistracted by the noise of the world, he pours his whole effort into his work, pursuing the pinnacle of the craft with supreme focus and a spirit of continuous refinement. The focus of polishing and the deep cultivation of skill are carving the very soul."
+  },
+  {
+    "cardKey": "nine_of_pentacles",
+    "englishName": "Nine of Pentacles",
+    "name": "Nine of Pentacles",
+    "element": "Earth",
+    "planet": "Venus",
+    "zodiac": "Virgo",
+    "keywords": [
+      "Independence",
+      "Abundance",
+      "Enjoyment",
+      "Self-sufficiency"
+    ],
+    "uprightKeywords": [
+      "Independence",
+      "Abundance",
+      "Elegance"
+    ],
+    "reversedKeywords": [
+      "Dependence",
+      "Vanity",
+      "Ungrounded"
+    ],
+    "meaning": "The Nine of Pentacles is about independent abundance and unhurried elegance. Through one's own effort and self-discipline, achieving both material and spiritual independence—self-sufficient, enjoying a high-quality life in solitude. This is the sweet fruit born of careful cultivation. With abundant fruit in hand, simply enjoy the sweetness of the present with peace of mind; and also learn to turn material wealth into nourishment for the soul. Let wealth truly become the wings that support freedom, not the cage that confines you.",
+    "description": "Her left hand rests at ease on a trained falcon's back while the fingertips of her right hand lightly touch a gold coin; around her hang heavy clusters of purple grapes and flourishing greenery. The grapes embody harvest and pleasure; the falcon represents dormant force and free will. The lady of the Nine of Pentacles is a wealthy woman commanding natural magic: dressed in magnificent silk, she stands alone in a bountiful vineyard. She is savoring with elegance the domain she has won through wisdom and labor, beholden to no one, possessing absolute wealth and freedom. She relishes this luxury that is entirely her own and the ease of self-sufficiency. Abundant solitary enjoyment and sensory elegance complement each other perfectly."
+  },
+  {
+    "cardKey": "ten_of_pentacles",
+    "englishName": "Ten of Pentacles",
+    "name": "Ten of Pentacles",
+    "element": "Earth",
+    "planet": "Mercury",
+    "zodiac": "Virgo",
+    "keywords": [
+      "Legacy",
+      "Family",
+      "Stability",
+      "Prosperity"
+    ],
+    "uprightKeywords": [
+      "Legacy",
+      "Abundance",
+      "Family"
+    ],
+    "reversedKeywords": [
+      "Falling apart",
+      "Financial crisis",
+      "Stale"
+    ],
+    "meaning": "The Ten of Pentacles focuses on a legacy of foundations and the fulfillment of generations. The ultimate accumulation of material wealth and family tradition, building a fortress that spans generations—marking the inter-generational passing of wealth, status, and values. A sufficient nest egg still needs guarding against rigidity. Treasure family or collective roots and traditions, plan long-term well-being for descendants; but stability can easily become inflexibility. Prevent stagnation and resistance to new change—inject the fresh current of the times into what is being passed down, so that the foundations remain evergreen.",
+    "description": "Ten pentacles are scattered across the scene like the emblems of a dynasty; vines climb the city wall; the coins symbolize the material bedrock of inheritance and the stable lifeblood of the family line. The household of the Ten of Pentacles is like a great clan whose prestige has endured for a hundred years: before an ancient city gate, an elder with a staff strokes a white dog; beside him stand a couple in splendid robes; on the grass children play. They are bathed in the wealth and peace accumulated across generations. Real property and the continuity of bloodline have built a formidable fortress; kinsmen share together in the clan's prosperity and continuity, and the heritage of generations flows on without end."
+  },
+  {
+    "cardKey": "page_of_pentacles",
+    "englishName": "Page of Pentacles",
+    "name": "Page of Pentacles",
+    "element": "Earth",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Practicality",
+      "Learning",
+      "Steadiness",
+      "Plan"
+    ],
+    "uprightKeywords": [
+      "Learning",
+      "Planning",
+      "Diligence"
+    ],
+    "reversedKeywords": [
+      "Slackness",
+      "Distraction",
+      "Waste"
+    ],
+    "meaning": "The Page of Pentacles embodies the diligent apprentice and being grounded in reality. Studying new skills or exploring new material territory with humble practicality, the starting energy is realistic, earnest, and eager to accumulate—gaze anchored to real-world details. Learning a craft requires one step at a time. Keep your feet on the ground and steadily accumulate knowledge and wealth; theory should match practice. Never aim too high too fast—treat every learning experience as an essential step in laying the foundation of your future.",
+    "description": "Holding a great pentacle in both hands, standing on firm ground, he gazes up at the coin in wide-eyed reverence — an upward gaze that embodies curiosity about the material world and awe at the path of learning. The Page of Pentacles is the apprentice of the earth family: out in a meadow of blossoming flowers, he is stepping into reality, bringing with him a respect for the material and a thirst for learning, ready to accumulate wisdom through steady and methodical effort. It is as if he has just touched the mysteries of the material world for the first time; within his grounded steps, a future of rich harvest and growth is germinating. A pragmatic, humble beginning awaits its moment of taking root."
+  },
+  {
+    "cardKey": "knight_of_pentacles",
+    "englishName": "Knight of Pentacles",
+    "name": "Knight of Pentacles",
+    "element": "Earth",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Grounded",
+      "Reliable",
+      "Persistence",
+      "Slow"
+    ],
+    "uprightKeywords": [
+      "Diligence",
+      "Stability",
+      "Persistence"
+    ],
+    "reversedKeywords": [
+      "Stalled",
+      "Stubborn",
+      "Slacking"
+    ],
+    "meaning": "The Knight of Pentacles signifies steady trekking and tenacious cultivation. Advancing toward material goals with an unhurried yet unwavering pace—the embodiment of responsibility and endurance, diligent, reliable, and full of perseverance. Plodding hard still requires watching where you walk. Maintain a steady rhythm and honor commitments through continuous effort; time will bear witness. But tenacity can become stubbornness—while persisting toward your goal, also notice changes in the environment, lest you go too far down the wrong path to turn back.",
+    "description": "The Knight of Pentacles is the diligent steward of the manor, riding a black horse and advancing slowly but steadily alongside a throne pulled by black oxen. The black horse embodies steadfast pacing and a bond with the land. One hand cradles a pentacle; his gaze is cast downward upon the earth; a bull's head adorns his helmet and green shoots grow from his armor, speaking of coexistence with nature and the vitality of growth. This tireless cultivator moves with measured steps, never retreating — advancing his mission through sense of duty and tenacity, looking toward the harvest of autumn. Practical constancy moves steadily forward."
+  },
+  {
+    "cardKey": "queen_of_pentacles",
+    "englishName": "Queen of Pentacles",
+    "name": "Queen of Pentacles",
+    "element": "Earth",
+    "planet": null,
+    "zodiac": "Capricorn",
+    "keywords": [
+      "Nurture",
+      "Pragmatism",
+      "Security",
+      "Care"
+    ],
+    "uprightKeywords": [
+      "Practical",
+      "Caring",
+      "Abundance"
+    ],
+    "reversedKeywords": [
+      "Lack",
+      "Neglect",
+      "Disorder"
+    ],
+    "meaning": "The Queen of Pentacles is about abundant nurturing and practical good taste. Transforming material abundance into careful nourishment of life and others—warm, prosperous, and highly grounded, skillfully creating a stable and comfortable environment. But the homemaker must also tend to herself. Trust in your own ability to create and nurture, savor beauty in the everyday world, turn care into practical support; but don't become excessive worry or materialism. Keeping inner richness and tranquility—that is true prosperity.",
+    "description": "At the heart of a lush forest, a woman crowned with a garland sits on a throne of blossoming flowers. A pentacle rests in her lap and she strokes it gently — the gesture embodying the cherishing and cultivation of wealth. A rabbit and grapevines at her side speak of abundance and proliferation. The Queen of Pentacles is the priestess of the Earth Goddess: she is transforming emotion into concrete care, tenderly tending the growth of prosperity. This warm and grounded mother of the earth makes every thing take root and flourish. Abundant nurturing sustains the very roots of life."
+  },
+  {
+    "cardKey": "king_of_pentacles",
+    "englishName": "King of Pentacles",
+    "name": "King of Pentacles",
+    "element": "Earth",
+    "planet": null,
+    "zodiac": "Taurus",
+    "keywords": [
+      "Wealth",
+      "Success",
+      "Steadiness",
+      "Management"
+    ],
+    "uprightKeywords": [
+      "Wealth",
+      "Success",
+      "Security"
+    ],
+    "reversedKeywords": [
+      "Greed",
+      "Corruption",
+      "Stagnation"
+    ],
+    "meaning": "The King of Pentacles focuses on the pinnacle of worldly achievement and the helmsman of abundance. Pushing power and achievement in the material world to the top—the absolute master of wealth and order, steady, prosperous, and highly prestigious, securing prosperity through excellent financial stewardship. A true leader must have breadth of vision. Plan wealth with a long-term perspective, keep your commitments, and be a solid pillar for others. The peak of power easily breeds arrogance; guard against attachment to material things. Only by wielding wealth with tolerance and generosity is true kingly wealth achieved.",
+    "description": "The King of Pentacles is the financial titan of the earth family, seated in green robes on a throne of black bulls before a magnificent castle, his robes embroidered with grapes and bull's heads, emblems of the utmost abundance of material life and the richness of his dominion. He wears a garland and holds a scepter in one hand and a pentacle in the other; beneath his feet the land is carpeted in flowers; the castle behind him represents solid, worldly achievement. As the supreme sovereign of the material world, he presides with absolute mastery and steady wisdom. Wealth and order have, in his hands, reached the pinnacle of flourishing — worldly supremacy has built the empire of reality."
+  }
+]

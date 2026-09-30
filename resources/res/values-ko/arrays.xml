@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="annual_domain_draw_pattern_title">
+        <item>연애 카드 한 장 뽑기\n마음이 향하는 곳을 봐요</item>
+        <item>학업 카드 한 장 뽑기\n공부 리듬을 봐요</item>
+        <item>커리어 카드 한 장 뽑기\n지금 방향이 어디인지 들어봐요</item>
+        <item>재물 카드 한 장 뽑기\n흐름을 느껴요</item>
+        <item>건강 카드 한 장 뽑기\n몸의 소리를 들어요</item>
+        <item>인간관계 카드 한 장 뽑기\n사람들과의 리듬을 봐요</item>
+        <item>개인 성장 카드 한 장 뽑기\n내면의 속도를 들어요</item>
+    </array>
+    <array name="annual_monthly_draw_pattern_title">
+        <item>첫 달을 뽑아요\n1년을 천천히 시작해요</item>
+        <item>한 장 더\n2월 흐름을 봐요</item>
+        <item>3월 카드\n리듬이 앞으로 가요</item>
+        <item>4월로\n운명의 선이 살짝 움직여요</item>
+        <item>5월 카드\n흐름에 작은 표시가 남아요</item>
+        <item>6월이에요\n상반기 에너지가 모여요</item>
+        <item>7월이 경계예요\n새 사이클로 들어가요</item>
+        <item>8월로\n새 흐름이 펼쳐져요</item>
+        <item>9월이에요\n시간의 곡선이 또렷해져요</item>
+        <item>10월\n이야기가 살짝 틀어져요</item>
+        <item>11월\n올해의 선이 모여요</item>
+        <item>마지막 12월\n1년의 윤곽이 잡혀요</item>
+    </array>
+    <array name="exo_controls_playback_speeds">
+        <item>0.25배속</item>
+        <item>0.5배속</item>
+        <item>0.75배속</item>
+        <item>보통</item>
+        <item>1.25배속</item>
+        <item>1.5배속</item>
+        <item>2배속</item>
+    </array>
+    <array name="onboarding_feedback_comment">
+        <item>리딩이 항상 마음을 이해해줘요. 볼 때마다 위로돼요. 정말 좋아하는 앱이에요❤️</item>
+        <item>첫 무료 리딩부터 놀랐어요! 지금은 매일 하게 돼요, 따뜻한 친구 같아요</item>
+        <item>따뜻한 말들이 위로가 됐어요. 제 인생 앱이에요✨</item>
+    </array>
+    <array name="onboarding_feedback_nickname">
+        <item>유하（Yuha）</item>
+        <item>하린</item>
+        <item>민서</item>
+    </array>
+    <array name="personality_rating_label">
+        <item>전혀 해당하지 않음</item>
+        <item>별로 해당하지 않음</item>
+        <item>중립</item>
+        <item>약간 해당함</item>
+        <item>매우 해당함</item>
+    </array>
+    <array name="tips_items">
+        <item>최대 100회까지</item>
+        <item>모든 보상 횟수는 365일간 유효해요</item>
+        <item>월→연 업그레이드 시 연간 보상만 적용</item>
+        <item>신규 가입자 전용</item>
+    </array>
+</resources>

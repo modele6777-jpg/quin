@@ -1,0 +1,46 @@
+// Tarot box face material (lit).
+//
+// Compile with the Filament matc tool (version must match the filament-android
+// dependency, see gradle/libs.versions.toml):
+//
+//   matc -p mobile -o tarot_box_lit.filamat tarot_box_lit.mat
+//
+// The resulting tarot_box_lit.filamat must sit next to this file so it ships
+// inside assets/filament/. TarotBoxMaterials loads it at runtime; if it is
+// missing TarotBoxRenderer.create returns null and the caller renders an
+// empty placeholder.
+//
+// Lit shading: the box is shaded by the scene's directional lights so faces
+// brighten and darken as the box rotates. A `lit` shading model pulls in the
+// per-face tangent frame the geometry supplies (TANGENTS attribute). The
+// `emissive` term adds a small ambient floor so no face goes fully black.
+
+material {
+    name : tarotBoxLit,
+    shadingModel : lit,
+    // No culling: the box is opaque and convex, so the depth test alone
+    // resolves occlusion. Lit normals come from the tangent frame, not winding.
+    culling : none,
+    requires : [ uv0 ],
+    parameters : [
+        { type : sampler2d, name : baseColorMap },
+        { type : float,     name : dimFactor },
+        { type : sampler2d, name : overlayMap },
+        { type : float,     name : overlayAmount }
+    ]
+}
+
+fragment {
+    void material(inout MaterialInputs material) {
+        prepareMaterial(material);
+        vec4 texColor = texture(materialParams_baseColorMap, getUV0());
+        vec3 albedo = texColor.rgb * materialParams.dimFactor;
+        // overlayMap is composited over the albedo; overlayAmount gates it (0 = unlocked).
+        vec4 overlay = texture(materialParams_overlayMap, getUV0());
+        albedo = mix(albedo, overlay.rgb, overlay.a * materialParams.overlayAmount);
+        material.baseColor = vec4(albedo, texColor.a);
+        material.roughness = 0.88;
+        material.metallic  = 0.0;
+        material.emissive  = vec4(albedo * 0.10, 1.0);
+    }
+}

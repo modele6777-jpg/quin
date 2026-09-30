@@ -1,0 +1,314 @@
+[
+  {
+    "cardKey": "the_fool",
+    "description": "The young Fool of the manor holds a white rose, emblem of purity and spirit; the staff that should signify power has been pressed into service as a hook for her small bundle of belongings. Her lavish coat speaks to her untamed, free-spirited heart, while the scarlet cape blazes with vital energy and passion. She strides forward with head high, utterly unaware of the cliff at her feet. The little white dog beside her seems to bark a warning about the danger below, yet she steps on regardless — carefree, brimming with confidence, forever joyful, longing for freedom above all else. Her journey is about to begin."
+  },
+  {
+    "cardKey": "the_magician",
+    "description": "In the manor's rose garden, where roses and lilies are in full bloom, a magnificently dressed Magician stands ready to begin her next performance. Arrayed around her are the tools of all four elements: the Chalice for Water, the Wand for Fire, the Sword for Air, and the Coin for Earth — all four mastered and at her command. Above her head floats the lemniscate of infinity; about her waist coils the Ouroboros serpent — both symbols of her boundless wisdom and energy. One hand raises the wand toward the heavens; the other points to the earth below. As above, so below — she is the living conduit between the two worlds."
+  },
+  {
+    "cardKey": "the_high_priestess",
+    "description": "The High Priestess sits in perfect silence upon a stone bench, cradling a scroll of wisdom that she keeps half-concealed, for deeper truths are never wholly revealed. Her crown and white robes proclaim her purity; the crescent moon beneath her feet is the emblem of inner knowing. Two pillars rise on either side — the black pillar on the left for yin, the white pillar on the right for yang — a cipher for the dual nature of all things. The letters B and J upon them are abbreviations of the biblical names Boaz and Joachim, representing strength and mercy. The whole tableau pulses with balanced yin-yang energy. Through the veil between the pillars, one can just discern a still expanse of water in the distance: the river the veil conceals is the ceaseless tide of the High Priestess's own subconscious."
+  },
+  {
+    "cardKey": "the_empress",
+    "description": "The Empress of the manor presides with serene splendour, seated between earth and sky and radiating the warm light of motherhood. She holds a round sceptre; the crown upon her brow is set with twelve stars for the twelve signs of the zodiac. Pomegranates embroider her skirts, signifying abundance and fertility, while beside her rests a cushion bearing the symbol of Venus (♀), goddess of love and beauty. Golden sheaves of wheat surround her in a harvest ring; the forest at her back and the ever-flowing stream promise vigorous, unending life."
+  },
+  {
+    "cardKey": "the_emperor",
+    "description": "A stern Emperor sits upon his throne, crowned with authority, cloaked in crimson, the orb of dominion in his left hand and an Egyptian ankh sceptre — symbol of life itself — in his right. Four ram's heads are carved into his throne, each one corresponding to the astrological sign of Aries. In the background, a ridge of rugged mountains represents the harsh trials that confront any ruler. A river threads quietly along the base of the hills, hinting that beneath the Emperor's commanding exterior lies an emotional life he is ill-practised in expressing — feelings habitually suppressed, kept well out of sight."
+  },
+  {
+    "cardKey": "the_hierophant",
+    "description": "The Hierophant holds court before two kneeling devotees. His right hand is raised in blessing toward the heavens; his left grips the triple-crowned staff, emblem of sacred authority. The three-tiered crown upon his head also maps the three planes of body, mind, and spirit. The devotee on the left is robed in red-rose brocade, the colour of fervour; the one on the right wears white lily cloth, symbol of spiritual growth — both burn to be perfected and awakened through the Hierophant's guidance. Between the two kneels a pair of golden keys, the combined wisdom of inner and outer understanding, keys that can unlock the gates of mystery."
+  },
+  {
+    "cardKey": "the_lovers",
+    "description": "In the Garden of Eden, Adam and Eve stand unclothed before each other. Above them hovers the archangel Raphael, the wind-guardian of communication and protection. Adam gazes at Eve; Eve looks to the angel; the angel looks down upon Adam — a chain of consciousness, subconsciousness, and superconsciousness cycling between body and soul to achieve harmony. Behind Adam stands the Tree of Life, its twelve flames representing the energy of the twelve zodiac houses and the fire of his desire. Behind Eve rises the Tree of Knowledge, bearing five apples for the five senses; a serpent coils in its branches, whispering temptation into Eve's ear, enticing her to fall. The mountain in the distance represents the spiritual summit reached through right living. The masculine mountain and the feminine water together embody the balance of yin and yang."
+  },
+  {
+    "cardKey": "the_chariot",
+    "description": "A valiant warrior woman drives a chariot drawn by two sphinxes — one black, one white — embodying the equilibrium of yin and yang, as well as the unruly forces of emotion, desire, and sensation. Clad in armour, she holds the wand of will and strength and wears a laurel wreath of victory. She holds no reins; it is the sheer force of her will that commands the two sphinxes. She seems at once to be defending the high-walled city behind her and turning her back upon the material world to press forward on a journey of the soul."
+  },
+  {
+    "cardKey": "strength",
+    "description": "A woman in the manor's garden gently, gently closes the jaws of a lion. She is robed in white, crowned with flowers — emblems of her noble purity and tenderness. The lemniscate above her head proclaims that her strength is inexhaustible. The lion in this card represents the raw instincts of humankind, tamed by wisdom and a higher spirit; its body inclines toward the woman, its tail droops, its tongue laps at her hand in submission."
+  },
+  {
+    "cardKey": "the_hermit",
+    "description": "An old man stands on an ice-bound mountain summit, head bowed in meditation, deliberating whether to return to the world of ordinary life and share his wisdom. His right hand holds a lantern aloft; within it shines a six-pointed star that casts its light upon the path to knowledge. In his left hand he carries a staff — the same staff that has appeared with the Fool, the Magician, and the Chariot. The Fool, not knowing its power, used it to carry his pack; the Magician wielded it with his conscious right hand; the Chariot transformed it into a lance, also gripped in the right; the Hermit holds it in the left hand of subconsciousness, infusing the rod with his spiritual energy and wisdom to guide seekers toward understanding."
+  },
+  {
+    "cardKey": "the_wheel_of_fortune",
+    "description": "The Wheel of Fortune turns ceaselessly in the heavens, symbol of the world's unpredictable revolutions. The outer rim is inscribed with the letters T-A-R-O and the Hebrew YHVH, name of the divine. The inner ring holds four alchemical symbols. A sphinx sits at the top; the jackal-headed Anubis descends at the bottom, representing the soul's ascent and the demon Typhon — embodied as a serpent on the left — signifying the soul's fall. In the four corners stand the four living creatures: the eagle for Air, the lion for Fire, the bull for Earth, and the human for Water — the guardians of the four elements who govern the changes and laws of the world."
+  },
+  {
+    "cardKey": "justice",
+    "description": "Justice is seated upon a stone bench. In her raised right hand she holds an upright sword, perfectly balanced — symbol of impartiality; in her left hand she holds a scale, emblem of Libra and of equilibrium in all decisions. Her crimson robe and golden crown speak of authority; the square clasp on her chest bears a circle at its centre, signifying the harmony of the four elements. The crown's central square gem plus its three square prongs total seven — the number of Venus, ruling planet of Libra. A purple curtain hangs at her back, concealing hidden wisdom; the two pillars on either side symbolise positive and negative forces."
+  },
+  {
+    "cardKey": "the_hanged_man",
+    "description": "The Hanged One is suspended upside down from a T-shaped tree, calmly observing the world from this inverted vantage point. Both hands are clasped behind her back, forming a triangle; her crossed legs form a cross. Together the cross and triangle create an alchemical symbol representing the transmutation of base desire into higher spirit — an image of initiation, sacrifice, devotion, and aspiration toward a richer life. The halo around her head symbolises wisdom and the evolution of the soul. The archetype is Odin of Norse mythology, who hung upon the World Tree to receive the runes — gaining supreme knowledge through sacrifice — and Prometheus of Greece, who endured agony to bring fire to humanity: the spirit of selfless, sacrificial giving."
+  },
+  {
+    "cardKey": "death",
+    "description": "Death rides a white horse, wearing a red-plumed helmet and carrying the black banner of the Rosicrucians. Four figures share the scene: the king on the ground is trampled to death for his refusal to yield; the Pope stands before the horse with hands pressed in reverent submission; a woman swoons nearby, unable or unwilling to accept; a child looks on with innocent curiosity, too young to understand mortality. All are equal before Death — no rank or age can shield them. The river in the distance symbolises the endless cycle of life. Light rising behind the mountains speaks of hope and rebirth, reminding us that death is never truly the end."
+  },
+  {
+    "cardKey": "temperance",
+    "description": "A golden-haired angel in white robes, with great red wings, bears on its breast a combined square-and-triangle emblem uniting the spiritual and the animal, fire and earth — spirit rising from matter. The right foot rests in the pool of subconsciousness; the left stands on the stone shore of consciousness. Two chalices pour water back and forth between the angel's hands in an image of yin-yang harmony, a living dynamic equilibrium. In the distance a path winds between two mountain peaks glowing with a crown-like golden light — the very crown that appeared on the Death card, signifying that Temperance has transcended the fear Death bestowed. The whole card breathes serenity, assuring us that new life always follows death."
+  },
+  {
+    "cardKey": "the_devil",
+    "description": "The Devil card mirrors the composition of The Lovers almost exactly, but the angel has become a demon. Eve and Adam, cursed and bound by iron chains, have been made the Devil's servants: Eve's tail is the fruit of the forbidden tree; Adam's tail flames with fire stolen from the Tree of Life. Both fell because they ate of the forbidden fruit. The Devil symbolises enslavement to matter and desire; the inverted pentagram is his mark. His right hand makes the sign of black magic, his palm etched with the symbol of Earth — limitation and inertia. He holds a torch downward, fanning Adam's lust. Goat's horns, ass's ears, bat's wings, and bird's claws all evoke the instinctual drives of the animal nature."
+  },
+  {
+    "cardKey": "the_tower",
+    "description": "A tower on a mountaintop is struck by lightning and brought to ruin. Two figures tumble headlong from the top. The crown at the tower's summit is dislodged by the bolt and falls. Twenty-two sparks scatter on either side, corresponding to the twenty-two Major Arcana. The Tower's prototype is the biblical Tower of Babel, destroyed as punishment for human hubris. The tower itself is the material world; the crown is dominion and achievement — when struck by a fatal blow, both vanish. The lightning bolt from the heavens is the language of divine judgement; grey clouds shed a rain of catastrophe. A disaster that arrives without warning leaves no time to prepare: it portends a dark period ahead."
+  },
+  {
+    "cardKey": "the_star",
+    "description": "The Star's maiden stands with her right foot upon the conscious earth and her left foot in the subconscious pool. She holds a ewer in each hand, both filled with the water of life. From the left she pours into the pool, sending ripples across its surface; from the right she pours onto the verdant land, creating five streams for the five human senses — and one stream flows back into the pool, replenishing the well of the unconscious. A tree stands at her back; in its branches perches a bird of wisdom, the creative force behind all art. Stretching beyond her lies a meadow in full flower and a range of mountains. In the sky blazes one enormous golden eight-pointed star, encircled by seven smaller white stars of the same form."
+  },
+  {
+    "cardKey": "the_moon",
+    "description": "A full moon hangs in the night sky, and from it emerges the face of a woman — eyes shut, brow furrowed — her expression clouded with confusion and unease. Below the moon, a dog and a wolf are startled into howling at it: the domesticated dog represents the tamed inner self; the wolf, the untamed animal nature. Lower still, a crayfish crawls out of the water onto the land, embodying a dread even more primal than fear or bestial instinct. The path ahead winds long and labyrinthine into the unknown, deepening the anxiety and disorientation that are the Moon card's hallmark."
+  },
+  {
+    "cardKey": "the_sun",
+    "description": "The Sun's child wears a wreath of flowers on its head; the red feather at its crown symbolises the vitality of new life. Four sunflowers bloom along the garden wall, each one an element. All four turn toward the child rather than toward the sun above — signifying that the child's own radiance already surpasses the sun. The white horse beneath it bears no saddle, controlled by no reins, yet it moves in perfect harmony with its rider: the energy is entirely mastered. The child waves a red banner — an emblem of action — against the boundless light of the sun, the very source of life."
+  },
+  {
+    "cardKey": "judgement",
+    "description": "The archangel Gabriel sounds a trumpet from on high; seven radiating lines at the bell symbolise the seven musical tones that can liberate humanity from the bonds of the material world and heal body and soul alike. A square red-cross banner hangs from the horn, signifying the balance of karma. Below the angel stretches an ocean — the sea of subconsciousness — on which float many coffins bearing their passengers. The coffins represent the old patterns of the material world. The grey figures rising from them include a man — symbol of conscious awareness — gazing upward with quiet reverence; a woman — the subconscious — opening her arms wide to welcome the angel's call; and a child with its back to us, the emblem of a reborn self. In the distance rise mountains capped with eternal snow."
+  },
+  {
+    "cardKey": "the_world",
+    "description": "A naked dancer floats within an oval laurel wreath — emblem of victory. Silk scarves symbolic of nobility and the sacred wind about her body. With effortless grace she holds two wands, representing the forces of evolution and involution. The oval wreath is shaped like a zero, signifying the completion of one cycle and the imminent beginning of the next — the Fool's card and a new revolution. Silk bands at top and bottom of the wreath form an inverted figure-eight, the sign of infinity and eternity. In the four corners are the same four living creatures seen in the Wheel of Fortune — eagle, lion, bull, and human — who absorbed knowledge from their books there and have here fulfilled their purpose in the World."
+  },
+  {
+    "cardKey": "ace_of_wands",
+    "description": "A pair of strong hands reaches down through the cloud and grasps a wand already sprouting leaves; the bud at its tip is on the verge of flowering. The strength of the hands hints at vitality and passion; the manor visible in the distance is the goal — the possibility of success."
+  },
+  {
+    "cardKey": "two_of_wands",
+    "description": "One wand is fastened to the wall; another stands propped against the ground — two distinct choices. A woman stands on the battlements and gazes into the distance; a globe beside her hints that she is not content with what she has and has already conceived an ambitious, promising plan or decision. Her skirt is patterned with white lilies and red roses in alternation: the lily for wisdom and purity of thought, the rose for passion — a reminder that both must be held in balance."
+  },
+  {
+    "cardKey": "three_of_wands",
+    "description": "At the summit of a hill stands a successful merchant, scanning the sea and watching her ships put out to sea. Three wands are planted in the earth; the merchant holds one. She is a leader of vision: the higher one stands, the farther one can see, and the farther one sees, the more forward-looking the decisions one can make."
+  },
+  {
+    "cardKey": "four_of_wands",
+    "description": "Four great wands rise above the crowd, hung with victory garlands. Two women hold posies high above their heads, oblivious to the bustling people around them, dancing freely and joyfully — celebrating something, lost in merriment. The scene glows with harmony and delight."
+  },
+  {
+    "cardKey": "five_of_wands",
+    "description": "Under the influence of Fire, five gentlemen each brandish a wand. Each man moves in a different direction, each convinced that his own method is best, none willing to listen to another, each locked in struggle with those around him — five-way conflict, deadlock, and magnificent disorder."
+  },
+  {
+    "cardKey": "six_of_wands",
+    "description": "A woman warrior crowned with a victory laurel rides a white horse in triumph. The crowd cheering around her is a testament to the support she has won. The wand she carries is her trophy. The hard-won battle is behind her; now she rides with head held high, drinking in the roar of acclaim and the glory of the moment."
+  },
+  {
+    "cardKey": "seven_of_wands",
+    "description": "A girl stands defiantly on her bed, both hands gripping a wand and wielding it against six wands thrust up at her from below by an army of mice. The tension in her face reflects the intensity of the situation. Though she fights alone, she holds the high ground, and that advantage is decisive. The Seven of Wands is a card of success won through stubborn, unyielding perseverance."
+  },
+  {
+    "cardKey": "eight_of_wands",
+    "description": "Eight wands cut through the air in perfect formation, swift and unobstructed — nothing can stop their flight as they sweep freely across the sky. Their tips point downward, already nearly at the earth: something new is about to arrive in your life. The unconstrained nature of this card reflects a moment of few impediments and open possibility."
+  },
+  {
+    "cardKey": "nine_of_wands",
+    "description": "A wounded woman warrior grips her wand tightly; eight more wands stand arrayed behind her, enclosing the manor she is sworn to defend. Bandaging around her head tells of wounds not yet healed, yet she does not flinch — she scans her surroundings with alert, vigilant eyes, her stance taut, revealing her wariness and her iron tenacity."
+  },
+  {
+    "cardKey": "ten_of_wands",
+    "description": "A nun heaves ten heavy wands on her back, nearly crushed by the weight, exhausted to her bones, yet still moving forward. The sources of her burden are many — perhaps she cannot say no; perhaps her planning was poor; perhaps she took on too many things at once. This weight is not usually the work of circumstance but of character and decision-making that has left her overwhelmed. Yet because she carries belief and a sense of duty within her, she does not surrender — she shoulders all responsibility alone."
+  },
+  {
+    "cardKey": "page_of_wands",
+    "description": "The Page of Wands plants her wand in the earth and gazes at it with frank curiosity. The background is desert and pyramids. On her robe is the salamander — the family totem of the Wands — and while some of the salamanders have their mouths almost but not quite biting their tails, forming incomplete circles, others have completed the circle, suggesting that though the Page is less mature than the King, her nature already contains a side that is whole."
+  },
+  {
+    "cardKey": "knight_of_wands",
+    "description": "The Knight of Wands rides his horse at full confidence, wand raised high. His bright yellow garments bear salamander motifs, though mouth and tail do not meet — a symbol of plans or actions not yet finished. Compared with the King, the Knight has only just begun his adventure. The red glove and red headdress speak of a fiery temperament; the horse's raised forelegs capture the swiftness of action."
+  },
+  {
+    "cardKey": "queen_of_wands",
+    "description": "The Queen of Wands wears a crown of leaves and sits arrayed in golden cloth. In her left hand she holds a sunflower, emblem of light and joy; in her right, the wand. The armrests of her throne are sculpted as two lions, symbolising inner strength capable of taming the animal within. At her feet a black cat stands guard — the embodiment of intuition and inspiration."
+  },
+  {
+    "cardKey": "king_of_wands",
+    "description": "The King of Wands sits upon his throne, wand in his right hand, body leaning slightly forward as though ready to spring into motion at any moment. The salamanders on his robe, which were only half-joined on the Knight's garments, are now fully united — a symbol that mastery has been achieved. The scarlet cloak blazes with his defining quality: passion that burns like fire."
+  },
+  {
+    "cardKey": "ace_of_cups",
+    "description": "A white dove descends, carrying a communion wafer — the body of Christ — and drops it into the Chalice: spirit entering the material world. Five streams of water pour forth from the cup, representing the five human senses. Water-lilies flourish only in deep pools, and their presence tells us that the waters below carry real emotional depth. A single hand cradles the chalice from beneath — a reminder that love must be tended with care."
+  },
+  {
+    "cardKey": "two_of_cups",
+    "description": "At a gathering in the manor, a man and a woman face each other and raise their cups in a toast, holding them at exactly the same height: a sign of perfect equality and mutual trust. Between them floats a caduceus staff — two serpents wound about a lion-headed rod — its lion's head and wings evoking love and beauty, its intertwined snakes the caduceus of Hermes, symbol of communication and exchange."
+  },
+  {
+    "cardKey": "three_of_cups",
+    "description": "In the manor's blooming garden, wreathed in vines and heavy with fruit, three young women gather around a table set for afternoon tea. They lift their chalices in celebration, faces radiant with happiness. Each is dressed differently, each an individual with her own character; yet the three form a circle, showing that within their group they honour one another as equals, sharing freely without hierarchy."
+  },
+  {
+    "cardKey": "four_of_cups",
+    "description": "A man sits beneath a tree with eyes shut tight, arms and legs folded inward in a defensive pose of idle withdrawal. Three cups on the ground represent past experience. From a cloud, a woman extends a fourth cup — echoing the Ace of Cups — which offers a new opportunity; yet the man sees nothing."
+  },
+  {
+    "cardKey": "five_of_cups",
+    "description": "A woman in a black cloak sits by a window, brow creased, head bowed over three overturned cups, her heart heavy with sorrow. Outside lies a grey sky; a river flows quietly by. Not far away, a bridge — symbol of resolve and the subconscious — connects the ground of past loss to the shore of a new beginning. A house in the distance speaks of stability and continuation. Yet the woman is neither isolated nor destitute: the bridge and the house are always there; at any moment she may lift the cups behind her and start again."
+  },
+  {
+    "cardKey": "six_of_cups",
+    "description": "In the garden, a boy holds out a chalice overflowing with fresh flowers to a girl. The manor is tranquil and peaceful; five more cups around them hold blossoms shaped like pentacles, calling to mind the sweet memories of a happy childhood."
+  },
+  {
+    "cardKey": "seven_of_cups",
+    "description": "At the bar of the manor's parlour a woman sips her drink, already pleasantly tipsy, as seven chalices float before her through drifting clouds, each containing something different. Faced with so many choices, she drifts in pleasant confusion. The Seven of Cups belongs to the unreality of waking life — dream, fantasy, daydream — and the clouds beneath the cups suggest that this scene may be nothing more than a pleasant reverie."
+  },
+  {
+    "cardKey": "eight_of_cups",
+    "description": "The woman in this card is ready and packed, preparing to leave behind the eight cups she has worked so hard to collect and set out in search of the empty ninth. The red cloak speaks of decisive action: this is the Eight of Cups' central theme of 'abandonment,' choosing action to break free of routine."
+  },
+  {
+    "cardKey": "nine_of_cups",
+    "description": "A richly dressed noblewoman of the manor sits hugging one chalice to herself with a self-satisfied smile, while eight more are arranged around her. Her expression is one of pleased, even boastful, contentment — her dream, it seems, has come true. She is entirely at ease with her present state, savouring uncomplicated satisfaction, the pure pleasure of happiness, quietly reflecting on the many achievements that brought her here."
+  },
+  {
+    "cardKey": "ten_of_cups",
+    "description": "A family of four enjoys a perfect afternoon on the beach together. The parents embrace; two children frolic and hold their chalices aloft. In the sky hangs a rainbow. The Ten of Cups is a card of joy and sharing — contentment and delight fill the whole family circle. Happiness can be offered to those we love, and the scene breathes harmony and peace."
+  },
+  {
+    "cardKey": "page_of_cups",
+    "description": "The Page of Cups stands on a wave-lapped shore, one hand on her hip, her face open and friendly. With playful curiosity she watches a fish leap from the cup she holds: the fish is imagination, and its appearance tells us that this Page possesses an imagination quite out of the ordinary."
+  },
+  {
+    "cardKey": "knight_of_cups",
+    "description": "A white horse of gentlemanly bearing moves at a graceful pace, its rider — the Knight of Cups — holding his chalice level before him, his gaze dreamy and intent, lost in contemplation of whatever the cup contains. The small fish motifs on his garments signify imagination, creativity, and spirit; the wings on his helmet and shoes express the same soaring quality."
+  },
+  {
+    "cardKey": "queen_of_cups",
+    "description": "The Queen of Cups is enthroned on the seashore, and compared with her King — who sits surrounded by water in splendid isolation — she has three mermaids for companions and her throne rests on firm land: she is closer to human experience. She holds the chalice in both hands and gazes deeply into it. The cup itself is cathedral-shaped, with an angel on each side of the base and a cross at the summit, reflecting the Queen's devout spirit. The Queen of Cups is rich in the Water element."
+  },
+  {
+    "cardKey": "king_of_cups",
+    "description": "In the midst of churning seas, the King of Cups sits serenely upon his throne, clad in a blue robe — the colour of Water, of imagination and creative vision. A fish leaps from the ocean beside him; to his right a sailing ship hints at the subconscious rising to the surface. His success is a union of imagination, discipline, and perseverance; his steady gaze speaks of the self-mastery that allows him to succeed, again and again."
+  },
+  {
+    "cardKey": "ace_of_swords",
+    "description": "The sword pierces both a crown and a laurel wreath — the mind can see through the material world. A hand extends from a cloud and grips the blade; jagged peaks recede into a pale, empty distance. The double-edged sword stands perfectly upright, absolutely true — an emblem of the neutral, impartial power of reason."
+  },
+  {
+    "cardKey": "two_of_swords",
+    "description": "A crescent moon hangs high above a churning, rock-strewn sea — a map of turbulent inner emotion. On a grey stone bench sits a woman in robes, two swords crossed motionless across her chest in a posture of refusal, unwilling to open her heart. Her eyes are blindfolded: she is trying to avoid the truth that frightens her. The card portrays the paralysis of refusing reality while remaining in inner contradiction — a stalemate born of refusing to decide."
+  },
+  {
+    "cardKey": "three_of_swords",
+    "description": "Against a sky of stormy cloud and driving rain, three swords pierce a heart in a perfectly symmetrical formation. The emotional weight of this card — pain, grief, heartbreak — is immediate and unmistakable."
+  },
+  {
+    "cardKey": "four_of_swords",
+    "description": "A woman warrior rests quietly against the headboard, hands folded peacefully on her body. A stained-glass window shows a supplicant kneeling before the Madonna. Three swords hang on the wall; but one remains beside her, ready to be taken up the moment she wakes — action is only deferred, not abandoned."
+  },
+  {
+    "cardKey": "five_of_swords",
+    "description": "The conflict has barely ended. A woman carries two swords in her left arm and a third in her right, the hint of a smile on her lips as she looks toward the two defeated figures slumped in the distance. Two swords lie on the ground; one figure walks away in dejection; the other hides her face, unable to accept the loss. Grey clouds reflect the grim scene."
+  },
+  {
+    "cardKey": "six_of_swords",
+    "description": "A boat bears six swords thrust into its prow, with a woman, a child, and a ferryman on board — all three turned away, their postures heavy with sorrow — moving slowly toward a far shore. To pull the swords out now would sink the vessel; their weight forces the ferryman to proceed with care. Water is emotion: the rough water is the troubled past; the calm expanse ahead foretells peace and emotional healing — the same process as the journey of recovery."
+  },
+  {
+    "cardKey": "seven_of_swords",
+    "description": "A figure creeps into an enemy camp, seizes five swords with confident stealth while the distant sentries are off guard, and retreats — unable to carry the two left behind, which represent the risk in the venture. He has neither the numbers nor the means to engage the enemy openly; so he resorts to this crafty, deceitful stratagem, hoping to weaken the enemy's strength."
+  },
+  {
+    "cardKey": "eight_of_swords",
+    "description": "A woman stands blindfolded and bound at the waist, trapped among eight swords thrust into the earth around her, the ground a muddy quagmire. In the distance, a manor castle perches on a cliff, symbol of the authority that has imprisoned her. Escape seems impossibly difficult, and she is utterly alone — yet her feet are free, the swords do not fully enclose her, and there is no guard. If she is willing to take one step forward, freedom awaits."
+  },
+  {
+    "cardKey": "nine_of_swords",
+    "description": "A woman sits up in bed, face buried in her hands, collapsing in distress — perhaps jolted awake from a nightmare, perhaps too paralysed by anxiety and fear to sleep. Nine swords hang horizontally on the wall behind her, as if stabbing her through from behind, bearing down with suffocating weight, leaving her desperate and struggling in the dark."
+  },
+  {
+    "cardKey": "ten_of_swords",
+    "description": "Ten sharp swords pierce the woman's body; the upper half of the card is swallowed in black sky and dark cloud — a scene that assaults the eye. Yet on the far horizon, the first light of dawn is breaking: even the darkest hour of a life will eventually give way."
+  },
+  {
+    "cardKey": "page_of_swords",
+    "description": "The Page of Swords is a quick-minded young person, brimming with curiosity, both hands gripping the blade, gaze turned toward the distance. Her hair and the trees in the background stream in the wind; grey clouds add a hint of turbulence to the atmosphere."
+  },
+  {
+    "cardKey": "knight_of_swords",
+    "description": "The Knight of Swords, encased in armour, charges at full gallop through a howling gale — nothing can stop him. Horse, cloud, and tree alike are tossed and scattered by the tempest."
+  },
+  {
+    "cardKey": "queen_of_swords",
+    "description": "The Queen of Swords wears a crown embroidered with butterfly motifs, emblems of the soul and the element of Air. Her expression is resolute, her gaze keen and slightly frowning. Her left hand opens outward; her right hand raises the sword, its tip pointing straight and true — neither left nor right. She can cut through delusion and see things as they truly are: exceptional perception and wisdom, a lively mind, composure, impartiality, and selfless integrity."
+  },
+  {
+    "cardKey": "king_of_swords",
+    "description": "The King of Swords sits with grave dignity upon his throne. The sword in his right hand tilts slightly to the right — toward action. On his left hand he wears a ring that symbolises authority. Butterfly motifs — soul and Air — appear on the curtain behind him; two birds are present, representing the choice between wisdom and action."
+  },
+  {
+    "cardKey": "ace_of_pentacles",
+    "description": "A hand emerges from a cloud, offering a single coin. The background is a lush manor garden, hinting that the Ace of Pentacles is not about material wealth alone — it touches the spiritual as well. This garden represents the Pentacles suit's natural affinity with the earth; the path leading toward distant mountains suggests that practical investment of money and time will eventually bring great reward."
+  },
+  {
+    "cardKey": "two_of_pentacles",
+    "description": "A dancer in festive costume twirls and juggles two gold coins linked by a figure-of-eight ribbon. Behind her the sea heaves and ships ride the crests of waves: an image of financial fluctuation — and by extension the fluctuation of love and all other areas of life."
+  },
+  {
+    "cardKey": "three_of_pentacles",
+    "description": "The scene on this card depicts the construction of the manor. Three people are gathered to discuss whether the design meets the plan: the building is half-finished, and they must confirm that the next steps are correct. Each person has a distinct role, and the collaboration can only proceed smoothly if all three play their parts. From the intensity of their discussion, it is clear that the partnership is a happy one."
+  },
+  {
+    "cardKey": "four_of_pentacles",
+    "description": "In a dim, overlooked room of the manor, a door swings open with a creak. Cowering in a dark corner sits a woman wearing a crown, perched upon a treasure chest, clutching one coin to her chest, pressing another firmly to the lid with her other hand, and standing with a coin under each foot — her eyes fixed in anxious alarm on the opening door, terrified that anyone might take even the smallest portion of her wealth."
+  },
+  {
+    "cardKey": "five_of_pentacles",
+    "description": "In the bitter cold and snow, two ragged beggars shuffle past, bent and limping, their clothes in tatters. They pass right by a church — a refuge of both material and spiritual shelter — without seeming to notice it, pressing on in hunger and cold."
+  },
+  {
+    "cardKey": "six_of_pentacles",
+    "description": "A man of means is giving alms to two beggars. Although he holds a set of balanced scales in his left hand, the situation is entirely under the wealthy man's control — and so, despite the scales, the distribution of the coins in the scene is not truly equal."
+  },
+  {
+    "cardKey": "seven_of_pentacles",
+    "description": "In the orchard, a little girl in a straw hat rests her cheeks in her palms, gazing up at the abundant fruit ripening on the trees she has tended. Her basket and the coins beside her are filled with the harvest; the tools and her clothing make it plain that all of this has come from long, patient labour. Her expression is one of contentment — yet there is something in it that suggests she is already pondering her next move."
+  },
+  {
+    "cardKey": "eight_of_pentacles",
+    "description": "A seamstress sits at her workbench, sewing a Pentacles blanket with meticulous, unhurried concentration. In front of her lies a row of completed pieces. She represents the virtue of steady, step-by-step work — grounded, thorough, and gradually accumulating both experience and wealth."
+  },
+  {
+    "cardKey": "nine_of_pentacles",
+    "description": "A richly dressed lady sits in her own manor garden enjoying afternoon tea, surrounded by dense, flourishing greenery and coins scattered about, tokens of material comfort and pleasure. She lifts her cup of coffee and savours it slowly. On the back of her chair perches a small bird whose head is hooded in red cloth."
+  },
+  {
+    "cardKey": "ten_of_pentacles",
+    "description": "A family gathers in the courtyard to enjoy the simple pleasures of domestic life together — a tranquil and comfortable home scene. Animals, children, fruit-laden trees, flower-filled gardens, and coins encircling the whole picture: from their dress and the house in the background, it is clear that this is a prosperous family."
+  },
+  {
+    "cardKey": "page_of_pentacles",
+    "description": "The Page of Pentacles stands slightly turned toward the left edge of the scene, amid open countryside where flowers bloom. In the distance, trees emerge from the mist. She holds the coin up with both hands, level with her eyes, studying it with complete absorption. Her clothing and the bag slung over her shoulder mark her as an apprentice, and she is wholly immersed in her research."
+  },
+  {
+    "cardKey": "knight_of_pentacles",
+    "description": "The Knight of Pentacles sits perfectly upright on a black horse, examining the coin in his hand. The horse stands motionless — the only horse in the four Knight cards to be standing still — a reflection of the Knight's careful, methodical attitude."
+  },
+  {
+    "cardKey": "queen_of_pentacles",
+    "description": "The Queen of Pentacles holds her coin in both hands, seated in a graceful, nurturing posture on her throne, regarding the coin and every blade of grass and leaf around her with gentle affection. Flowers surround her; the ground is covered with lush foliage and red berries; a small rabbit darts nearby. One can almost catch the fragrance of a spring in full bloom. It is a scene of quiet, generous peace."
+  },
+  {
+    "cardKey": "king_of_pentacles",
+    "description": "The King of Pentacles is a prosperous and accomplished ruler. He sits upon his throne with effortless confidence; everything around him is under his mastery. Vines climb the throne and wind over his very garments, heavy with fruit symbolic of wisdom — under his reign, his people live in happiness and abundance."
+  }
+]

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="annual_domain_draw_pattern_title">
+        <item>抽一张感情牌\n看看心靠向哪里</item>
+        <item>抽一张学业牌\n看看学习的节奏</item>
+        <item>抽一张事业牌\n听听你的方向现在落在哪</item>
+        <item>抽一张财富牌\n感受能量的流动</item>
+        <item>抽一张健康牌\n留意身体的声音</item>
+        <item>抽一张人际牌\n看看你和他人的节奏</item>
+        <item>抽一张成长牌\n听听内在的步伐</item>
+    </array>
+    <array name="annual_monthly_draw_pattern_title">
+        <item>抽出你的第一个月\n让一年慢慢开始</item>
+        <item>再抽一张\n看看二月运势如何</item>
+        <item>三月的牌\n节奏开始往前了</item>
+        <item>来到四月\n看看命运的线往哪轻动</item>
+        <item>五月的牌\n会在流动里留下轻点</item>
+        <item>到了六月\n上半年的能量此处合拢</item>
+        <item>七月为界\n一年进入新的循环</item>
+        <item>进入八月\n新循环在这里慢慢铺开</item>
+        <item>到了九月\n时间的弧线画得更清了</item>
+        <item>十月\n故事向前微微偏了一点</item>
+        <item>十一月\n这一年的线条开始收拢</item>
+        <item>最后十二月\n这一年的轮廓逐渐成形</item>
+    </array>
+    <array name="onboarding_feedback_comment">
+        <item>每次抽牌的分析都让我觉得被理解、被陪伴。很多解释比真人还细腻，焦虑时看看就能安心。真的太喜欢这个App了❤️</item>
+        <item>第一次免费体验就被抽牌，解牌过程惊艳到！后来每天都忍不住来打卡、占卜，感觉它更像一个温柔的朋友。</item>
+        <item>解读细致、情绪共鸣强，很多话都击中内心。谢谢这个App在我低谷时的陪伴，已经是我心中的年度应用✨</item>
+    </array>
+    <array name="onboarding_feedback_nickname">
+        <item>阿柚</item>
+        <item>Nana不焦虑</item>
+        <item>林深语</item>
+    </array>
+    <array name="personality_rating_label">
+        <item>非常不符合</item>
+        <item>不太符合</item>
+        <item>中立</item>
+        <item>比较符合</item>
+        <item>非常符合</item>
+    </array>
+    <array name="tips_items">
+        <item>奖励累计上限为 100 次免费占卜</item>
+        <item>所有奖励次数，有效期为365天</item>
+        <item>若好友在月卡期内升级为年卡，则仅计算年卡奖励，不再叠加月卡奖励</item>
+        <item>该活动只面向新注册用户</item>
+    </array>
+</resources>

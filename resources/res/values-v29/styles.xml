@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Donut" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">#0000</item>
+        <item name="android:statusBarColor">#0000</item>
+        <item name="android:navigationBarColor">#0000</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="colorControlActivated">@color/selectionHandleColor</item>
+        <item name="colorControlHighlight">@color/selectionBackground</item>
+    </style>
+    <style name="Theme.Donut.Transparent" parent="@style/Theme.Donut">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>

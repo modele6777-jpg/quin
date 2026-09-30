@@ -1,0 +1,2888 @@
+[
+  {
+    "card_key": "the_fool",
+    "upright": {
+      "affirmation": "Aunque no lo sepas todo, vámonos.",
+      "reading": "El Loco porta el poder puro de la partida: embarcarse en cada viaje desconocido sin presuposiciones ni pedir resultados. En este momento, te encuentras en un nuevo punto de partida.\n\nPuede pensar: \"¿Qué tal si lo intentamos?\", o puede que de repente sienta curiosidad por algo. Ahora es el momento de inscribirte en ese curso que siempre quisiste tomar, conectarte con ese nuevo amigo y probar una ruta diferente a casa. Evite repetidas compensaciones.\n\nAcepta la incertidumbre. El camino está hecho y tú estás listo.",
+      "questions": [
+        "¿Qué es algo que siempre quise hacer pero no lo hice?",
+        "¿Qué traerá este nuevo comienzo?",
+        "¿Es ahora el momento adecuado para dar el primer paso?"
+      ],
+      "dos": [
+        "Aquí y ahora",
+        "Nueva habilidad"
+      ],
+      "donts": [
+        "Darle mil vueltas",
+        "dejé la ventana abierta"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Espera, más despacio.",
+      "reading": "Tan pronto como sales, la inquietud en tu corazón ya te está frenando.\n\nEsta inquietud tiene sentido. Hoy también podrías detenerte y preguntarte: ¿Estoy persiguiendo mis sueños o escapando de la realidad? ¿Estoy realmente preparado o es sólo la ansiedad lo que me hace sentir que \"tengo que hacer algo\"? No actúes a ciegas por miedo a perderte algo, ni pierdas tu opinión por escuchar demasiadas voces externas.\n\nDate algo de tiempo. El verdadero coraje no consiste en ser impulsivo, sino en saber por qué lo haces.",
+      "questions": [
+        "¿Mi comportamiento actual es simplemente exaltado?",
+        "¿La acción es ahora valiente o evasiva?",
+        "¿Las promesas que hizo son sólo un intento de repartir el pastel?"
+      ],
+      "dos": [
+        "Tomar aire",
+        "3 cosas que quiero hacer"
+      ],
+      "donts": [
+        "consumo impulsivo",
+        "consumo nocturno"
+      ]
+    }
+  },
+  {
+    "card_key": "the_magician",
+    "upright": {
+      "affirmation": "ya hay una respuesta",
+      "reading": "La energía del mago es la convergencia de la voluntad y la acción: sabe cómo transformar todo lo que tiene a mano en poder de la creación. En este momento, los recursos que necesitas ya están a tu alcance.\n\nEs posible que descubras que algo que siempre has querido hacer de repente tiene una dirección clara; o puede que te des cuenta de que en realidad eres más capaz de lo que pensabas. Ahora es un buen momento para integrar los recursos que tienes a mano y empezar a actuar, tomar la iniciativa de presentar tus ideas u trabajos y convertir tu plan en el primer paso. Evite sentirse \"no lo suficientemente bueno\" para comenzar o esperar permiso externo para actuar.\n\nCree en tus habilidades. Ya tienes el poder de crear.",
+      "questions": [
+        "¿Qué recursos están disponibles para mí?",
+        "¿Cuáles de mis ideas puedo empezar a poner en práctica?",
+        "¿El encanto mostrado por él o ella simplemente está tratando de engañarme?"
+      ],
+      "dos": [
+        "comida casera",
+        "cosa nueva"
+      ],
+      "donts": [
+        "Sin fotos",
+        "poco tiempo trabajando"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Me gusta como es",
+      "reading": "Cuanto más intentes presentarte como impecable, más fácil será mostrar tu cobardía. Ahora mismo quieres mostrar una versión menos auténtica de ti mismo, o utilizar técnicas para encubrir ciertas incertidumbres.\n\nEs mejor mirar honestamente los límites de sus propias capacidades, admitir \"no sé\" o \"necesito ayuda\" y enfrentar a los demás con autenticidad en lugar de fingir. No se sobrecargue, no manipule a otros para lograr sus objetivos ni utilice su sabiduría en el lugar equivocado.\n\nLa sinceridad es más poderosa que la habilidad. Cuando dejas de lado la simulación, surge la verdadera magia.",
+      "questions": [
+        "¿Es lo que dice digno de mi confianza?",
+        "¿Estoy evitando problemas reales?",
+        "¿Estoy perdiendo el tiempo en una relación poco confiable?"
+      ],
+      "dos": [
+        "envíame un DM primero",
+        "Mantenga un diario de gratitud"
+      ],
+      "donts": [
+        "esperando excusas",
+        "date prisa"
+      ]
+    }
+  },
+  {
+    "card_key": "the_high_priestess",
+    "upright": {
+      "affirmation": "escucha mi corazón",
+      "reading": "La Sacerdotisa guarda el lugar silencioso interior: esa profundidad que no requiere palabras, sólo escuchar. En este momento, tu sabiduría interior está esperando que te acerques.\n\nEs posible que sienta alguna intuición sutil: que algo \"se siente mal\" o que cierta dirección \"simplemente se siente bien\", aunque no sepa por qué. Este es un buen momento para pasar tiempo a solas, escribir un diario o meditar y confiar en esos sentimientos de \"no puedes decirlo, pero simplemente lo sabes\". Evite confiar excesivamente en opiniones externas, apresurarse a buscar respuestas o utilizar la razón por encima de la intuición.\n\nLa respuesta no está afuera, sino dentro de ti. Dale un poco de espacio tranquilo y emergerá.",
+      "questions": [
+        "¿Por qué siento que algo anda mal?",
+        "Si él no habla ahora, ¿debería quedarme quieta?",
+        "¿Hasta cuándo continuará la ambigüedad tácita?"
+      ],
+      "dos": [
+        "diario del corazon",
+        "Vacío y vacío"
+      ],
+      "donts": [
+        "chismes",
+        "Scroll nocturno"
+      ]
+    },
+    "reversed": {
+      "affirmation": "necesito un momento de tranquilidad",
+      "reading": "Cuando tu teléfono está lleno de voces de otras personas, es fácil que tus propios pensamientos queden relegados a un segundo plano. No puedes escuchar tus verdaderos sentimientos o tu voz interior queda ahogada por demasiada información externa.\n\nEste tipo de estado no es extraño, pero no te sumerjas en el ruido todo el tiempo. Puedes empezar con estas pequeñas cosas: reduce tu consumo de información, apaga las redes sociales por un tiempo y pregúntate \"qué es lo que realmente quiero\" en lugar de \"qué debería querer\". Tenga cuidado de no adormecerse con el ajetreo, no confiar demasiado en la adivinación o las opiniones de otras personas, o evitar estar solo porque tiene miedo de enfrentar la verdad.\n\nRedescubre la capacidad de hablar contigo mismo. La sabiduría interior siempre está ahí, sólo necesita que te calmes.",
+      "questions": [
+        "¿Estoy pensando demasiado?",
+        "¿Cuánto tiempo durará la evasión deliberada de TA?",
+        "¿Me estoy engañando?"
+      ],
+      "dos": [
+        "paseo nocturno",
+        "Cambiar fondo de pantalla"
+      ],
+      "donts": [
+        "Toma un video corto",
+        "Cel todo el día"
+      ]
+    }
+  },
+  {
+    "card_key": "the_empress",
+    "upright": {
+      "affirmation": "Está bien estar cómodo",
+      "reading": "La Reina representa la energía de la abundancia, la creación y la nutrición: todas las cosas crecen naturalmente bajo su cuidado. También estás rodeado por esta energía en este momento.\n\nEs posible que sienta la necesidad de crear, cuidar de los demás o expresar belleza. Este es un buen momento para hacer cosas que te hagan sentir bien, atender las necesidades de tu cuerpo (comer bien, descansar) o tratarte a ti mismo y a los demás con delicadeza. Evite pagar demasiado y descuidarse, sentir que \"disfrutar\" es una pérdida de tiempo o aplicarse estándares estrictos.\n\nPermítete recibir abundancia. Mereces que te traten con ternura y mereces disfrutar de la belleza de la vida.",
+      "questions": [
+        "¿Cómo debería ser amable conmigo mismo?",
+        "¿A sus ojos soy muy atractivo?",
+        "¿Cómo debo disfrutar plenamente del alimento de esta relación?"
+      ],
+      "dos": [
+        "humor feliz",
+        "comer bien"
+      ],
+      "donts": [
+        "Café helado en ayunas",
+        "comer demasiado"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Yo también tengo que cuidarlo.",
+      "reading": "Las personas que se preocupan por los demás durante demasiado tiempo a menudo olvidan preguntarse si están cansadas. En este asunto, pagas de más y estás ocupado cuidando a los demás, pero te olvidas de darte un poco de ternura.\n\nPrimero admite que estás cansado y luego programa el cuidado de ti mismo. Este es un mejor momento para preguntarte \"¿qué es lo que realmente necesito?\", decir no a esfuerzos innecesarios o simplemente darte un tiempo para relajarte. No tienes que sentirte culpable por obligarte a dar, sentir que es egoísta cuidar de ti mismo o usar “Estoy bien” para evitar el agotamiento real.\n\nMantén un poco de amor para ti mismo. Sólo cuidándote a ti mismo podrás nutrir verdaderamente a los demás.",
+      "questions": [
+        "¿Mi condición mejorará si ya no giro alrededor de él?",
+        "¿Qué quiere decirme mi niño interior?",
+        "¿Mi preocupación y dedicación le hacen sentir que se lo merece?"
+      ],
+      "dos": [
+        "con flores",
+        "sumergirse en una fuente termal"
+      ],
+      "donts": [
+        "mal",
+        "comer cualquier cosa"
+      ]
+    }
+  },
+  {
+    "card_key": "the_emperor",
+    "upright": {
+      "affirmation": "dime mi plan",
+      "reading": "El Emperador simboliza el orden, el control y la energía que crea estructura; sabe cómo crear su propia ley a partir del caos. Necesitas tener el control de tu vida ahora mismo.\n\nEs posible que sienta la necesidad de establecer algunas reglas, aclarar un desastre o decir \"no\" a algo. Este es un buen momento para establecer límites claros, organizar planes o circunstancias y desarrollar pasos concretos hacia las metas. Evite ser demasiado controlador y perder su flexibilidad, no hacer nada por miedo a perder el control o permitir que otros invadan sus límites.\n\nSé tu propio maestro. Tienes derecho a decidir tus propias reglas y la capacidad de establecer tu propio orden.",
+      "questions": [
+        "¿Dónde necesito establecer límites más claros?",
+        "¿Qué cosas necesitan que recupere el control?",
+        "¿Su comportamiento actual significa que quiere confirmar nuestra relación?"
+      ],
+      "dos": [
+        "organiza tu escritorio",
+        "Crear una lista de tareas pendientes"
+      ],
+      "donts": [
+        "sucio",
+        "Agenda llena"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Está bien incluso si las cosas van mal",
+      "reading": "Si aprietas las manos con demasiada fuerza, las cosas que podrías hacer bien se volverán incómodas. A juzgar por la reacción, eres demasiado estricto contigo mismo o con los demás, o te vuelves rígido porque tienes miedo de perder el control.\n\nNo es necesario esforzarse para tener una sensación de seguridad. Hoy puedes empezar preguntándote: \"¿A qué tengo miedo?\", dejando de lado reglas innecesarias o permitiendo que las cosas no salgan según lo planeado. Deje de usar la autoridad para abrumar a los demás, deshumanizarlos en la búsqueda de la perfección o confiar en el control como única fuente de seguridad.\n\nIntenta relajarte un poco. Si te relajas un poco podrás ver con mayor claridad el siguiente paso.",
+      "questions": [
+        "¿Está actuando demasiado egoísta conmigo?",
+        "¿Soy demasiado testarudo y estricto conmigo mismo?",
+        "¿Estoy mostrando debilidad para que él o ella sienta que tiene el control?"
+      ],
+      "dos": [
+        "relajarse",
+        "Dispersión posprandial"
+      ],
+      "donts": [
+        "músculo",
+        "estrés mental"
+      ]
+    }
+  },
+  {
+    "card_key": "the_hierophant",
+    "upright": {
+      "affirmation": "Si no lo sabes, pregunta",
+      "reading": "El Papa simboliza la tradición, la enseñanza y la energía que busca guía: es el puente entre la sabiduría individual y colectiva. En este punto, es posible que necesite algo de sabiduría externa.\n\nQuizás quieras buscar el consejo de un mentor, aprender sobre un campo o buscar respuestas de la sabiduría tradicional. Este es un buen momento para buscar consejo de personas con experiencia, asistir a cursos o talleres, o investigar métodos probados. Evite seguir ciegamente a la autoridad, perder su propio pensamiento o ser rebelde y rechazar toda guía externa.\n\nManténgase abierto y humilde. La sabiduría de sus predecesores puede ahorrarle muchos desvíos.",
+      "questions": [
+        "¿De quién puedo aprender o pedir consejo?",
+        "¿Este tipo de relación regular es adecuada para mí?",
+        "Si sigo a este mentor, ¿me aseguraré de obtener los resultados?"
+      ],
+      "dos": [
+        "leer biografía",
+        "el consejo de otra persona"
+      ],
+      "donts": [
+        "seguir ciegamente",
+        "fingiendo saber"
+      ]
+    },
+    "reversed": {
+      "affirmation": "No todo es para ti",
+      "reading": "Es posible que la afirmación \"todos son así\" no tome una decisión por usted.\n\nDudar de las viejas reglas demuestra que ya estás formando tu propio juicio. Intente reexaminarse primero, explore métodos no convencionales o permítase tomar un camino diferente.\n\nConfía en tu propio camino. A veces la verdadera libertad se encuentra al romper las reglas.",
+      "questions": [
+        "¿Qué reglas necesito romper?",
+        "¿El guión de mi vida será más emocionante si pienso fuera de lo común?",
+        "¿Cuál es el mejor camino de desarrollo para mí?"
+      ],
+      "dos": [
+        "decorar",
+        "usar ropa nueva"
+      ],
+      "donts": [
+        "siguiendo una tendencia",
+        "Opinión ajena"
+      ]
+    }
+  },
+  {
+    "card_key": "the_lovers",
+    "upright": {
+      "affirmation": "mira mi corazón primero",
+      "reading": "La carta de los Amantes simboliza la elección, la conexión y la alineación de valores; la verdadera conexión proviene de la armonía interna y externa. En este momento, es posible que se enfrente a una decisión importante.\n\nEs posible que tengas que decidir entre dos opciones o darte cuenta de si una relación realmente se alinea con tus valores. Este es un buen momento para preguntarse honestamente: \"¿Es esto realmente lo que quiero?\", elegir una dirección coherente con su corazón o expresar su verdadero yo en una relación. Evite ir en contra de usted mismo para complacer a los demás, posponer las cosas por miedo a elegir o ignorar las diferencias de valores por pasión.\n\nElige tu yo auténtico. Las mejores conexiones provienen de la alineación por dentro y por fuera.",
+      "questions": [
+        "¿Es realmente la \"persona adecuada\"?",
+        "Ante dos opciones, ¿cuál es la que más deseo?",
+        "¿Debo tomar la iniciativa para darle una señal?"
+      ],
+      "dos": [
+        "Hablar con tu crush",
+        "guía alimentaria"
+      ],
+      "donts": [
+        "impulsivo",
+        "por confirmar"
+      ]
+    },
+    "reversed": {
+      "affirmation": "No lo soportes solo",
+      "reading": "Si algunas palabras no se dicen, la incomodidad en la relación se acumulará. Es posible que tus valores ya no se alineen con los de alguien o que te des cuenta de que no estás siendo auténtico en una relación.\n\nEs más útil hablar sobre los puntos estancados de la relación que seguir adivinando. Tómese un tiempo para evaluar honestamente el estado actual de la relación, pregúntese \"¿Me estoy comprometiendo demasiado\" o afronte las diferencias que existen entre usted y su pareja? Recuerde no reprimir sus verdaderos sentimientos para mantener una armonía superficial, permanecer en la relación equivocada porque tiene miedo de estar solo o utilizar el autoengaño para evitar tomar decisiones.\n\nHonra tus inseguridades internas. A veces, la falta de armonía es un recordatorio para tomar una nueva decisión.",
+      "questions": [
+        "¿Es necesario que los dos sigamos llevándonos bien?",
+        "¿Será porque estoy distraído y cansado de estudiar porque simplemente no me gusta esta especialidad?",
+        "¿Hay verdades en esta relación que tengo miedo de afrontar?"
+      ],
+      "dos": [
+        "hablar con la gente",
+        "revisión de pareja"
+      ],
+      "donts": [
+        "ambiguo",
+        "violencia a sangre fría"
+      ]
+    }
+  },
+  {
+    "card_key": "the_chariot",
+    "upright": {
+      "affirmation": "puedes ir despacio",
+      "reading": "El carro simboliza la fuerza de voluntad, el control y la energía hacia adelante: sabe cómo integrar las contradicciones internas y enfocar su poder hacia adelante. En este momento, debes concentrar tus esfuerzos y avanzar hacia tu objetivo.\n\nEs posible que sienta una fuerte sensación de motivación o la necesidad de encontrar el equilibrio entre los conflictos. Este es un buen momento para centrarse en lo más importante, avanzar a pesar de los obstáculos o integrar ideas dispares en una dirección unificada. Evite utilizar la fuerza bruta en lugar de la sabiduría, dejarse llevar por las emociones y perder el rumbo, o tener miedo de actuar por miedo al fracaso.\n\nMantenga las manos en el volante. Tienes la capacidad de controlarlo todo y el camino que tienes por delante te espera para conquistarlo.",
+      "questions": [
+        "¿Cómo puedo mantenerme concentrado frente a los obstáculos profesionales?",
+        "¿Quieres utilizar toda tu energía para derrotarlo?",
+        "En el sprint final antes del examen, ¿podré escapar del asedio?"
+      ],
+      "dos": [
+        "querer",
+        "10 minutos de conversación interna"
+      ],
+      "donts": [
+        "por confirmar",
+        "Arreglos a medias"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Mire primero la dirección.",
+      "reading": "Si el volante está estropeado, no importa cuánto presione el acelerador, sólo hará que entre más pánico. En realidad, mi mente está tirando en diferentes direcciones, o siento que fuerzas externas me empujan en lugar de avanzar activamente.\n\nA continuación, pregúntese \"¿Realmente quiero ir en esta dirección?\", reevalúe si el objetivo es correcto o admita \"Necesito descansar ahora\". No sigas avanzando, enmascarando una sensación de pérdida con estar ocupado o negándote a repensar porque tienes miedo de detenerte.\n\nDetenerse no significa darse por vencido, sino encontrar el verdadero rumbo. Sólo tú sabes adónde debes ir.",
+      "questions": [
+        "¿Soy un poco insistente?",
+        "En esta relación, ¿estoy inmerso en mi propio movimiento?",
+        "¿Es razonable mi estilo de aprendizaje actual?"
+      ],
+      "dos": [
+        "renunciar al control",
+        "Redirigir"
+      ],
+      "donts": [
+        "obligarte a ti mismo",
+        "Improvisar al final"
+      ]
+    }
+  },
+  {
+    "card_key": "strength",
+    "upright": {
+      "affirmation": "Suave y duro",
+      "reading": "La energía de la carta de Fuerza no es conquistar, sino domar; resolver la confrontación con gentileza y paciencia, esta es la verdadera fuerza. Tienes este poder ahora mismo.\n\nEs posible que encuentre algunos desafíos o conflictos, pero tiene la capacidad de resolverlos con gentileza en lugar de violencia. Este es un buen momento para afrontar las dificultades con paciencia, expresar su posición con gentileza o resolver problemas con comprensión en lugar de confrontación. Evite usar la fuerza para reprimir a los demás o a usted mismo, perder la cabeza debido a la ira o pensar que la gentileza es debilidad.\n\nLa verdadera fuerza proviene de la gentileza. Puedes estar firme y al mismo tiempo estar suave.",
+      "questions": [
+        "¿Cómo controlar esta relación con gentileza y confianza?",
+        "¿Es hora de utilizar la suavidad para superar la dureza y resolver conflictos?",
+        "Ante el miedo, ¿cómo movilizar el coraje interior para superarlo?"
+      ],
+      "dos": [
+        "escucha pacientemente",
+        "tono suave"
+      ],
+      "donts": [
+        "Escape de vulnerabilidad",
+        "criticar a la gente"
+      ]
+    },
+    "reversed": {
+      "affirmation": "esta bien tener miedo",
+      "reading": "Todo el mundo tendrá momentos en los que se sentirá inseguro, por lo que no hay necesidad de apresurarse a fingir que no pasa nada. Cosas como: estás dudando de ti mismo, te sientes débil o abrumado por el miedo.\n\nSólo porque no tengas confianza en este momento no significa que realmente no puedas hacerlo. En lugar de tratar de resolverlo todo ahora, comience por ser amable con su vulnerabilidad, admitiendo: \"Ahora mismo tengo miedo\" o pidiendo apoyo a los demás. Deja de culparte por mostrar debilidad, enmascarar tus miedos internos con dureza o negarte a admitir que necesitas ayuda.\n\nAdmitir que tienes miedo no te hará empeorar; te ayudará a estabilizarte.",
+      "questions": [
+        "¿Mi dominio está alejando a las personas que me gustan?",
+        "¿Tengo miedos en el fondo?",
+        "¿Cómo calmar la ansiedad antes de los exámenes?"
+      ],
+      "dos": [
+        "llamar a la familia",
+        "charlar en el trabajo"
+      ],
+      "donts": [
+        "bucle de chat",
+        "fobia social"
+      ]
+    }
+  },
+  {
+    "card_key": "the_hermit",
+    "upright": {
+      "affirmation": "Está bien estar solo",
+      "reading": "El ermitaño sostiene la luz interior y camina solo; su soledad no es un escape, sino un viaje hacia el interior para encontrar la luz. En este momento tú también necesitas este tipo de soledad.\n\nEs posible que sienta la necesidad de alejarse, de estar a solas con sus pensamientos o de anhelar algunas respuestas. Este es un buen momento para estar solo, pensar profundamente en un tema importante o explorar tu corazón por dentro. Evite utilizar interacciones sociales para evitar estar solo, tener miedo de enfrentarse a sí mismo en silencio o sentirse ansioso por estar solo.\n\nLa soledad es un regalo. En el silencio encontrarás tu propia luz.",
+      "questions": [
+        "¿Puede el tratamiento con frío ayudarme a ver claramente la sinceridad de la otra persona?",
+        "Si tomo la iniciativa de cortar el contacto, ¿se despertará?",
+        "¿Cómo encuentro mi yo sobrio en esta relación?"
+      ],
+      "dos": [
+        "visita a la biblioteca",
+        "disfruta de la soledad"
+      ],
+      "donts": [
+        "mantener una relación",
+        "discordia"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Si quieres hablar dilo",
+      "reading": "Cuando la puerta permanece cerrada durante demasiado tiempo, resulta un poco difícil incluso encontrar a alguien con quien hablar. Tu reacción es: estás escapando del mundo exterior, negándote a conectarte con los demás o estás atrapado en tu propio mundo y no puedes salir.\n\nIntente abrir un poco la puerta para que la gente pueda acercarse a usted. Elija una cosa para hacer primero: acercarse a los demás, salir de su zona de confort o admitir \"Necesito ayuda del mundo exterior\". No es necesario castigarse con la soledad, rechazar la conexión porque tiene miedo de salir lastimado o sentir que pasar tiempo a solas es lo único correcto.\n\nSal un poco afuera. La luz no está sólo en tu corazón, sino también en tus conexiones con los demás.",
+      "questions": [
+        "¿Me estoy aislando demasiado?",
+        "¿La interminable guerra fría está resolviendo problemas o escapando?",
+        "Si sigo reprimiéndome y sin comunicarme, ¿esta relación llegará a su fin?"
+      ],
+      "dos": [
+        "sashimi de arroz",
+        "ejercicio"
+      ],
+      "donts": [
+        "saltarse el desayuno",
+        "mal tiempo"
+      ]
+    }
+  },
+  {
+    "card_key": "the_wheel_of_fortune",
+    "upright": {
+      "affirmation": "El cambio también es una oportunidad",
+      "reading": "La rueda de la fortuna gira constantemente, simbolizando ciclos, cambios y transiciones: cada giro es una nueva posibilidad. Ahora mismo estás en un punto de inflexión y algo está cambiando.\n\nEs posible que encuentre una oportunidad inesperada, sienta que se está produciendo un cambio o se dé cuenta de que las cosas van en una buena dirección. Este es un buen momento para permanecer abierto, aprovechar las oportunidades que se presenten o confiar en que las cosas saldrán naturalmente. Evite resistirse por miedo al cambio, controlar demasiado los resultados deseados o perder oportunidades debido a la ansiedad.\n\nCree en la disposición del universo. La rueda está girando, sólo hay que dejarse llevar por la energía.",
+      "questions": [
+        "¿Cómo debería captar con precisión este reencuentro?",
+        "Mi relación de repente se calienta, ¿cómo la guío hacia la estabilidad?",
+        "¿Cómo puedo maximizar mis fortalezas?"
+      ],
+      "dos": [
+        "llama a un amigo primero",
+        "ver peliculas nuevas"
+      ],
+      "donts": [
+        "comunicación ineficaz",
+        "Comparar el progreso"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Pisa firme primero",
+      "reading": "Cuando las cosas van mal una tras otra, es fácil culparse por la mala suerte. En este momento sientes que tienes mala suerte y que las cosas siempre salen mal.\n\nLos mínimos cambiarán y no definirán tu futuro. Si aún no sabes qué hacer, espera pacientemente la oportunidad o aprende de los contratiempos. No dejes que la ansiedad te obligue a culpar al destino, a renunciar a todos tus esfuerzos o a negarte a ti mismo por un fracaso momentáneo.\n\nRecuerde: los mínimos no durarán para siempre; mientras siga avanzando, los máximos volverán.",
+      "questions": [
+        "Por mucho que lo intentes, no hay progreso. ¿Está agotado tu destino?",
+        "¿Estos pequeños accidentes repentinos me recuerdan algo?",
+        "Mi fortuna ha sido media últimamente, ¿cómo debo solucionarlo?"
+      ],
+      "dos": [
+        "meditación",
+        "Que tengas un buen descanso"
+      ],
+      "donts": [
+        "negarte a ti mismo",
+        "miembro"
+      ]
+    }
+  },
+  {
+    "card_key": "justice",
+    "upright": {
+      "affirmation": "Escuche a ambos lados.",
+      "reading": "La justicia simboliza la equidad, la verdad y la causa y efecto: es imparcial y ve las cosas como son. En este momento, debes afrontar las cosas con justicia.\n\nQuizás necesites tomar una decisión importante, enfrentar una verdad o darte cuenta de que \"cosecharás lo que siembras\". Este es un buen momento para evaluar objetivamente una situación, aceptar sus propias responsabilidades o tratar a los demás y a usted mismo de manera justa. Evite emitir juicios sesgados, eludir responsabilidades o engañarse por miedo a la verdad.\n\nLa honestidad y la justicia le brindarán un verdadero equilibrio. La verdad puede resultar incómoda, pero es el comienzo de la libertad.",
+      "questions": [
+        "Análisis racional, ¿sigue siendo digno de mi inversión?",
+        "¿Cómo puedo poner fin a la actual Guerra Fría con dignidad?",
+        "¿Mis resultados actuales reflejan mis verdaderos esfuerzos?"
+      ],
+      "dos": [
+        "organizar álbumes",
+        "carta para mi"
+      ],
+      "donts": [
+        "cheque ex amante",
+        "Yahukash en represalia"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Dime que triste estas",
+      "reading": "Claramente sentí que algo andaba mal, pero no podía explicar por qué era injusto. No es difícil encontrar una situación en la que sientas que no recibiste lo que mereces o que alguien está eludiendo sus responsabilidades.\n\nPrimero admite que este asunto te hace sentir agraviado y entonces sabrás cómo responder. Lo primero que puedes hacer es ser honesto acerca de cómo te sientes, sin caer en una mentalidad de víctima, sin usar la injusticia como excusa para no esforzarte más o perder la cabeza por la ira.\n\nLa verdadera justicia a veces lleva tiempo. Encuentre primero el equilibrio interior y poco a poco llegará la justicia exterior.",
+      "questions": [
+        "¿Es real la injusticia que siento?",
+        "¿Soy demasiado bondadoso, lo que hace que el equilibrio de esta relación se incline por completo?",
+        "¿Es la mejor opción en este momento frenar las pérdidas a tiempo?"
+      ],
+      "dos": [
+        "notas de humor",
+        "volver a la precaución"
+      ],
+      "donts": [
+        "Pensando en cosas malas",
+        "Responder con veneno"
+      ]
+    }
+  },
+  {
+    "card_key": "the_hanged_man",
+    "upright": {
+      "affirmation": "para y mira de nuevo",
+      "reading": "La tranquilidad de El ahorcado surge de un completo abandono: desde otra perspectiva, el mundo parece completamente diferente. En este momento es necesario detenerse y mirar las cosas desde una perspectiva diferente.\n\nEs posible que sienta que es necesario hacer una pausa en algo, que necesita dejar de lado ciertas obsesiones o que se dé cuenta de que \"tal vez lo he estado viendo mal todo el tiempo\". Este es un buen momento para dejar de luchar, aceptar que \"ahora no es el momento de actuar\" o repensar el problema desde una perspectiva diferente. Evite seguir adelante por miedo a perder el tiempo, negarse a dejarlo ir o sentir que hacer una pausa es un fracaso.\n\nSoltar no es darse por vencido, sino ver con mayor claridad. A veces hay que mirar el mundo al revés para ver la verdad.",
+      "questions": [
+        "¿Cuánto tiempo tengo que esperar para que las cosas mejoren?",
+        "Mi carrera está estancada, ¿debería continuar mis estudios?",
+        "¿Cómo dejo de lado la obsesión de \"debo ganar\"?"
+      ],
+      "dos": [
+        "descanso del teléfono inteligente",
+        "tomar un descanso"
+      ],
+      "donts": [
+        "viejo bucle de historia",
+        "corte de esquina"
+      ]
+    },
+    "reversed": {
+      "affirmation": "¿De qué tienes miedo?",
+      "reading": "Sigo diciendo \"espera un poco más\" durante mucho tiempo, a veces simplemente porque no me atrevo a bajar. En los últimos días, ha estado utilizando la espera como excusa para no tomar medidas o ha estado atrapado en la vacilación durante demasiado tiempo.\n\nNo habrá una respuesta automática si esperas más. Hoy pregúntate \"¿Qué estoy esperando?\" Reconozca el miedo detrás de la procrastinación o dé el primer paso. No se apresure a seguir utilizando \"aún no es el momento\" para evitarlo, no haga nada por miedo a tomar la decisión equivocada o glorifique la procrastinación hasta convertirla en sabiduría.\n\nEs necesario esperar un poco, pero esperar un poco es sólo miedo. Distinguirlos y actuar.",
+      "questions": [
+        "¿Estoy esperando el momento oportuno o procrastinando?",
+        "¿Debería detenerse este tipo de autoimpresión no correspondida?",
+        "¿Mi concesión resultó en que la asistencia técnica se volviera más estricta?"
+      ],
+      "dos": [
+        "salir temprano del trabajo",
+        "Crear una lista de tareas pendientes"
+      ],
+      "donts": [
+        "procrastinar",
+        "elección de duda"
+      ]
+    }
+  },
+  {
+    "card_key": "death",
+    "upright": {
+      "affirmation": "Si está vacío, habrá espacio.",
+      "reading": "La carta de la Muerte simboliza los finales, la transformación y el renacimiento; nunca es un final, sino más bien la entrada a la siguiente parte del viaje. Algo está dejando tu vida en este momento, pero es necesario.\n\nEs posible que estés experimentando el final de una relación, el final de una etapa o dándote cuenta de que un \"viejo yo\" necesita morir. Ahora es un buen momento para tomar la iniciativa de limpiar lo que no necesitas, despedirte simbólicamente o aceptar que “este final es para un mejor comienzo”. Evite resistirse al cambio, aferrarse a cosas que no debería o negarse a dejarlas ir por miedo a perder.\n\nPermitir que se produzca el cierre. Al igual que las hojas en otoño deben caer antes de que puedan crecer los nuevos brotes en primavera.",
+      "questions": [
+        "¿Cómo termino esta relación con gracia y sigo adelante?",
+        "¿Cómo puedo cambiar la parte de mi personalidad que me causa dolor?",
+        "¿Qué nuevo comienzo traerá este final?"
+      ],
+      "dos": [
+        "separarse",
+        "organizar álbumes"
+      ],
+      "donts": [
+        "medias excesivas",
+        "regalo de ex amante"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Es menos dificil terminar",
+      "reading": "Las cosas que sabes que debes entregar todavía están en el fondo de tu corazón. En este momento te estás aferrando a algo que deberías dejar ir o negarte a aceptar un final.\n\nCuanto más reprimas el pasado, más fuerzas consumirá. Es mejor preguntarse honestamente \"qué tengo miedo de perder\" y admitir \"tal vez sea el momento\". No utilices la procrastinación para evitar el cambio, no te aferres a él por miedo o sientas que dejarlo ir es una traición.\n\nLa resistencia no impedirá el cambio, sólo te hará sentir más miserable. Sólo dejando ir un poco habrá lugar para que realmente se produzca el cambio.",
+      "questions": [
+        "¿Tengo miedo de terminar la relación porque tengo miedo de quedarme solo?",
+        "¿Los tirones repetidos empeorarán mi lesión?",
+        "¿Qué tipo de falta de voluntad me impide comenzar una nueva vida?"
+      ],
+      "dos": [
+        "despierta naturalmente",
+        "ropa de cama nueva"
+      ],
+      "donts": [
+        "Recordar a tu ex",
+        "habitación abandonada"
+      ]
+    }
+  },
+  {
+    "card_key": "temperance",
+    "upright": {
+      "affirmation": "No te esfuerces demasiado",
+      "reading": "La templanza simboliza el equilibrio, la armonía y la paciencia; la verdadera sabiduría es encontrar el punto medio fluido entre los opuestos. En este punto, necesitas encontrar el camino intermedio.\n\nEs posible que tenga que elegir entre dos extremos, sienta la necesidad de integrar partes dispares o se dé cuenta de que el \"medio\" es la respuesta. Este es un buen momento para encontrar el equilibrio entre los opuestos, esperar pacientemente a que las cosas se desarrollen de forma natural o reconciliar suavemente voces dispares. Evite llegar a los extremos, apresurarse para obtener resultados rápidos o comprometerse demasiado por miedo al conflicto.\n\nLa verdadera sabiduría reside en el equilibrio. No se trata de blanco y negro, se trata de encontrar tu propia zona gris.",
+      "questions": [
+        "¿Cómo puedo resolver la brecha entre nosotros a través de una comunicación eficiente?",
+        "¿Cómo encontrar la frescura del amor en el embotamiento del agua que fluye?",
+        "¿Cómo equilibro el trabajo y la vida?"
+      ],
+      "dos": [
+        "Comer sin llenarte",
+        "trabajo y vida"
+      ],
+      "donts": [
+        "ignorar el agua potable",
+        "Té Hanón"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Encuentra lentamente tu ritmo",
+      "reading": "Por un lado, creo que estoy demasiado cansado, pero por otro, no puedo parar. Este tipo de tracción consume mucho. Este es un momento en el que te estás exagerando de alguna manera, te sientes fuera de control en tu vida o te encuentras oscilando entre dos extremos.\n\nReduce el exceso y el ritmo se irá estabilizando poco a poco. Puede comenzar con las pequeñas cosas: reevaluar las prioridades, reducir el exceso o admitir: \"Necesito ir más despacio\". Tenga cuidado de no seguir llegando a los extremos, de equilibrar desequilibrios con más desequilibrios o de negarse a admitir que ha ido demasiado lejos.\n\nEncuentra tu centro de nuevo. El verdadero equilibrio requiere ver honestamente dónde están las cosas fuera de equilibrio.",
+      "questions": [
+        "¿Cómo puedo encontrar una sensación de equilibrio en una relación fría y caliente?",
+        "¿Estoy dando demasiado y provocando que la relación se desequilibre por completo?",
+        "¿Cómo debo ajustar mi actual situación económica desequilibrada?"
+      ],
+      "dos": [
+        "Sin cel antes de dormir",
+        "cocodrilo"
+      ],
+      "donts": [
+        "bucle de historia negra",
+        "Olvidar el agua"
+      ]
+    }
+  },
+  {
+    "card_key": "the_devil",
+    "upright": {
+      "affirmation": "Manténgase alejado de cosas incómodas",
+      "reading": "La verdad que revela la carta del Diablo es que los grilletes que nos atan suelen ser mucho más flojos de lo que pensamos. En este momento, necesitas ver claramente lo que te ata.\n\nPuede que te des cuenta de que un hábito, una relación o una creencia te están limitando, pero nunca lo ves. Este es un buen momento para admitir honestamente: \"Estoy estancado\", ver una obsesión tal como es o darse cuenta de que \"realmente puedo irme\". Evite seguir mintiéndose a sí mismo, enmascarando una salud poco saludable con felicidad o permanecer en esclavitud por miedo al cambio.\n\nVer la verdad es el comienzo de la libertad. Las cadenas siempre están sueltas y puedes salir en cualquier momento.",
+      "questions": [
+        "¿Estoy en medio de un doloroso e inquebrantable 'amor sádico'?",
+        "¿Le agrado realmente o se siente atraído por mí física o materialmente?",
+        "¿Estoy siendo controlado por un hábito adictivo que está provocando que mi vida se estanque?"
+      ],
+      "dos": [
+        "descansar",
+        "Paseo postcomida"
+      ],
+      "donts": [
+        "Maratón nocturno",
+        "Té con leche full azúcar"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Ahora déjame ir",
+      "reading": "La cuerda que estaba demasiado apretada comenzaba a aflojarse un poco. En este caso, estás rompiendo un mal hábito, dejando una relación poco saludable o dándote cuenta de que ya no necesito esto.\n\nSer capaz de darte cuenta de que \"ya no necesito esto\" es un paso clave para salir del ciclo. Ahora es el momento de continuar este proceso liberador, buscar apoyo que le ayude a romper el ciclo o celebrar cada pequeño paso adelante. Trate de no darse por vencido a mitad de camino porque piensa que “ya es suficiente”, subestimar la dificultad de liberarse o darse por vencido después de un fracaso.\n\nIncluso si sucede una y otra vez, vuelve a centrar tu atención en lo que puedes hacer hoy.",
+      "questions": [
+        "Ahora que he visto sus verdaderos colores, ¿debería bloquearlo por completo y cortar el contacto con él?",
+        "¿Cómo vuelvo a mi verdadero yo después de esta relación controladora?",
+        "¿Cuál emoción es la sombra que necesito limpiar y afrontar más?"
+      ],
+      "dos": [
+        "Pollo Con Miel Y Mostaza",
+        "publicado en este momento"
+      ],
+      "donts": [
+        "Perfil de tu ex",
+        "maraña de cables"
+      ]
+    }
+  },
+  {
+    "card_key": "the_tower",
+    "upright": {
+      "affirmation": "Organicémoslos uno por uno.",
+      "reading": "La torre simboliza el colapso repentino, la revelación de la verdad y el cambio radical: sólo las estructuras construidas sobre mentiras pueden colapsar. En este punto, algo puede romperse, pero es necesario.\n\nEs posible que se enfrente a un cambio repentino, que de repente surja cierta verdad o que se dé cuenta de que \"todo el tiempo resultó ser una ilusión\". Este es un momento para aceptar que lo viejo debe caer, para mantener la calma en medio del caos o para creer que la caída debe conducir a una reconstrucción más verdadera. Evite negar lo que está sucediendo, luchar contra el cambio con ira o intentar recrear la forma en que fue por miedo.\n\nDéjalo colapsar. Sólo una torre construida sobre mentiras caerá y el fundamento de la verdad permanecerá.",
+      "questions": [
+        "Ante esta pelea, ¿debería dejarla pasar?",
+        "¿Qué verdad intenta decirme este argumento?",
+        "¿Cómo debo mantener la estabilidad interior ante cambios repentinos?"
+      ],
+      "dos": [
+        "ordenar la casa",
+        "comprar plantas verdes"
+      ],
+      "donts": [
+        "dudar",
+        "violencia a sangre fría"
+      ]
+    },
+    "reversed": {
+      "affirmation": "También admito que me equivoco",
+      "reading": "En la superficie se veía bien, pero en mi corazón sabía que estaba a punto de perder mis fuerzas. Por tu reacción, sabes que algo no está bien, pero estás tratando de mantener una apariencia de estabilidad.\n\nContinuar arrastrándolo sólo hará que la grieta sea más difícil de reparar. Hoy puedes empezar preguntándote \"¿A qué tengo miedo de derrumbarme?\", admitiendo \"tal vez sea hora de afrontarlo\", o tomar la iniciativa de desmontar las partes inestables. Deja de fingir que todo está bien, de tapar las grietas con más mentiras o de resistirte al cambio por miedo.\n\nEs mejor afrontarlo de forma proactiva que soportarlo de forma pasiva. En lugar de esperar a que colapse, tome la iniciativa de reconstruirlo.",
+      "questions": [
+        "¿A qué relación o situación estoy tratando de aferrarme que está destinada a desintegrarse?",
+        "¿Cómo debo recoger los pedazos de mis emociones rotas después de ese enorme conflicto?",
+        "¿Me he estado escondiendo en un edificio en ruinas porque tengo miedo al cambio?"
+      ],
+      "dos": [
+        "Revisión de datos",
+        "discusión"
+      ],
+      "donts": [
+        "asumir el trabajo",
+        "Guardar emociones"
+      ]
+    }
+  },
+  {
+    "card_key": "the_star",
+    "upright": {
+      "affirmation": "no me menosprecies",
+      "reading": "La estrella simboliza esperanza, curación y guía, brillando constantemente incluso después de la oscuridad más profunda. En este momento, la esperanza vuelve a tu vida.\n\nEs posible que sienta cierta ligereza, vea una dirección a seguir o crea que \"las cosas mejorarán\". Este es un buen momento para creer en un futuro mejor, tomarse el tiempo para curarse o seguir su guía interior. Evite verse frenado por traumas pasados, sentir que la esperanza es infantil o negarse a aceptar la curación.\n\nDate permiso para creer. Después de la noche más oscura, las estrellas seguirán brillando.",
+      "questions": [
+        "¿Cómo puedo abrirme a este sentimiento después de haber experimentado un dolor previo?",
+        "¿Debería intentar captar este latido perdido hace mucho tiempo?",
+        "Ahora que la dirección está clara, ¿cómo puedo mantenerme concentrado?"
+      ],
+      "dos": [
+        "comprar un ramo",
+        "querer"
+      ],
+      "donts": [
+        "hablar siniestramente",
+        "cargando telefono"
+      ]
+    },
+    "reversed": {
+      "affirmation": "esta bien descansar",
+      "reading": "Cuando hablas mal de ti mismo, ni siquiera puedes sentirte un poco feliz. En la vida te sientes perdido, sin rumbo o sientes que las cosas nunca volverán a mejorar.\n\nNo se apresure a criticarse a sí mismo. La decepción es sólo un sentimiento en este momento. Primero intenta admitir “estoy desesperado en este momento”, busca la compañía de los demás o haz una pequeña cosa para cuidar de ti mismo. No hay necesidad de fingir ser fuerte, renunciar a todos los esfuerzos por desesperación o rechazar cualquier posible esperanza.\n\nCon suerte, no volverá de repente, pero sí lentamente. Date algo de tiempo, las estrellas todavía están ahí, sólo temporalmente oscurecidas por nubes oscuras.",
+      "questions": [
+        "¿Creo que la otra persona es demasiado perfecta?",
+        "¿Cómo puedo ajustar mis expectativas excesivas y evitar que me lastimen?",
+        "¿Cómo puedo lograr mis objetivos a través de acciones prácticas?"
+      ],
+      "dos": [
+        "calcetines coloridos",
+        "leche tibia"
+      ],
+      "donts": [
+        "Quedarte en casa",
+        "quedarse despierto hasta tarde"
+      ]
+    }
+  },
+  {
+    "card_key": "the_moon",
+    "upright": {
+      "affirmation": "No creas en la ansiedad",
+      "reading": "La luna simboliza la incertidumbre, la intuición y el subconsciente; la niebla no es un obstáculo sino una invitación a mirar hacia dentro. En este punto, es posible que te sientas un poco confundido, pero eso es normal.\n\nEs posible que se sienta confundido, tenga sueños extraños o sienta que \"algo no está del todo bien pero no puede identificarlo\". Este es un buen momento para confiar en la intuición sobre la lógica, aceptar \"aún no está claro\" o explorar señales subconscientes. Evite darse por vencido porque no puede ver con claridad, sobreracionalizando e ignorando los sentimientos, o dejando que el miedo amplifique la incertidumbre.\n\nAvanzar en la niebla requiere intuición. El camino está más adelante, pero no puedes verlo temporalmente, pero conoces la dirección en el interior.",
+      "questions": [
+        "¿Mis inseguridades y dudas son porque algo realmente anda mal con él o ella?",
+        "¿Cómo debería encontrar una salida ante una ambigüedad que es a la vez invisible e intangible?",
+        "¿Cómo debo afrontar esas emociones negativas que he reprimido durante mucho tiempo?"
+      ],
+      "dos": [
+        "carta para mi",
+        "vieja cancion"
+      ],
+      "donts": [
+        "canción llorando",
+        "perder todo el dia"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Se vuelve más fácil cuando queda claro.",
+      "reading": "Después de desviarme durante mucho tiempo, finalmente sentí que podía ver la salida. Poco a poco, de repente verás algo claro, la confusión anterior empezará a tener respuestas, o te darás cuenta de que soy yo quien piensa demasiado.\n\nSi podemos aclarar un poco la confusión, habrá un camino a seguir. Primero, tómate un tiempo para ordenar los pensamientos previamente caóticos, transformar tu intuición en cognición clara o admitir que \"algunos miedos los creo yo mismo\". Recuerda no dudar de ti mismo, negarte a aceptar la verdad o sentir que la confusión anterior fue una pérdida de tiempo después de la claridad.\n\nCelebre la llegada de la claridad. La niebla es parte del proceso y ahora por fin se puede ver el camino.",
+      "questions": [
+        "¿Se ha revelado el malentendido que me ha estado molestando durante tanto tiempo?",
+        "¿Cómo salgo de mis luchas internas emocionales?",
+        "¿Cómo puedes utilizar esta claridad para avanzar?"
+      ],
+      "dos": [
+        "recompénsate",
+        "caminar en el parque"
+      ],
+      "donts": [
+        "obsesionado con el pasado",
+        "Dudar de todo"
+      ]
+    }
+  },
+  {
+    "card_key": "the_sun",
+    "upright": {
+      "affirmation": "Estoy feliz al contenido de mi corazón.",
+      "reading": "El sol simboliza el éxito, la alegría y la vitalidad; su calor no requiere condiciones, simplemente se da. En este momento estás rodeado de una cálida energía.\n\nEs posible que se sienta lleno de energía, de buen humor o que vea que las cosas van en buena dirección. Este es un buen momento para disfrutar de la belleza del momento, celebrar tus logros o afrontar la vida con una actitud positiva. No tengas miedo de disfrutarlo porque tienes miedo de perderlo.\n\nDate permiso para ser feliz. El sol brilla para ti, esto no es una ilusión, sino la belleza que te mereces.",
+      "questions": [
+        "¿Cómo manejo esta relación positivamente?",
+        "Si este proyecto se promociona públicamente, ¿logrará un éxito inesperado?",
+        "¿Cómo puedo mantener un estado de confianza en mi vida durante mucho tiempo?"
+      ],
+      "dos": [
+        "protección solar",
+        "registrar la vida diaria"
+      ],
+      "donts": [
+        "Ver solo la pantalla",
+        "Córtate las uñas por la noche"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Empujame menos",
+      "reading": "Obviamente no pasó nada importante, pero no podía emocionarme. De hecho, me falta energía e interés, o siento que la felicidad está muy lejos de mí.\n\nPrimero, tómate en serio tu aburrimiento y no te fuerces a ser feliz de inmediato. Luego comience preguntándose \"qué es lo que agota mi energía\", haciendo algo para nutrirse o buscando sol y calidez (en sentido literal o figurado). No te fuerces a ser feliz, no te culpes por no sentirte bien ni te niegues a admitir que necesitas un descanso.\n\nLa luz volverá lentamente. Tenga un poco de delicadeza, el sol sólo está temporalmente oscurecido por las nubes.",
+      "questions": [
+        "¿Mi excesivo entusiasmo presionó a la otra persona?",
+        "¿Cómo enfriar la relación y encontrar una sensación de solidez?",
+        "¿Tuve un pequeño ego que me llevó a este error?"
+      ],
+      "dos": [
+        "8 horas de sueño",
+        "Cuidado mínimo"
+      ],
+      "donts": [
+        "Cel a oscuras",
+        "Aguantar de más"
+      ]
+    }
+  },
+  {
+    "card_key": "judgement",
+    "upright": {
+      "affirmation": "Enfrentar las cosas importantes",
+      "reading": "El juicio simboliza el despertar, la evaluación y un nuevo llamado: esa voz más profunda que te llama hacia un yo más verdadero. En este momento, es posible que escuche una llamada interior o sienta que se está produciendo un despertar.\n\nPuede reevaluar decisiones pasadas, darse cuenta de un llamado superior o sentir que \"es el momento\". Este es un buen momento para evaluar honestamente tu vida, responder a tu llamado interior o perdonarte a ti mismo y a los demás en el pasado. Evite descuidar su vocación, castigarse por errores del pasado o rechazar oportunidades de renacer por miedo al cambio.\n\nEscuche su voz interior. El despertar ha comenzado y un nuevo tú está naciendo.",
+      "questions": [
+        "¿Cómo debo lidiar con que mi ex regrese?",
+        "¿Puedo tomar esta pausa crítica en mi carrera y crecer?",
+        "¿Cómo enfrento la verdadera voz que hay en lo más profundo de mí?"
+      ],
+      "dos": [
+        "rutina de ducha",
+        "plan de estudio"
+      ],
+      "donts": [
+        "Perfil de tu ex",
+        "emocional"
+      ]
+    },
+    "reversed": {
+      "affirmation": "No tienes que ser perfecto",
+      "reading": "Esa voz crítica en tu mente ha estado hablando demasiado alto últimamente. Cosas como: estás reflexionando sobre los errores del pasado, no puedes perdonarte a ti mismo o sientes que nunca seré lo suficientemente bueno.\n\nDeja de usar tus errores pasados ​​para restar puntos a tu yo actual una y otra vez. En lugar de intentar resolverlo todo ahora, practica la autocompasión, admitiendo \"Hice lo mejor que pude\" o dejando de lado tu obsesión por la perfección. No te apresures a castigar el presente con el pasado, no tengas miedo de actuar por temor a repetir tus errores ni te niegues a darte una segunda oportunidad.\n\nDeja ir el juicio. No tienes que ser perfecto, sólo tienes que seguir creciendo.",
+      "questions": [
+        "¿Ha terminado este destino?",
+        "¿Estoy evitando las opciones que tengo que afrontar?",
+        "¿Me estoy entregando demasiado a los recuerdos y consumiendo mi juventud?"
+      ],
+      "dos": [
+        "ámame",
+        "dormido"
+      ],
+      "donts": [
+        "lógica en blanco y negro",
+        "estas equivocado"
+      ]
+    }
+  },
+  {
+    "card_key": "the_world",
+    "upright": {
+      "affirmation": "Llegaste hasta aquí",
+      "reading": "La carta del Mundo simboliza la plenitud, la plenitud y la integración: cuando todo está completo, realmente comprendes el significado de este viaje. En este momento se está completando cierto ciclo.\n\nPodrías terminar un proyecto importante, alcanzar una meta o sentir que \"finalmente has llegado hasta aquí\". Este es un buen momento para celebrar sus logros, integrar las lecciones aprendidas o estar agradecido por el viaje. Evite sentirse vacío al alcanzar una meta, saltar a la siguiente meta sin celebrarlo o sentir que \"no fue suficiente\".\n\nPermítete sentirte completo. Has completado un ciclo importante y mereces ser celebrado.",
+      "questions": [
+        "¿Es hora de que nuestra relación avance?",
+        "¿Es TA el compañero de vida más adecuado para mí?",
+        "Parado en el nodo perfecto, ¿dónde está mi próximo nuevo viaje?"
+      ],
+      "dos": [
+        "Mantenga un diario de gratitud",
+        "auto regalo"
+      ],
+      "donts": [
+        "reprimir las emociones",
+        "pensamientos aleatorios"
+      ]
+    },
+    "reversed": {
+      "affirmation": "es suficiente por ahora",
+      "reading": "Hemos llegado al final, pero siempre siento que falta algo. Vale la pena detenerse a echar un vistazo al arrepentimiento de perderse el final.\n\nPero ahora no es el momento de detenerse. Elige una cosa para hacer primero: ceñirte al tramo final, integrar las partes no integradas o buscar apoyo que te ayude a completarlo. No hay necesidad de aflojar porque ves el final, pensar “ya está”, o autosabotarte porque tienes miedo al éxito.\n\nAguanta un poco más. El mundo está por delante, no te rindas en el último momento.",
+      "questions": [
+        "Es obvio que estoy casi a punto de alcanzar la iluminación, entonces ¿por qué siempre siento que todavía me falta un poco para alcanzarla?",
+        "¿Estoy siendo demasiado crítico en esta relación?",
+        "Estoy a un paso de mi objetivo, ¿cómo debo estabilizar mi mentalidad?"
+      ],
+      "dos": [
+        "aguantar hasta el final",
+        "Ajuste de condición"
+      ],
+      "donts": [
+        "emocionalmente tenso",
+        "Tómalo a la ligera"
+      ]
+    }
+  },
+  {
+    "card_key": "ace_of_cups",
+    "upright": {
+      "affirmation": "Se honesto cuando estés emocionado",
+      "reading": "El As de Copas simboliza la fuente de la emoción: clara, abundante y lista para fluir. En este momento, tu corazón se abre, listo para un nuevo comienzo.\n\nEs posible que tengas un sentimiento cálido en tu corazón en ciertos momentos: ver a alguien sonreír, escuchar una palabra o tener un deseo repentino de hacer algo. Estas son señales reales. Ahora es un buen momento para tomar la iniciativa de enviar mensajes a las personas en las que piensas, escribir los pensamientos en tu mente y pasar diez minutos a solas para preguntarte qué es lo que realmente quieres. Evite posponer las cosas \"pensando de nuevo\" o \"esperando\", o diciéndose \"olvídalo\" mientras el corazón late.\n\nCree en esos momentos que hacen latir tu corazón, ellos te están guiando.",
+      "questions": [
+        "¿Cómo debo abrir mi corazón para aceptar este latido?",
+        "¿Debo tomar la iniciativa para responder a este buen sentimiento en ciernes?",
+        "¿Qué nueva relación está brotando en mí?"
+      ],
+      "dos": [
+        "Hashagu",
+        "Almuerzo con tu crush"
+      ],
+      "donts": [
+        "Dejar en visto",
+        "emocionalmente tenso"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Está bien mantener la distancia",
+      "reading": "Es como si se hubiera cerrado una pequeña puerta en mi corazón y nadie quisiera responder si alguien se acerca. En este momento, no puedes sentir el flujo de emociones, no estás interesado en un nuevo comienzo o sientes que ya no quiero abrir mi corazón.\n\nCuando tu corazón esté cerrado, primero date un poco de amortiguamiento. Si todavía no sabes qué hacer, pregúntate \"qué es lo que me mantiene aislado\", date un poco de espacio para sanar o admite \"está bien que todavía no estoy listo\". No dejes que la ansiedad te obligue a abrirte, a culparte por estar cerrado o a sentir que \"nunca volveré a creer eso\".\n\nLa puerta de tu corazón se abrirá lentamente. Date tiempo y la gentileza volverá cuando estés listo.",
+      "questions": [
+        "¿Estoy tratando de complacer demasiado a la otra persona en esta relación?",
+        "Ante la ambigüedad de tener frío y calor, ¿cómo debería recuperar mis emociones?",
+        "No tengo absolutamente ninguna pasión por este trabajo, ¿debería continuar haciéndolo?"
+      ],
+      "dos": [
+        "Cambiar fondo de pantalla",
+        "entretenimiento nostálgico"
+      ],
+      "donts": [
+        "acostado en la cama",
+        "quejarse a espaldas"
+      ]
+    }
+  },
+  {
+    "card_key": "two_of_cups",
+    "upright": {
+      "affirmation": "Habla lo que piensas lentamente",
+      "reading": "El Dos de Copas simboliza la asociación, la conexión profunda y el entendimiento mutuo: dos corazones unidos, levantando juntos la copa de la emoción. En este momento, las relaciones son el foco.\n\nPodrías desarrollar una conexión profunda con alguien, sentirte comprendido o darte cuenta de que \"esta persona importa\". Este es un buen momento para tener una conversación profunda, expresar tus verdaderos sentimientos o invertir tiempo en una relación importante. Evite mantener la distancia por miedo, por no ser sincero en su cortesía superficial o por sentir que expresar sus sentimientos es debilidad.\n\nLa verdadera conexión requiere dos corazones abiertos. Déjate ver y ve a la otra persona.",
+      "questions": [
+        "¿Cómo debo guiar esta relación bidireccional para que se estabilice?",
+        "¿TA y yo realmente estamos enamorados del alma del otro?",
+        "¿Debería confiar más en la otra persona?"
+      ],
+      "dos": [
+        "promesa de enamoramiento",
+        "escuchar canciones de amor"
+      ],
+      "donts": [
+        "formales",
+        "demasiada pasión"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Dime antes de hacer pucheros",
+      "reading": "Cuando dos personas se sientan juntas, es posible que cada una esté pensando en cosas diferentes. No es difícil encontrar que no te sientes comprendido, que la relación se vuelve distante o que te das cuenta de que hay un problema entre nosotros.\n\nSólo hablando de las áreas incómodas de la relación podrás saber cómo seguir adelante. Lo primero que puede hacer es comunicarse honestamente y evaluar si la relación sigue siendo igualitaria, o reconocer que \"tal vez necesitemos adaptarnos\". No finjas que no hay problema, no sientas pena por ti mismo porque tienes miedo de perder, ni le eches toda la culpa a la otra persona.\n\nYa sea que una relación sea cómoda o no, ambas partes deben tener su lugar; si hay un desequilibrio, deberían repararlo juntos o repensarlo.",
+      "questions": [
+        "¿Cómo puedo romper el hielo entre él/ella y yo?",
+        "¿Estoy dando demasiado o recibiendo muy poco?",
+        "¿Cómo restablecer una conexión igualitaria?"
+      ],
+      "dos": [
+        "discreto",
+        "siesta temprano"
+      ],
+      "donts": [
+        "Spamear el feed",
+        "yin y yang"
+      ]
+    }
+  },
+  {
+    "card_key": "three_of_cups",
+    "upright": {
+      "affirmation": "compartamos la alegría",
+      "reading": "El Tres de Copas simboliza la amistad, la celebración y la alegría de la comunidad; cuando se comparte la emoción, fluye exponencialmente. Ahora es el momento de compartir tu felicidad con los demás.\n\nQuizás quieras celebrar algo, reunirte con amigos o sentir \"quiero conectarme con la gente\". Este es un buen momento para comunicarse con amigos, compartir buenas noticias o celebrar los logros de otras personas. Evite descuidar las relaciones porque está ocupado, porque siente que celebrar es una pérdida de tiempo o porque le da mucha vergüenza expresar alegría.\n\nLa felicidad se duplica compartiendo. Encuentra tu círculo de amigos y celebrad juntos la belleza de la vida.",
+      "questions": [
+        "¿Cómo debo integrarme en su círculo social?",
+        "¿Qué amistad me calienta más en este momento?",
+        "¿Cómo profundizar las relaciones?"
+      ],
+      "dos": [
+        "chatear con amigos",
+        "Check in y gourmet"
+      ],
+      "donts": [
+        "duda de ti mismo",
+        "sentado"
+      ]
+    },
+    "reversed": {
+      "affirmation": "No lo fuerces para que encaje.",
+      "reading": "Después de que terminó la diversión, la sensación de quedarse atrás de repente se hizo obvia. Estos días te sientes distante de tus amigos, te sientes excluido o sientes que nadie me entiende.\n\nNo es de extrañar sentir este tipo de soledad, no te apresures a reprimirla. Hoy podría ser un buen día para acercarte a los demás, admitir que \"necesito una conexión\" o reevaluar la calidad de tus amistades. No se apresure a seguir aislándose, rechazando todas las relaciones porque está herido o sintiendo que \"no necesito a nadie\".\n\nEl aislamiento no es fuerza, es dolor. Comuníquese y alguien siempre responderá.",
+      "questions": [
+        "¿Existe una 'tercera persona' en la relación?",
+        "¿Cómo reconectarse socialmente?",
+        "Cuando termine el carnaval, ¿cómo debo afrontar los sentimientos reales y solitarios de mi corazón?"
+      ],
+      "dos": [
+        "bebida caliente",
+        "el plan de esta semana"
+      ],
+      "donts": [
+        "Obligándote a encajar",
+        "Bajón nocturno"
+      ]
+    }
+  },
+  {
+    "card_key": "four_of_cups",
+    "upright": {
+      "affirmation": "mira lo que tienes",
+      "reading": "El Cuatro de Copas simboliza un estado de cosas sutil: cuando estamos inmersos en la insatisfacción, a menudo no vemos las nuevas oportunidades que se nos presentan. En este momento, es posible que te estés concentrando en lo que falta e ignorando nuevas posibilidades.\n\nEs posible que se sienta insatisfecho, piense \"ya está\" o se quede estancado en el pasado. Este es un buen momento para reexaminar lo que tiene, darse cuenta de las oportunidades que se han pasado por alto o preguntarse: \"¿A qué me estoy aferrando?\". Evite ver sólo los defectos, rechazar lo nuevo porque no está satisfecho o regodearse en arrepentimientos de \"qué pasaría si\".\n\nBuscar. Puede que el universo esté ofreciendo nuevas posibilidades, pero aún no lo has notado.",
+      "questions": [
+        "¿Cómo debo abrir mi corazón y aceptar su búsqueda?",
+        "¿Cómo encontrar pasión en una relación cansada?",
+        "¿Cómo superar los arrepentimientos?"
+      ],
+      "dos": [
+        "Organiza tu armario",
+        "nuevo plato"
+      ],
+      "donts": [
+        "despertarse temprano",
+        "Salir con lluvia"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Abre nuevas opciones también",
+      "reading": "Opciones que hasta ahora no había notado comenzaron a aparecer ante mis ojos. Ahora es el momento de despertar de su adicción, darse cuenta de que hay otras opciones o prepararse para aceptar nuevas oportunidades.\n\nEsta vez, al mirar hacia arriba, vi que efectivamente había más opciones frente a mí. Es mejor dejar de lado primero las obsesiones del pasado, tomar la iniciativa de explorar nuevas posibilidades o decir \"sí\" a cosas nuevas. No te atrevas a intentarlo aunque lo veas, niégate porque tienes miedo de volver a decepcionarte o continúa entregándote a una insatisfacción segura.\n\nEsté dispuesto a responder a nuevas invitaciones y los días avanzarán un poquito. Acepta nuevas invitaciones y descubrirás más belleza.",
+      "questions": [
+        "¿Estoy listo para superar una situación que me ha estado molestando durante tanto tiempo?",
+        "¿Habrá alguien nuevo en tu vida que merezca atención en un futuro próximo?",
+        "¿Qué traerá esta nueva oportunidad?"
+      ],
+      "dos": [
+        "Mercado local",
+        "nueva tienda al lado"
+      ],
+      "donts": [
+        "Direcciones",
+        "Mirar el cel"
+      ]
+    }
+  },
+  {
+    "card_key": "five_of_cups",
+    "upright": {
+      "affirmation": "Aunque sea triste, va despacio.",
+      "reading": "El Cinco de Copas simboliza la pérdida y el dolor: nos recuerda que cuando sólo nos centramos en lo que ha caído, a menudo pasamos por alto lo que aún está intacto. En este momento, es posible que esté experimentando una pérdida.\n\nEs posible que haya perdido algo importante, que se sienta triste o que solo vea las partes perdidas. Este es un buen momento para permitirse llorar, lamentar lo que se ha perdido, pero también recordar lo que queda. Evite regodearse en el dolor, ver sólo las pérdidas pero no las posesiones, o negarse a seguir adelante debido al dolor.\n\nEs normal estar triste, pero no olvides darte la vuelta y ver qué queda atrás.",
+      "questions": [
+        "¿Cómo debería despedirme con gracia de esta relación?",
+        "¿Hay alguien a mi alrededor que en secreto se preocupa por mí?",
+        "¿Qué nuevo camino me espera?"
+      ],
+      "dos": [
+        "diario de pensamientos",
+        "poesía artesanal"
+      ],
+      "donts": [
+        "Releer el chat",
+        "tía nocturna"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Llora y cuidame",
+      "reading": "Después de llorar lo suficiente, finalmente pude levantar un poco la cabeza de la colcha. En este momento, comienzas a aceptar la pérdida, ves lo que queda o te preparas para empezar de nuevo.\n\nSi puedes ver lo que queda atrás, significa que estás avanzando. Puedes empezar con estas pequeñas cosas: estar agradecido, tomar la iniciativa de hacer cosas que te hagan feliz o permitir que nuevas personas entren en tu vida. No te atrevas a tener algo porque tienes miedo de volver a perderlo, sientes que salir del duelo es una traición o te obligas a “tener que ser feliz”.\n\nLa pérdida quedará en la memoria, pero no tiene por qué ocupar los días posteriores. Puedes llevar contigo tus recuerdos perdidos mientras abrazas nuevas posibilidades.",
+      "questions": [
+        "¿Cómo acepto la pérdida y sigo adelante?",
+        "¿Debería darle otra oportunidad a la otra persona?",
+        "¿Cómo puedo convertir el dolor de mi pasado en fuerza para seguir adelante?"
+      ],
+      "dos": [
+        "abre la ventana",
+        "paseo nocturno por el parque infantil"
+      ],
+      "donts": [
+        "violación de luz roja",
+        "Dejar en visto"
+      ]
+    }
+  },
+  {
+    "card_key": "six_of_cups",
+    "upright": {
+      "affirmation": "Me recuerda a un viejo amigo",
+      "reading": "El Seis de Copas simboliza la nostalgia, la inocencia y los buenos tiempos del pasado, esos tiernos recuerdos que a veces nos llaman suavemente. El pasado te está llamando ahora mismo.\n\nPuede pensar en viejos tiempos, encontrarse con viejos amigos o sentir: \"Fue un momento tan bueno\". Este es un buen momento para conectarse con viejos amigos, recordar buenos momentos o encontrar sabiduría en experiencias pasadas. Evite caer en la ilusión de que \"el pasado fue mejor\", rechazar el presente por nostalgia o utilizar el pasado para escapar del presente.\n\nLos recuerdos son un regalo, pero no te quedes ahí. Con la calidez del pasado, continúa avanzando hacia el futuro.",
+      "questions": [
+        "¿Cómo debo lidiar con su contacto repentino?",
+        "¿Esta relación me proporciona seguridad?",
+        "¿Qué arrepentimiento infantil se cura en esta relación?"
+      ],
+      "dos": [
+        "album infantil",
+        "recuerdos de viejas canciones"
+      ],
+      "donts": [
+        "rechazar la bondad",
+        "alardear"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Cuido mis recuerdos hoy también",
+      "reading": "Si miras fotos antiguas durante demasiado tiempo, los días que tienes por delante fácilmente quedarán de lado. En este caso, estás atrapado en pensamientos que eran mejores en aquel entonces, negándote a afrontar el presente o utilizando la nostalgia para evitar crecer.\n\nPuedes conservar los recuerdos, pero no permitas que se apoderen de tu vida actual. Este es un mejor momento para reconocer que el pasado ya pasó, devolver la atención al presente o aceptar que el presente puede ser igual de bueno. Intenta no seguir definiéndote por el pasado, aferrarte a los recuerdos por miedo al cambio o negarte a crear cosas nuevas y hermosas.\n\nEl pasado son recuerdos, pero el presente es vida. Déjate llevar, una nueva belleza te espera para crear.",
+      "questions": [
+        "¿Estoy pensando demasiado en el pasado?",
+        "¿Qué viejo modelo emocional ya no me conviene?",
+        "¿Cómo crear nueva belleza en el presente?"
+      ],
+      "dos": [
+        "Elogios de Cody",
+        "buenos recuerdos"
+      ],
+      "donts": [
+        "Stalkear a tu ex",
+        "pasado dificil"
+      ]
+    }
+  },
+  {
+    "card_key": "seven_of_cups",
+    "upright": {
+      "affirmation": "Compruébalo una vez más",
+      "reading": "El Siete de Copas simboliza elecciones, ilusiones y la necesidad de distinguir la realidad de la ficción: cuando hay demasiadas tentaciones frente a ti, la sobriedad se vuelve particularmente importante. En este momento, no te dejes engañar por las apariencias.\n\nEs posible que se enfrente a muchas opciones, se sienta atraído por hermosas ilusiones o sienta que \"las quiere todas pero no sabe cuál es real\". Este es un buen momento para preguntarse \"¿qué es real?\", ver la verdad detrás de la apariencia o dejar de lado fantasías poco realistas. Evite dejarse engañar por ilusiones, soñar despierto en lugar de actuar, o sentirse abrumado por las opciones y no elegir nada en absoluto.\n\nNo todo lo que reluce es oro. Siente con tu corazón qué elección es real.",
+      "questions": [
+        "Ante tantas opciones, ¿quién es la persona que realmente quiero en mi corazón?",
+        "¿Pensé en él o ella demasiado perfectamente?",
+        "¿Cómo priorizo mis objetivos?"
+      ],
+      "dos": [
+        "buen momento",
+        "sonido de hojas"
+      ],
+      "donts": [
+        "Elige el dolor",
+        "consumo impulsivo"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Concéntrate en lo que estás haciendo ahora",
+      "reading": "Una vez que se apaga el filtro, aquellas cosas que se ven hermosas deben mirarse nuevamente. La reacción es que te despiertas del sueño, te das cuenta de que no es real o te preparas para afrontar la realidad.\n\nUna vez que se retira el filtro, queda claro lo que realmente se puede hacer. Hoy puedes dejar de lado fantasías poco realistas, reconocer la realidad o dedicar tu energía a metas reales. No hay necesidad de desesperarse por la desilusión, rechazar todos los sueños o escapar de la sobriedad con más fantasías.\n\nLa realidad no es necesariamente peor que la fantasía. A veces, la verdadera elección es la mejor.",
+      "questions": [
+        "¿A qué ilusiones tentadoras pero irreales debería renunciar?",
+        "¿Cómo puedo mantener la calma ante la tentación y evitar caer en una peligrosa ambigüedad?",
+        "¿Cómo logro mis deseos más profundos?"
+      ],
+      "dos": [
+        "carga y extinción",
+        "leer en voz alta"
+      ],
+      "donts": [
+        "indefenso",
+        "pastel bimestral"
+      ]
+    }
+  },
+  {
+    "card_key": "eight_of_cups",
+    "upright": {
+      "affirmation": "Puedes decir adiós, adiós.",
+      "reading": "El Ocho de Copas simboliza el coraje de partir: dejar ir lo que tienes y encontrar un significado más profundo, lo que requiere verdadera fuerza interior. En este momento, también necesitas ese coraje.\n\nEs posible que sienta que lo que tiene ya no le satisface, que necesite abandonar un lugar que le resulta cómodo pero que no es el adecuado, o que se dé cuenta de que \"necesito encontrar más\". Ahora es el momento de perseguir con valentía tus verdaderos deseos o embarcarte en un viaje de autoexploración. Evite quedarse en el lugar equivocado por miedo, o miedo a salir por incertidumbre.\n\nSe necesita coraje para partir, pero aún más para permanecer en el lugar equivocado. Confía en tu guía interior.",
+      "questions": [
+        "¿Debo dejar esta relación de manera decisiva?",
+        "¿No somos lo suficientemente compatibles mentalmente para continuar?",
+        "¿Hasta dónde llegaré después de tomar la iniciativa de salir de mi zona de confort?"
+      ],
+      "dos": [
+        "Mirar bichitos",
+        "ver una película solo"
+      ],
+      "donts": [
+        "compromiso",
+        "abnegación"
+      ]
+    },
+    "reversed": {
+      "affirmation": "No tienes que elegir de inmediato.",
+      "reading": "Durante mucho tiempo me debatí mentalmente si debía irme o no. En la vida, tienes miedo al cambio, no estás seguro de si irte es lo correcto o te das cuenta de que tal vez debería quedarte.\n\nAnotar claramente los motivos de tu marcha o marcharte es más práctico que posponerlo todo el tiempo. Primero intente reevaluar sus elecciones, pregúntese \"¿Estoy huyendo o buscando?\", o admita \"está bien quedarme por ahora\". No permita que el miedo le impida irse, posponga las cosas en lugar de decidir ni se obligue a tomar una decisión.\n\nEstá bien irse o quedarse. Lo importante es que sepas tu por qué.",
+      "questions": [
+        "En esta relación agotada, ¿debería irme?",
+        "¿Cuál es la verdadera elección, quedarse o irse?",
+        "¿Cómo puedo reparar mi vida actual y encontrar mi amor nuevamente?"
+      ],
+      "dos": [
+        "ejercicio ligero",
+        "A mi futuro yo"
+      ],
+      "donts": [
+        "Pegada al cel",
+        "acosado repetidamente"
+      ]
+    }
+  },
+  {
+    "card_key": "nine_of_cups",
+    "upright": {
+      "affirmation": "Disfrútalo al contenido de tu corazón.",
+      "reading": "El Nueve de Copas simboliza el cumplimiento de los deseos, la satisfacción y la abundancia emocional: cuando el corazón se nutre, todo brilla de satisfacción. En este momento tu deseo se está haciendo realidad.\n\nEs posible que se sienta satisfecho, vea los resultados de sus esfuerzos o se dé cuenta de que \"lo que tengo es suficientemente bueno\". Este es un buen momento para disfrutar la alegría del momento, agradecer lo que tienes o celebrar el cumplimiento de un deseo. Evita perder la motivación por estar demasiado satisfecho, sentir que la felicidad es pasajera o tener miedo de disfrutarla porque tienes miedo de perderla.\n\nPermítete estar contento. Te mereces esta felicidad, disfrútala.",
+      "questions": [
+        "En esta relación, ¿ya lo he conseguido?",
+        "Mis notas son muy buenas ahora. ¿Puedo relajarme un poco?",
+        "He tenido suerte últimamente, ¿cómo debería recompensarme?"
+      ],
+      "dos": [
+        "pastel",
+        "selfies variados"
+      ],
+      "donts": [
+        "Cambios temporales a los planes",
+        "Culpar a los demás"
+      ]
+    },
+    "reversed": {
+      "affirmation": "encontrar mi ritmo",
+      "reading": "Conseguí la cosa, pero no estaba tan feliz como imaginaba. Poco a poco, sientes que aún no has llegado a ese punto, que lo tienes pero no eres feliz, o te das cuenta de que esto no es lo que realmente quiero.\n\nPregúntate de nuevo, ¿qué es lo que realmente quieres? Date un tiempo para preguntarte \"qué es lo que realmente quiero\", redefinir los estándares de satisfacción o admitir que \"la satisfacción material no es igual a la satisfacción espiritual\". Recuerda no perseguir siempre \"más\", negar lo que tienes porque no estás satisfecho o utilizar el exterior para llenar el vacío interior.\n\nLa satisfacción no proviene necesariamente de obtener un poco más. Primero debes identificar lo que realmente te falta.",
+      "questions": [
+        "¿La relación se basa únicamente en cosas materiales?",
+        "¿Estoy demasiado confiado y estoy perdiendo el apoyo de mi equipo?",
+        "¿Estoy descuidando a la otra persona en esta relación?"
+      ],
+      "dos": [
+        "Organiza tu armario",
+        "vieja pelicula"
+      ],
+      "donts": [
+        "gasto indiscriminado",
+        "Autoanálisis"
+      ]
+    }
+  },
+  {
+    "card_key": "ten_of_cups",
+    "upright": {
+      "affirmation": "sintamos juntos",
+      "reading": "El Diez de Copas simboliza la plenitud emocional, la armonía familiar y la felicidad duradera: cuando el amor fluye y se comparte, se convierte en la abundancia más profunda. En este momento, la felicidad te rodea.\n\nEs posible que se sienta en armonía con su familia o su pareja, experimente una felicidad duradera o se dé cuenta de que \"esta es la vida que quiero\". Ahora es un buen momento para disfrutar del tiempo con las personas cercanas a ti, agradecer la armonía o realizar algunas celebraciones rituales por esta felicidad. Evita sentirte ansioso por estar demasiado feliz, sentir que “los buenos tiempos no durarán mucho”, o descuidar esta belleza.\n\nEsta felicidad es real. Apreciadlo, merece ser celebrado.",
+      "questions": [
+        "¿Es él/ella la mejor persona para formar una familia conmigo?",
+        "¿Es este el mejor lugar para mí?",
+        "¿Cómo debo proteger esta felicidad ordinaria y preciosa?"
+      ],
+      "dos": [
+        "arroz shinnae",
+        "cazando"
+      ],
+      "donts": [
+        "se derrumbó en el acto",
+        "muestra tu cara"
+      ]
+    },
+    "reversed": {
+      "affirmation": "El vacío se llena lentamente",
+      "reading": "Cuanto más cerca estés de alguien, más fácil te resultará hablar sobre asuntos triviales. Interiormente, en realidad estamos teniendo conflictos con familiares u otras personas importantes, sintiéndonos emocionalmente destrozados o dándonos cuenta de que hay un problema entre nosotros.\n\nSi hay nudos en la relación, háblalo lentamente. Luego, tome la iniciativa de comunicarse, reconocer el problema en la relación o buscar ayuda profesional para repararlo. No siempre finjas que todo es normal, no eches la culpa a la otra persona ni evites el conflicto por miedo.\n\nEs posible que la relación no mejore de inmediato, pero es posible repararla si se habla de ello.",
+      "questions": [
+        "¿Qué destruye la armonía en las relaciones?",
+        "¿Cómo reparar las conexiones emocionales?",
+        "¿Qué puedo hacer para mejorar la relación?"
+      ],
+      "dos": [
+        "nuevo genero",
+        "reconciliación"
+      ],
+      "donts": [
+        "aburrido en casa",
+        "corte de esquina"
+      ]
+    }
+  },
+  {
+    "card_key": "page_of_cups",
+    "upright": {
+      "affirmation": "Puedo sentir la bondad",
+      "reading": "La Sota de Copas simboliza mensajes sensibles, creativos y emocionales: recibe señales desde lo más profundo de su interior con un corazón puro y abierto. En este momento, mantente emocionalmente sensible.\n\nEs posible que reciba buenas noticias, sienta emociones sutiles o obtenga nueva inspiración para el arte y la belleza. Este es un buen momento para expresar creatividad, escuchar tu voz interior o tratarte a ti mismo y a los demás con gentileza. Evite reprimir los sentimientos, ver las emociones como debilidad o ignorar las señales internas porque es \"demasiado sensible\".\n\nLa sensibilidad es un regalo. Permítete sentir y llegarán buenas noticias.",
+      "questions": [
+        "¿Cómo debo responder amablemente al mensaje de él/ella?",
+        "¿Puede esta relación sincera convertirse en una relación positiva?",
+        "¿Cómo debo expresar mi creatividad?"
+      ],
+      "dos": [
+        "bucle único",
+        "grafiti"
+      ],
+      "donts": [
+        "falta de almacenamiento",
+        "pensamientos aleatorios"
+      ]
+    },
+    "reversed": {
+      "affirmation": "No me obligues a moverme.",
+      "reading": "Sentí que mi corazón estaba en silencio, e incluso la emoción llegó un poco lentamente. El estado es como: no puedes sentir emociones, sientes que tu creatividad está bloqueada o sientes que estoy entumecido.\n\nCuando su corazón se siente entumecido, no es necesario que se esfuerce por sentirlo de inmediato. En lugar de tratar de resolverlo todo ahora, pregúntese \"¿qué me adormece?\", haga algo que lo desencadene emocionalmente o busque ayuda para reconectarse. Cuando los sentimientos lleguen lentamente, no se asuste pensando \"¿Estoy roto?\"\n\nLa emoción volverá poco a poco. Date un poco de ternura y deja que los sentimientos fluyan.",
+      "questions": [
+        "¿Soy demasiado amoroso y estoy presionando a la otra persona?",
+        "¿Cómo debería curarme de mi personalidad demasiado sensible?",
+        "¿Me estoy entregando a fantasías poco realistas?"
+      ],
+      "dos": [
+        "entretenimiento nostálgico",
+        "credo de uñas"
+      ],
+      "donts": [
+        "caso verde",
+        "emocional"
+      ]
+    }
+  },
+  {
+    "card_key": "knight_of_cups",
+    "upright": {
+      "affirmation": "Me acerco a ti sinceramente.",
+      "reading": "El Caballero de Copas simboliza la búsqueda, el romance y la expresión emocional: está dispuesto a seguir adelante con valentía por el amor que hay en su corazón. Ahora, sé lo suficientemente valiente para expresar tu corazón.\n\nEs posible que desees expresar sentimientos, perseguir un ideal o sentir \"quiero hacer algo por amor\". Este es un buen momento para expresar sus sentimientos de manera romántica, actuar según sus ideales o expresar sus sentimientos de manera creativa. Evite tener demasiado miedo de expresarse por miedo al rechazo, idealizar demasiado y perder el contacto con la realidad, o sentir que el romance es infantil.\n\nCree en el poder del amor y los ideales. La expresión sincera merece respeto.",
+      "questions": [
+        "¿Cómo expreso mi amor?",
+        "¿Se acerca un giro romántico a mi vida?",
+        "¿Cómo uso mi carisma?"
+      ],
+      "dos": [
+        "pequeño regalo",
+        "vacaciones"
+      ],
+      "donts": [
+        "vacaciones desperdiciadas",
+        "Guardártelo todo"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Empezar poco a poco",
+      "reading": "Cuando piensas demasiado en lo que te gusta, la realidad puede resultar fácilmente decepcionante. Tu respuesta: vives en una fantasía, utilizas el romance para escapar de la realidad o te das cuenta de que no estoy siendo realista.\n\nVuelve a hacer realidad tu amor y echa un vistazo. Elija una cosa para hacer primero: volver a la realidad, evaluar si su ideal es factible o admitir \"necesito ser más práctico\". No tienes que renunciar a todos tus ideales por la realidad, sentir que el romance está mal o reprimir tus emociones con frialdad.\n\nLos ideales y la realidad pueden coexistir. Sólo encontrando el equilibrio podrás realmente realizar tus sueños.",
+      "questions": [
+        "¿Me ama sinceramente?",
+        "¿Me enamoré de la persona real o de la sombra de mi fantasía?",
+        "¿Estoy siendo demasiado escapista de la realidad y viviendo en un sueño?"
+      ],
+      "dos": [
+        "masaje de relajación",
+        "hacer un plan"
+      ],
+      "donts": [
+        "discutiendo",
+        "boca grande"
+      ]
+    }
+  },
+  {
+    "card_key": "queen_of_cups",
+    "upright": {
+      "affirmation": "Cuida mi corazón también",
+      "reading": "La Reina de Copas simboliza la madurez emocional, la intuición y la compasión; guarda la profundidad emocional de una manera gentil pero firme. En este momento, enfrenta tus emociones de manera madura.\n\nEs posible que necesites tratar a los demás con compasión, escuchar tu intuición interna o encontrar un equilibrio entre las emociones y los límites. Este es un buen momento para comunicarse con suavidad pero con firmeza, confiar en su intuición o brindar apoyo emocional a los demás. Evite dar demasiado y descuidarse, manipular emocionalmente a los demás o ser demasiado amable y perder los límites.\n\nLa verdadera gentileza contiene fuerza. Puedes ser compasivo y protegerte al mismo tiempo.",
+      "questions": [
+        "Si siento su amor, ¿debería confiar más en él?",
+        "¿Cómo gestiono esta relación mutuamente enriquecedora a largo plazo?",
+        "¿Cómo afrontar las emociones de forma madura?"
+      ],
+      "dos": [
+        "Buscar inspiración",
+        "Té con leche de bandan"
+      ],
+      "donts": [
+        "falta de sueño",
+        "no comer bien"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Si no te gusta, recházalo.",
+      "reading": "Una vez que las emociones de otras personas te inundan, casi no hay lugar para tus propios sentimientos. En este punto, das demasiado, te sientes abrumado por la emoción o te das cuenta de que estoy cuidando de todos menos de mí mismo.\n\nReserva también un lugar para cuidarte. Si todavía no sabes qué hacer, primero restablece los límites, mantén un poco de amor para ti mismo o admite: \"Yo también merezco que me cuiden\". No dejes que la ansiedad te obligue a seguir dando demasiado, a sentirte demasiado culpable para decir que no o a sentir que cuidar de ti mismo es egoísta.\n\nGuarda también un poco de ternura hacia ti mismo, para que los límites no desperdicien tu amor.",
+      "questions": [
+        "¿Cómo puedo dejar de lado mis sospechas y recuperar la cordura?",
+        "¿Estoy siendo demasiado emocional y gastando demasiado en la relación?",
+        "¿He comprometido mis resultados al desbordar de compasión?"
+      ],
+      "dos": [
+        "nuevo estilo",
+        "silencio"
+      ],
+      "donts": [
+        "comodidad personal",
+        "People pleaser"
+      ]
+    }
+  },
+  {
+    "card_key": "king_of_cups",
+    "upright": {
+      "affirmation": "También controlo mis emociones.",
+      "reading": "El Rey de Copas simboliza el dominio emocional, la sabiduría y la profundidad; sabe cómo encontrar un equilibrio fácil entre la sensibilidad y la razón. En este momento, enfrenta tus emociones con sabiduría.\n\nEs posible que necesite encontrar un equilibrio entre la emoción y la razón, manejar las relaciones de manera madura o brindar consejos sabios a los demás. Ahora es un buen momento para mantener la estabilidad emocional, utilizar la razón para analizar cuestiones emocionales o mantener la calma en el caos. Evite reprimir excesivamente las emociones, utilizar la razón para evitar sentimientos o perder su humanidad por estar demasiado tranquilo.\n\nEl poder real es la combinación de emoción y razón. Puedes ser profundo sin dejar de ser estable.",
+      "questions": [
+        "¿Cómo equilibrar emoción y razón?",
+        "¿Cómo tomo silenciosamente el control de esta relación?",
+        "¿Cómo afrontar las relaciones interpersonales complejas en el lugar de trabajo?"
+      ],
+      "dos": [
+        "estar tranquilo",
+        "agua tibia"
+      ],
+      "donts": [
+        "fuerza bruta",
+        "usar pantuflas"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Habla menos cuando estés enojado",
+      "reading": "Reprimirse o estallar no es una solución cómoda. No es difícil descubrir que estás abrumado por las emociones, que eres demasiado frío y pierdes los sentimientos, o pierdes el equilibrio entre la emoción y la razón.\n\nSi sus emociones están confusas, encuentre una manera segura de ordenarlas lentamente. Lo primero que puede hacer es admitir: \"Estoy fuera de control\" y buscar ayuda para lidiar con sus emociones o encontrar el equilibrio nuevamente. No continúe reprimiendo ni explotando, no utilice más control para encubrir una pérdida de control ni se niegue a admitir que necesita ayuda.\n\nLa pérdida de control es temporal. Encuentra de nuevo el equilibrio y las emociones volverán a fluir.",
+      "questions": [
+        "¿Estoy cayendo bajo el control mental de la otra persona?",
+        "¿Quiero seguir involucrado en este juego emocional?",
+        "¿Estoy evitando algunas responsabilidades que tengo que afrontar?"
+      ],
+      "dos": [
+        "lávate bien la cara",
+        "beber hablar"
+      ],
+      "donts": [
+        "Presta atención a los demás",
+        "carga baja"
+      ]
+    }
+  },
+  {
+    "card_key": "ace_of_wands",
+    "upright": {
+      "affirmation": "Si te llega la pasión, hazlo.",
+      "reading": "El As de Bastos simboliza la creatividad, el entusiasmo y los nuevos comienzos: ese fuego interior listo para encender todas las posibilidades. En este momento, se enciende el fuego dentro de ti.\n\nEs posible que de repente te entusiasmes con una idea, sientas una fuerte necesidad de crear o quieras comenzar un nuevo proyecto. Ahora es un buen momento para aprovechar ese entusiasmo y actuar, escribir sus ideas o compartir su visión con los demás. Evite reprimir su entusiasmo porque \"aún no lo ha descubierto\", esperar hasta el momento perfecto para comenzar o tener miedo de expresarse porque tiene miedo al fracaso.\n\nConfía en tu pasión. Es un regalo del universo para decirte adónde ir.",
+      "questions": [
+        "¿Cómo convertir la atracción instantánea en motivación a largo plazo para llevarse bien?",
+        "¿Vale la pena continuar con esta nueva y tensa relación?",
+        "¿Cómo convertir la pasión en acción?"
+      ],
+      "dos": [
+        "Mantenga un diario de gratitud",
+        "nueva frase"
+      ],
+      "donts": [
+        "vídeo duro",
+        "No declarar"
+      ]
+    },
+    "reversed": {
+      "affirmation": "No fuerces tu pasión",
+      "reading": "Al principio me sentí un poco enérgico, pero luego me sentí desanimado nuevamente. En los últimos días, ha perdido interés en las cosas que antes le entusiasmaban o siente que su creatividad ha sido bloqueada.\n\nBusque lo que está agotando su energía. Hoy también podrías preguntarte \"¿Qué apagó mi entusiasmo?\", volver al punto original que te entusiasmó en primer lugar o descansar un poco para recargar energías. No te fuerces a mantener el entusiasmo, ni te rindas porque no estás en buena forma ni sientas que \"nunca volveré a sentirme inspirado\".\n\nEl entusiasmo volverá. A veces es necesario apagar temporalmente una llama para que arda con más fuerza.",
+      "questions": [
+        "¿Vale la pena mi compromiso continuo con esta relación?",
+        "Siento algo por él o ella, pero ¿por qué no puedo hacer el esfuerzo de seguir adelante con la relación?",
+        "¿Qué necesito para reavivar la llama?"
+      ],
+      "dos": [
+        "coordenadas brillantes",
+        "Bebe solo agua tibia"
+      ],
+      "donts": [
+        "acostado en la cama",
+        "decisión apresurada"
+      ]
+    }
+  },
+  {
+    "card_key": "two_of_wands",
+    "upright": {
+      "affirmation": "Elige tu camino lentamente",
+      "reading": "El Dos de Bastos simboliza que después de que el primer paso sea exitoso, deténgase y mire a lo lejos, aferrándose a lo que ya tiene mientras planifica un territorio más grande. En este momento, tú también estás en esta etapa.\n\nEs posible que haya comenzado algo y ahora necesite planificar el siguiente paso, tomar una decisión o sentir \"¿en qué dirección debo ir?\". Este es un buen momento para hacer planes, evaluar diferentes opciones o buscar una perspectiva más amplia. Evite sentirse ansioso por tener demasiadas opciones, planificar demasiado y no tomar medidas, o tener miedo de tomar la decisión equivocada.\n\nMire con valentía hacia el futuro. El mundo es grande y tú tienes el poder de explorarlo.",
+      "questions": [
+        "¿Debo hacer planes a largo plazo para esta relación?",
+        "¿Podemos TA y yo superar las dificultades actuales?",
+        "¿Qué dirección tiene más perspectivas de desarrollo para mí?"
+      ],
+      "dos": [
+        "planes de fin de semana",
+        "como me siento hoy"
+      ],
+      "donts": [
+        "3 minutos de calor",
+        "embarque"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Elige solo uno",
+      "reading": "Cada vez hay más opciones, pero no sé cuál elegir primero. En este momento estás atrapado con demasiadas opciones, tienes miedo de tomar la decisión equivocada o estás esperando una señal más segura.\n\nEsperar la \"señal más segura\" sólo hará que la elección sea más difícil. Es mejor admitir primero que \"no existe una elección perfecta\", confiar en su propio criterio para tomar decisiones o aceptar \"adaptarse sobre la marcha\". No sigas postergando las cosas, no dejes de elegir nada por miedo ni dejes la decisión en manos de otra persona.\n\nHacer una elección es más importante que una elección perfecta. El camino se hace andando sobre él, no pensando en él.",
+      "questions": [
+        "¿Soy demasiado codicioso para meterme en problemas?",
+        "¿Las diferencias entre nosotros se deben a la incompatibilidad de nuestros planes?",
+        "¿Mi indecisión hará que pierda oportunidades?"
+      ],
+      "dos": [
+        "Lanzamiento de moneda",
+        "respuesta del sello"
+      ],
+      "donts": [
+        "confesión",
+        "confiar a alguien"
+      ]
+    }
+  },
+  {
+    "card_key": "three_of_wands",
+    "upright": {
+      "affirmation": "Si quieres ir, ve",
+      "reading": "El Tres de Bastos simboliza la vista después de la siembra: la semilla ha sido plantada, lo que se necesita ahora es paciencia y una perspectiva amplia. En este momento es necesario mirar más allá.\n\nEs posible que vea nuevas oportunidades, sienta la necesidad de diversificarse o se dé cuenta de que \"es hora de salir\". Este es un buen momento para explorar nuevas posibilidades, conectarse con el mundo exterior o prepararse para objetivos a largo plazo. Evite estar satisfecho con el status quo, tener miedo de salir de su zona de confort o estar ansioso por no ver resultados inmediatos.\n\nConfía en las semillas que siembras. La cosecha lleva tiempo, pero la oportunidad ya está en camino.",
+      "questions": [
+        "¿Debo darle más confianza a la otra persona en esta relación?",
+        "¿Pueden las dificultades actuales profundizar nuestro vínculo?",
+        "¿Puede esta cooperación ayudarme a desarrollar mi carrera?"
+      ],
+      "dos": [
+        "diferencial de mercado",
+        "música de viaje"
+      ],
+      "donts": [
+        "Cerrar ventana",
+        "Maratón nocturno"
+      ]
+    },
+    "reversed": {
+      "affirmation": "No intentes captarlo todo",
+      "reading": "Antes de que pudiera mantenerme firme en el asunto que tenía delante, ya quería llegar más lejos. Durante este período, estás persiguiendo demasiadas oportunidades al mismo tiempo, queriendo expandirte antes de estar estable o buscando constantemente mejores debido a la ansiedad.\n\nHaga esto bien y luego piense en el siguiente paso. Puedes empezar con las pequeñas cosas: volver al momento presente, hacer las cosas primero o admitir: \"Primero necesito estabilizar los cimientos\". Tenga cuidado de no seguir desperdiciando su energía, no quererlo todo por miedo a perderse algo o negarse a admitir que está sobrecargado.\n\nLa estabilidad es más importante que la expansión. Sólo cuando tus raíces son profundas podrás crecer más.",
+      "questions": [
+        "¿Están mis expectativas destinadas a verse frustradas?",
+        "¿Mis expectativas para esta relación son poco realistas?",
+        "¿Existe una brecha entre mi ejecución y mis objetivos?"
+      ],
+      "dos": [
+        "beber cafe caliente",
+        "Hacer lo mínimo"
+      ],
+      "donts": [
+        "poco entusiasta",
+        "comer demasiado"
+      ]
+    }
+  },
+  {
+    "card_key": "four_of_wands",
+    "upright": {
+      "affirmation": "Compartir la alegría juntos",
+      "reading": "El Cuatro de Bastos representa un momento de celebración, estabilidad y armonía: cuando el trabajo duro da frutos, vale la pena celebrar la finalización de esta fase. Mereces ser celebrado ahora mismo.\n\nQuizás hayas completado una etapa, logrado una pequeña meta o sentido que tu vida era temporalmente armoniosa. Este es un buen momento para celebrar tus logros, disfrutar de la belleza del momento o compartir la felicidad con las personas que te importan. Evite no celebrar porque \"no es suficiente\", saltar al siguiente objetivo o sentir que relajarse es una pérdida de tiempo.\n\nDate permiso para ser feliz. La celebración no es el final, sino recargar energías para el próximo viaje.",
+      "questions": [
+        "¿Esta relación requiere una planificación a largo plazo?",
+        "¿Cómo mantengo esta relación cálida y curativa?",
+        "¿Cómo mantener la sensación actual de relajación y seguridad?"
+      ],
+      "dos": [
+        "Entrega de ogori",
+        "paquete"
+      ],
+      "donts": [
+        "vestimenta formal",
+        "punto de citas"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Guarde sus palabras fuertes.",
+      "reading": "El lugar supuestamente relajante se ha vuelto un poco inquietante últimamente. En este caso, sientes que hay falta de armonía en tu vida, que no hay motivos para celebrar o que hay tensión con personas importantes.\n\nEmpiece por decir lo que le incomoda. Vale más la pena preguntarse \"qué rompió la armonía\" en este momento, tomar la iniciativa para reparar la relación o crear una sensación de seguridad para usted mismo. Tener diferencias no significa que todo esté roto. No arrastre el problema a un nudo mayor.\n\nSe puede restablecer la armonía. A veces todo lo que se necesita es un pequeño ajuste.",
+      "questions": [
+        "¿Hay grietas en nuestra relación?",
+        "¿Todo lo que hice fue solo para lucir bien?",
+        "¿Estoy demasiado dependiente del grupo y estoy perdiendo mis características individuales?"
+      ],
+      "dos": [
+        "hablar bien",
+        "registrar el estado de ánimo"
+      ],
+      "donts": [
+        "violencia a sangre fría",
+        "pelicula lagrimas"
+      ]
+    }
+  },
+  {
+    "card_key": "five_of_wands",
+    "upright": {
+      "affirmation": "hablar claro",
+      "reading": "El Cinco de Bastos simboliza el conflicto, la competencia y la colisión de diferentes perspectivas; la fricción no siempre es algo malo, a veces es la puerta al crecimiento. En este punto, es posible que encuentre cierta fricción.\n\nEs posible que tenga desacuerdos con los demás, enfrente competencia o sienta que \"todos tienen una opinión diferente\". Este es un buen momento para expresar tus opiniones, ser respetuoso en los debates o utilizar la competencia como motivación para crecer. Evite dañar las relaciones para ganar, evitar el conflicto por ello o pensar que el desacuerdo es hostilidad.\n\nEl conflicto no es necesariamente algo malo. A veces, las colisiones crean nuevas posibilidades.",
+      "questions": [
+        "¿Qué tipo de amuleto debo usar para atraerlo?",
+        "¿Las interminables disputas significan que no somos aptos?",
+        "¿Cómo debo protegerme frente a la competencia feroz en el lugar de trabajo?"
+      ],
+      "dos": [
+        "10 ventajas",
+        "té con leche de recompensa"
+      ],
+      "donts": [
+        "ignorar a la familia",
+        "tonto en casa"
+      ]
+    },
+    "reversed": {
+      "affirmation": "La lucha interminable se detendrá",
+      "reading": "Discutieron una frase tras otra y al final incluso olvidaron por qué empezaron a discutir. A juzgar por la reacción, estás peleando por pelear, entrando en fricciones internas o sintiendo que estos argumentos no tienen sentido.\n\nEstá bien dejar de discutir si no vale la pena. Hoy puedes empezar preguntándote \"¿Por qué estoy luchando realmente?\", elegir no participar en competencias sin sentido o buscar la reconciliación. Deja de involucrarte en peleas innecesarias, de negarte a dejar ir por orgullo o de ver todos los conflictos como guerras que deben ganarse.\n\nNo vale la pena librar todas las guerras. A veces, dejar ir es más poderoso que ganar.",
+      "questions": [
+        "¿Cómo puedo mantener estables mis emociones y no involucrarme en disputas innecesarias?",
+        "¿Estoy en medio de una disputa sin sentido?",
+        "¿Cómo evitar conflictos frontales innecesarios de forma inteligente y sin esfuerzo?"
+      ],
+      "dos": [
+        "trabajo profundo",
+        "manejo del estado de ánimo"
+      ],
+      "donts": [
+        "pelear",
+        "comer en exceso"
+      ]
+    }
+  },
+  {
+    "card_key": "six_of_wands",
+    "upright": {
+      "affirmation": "Está bien recibir elogios",
+      "reading": "El Seis de Bastos simboliza el éxito, el reconocimiento y la victoria pública; cuando se ve esfuerzo, esa afirmación trae energía real. En este momento, tus esfuerzos comienzan a verse.\n\nEs posible que reciba reconocimiento, logre un hito importante o sienta que \"finalmente lo logró\". Este es un buen momento para recibir elogios, compartir sus logros o celebrar a su equipo. Evite rechazar el reconocimiento por modestia, sintiendo que \"no importa\" o preocupándose por la presión del éxito.\n\nPermítete disfrutar de la victoria. Mereces este honor y tus esfuerzos merecen ser vistos.",
+      "questions": [
+        "¿Cómo puedo llevar mi relación al siguiente nivel?",
+        "¿Cómo aseguro mi posición en la industria?",
+        "Mis calificaciones están subiendo, ¿cómo puedo mantener el impulso?"
+      ],
+      "dos": [
+        "recompénsate",
+        "traje suave"
+      ],
+      "donts": [
+        "perfil bajo",
+        "obsesionado con el pasado"
+      ]
+    },
+    "reversed": {
+      "affirmation": "La aceptación lenta también está bien",
+      "reading": "Es más fácil empezar a dudar de uno mismo cuando no se ven sus esfuerzos. En la vida sientes que tus esfuerzos no son vistos, siempre te comparan o dudas de tu propio valor.\n\nSe siente incómodo no ser visto, pero eso no significa que tus esfuerzos sean inútiles. Primero trate de preguntarse: \"¿Realmente necesito reconocimiento externo o afirmación interna?\" Deja de compararte con los demás o siéntete orgulloso de tu propio progreso. No siempre te niegues a ti mismo por falta de reconocimiento, no te menosprecies aprovechándote del éxito de otras personas ni seas demasiado competitivo para demostrarlo.\n\nOtros no aplauden y no borran lo que has hecho en serio.",
+      "questions": [
+        "¿Dependo demasiado de la aprobación externa?",
+        "El retraso de TA en hacerlo público, ¿significa esto que me está tratando como a una rueda de repuesto?",
+        "¿Cómo puedo aliviar mi ansiedad por la \"incompetencia moral\" y desarrollar la confianza en mí mismo interior?"
+      ],
+      "dos": [
+        "trabajar tranquilamente",
+        "Hablar con tu crush"
+      ],
+      "donts": [
+        "impaciente",
+        "rendirse a mitad de camino"
+      ]
+    }
+  },
+  {
+    "card_key": "seven_of_wands",
+    "upright": {
+      "affirmation": "quédate en mi línea",
+      "reading": "El Siete de Bastos simboliza la firmeza en la defensa de la propia posición: saber claramente dónde se encuentra frente a la duda y la presión. En este punto, debes defender tu posición.\n\nEs posible que enfrente desafíos, necesite proteger su trabajo o sienta que \"tengo que mantenerme firme\". Este es un buen momento para expresar tus límites con firmeza, defender algo en lo que crees o mantener la calma bajo presión. Evite renunciar a su puesto por miedo al conflicto, ponerse demasiado a la defensiva y agresivo o sentir que defenderse es egoísta.\n\nTienes derecho a proteger lo que es tuyo. Ser firme no se trata de atacar, sino de respetarse a uno mismo.",
+      "questions": [
+        "¿Tengo el coraje de entrar en esta relación?",
+        "¿Cómo hago valer mi soberanía en esta relación?",
+        "¿Cómo mantengo las ganancias que he logrado?"
+      ],
+      "dos": [
+        "decir no",
+        "canciones retro"
+      ],
+      "donts": [
+        "sintonización excesiva",
+        "no firme"
+      ]
+    },
+    "reversed": {
+      "affirmation": "No todo el mundo es el enemigo",
+      "reading": "Tratar cada frase como un desafío puede resultar realmente agotador. Poco a poco, ves a todos como tus enemigos, te cansas o te das cuenta de que estoy protegiendo algo equivocado.\n\nPiense si realmente vale la pena continuar esta batalla. Tómese un tiempo para preguntarse \"¿Realmente vale la pena proteger esto?\", deje de lado las peleas innecesarias o admita \"Necesito un descanso\". Recuerde no seguir consumiéndose, negarse a dejarse llevar por orgullo o tratar cada desafío como una batalla que debe librarse.\n\nNo vale la pena permanecer en todos los campos de batalla. Elige lo que es realmente importante y deja de lado el resto.",
+      "questions": [
+        "¿Debería terminar esta relación?",
+        "¿Esta relación está agotando demasiado de mis emociones y energía?",
+        "¿Mi carácter de no atreverme a negarme me trae fatiga innecesaria?"
+      ],
+      "dos": [
+        "humor feliz",
+        "Obtenga una entrega rápida"
+      ],
+      "donts": [
+        "dieta excesiva",
+        "explicar demasiado"
+      ]
+    }
+  },
+  {
+    "card_key": "eight_of_wands",
+    "upright": {
+      "affirmation": "Cuanto mejor van las cosas, más me concentro.",
+      "reading": "El Ocho de Bastos simboliza el rápido progreso y el flujo de energía: todo se acelera y se ha cobrado impulso. Por el momento, las cosas avanzan rápidamente.\n\nEs posible que sienta que las cosas se aceleran repentinamente, reciba buenas noticias o descubra que \"por fin algo está sucediendo\". Ahora es un buen momento para aprovechar el impulso y seguir adelante, responder rápidamente a las oportunidades o simplemente disfrutar de la corriente. Evite sentirse ansioso por ir demasiado rápido, querer controlar la velocidad o frenar bruscamente por miedo.\n\nDejarse llevar. A veces, actuar rápidamente es la mejor manera de hacerlo.",
+      "questions": [
+        "¿Escucharé recientemente una confesión/una noticia tan esperada?",
+        "¿Nuestra relación avanza demasiado rápido?",
+        "¿Cómo puedo aprovechar el momento de inspiración y realizarlo mediante la ejecución?"
+      ],
+      "dos": [
+        "ordenar la casa",
+        "toma tu trabajo en serio"
+      ],
+      "donts": [
+        "hablar demasiado",
+        "demasiado enredado"
+      ]
+    },
+    "reversed": {
+      "affirmation": "esta bien volver",
+      "reading": "Los mensajes se atascaron, los planes se retrasaron y el ritmo se alteró por completo. De hecho, encuentro retrasos en mi corazón, siento que mi energía está bloqueada o descubro que de repente algo sale mal.\n\nEncuentre el enlace atascado y decida cómo solucionarlo. Luego, identifique los obstáculos, limpie el desorden o admita: \"Este no es el momento de correr\". No se angustie porque no hay progreso, no siga adelante y cree más problemas, ni trate los retrasos como fracasos.\n\nDesacelerar no se trata de retroceder, sino de avanzar más suavemente. A veces es más eficaz detenerse y limpiar que apresurarse.",
+      "questions": [
+        "¿Me está evitando?",
+        "¿Este sentimiento \"va y viene tan rápido como viene\"?",
+        "¿Estoy demasiado preocupado por la velocidad como para pasar por alto algunas vulnerabilidades?"
+      ],
+      "dos": [
+        "Dispersión posprandial",
+        "aprendizaje profundo"
+      ],
+      "donts": [
+        "picadura de mosquito",
+        "mosca sin cabeza"
+      ]
+    }
+  },
+  {
+    "card_key": "nine_of_wands",
+    "upright": {
+      "affirmation": "Llegué hasta aquí.",
+      "reading": "El Nueve de Bastos simboliza la perseverancia ante el agotamiento: permanecer alerta a pesar de las pruebas, sabiendo que el final no está lejos. En este punto, es posible que se sienta un poco cansado, pero aún no completamente relajado.\n\nPuede que hayas pasado por muchas cosas y te sientas un poco cansado, pero aún necesitas aguantar un poco más. Este es un buen momento para mantenerse alerta, proteger sus logros o mantenerse concentrado hasta el último minuto. Evite darse por vencido porque está cansado, demasiado relajado hasta el punto de desperdiciar todos sus esfuerzos o demasiado nervioso debido al miedo.\n\nAguanta ahí. Has llegado muy lejos y tienes que terminar bien la última parte del viaje.",
+      "questions": [
+        "¿Debo mantener mi línea y esperar a que la otra parte haga una reverencia?",
+        "¿Debo permanecer al margen ante su tentación?",
+        "La meta está a la vuelta de la esquina, ¿cómo puedo estabilizar mi mentalidad y no dejarme abrumar por la ansiedad?"
+      ],
+      "dos": [
+        "hacer que las cosas sucedan",
+        "toma una foto"
+      ],
+      "donts": [
+        "alardear",
+        "celebración temprana"
+      ]
+    },
+    "reversed": {
+      "affirmation": "relájate un poco",
+      "reading": "Las personas que se han estado aferrando a ese hilo ni siquiera se atreven a relajarse por completo cuando se toman un descanso. El estado es como: siempre estás tenso y no te atreves a relajarte, o sientes que siempre debo estar listo.\n\nNo es necesario pensar en cada momento como una batalla defensiva. No se apresure a resolverlo todo ahora. Primero admite \"estoy cansado\", permítete bajar la guardia o cree que \"no perderás todo si te relajas temporalmente\". No se apresure a seguir aguantando, no se atreva a descansar por miedo o piense que relajarse es debilidad.\n\nTomarse un descanso no hará que pierdas lo que ya tienes asegurado.",
+      "questions": [
+        "¿Estoy demasiado nervioso?",
+        "¿Estoy alejando una relación verdadera porque tengo demasiado miedo de salir lastimado?",
+        "¿Cómo soluciono la mentalidad de evitación causada por el esfuerzo excesivo?"
+      ],
+      "dos": [
+        "música de viaje",
+        "trabajar duro"
+      ],
+      "donts": [
+        "asumir el trabajo",
+        "delirios antes de dormir"
+      ]
+    }
+  },
+  {
+    "card_key": "ten_of_wands",
+    "upright": {
+      "affirmation": "No lo cargues todo sobre tu espalda",
+      "reading": "El Diez de Bastos simboliza avanzar con una carga pesada: la meta está frente a ti y debes caminar paso a paso incluso si los pasos son pesados. En este punto, es posible que sienta una gran responsabilidad.\n\nEs posible que tengas muchas responsabilidades, te sientas estresado o te des cuenta de que \"esto es más pesado de lo que pensaba\". Ahora es un buen momento para evaluar qué es necesario, pedir ayuda para compartir algo o admitir “necesito apoyo”. Evite asumirlo todo por un sentido de responsabilidad, rechazar la ayuda de los demás o sentir que pedir ayuda es un signo de debilidad.\n\nSe respeta la responsabilidad, pero no es necesario que lo haga todo usted mismo. Compartir no es escape, sino sabiduría.",
+      "questions": [
+        "¿Qué responsabilidades puedo dejar de lado o compartir con los demás?",
+        "¿Mi entrega me está agotando demasiado en la relación?",
+        "¿Qué cargas debo soltar?"
+      ],
+      "dos": [
+        "porque tengo hambre",
+        "intento audaz"
+      ],
+      "donts": [
+        "socialización forzada",
+        "descuidado"
+      ]
+    },
+    "reversed": {
+      "affirmation": "mi parte es suficiente",
+      "reading": "Perder algo de peso no significa que no seas bueno. Tu respuesta: Te sientes abrumado, te das cuenta de que no es toda mi responsabilidad o estás dispuesto a dejar de lado algunas cosas.\n\nEs importante saber que no todo lo debes hacer tú mismo. Elija una cosa para hacer primero: dejar de lado las responsabilidades que no son suyas, reasignar tareas o admitir \"no puedo hacerlas todas\". No hay necesidad de seguir adelante por culpa, por sentir que dejar ir es un fracaso o por preocuparse por lo que pensarán los demás.\n\nDejar ir es liberador. No necesitas demostrar cuánto puedes llevar, sólo tienes que hacer lo que puedas.",
+      "questions": [
+        "¿Debo soltarme por completo y volver a la libertad?",
+        "¿Cómo soltarse sin sentirme culpable?",
+        "¿Qué tipo de vida quiero realmente?"
+      ],
+      "dos": [
+        "organización del hogar",
+        "2 tareas pendientes"
+      ],
+      "donts": [
+        "asumir el trabajo",
+        "tranquilo"
+      ]
+    }
+  },
+  {
+    "card_key": "page_of_wands",
+    "upright": {
+      "affirmation": "Si no lo sabes, pregunta",
+      "reading": "La Sota de Bastos simboliza la curiosidad, la nueva información y el comienzo del aprendizaje: recibe cada desconocido con entusiasmo infantil. En este momento, mantén la curiosidad como un niño.\n\nEs posible que se interese en algo, escuche noticias interesantes o desee aprender algo nuevo. Este es un buen momento para explorar nuevas áreas, hacer muchas preguntas o afrontar las cosas con mentalidad de novato. Evite tener miedo de intentarlo porque \"no entiendo\", preocuparse demasiado por el fracaso o sentir que la exploración es una pérdida de tiempo.\n\nLa curiosidad es un regalo. Todo maestro fue alguna vez un novato curioso.",
+      "questions": [
+        "¿Quieres aceptar su invitación?",
+        "¿Puedo sumergirme en la frescura y energía de esta nueva relación?",
+        "¿Cómo mantener el entusiasmo por aprender?"
+      ],
+      "dos": [
+        "hacer una pregunta",
+        "comprar comida"
+      ],
+      "donts": [
+        "fingiendo saber",
+        "perdido todo"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Cambiemos nuestros caminos",
+      "reading": "El libro de texto está extendido frente a mí, pero no puedo retirarlo. En este punto, has perdido la curiosidad, no has encontrado nada interesante o te has sentido frustrado y no quieres continuar.\n\nCuando no puedes aprenderlo, otro método es más efectivo que un techo rígido. Si aún no sabes qué hacer, pregúntate “qué es lo que consume mi curiosidad”, estudia de otra manera o permítete tomar un descanso. No dejes que la ansiedad te empuje a esforzarte para continuar, a rendirte por completo debido al agotamiento o a sentir que \"simplemente no puedo aprenderlo\".\n\nLa curiosidad volverá. A veces solo necesitas un cambio de perspectiva o un descanso primero.",
+      "questions": [
+        "¿Deberías tratar fríamente a un pretendiente cuando sólo estás hablando de él?",
+        "¿Cómo encontrar de nuevo la alegría de aprender?",
+        "¿Cómo convierto fantasías poco realistas en planes viables?"
+      ],
+      "dos": [
+        "Combinación de colores de dopamina",
+        "ventilador que sopla"
+      ],
+      "donts": [
+        "3 minutos de calor",
+        "acné pop"
+      ]
+    }
+  },
+  {
+    "card_key": "knight_of_wands",
+    "upright": {
+      "affirmation": "No solo pienses, solo hazlo",
+      "reading": "El Caballero de Bastos simboliza la acción, la aventura y la búsqueda de los sueños: avanza a toda velocidad con pasión y no deja lugar a dudas. Ahora es el momento de actuar con valentía.\n\nEs posible que sienta una fuerte necesidad de actuar de inmediato o de estar preparado para una aventura. Ahora es el momento de seguir tu pasión, dar un paso audaz o hacer todo lo posible con entusiasmo. Evite reprimir impulsos por miedo, pensar demasiado en lugar de actuar o preocuparse por lo que pensarán los demás.\n\nConfía en tu pasión. A veces, la acción audaz es la mejor opción.",
+      "questions": [
+        "¿Cómo puedo seguir el ritmo de la otra persona y atraerla?",
+        "¿Cómo puede la ejecución ayudarme a superar el estancamiento actual?",
+        "¿Cómo equilibrar la pasión y la racionalidad?"
+      ],
+      "dos": [
+        "calcetines coloridos",
+        "descansar"
+      ],
+      "donts": [
+        "Preocupaciones de coordinación",
+        "no presentarse temporalmente"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Mira el camino antes de correr.",
+      "reading": "Antes de que pudiera ver el camino con claridad, ya quería correr hacia el frente. No es difícil descubrir que actúas sin pensar con claridad, ignoras los riesgos por pasión o sientes que me apresuro demasiado.\n\nSi das un paso más antes de apresurarte, te ahorrarás muchos arrepentimientos. Lo primero que puede hacer es reducir el ritmo y evaluar, pensar antes de actuar o admitir: \"Tal vez necesito un plan\". No continúes corriendo a ciegas, ni te niegues a admitir errores por orgullo, ni glorifiques el impulso convirtiéndolo en coraje.\n\nEl coraje no se trata de apresurarse a ciegas, sino de saber cuándo reducir el ritmo.",
+      "questions": [
+        "¿Estoy siendo demasiado impulsivo e impaciente?",
+        "¿Estoy demasiado ansioso por triunfar y revelo mi sinceridad demasiado pronto?",
+        "¿Estoy demasiado ansioso por lograr un éxito rápido y prepararme para el fracaso?"
+      ],
+      "dos": [
+        "cepillarse los dientes en la cara",
+        "beber agua tibia"
+      ],
+      "donts": [
+        "Escribirle a tu ex",
+        "SPF solo en la cara"
+      ]
+    }
+  },
+  {
+    "card_key": "queen_of_wands",
+    "upright": {
+      "affirmation": "puedo hacerlo a mi manera",
+      "reading": "La Reina de Bastos simboliza confianza, encanto e independencia: su luz no necesita el permiso de nadie y brilla de forma natural. Ahora haz brillar tu luz.\n\nEs posible que se sienta particularmente seguro, quiera expresar su verdadero yo o se dé cuenta de que \"puedo ser yo mismo\". Este es un buen momento para mostrar tus talentos, expresar tus ideas con honestidad o contagiar a otros con tu entusiasmo. Evite ocultar su luz porque es modesto, preocuparse por ser juzgado o sentirse seguro es arrogante.\n\nMereces ser visto. Tu verdadero yo es el más atractivo.",
+      "questions": [
+        "¿Cuál es mi encanto único?",
+        "¿Cómo puedo expresarme con más confianza?",
+        "¿Qué tipo de carrera puede hacerme sentir identificado conmigo mismo?"
+      ],
+      "dos": [
+        "Taza de agua de limpieza profunda",
+        "sal y respira"
+      ],
+      "donts": [
+        "Descuidarte",
+        "Enfriamiento 23 ℃ o menos"
+      ]
+    },
+    "reversed": {
+      "affirmation": "no me culpes demasiado",
+      "reading": "Cuando me miro al espejo, siempre siento que nada es lo suficientemente bueno en mí. Estos días dudas de ti mismo, te sientes poco atractivo o tienes miedo de mostrar tu verdadero yo.\n\nCuando no tengas confianza, también debes tener paciencia contigo mismo. Hoy también podrías preguntarte \"¿Qué me hace perder la confianza?\", hacer algo que te haga sentir poderoso o buscar el aliento de los demás. No te niegues a ti mismo porque te falta confianza, no ocultes tus inseguridades con actividades o sientas que \"nunca seré lo suficientemente bueno\".\n\nLa confianza volverá poco a poco. Estuviste bien, sólo que lo olvidaste temporalmente.",
+      "questions": [
+        "¿Mi competitividad lastimó a la otra persona?",
+        "¿Me importan demasiado las opiniones de los demás?",
+        "¿Estoy siendo demasiado controlador o agresivo?"
+      ],
+      "dos": [
+        "Boba medio dulce",
+        "confianza"
+      ],
+      "donts": [
+        "posponer las tareas del hogar",
+        "Ser muy dura"
+      ]
+    }
+  },
+  {
+    "card_key": "king_of_wands",
+    "upright": {
+      "affirmation": "hablar claro",
+      "reading": "El Rey de Bastos simboliza liderazgo, visión y control: guía a otros en una dirección común con claridad de propósito y carisma. Ahora es el momento de ser un líder.\n\nEs posible que deba brindar dirección a su equipo, tomar decisiones importantes o inspirar a otros con su visión. Este es un buen momento para demostrar liderazgo, articular objetivos o tomar medidas sobre una visión a largo plazo. Evite reprimirse por miedo a la responsabilidad, ser demasiado autoritario y no escuchar opiniones, o confundir control con liderazgo.\n\nEl verdadero liderazgo es servicio. Utilice su visión para guiar a los demás, no para dictarles.",
+      "questions": [
+        "¿Cómo puedo promover esta relación?",
+        "¿Es digno de mi confianza?",
+        "¿Cómo puedo desarrollar el coraje para elaborar estrategias?"
+      ],
+      "dos": [
+        "devoto",
+        "tan hermoso para morirse"
+      ],
+      "donts": [
+        "gran corazon",
+        "pelo rizado"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Está bien que me lo dejes a mí",
+      "reading": "Cuando intentas controlarlo todo, las cosas tienden a estropearse más fácilmente. En este momento estás siendo dictatorial, te sientes fuera de control o te das cuenta de que puede haber algo mal en mi enfoque.\n\nRelájate un poco y escucha lo que hacen los demás. Empiece por escuchar a los demás, reevaluar su estilo de liderazgo o admitir: \"Yo también necesito ayuda\". No continúe usando la autoridad para reprimir, reaccionar exageradamente porque está fuera de control o poner toda la responsabilidad en otros.\n\nSólo si estás dispuesto a escuchar podrás realmente llevar a las personas a avanzar.",
+      "questions": [
+        "¿Estoy siendo demasiado controlador?",
+        "¿Debo seguir aceptando la violencia fría en las relaciones?",
+        "¿Es necesario ajustar mi estilo de liderazgo?"
+      ],
+      "dos": [
+        "el consejo de otra persona",
+        "diario volviendo atrás"
+      ],
+      "donts": [
+        "elección de duda",
+        "Culpar a los demás"
+      ]
+    }
+  },
+  {
+    "card_key": "ace_of_pentacles",
+    "upright": {
+      "affirmation": "Veo incluso pequeñas oportunidades",
+      "reading": "El As de Oros simboliza nuevas oportunidades, comienzos materiales y resultados tangibles: la tierra convierte tu voluntad en una realidad visible. En este momento, nuevas oportunidades te llaman.\n\nEs posible que encuentre una nueva oportunidad laboral, inicie un proyecto que le genere ingresos o vea que sus esfuerzos comienzan a dar resultados tangibles. Ahora es un buen momento para aprovechar la oportunidad que se presenta ante usted, hacer planes prácticos o dar el primer paso hacia una meta. Evita tener miedo de empezar por perfeccionismo, querer dejar de hacerlo o sentir que la oportunidad es demasiado pequeña para que valga la pena.\n\nTodo gran logro comienza con una pequeña oportunidad. Cógelo y cuídalo.",
+      "questions": [
+        "¿Puede una relación durar más basada en la seguridad material?",
+        "¿Cómo debo aprovechar esta oportunidad con gran potencial?",
+        "¿Cómo debo planificar para una ganancia inesperada?"
+      ],
+      "dos": [
+        "película obra maestra",
+        "pequeña meta"
+      ],
+      "donts": [
+        "discutiendo",
+        "vacilación"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Deja ir oportunidades que no están",
+      "reading": "Lo que parece una oportunidad también puede esconder un lado inestable. Durante este período, encuentra problemas con una oportunidad, el plan no es realista o se da cuenta de que esto no es lo que quiero.\n\nÉchale otro vistazo a esta oportunidad y no te apresures a hacer tu apuesta. Comience con cosas pequeñas como verificar la viabilidad de su plan, reconocer que esta oportunidad podría no ser la adecuada o dejar de lado expectativas poco realistas. Deje de renunciar a oportunidades por frustración, de forzar planes que son obviamente cuestionables o de negarse a admitir errores.\n\nNo vale la pena aprovechar todas las oportunidades. Vuelva a evaluar y encuentre lo que realmente encaja bien.",
+      "questions": [
+        "¿Es esta oportunidad realmente adecuada para mí?",
+        "¿Debería ser más sobrio cuando me enfrento a sentimientos que carecen de fundamento material?",
+        "¿Cómo debo detener mis pérdidas con gracia?"
+      ],
+      "dos": [
+        "tomando el sol",
+        "Actualizaciones de listas de reproducción"
+      ],
+      "donts": [
+        "netiyun",
+        "por encima del presupuesto"
+      ]
+    }
+  },
+  {
+    "card_key": "two_of_pentacles",
+    "upright": {
+      "affirmation": "Organicémoslos uno por uno.",
+      "reading": "El Dos de Oros simboliza un equilibrio flexible entre múltiples prioridades: la estabilidad no se trata de quedarse quieto, sino de encontrar el ritmo en el flujo. En este momento, es necesario encontrar un equilibrio entre múltiples prioridades.\n\nEs posible que necesite hacer malabares con varias cosas a la vez, equilibrar el trabajo y la vida personal o responder a situaciones cambiantes. Este es un buen momento para ser flexible, priorizar lo importante o aprender a decir no para conservar energía. Evite comprometerse demasiado, sentirse ansioso por estar desequilibrado o negarse a ajustar sus prioridades.\n\nEl equilibrio no es estático, sino ajuste en el cambio. Manténgase flexible y podrá manejarlo.",
+      "questions": [
+        "¿Cómo toman en cuenta las necesidades emocionales de los demás mientras están ocupados en el trabajo?",
+        "¿Cómo debo asignar mi energía para ganar en el lugar de trabajo?",
+        "¿Cómo encontrar oportunidades de crecimiento en los cambios?"
+      ],
+      "dos": [
+        "prioridad",
+        "Sinceramente"
+      ],
+      "donts": [
+        "objetivo indiferenciado",
+        "saltarse el desayuno"
+      ]
+    },
+    "reversed": {
+      "affirmation": "No te lleves todo contigo.",
+      "reading": "Si tienes demasiadas bolas en tus manos al mismo tiempo, es inevitable que se caigan algunas. Aquí es donde asumes demasiado, te concentras en una cosa a expensas de la otra o sientes que todo está fuera de control.\n\nReduce la cantidad de cosas que estás haciendo y deja algo de espacio. Este es un mejor momento para recortar compromisos, cambiar las prioridades o admitir que necesito dejar algunos. Trate de no aguantar, no se sienta demasiado culpable para decir que no o sienta que el desequilibrio es temporal.\n\nRecupera tu saldo. Algunas cosas pueden esperar y otras no se pueden hacer.",
+      "questions": [
+        "¿Las relaciones y la vida me presionan demasiado?",
+        "¿Qué necesito dejar ir?",
+        "¿Cómo restablecer las prioridades en la vida?"
+      ],
+      "dos": [
+        "película de comedia",
+        "Acuéstate a las 23:00"
+      ],
+      "donts": [
+        "cálculo de pérdidas y ganancias",
+        "emocional"
+      ]
+    }
+  },
+  {
+    "card_key": "three_of_pentacles",
+    "upright": {
+      "affirmation": "trabajemos juntos",
+      "reading": "El Tres de Oros simboliza el trabajo en equipo, la experiencia y los resultados del trabajo, cuando diferentes fuerzas se unen para crear algo de valor real. En este momento céntrate en el equipo y la profesión.\n\nEs posible que necesite colaborar con otros, demostrar sus habilidades profesionales o trabajar en un proyecto que requiera habilidades. Este es un buen momento para colaborar con un equipo, aprender nuevas habilidades o demostrar su profesionalismo. Evite trabajar solo, rechazar la ayuda de otros o sentirse poco profesional.\n\nLa cooperación crea mejores resultados. Cree en tu profesionalidad y confía en tu equipo.",
+      "questions": [
+        "¿Cómo podemos fortalecer nuestra relación planificando el futuro juntos?",
+        "Ante este proyecto altamente colaborativo, ¿cómo debo demostrar mi profesionalidad?",
+        "¿Cómo puedo demostrar mejor mis capacidades profesionales?"
+      ],
+      "dos": [
+        "trabajo en grupo",
+        "escucha con calma"
+      ],
+      "donts": [
+        "luchar solo",
+        "suspiro a menudo"
+      ]
+    },
+    "reversed": {
+      "affirmation": "hablar abiertamente",
+      "reading": "Obviamente todos están haciendo lo mismo, pero no dan el mismo paso. A juzgar por la reacción, no se lleva bien con sus colegas, sus habilidades no coinciden o siente que la calidad de su trabajo ha disminuido.\n\nDejar clara la división del trabajo y las expectativas para que la cooperación pueda continuar. Hoy podemos comenzar con la comunicación para resolver diferencias, reasignar tareas o admitir que necesitamos adaptarnos. Deje de ser reacio a cooperar, de culpar a los demás por todo o de negarse a buscar mejoras.\n\nUna buena colaboración requiere ajustes. Identificar el problema y realinear.",
+      "questions": [
+        "¿Esta falta de comunicación profunda entre nosotros está destinada a no llegar muy lejos?",
+        "Ante los detalles superficiales de la otra parte, ¿no debería dejar de hipnotizarme?",
+        "¿Cómo puedo salvarme de este caos dentro del equipo donde cada uno hace lo suyo y carece de estándares?"
+      ],
+      "dos": [
+        "Ver una obra corta",
+        "lista de reproducción de salud"
+      ],
+      "donts": [
+        "Culpar a los demás",
+        "Ceder de más"
+      ]
+    }
+  },
+  {
+    "card_key": "four_of_pentacles",
+    "upright": {
+      "affirmation": "El ocio me da tranquilidad",
+      "reading": "El Cuatro de Oros simboliza la protección de la seguridad: nos recuerda que agarrarse con demasiada fuerza a veces puede convertirse en otra forma de restricción. En este momento, es posible que esté buscando una sensación de seguridad.\n\nQuizás quieras proteger lo que tienes, ahorrar dinero o evitar correr riesgos. Ahora es un buen momento para ahorrar para el futuro, construir una base estable o proteger recursos importantes. Evite perder oportunidades por ser demasiado protector con el dinero, no atreverse a invertir por miedo o utilizar cosas materiales para sustituir la seguridad emocional.\n\nLa sensación de seguridad es buena, pero no dejes que se convierta en una prisión. Manténgase estable mientras permanece abierto.",
+      "questions": [
+        "¿Mi deseo extremadamente inseguro de controlar lo ha hecho sentir deprimido?",
+        "¿Cómo rompo el hielo en esta relación estable?",
+        "¿Debería considerar una opción de ahorro más conservadora?"
+      ],
+      "dos": [
+        "contabilidad",
+        "positivo"
+      ],
+      "donts": [
+        "Mukbang nocturno",
+        "perdido todo"
+      ]
+    },
+    "reversed": {
+      "affirmation": "puedes compartir un poco",
+      "reading": "Reacio a tirar, reacio a dar y, al final, apreté demasiado. En la vida, eres acaparador, controlador excesivo o tacaño por miedo.\n\nSólo cuando relajes las manos sabrás lo que realmente necesitas. Primero intenta preguntarte cuánto necesito realmente, compartir y dar adecuadamente o redefinir la seguridad. No hay necesidad de seguir aferrándose a algo, tener demasiado miedo de gastar dinero o llenar un vacío emocional con cosas materiales.\n\nSi aflojas un poco tu agarre, habrá espacio para la vida.",
+      "questions": [
+        "¿Estoy demasiado apegado a las cosas materiales?",
+        "¿Tengo tanto miedo de perder que alejo a las personas que me aman?",
+        "¿Cómo encontrar seguridad desde dentro?"
+      ],
+      "dos": [
+        "eliminación de ropa",
+        "ropa de cama nueva"
+      ],
+      "donts": [
+        "colección de bolsos",
+        "Mukbang nocturno"
+      ]
+    }
+  },
+  {
+    "card_key": "five_of_pentacles",
+    "upright": {
+      "affirmation": "Pide apoyo",
+      "reading": "El Cinco de Oros simboliza tiempos difíciles y tiempos en los que se necesita ayuda; nos recuerda que incluso en los momentos más difíciles, la ayuda suele estar al alcance de la mano. Es posible que en este momento esté enfrentando dificultades materiales o de salud.\n\nEs posible que se sienta carente, físicamente mal o experimente estrés financiero. Ahora es un buen momento para pedir ayuda, recibir apoyo o recordar que esto es sólo temporal. Evite no pedir ayuda por orgullo, por sentirse indigno de ayuda o por caer en la desesperación.\n\nLas dificultades son temporales. Mirando hacia atrás, la ayuda está justo detrás de esa puerta.",
+      "questions": [
+        "¿Cómo puedo recurrir a los recursos que me rodean en busca de ayuda?",
+        "¿Cómo podemos apoyarnos unos a otros para salir de la situación actual?",
+        "¿Cómo superar este momento difícil?"
+      ],
+      "dos": [
+        "chatear con amigos",
+        "salir temprano"
+      ],
+      "donts": [
+        "pensar demasiado",
+        "juegos de medianoche"
+      ]
+    },
+    "reversed": {
+      "affirmation": "que el tiempo pasa",
+      "reading": "El período difícil casi había terminado y algo de ayuda empezó a aparecer a mi alrededor. Poco a poco, uno sale del problema, obtiene ayuda o ve esperanza.\n\nUna pequeña mejora merece su atención. Tómate un tiempo para agradecer la ayuda que has recibido, continúa trabajando duro para mejorar o ayuda a otros que lo necesitan. Recuerde no asumir que la mejora es una casualidad, no repetir los patrones que le generaron problemas ni olvidarse de las personas que le ayudaron.\n\nEl camino todavía hay que recorrerlo lentamente, pero ya no lo recorres solo.",
+      "questions": [
+        "¿He salido de mi situación y puedo disfrutar de la felicidad en paz?",
+        "¿Debo tomar la iniciativa de dejar a la persona que me menosprecia?",
+        "¿Cómo evitar volver a meterse en problemas?"
+      ],
+      "dos": [
+        "meditación de 10 minutos",
+        "Mantenga un diario de gratitud"
+      ],
+      "donts": [
+        "abnegación",
+        "Stalkear perfiles"
+      ]
+    }
+  },
+  {
+    "card_key": "six_of_pentacles",
+    "upright": {
+      "affirmation": "Es más fácil para mí si me ayudas.",
+      "reading": "El Seis de Oros simboliza la generosidad, la justicia y la generosidad; la verdadera abundancia radica en la capacidad de dar y recibir con fluidez. En este momento, concéntrate en el equilibrio entre dar y recibir.\n\nEs posible que necesite ayudar a otros, compartir recursos o aceptar la amabilidad de los demás. Este es un momento para dar generosamente, tratar a los demás de manera justa o agradecer lo que recibe. Evite dar demasiado y descuidarse, dar con condiciones o negarse a aceptar ayuda.\n\nDar y recibir son flujos de amor. Manténgase equilibrado y la generosidad regresará.",
+      "questions": [
+        "¿Cómo debo pagar sus regalos materiales?",
+        "¿Cómo equilibrar el dar y el recibir?",
+        "¿Cómo acepto la generosidad de los demás?"
+      ],
+      "dos": [
+        "Té con leche Ogori",
+        "plantas acuáticas"
+      ],
+      "donts": [
+        "hambre",
+        "cosa dulce"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Cuida tus límites también.",
+      "reading": "Después de ayudar una y otra vez, es posible que la puntuación en mi corazón ya no sea pacífica. En mi corazón, estoy dando demasiado, ayudando con condiciones o sintiéndome usado.\n\nAntes de regalarlo, pregúntate si te sentirás agraviado. A continuación, comience por reevaluar su forma de dar, estableciendo límites o reconociendo que algunas donaciones no son saludables. No sigas aprovechándote, no te sientas culpable por dar demasiado o dejes de dar por completo.\n\nLas donaciones saludables van en ambos sentidos. Encuentra tu saldo nuevamente.",
+      "questions": [
+        "¿Es saludable mi donación?",
+        "¿Cómo debo librarme del problema del 'aire acondicionado central'?",
+        "¿Existe una distribución injusta en mi entorno?"
+      ],
+      "dos": [
+        "dormir",
+        "encontrar lo real"
+      ],
+      "donts": [
+        "Complacer",
+        "sobregiro de energía"
+      ]
+    }
+  },
+  {
+    "card_key": "seven_of_pentacles",
+    "upright": {
+      "affirmation": "Confía en mí incluso si no hay resultados.",
+      "reading": "El Siete de Oros simboliza la paciencia y la evaluación: después de un arduo trabajo, cálmate y revisa los resultados. Si continuar o ajustar requiere un juicio claro. En este momento se requiere paciencia y evaluación.\n\nEs posible que esté esperando resultados, evaluando el progreso o considerando si es hora de cambiar de rumbo. Este es un buen momento para esperar, evaluar los resultados actuales o decidir si es necesario un cambio de estrategia. Evite darse por vencido, ponerse demasiado ansioso o negarse a cambiar de rumbo porque no ve resultados inmediatos.\n\nLos resultados toman tiempo. Evaluar la situación actual y decidir los próximos pasos.",
+      "questions": [
+        "¿Qué resultados me traerán mis esfuerzos?",
+        "Cuando una relación se vuelve aburrida, ¿cómo puedo mantenerla activamente?",
+        "¿Debo reconsiderar mi planificación financiera?"
+      ],
+      "dos": [
+        "plantas acuáticas",
+        "Organización de tareas pendientes"
+      ],
+      "donts": [
+        "obsesionado con el pasado",
+        "Extraño los viejos tiempos"
+      ]
+    },
+    "reversed": {
+      "affirmation": "No es demasiado tarde para solucionarlo ahora.",
+      "reading": "Después de esforzarme mucho pero seguir sin lograr movimiento, inevitablemente me pregunto si estoy en el camino equivocado. Cosas como: estás invirtiendo en la dirección equivocada, no obtienes retorno o te das cuenta de que tu estrategia necesita cambiar.\n\nDetente y mira en la dirección. Cambiar de rumbo no es en vano. No se apresure a arreglarlo todo ahora, comience con una evaluación honesta, sea lo suficientemente valiente para cambiar de dirección o admita que este no es el camino correcto. No se apresure a seguir trabajando en la dirección equivocada, no tenga miedo de cambiar debido a los costos hundidos ni se niegue a admitir el fracaso.\n\nEs prudente detener las pérdidas a tiempo. Cambia de dirección y encuentra un camino que realmente funcione.",
+      "questions": [
+        "He invertido mucho pero no veo los resultados, ¿debería irme?",
+        "¿Debería interrumpirse esta relación y terminar ahí?",
+        "¿Quieres dedicar tu energía a nuevos proyectos?"
+      ],
+      "dos": [
+        "salud del agua tibia",
+        "registrar la vida diaria"
+      ],
+      "donts": [
+        "frustrado yendo a trabajar",
+        "una promesa ligera"
+      ]
+    }
+  },
+  {
+    "card_key": "eight_of_pentacles",
+    "upright": {
+      "affirmation": "Se vuelve más fácil cuanto más lo aprendes.",
+      "reading": "El Ocho de Oros simboliza la concentración, la diligencia y la artesanía: cuando pones tu corazón y tu alma en algo, poco a poco se convertirá en tu propio dominio. En este momento, concéntrate en tu trabajo.\n\nEs posible que deba concentrarse en aprender, mejorar sus habilidades o participar en un trabajo profesional. Este es un momento para la concentración, la práctica y el refinamiento, o para disfrutar del trabajo en sí. Evite distraerse, darse por vencido porque se vuelve aburrido o sentir que sus esfuerzos son inútiles.\n\nCada práctica te hace mejor. Concéntrate en el momento presente y la maestría llegará poco a poco.",
+      "questions": [
+        "¿Cómo puedo hacer que se sienta más atraído hacia mí aumentando mi encanto y valor?",
+        "¿Cómo mantenerse concentrado en el trabajo/estudio?",
+        "¿Cuáles serán los resultados de mis esfuerzos?"
+      ],
+      "dos": [
+        "completando tareas difíciles",
+        "modo buenas noches"
+      ],
+      "donts": [
+        "revolución",
+        "perdida de tiempo"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Encuentra la razón de nuevo",
+      "reading": "Lo mismo se repite durante demasiado tiempo, e incluso la energía inicial casi se desgasta. Tu reacción: te sientes aburrido, desmotivado o que tu trabajo no tiene sentido.\n\nPiensa de nuevo en tu \"por qué\". Elija una cosa para hacer primero: pregúntese por qué lo está haciendo, encuentre significado a su trabajo o considere si es necesario cambiar. No es necesario seguir trabajando mecánicamente, rendirse por agotamiento o negarse a encontrar nueva motivación.\n\nRedescubrir el significado del trabajo. Tal vez se necesite un nuevo desafío, tal vez se necesite una nueva dirección.",
+      "questions": [
+        "En esta relación, ¿debería dejar de lado algunas obsesiones?",
+        "¿El trabajo mecánico repetitivo ha borrado mi aura?",
+        "¿Cómo recuperar la motivación?"
+      ],
+      "dos": [
+        "masaje de relajación",
+        "nuevo genero"
+      ],
+      "donts": [
+        "Encurtidos refrescantes",
+        "rendirse a mitad de camino"
+      ]
+    }
+  },
+  {
+    "card_key": "nine_of_pentacles",
+    "upright": {
+      "affirmation": "Disfrútalo con mis propias fuerzas.",
+      "reading": "El Nueve de Oros simboliza independencia y abundancia: cuando confías en tus propios esfuerzos para crear algo hermoso, la satisfacción es real y duradera. Por ahora, disfruta de los frutos de tus esfuerzos.\n\nPuede alcanzar un cierto nivel de logros, disfrutar de independencia y autosuficiencia, o experimentar abundancia material y espiritual. Este es un buen momento para disfrutar los resultados del momento, agradecer tus esfuerzos o compartir tu abundancia. Evite sentirse tan satisfecho que pierda la motivación, muestre sus logros u olvide sus esfuerzos.\n\nTe mereces esta abundancia. Siéntete bien, te lo mereces.",
+      "questions": [
+        "¿Cómo atraigo a una pareja que sea tan buena como yo?",
+        "¿Cómo equilibras disfrutar y seguir adelante?",
+        "¿Cómo mantener la independencia espiritual y la abundancia material?"
+      ],
+      "dos": [
+        "Cómodamente",
+        "propio regalo"
+      ],
+      "donts": [
+        "aflojar",
+        "corte de esquina"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Pregunta si realmente lo necesitas",
+      "reading": "Compré muchas cosas, pero el vacío de mi corazón no se llenó. En este punto, tienes mucho pero eres infeliz, pierdes tu independencia o te das cuenta de que las cosas materiales no traen verdadera abundancia.\n\nNo te apresures a comprar más, primero mira lo que te falta. Si aún no sabes qué hacer, empieza por redefinir el éxito, encontrar la abundancia interior o establecer una verdadera independencia. No permitas que la ansiedad te obligue a seguir llenando un vacío con cosas materiales, a volverte demasiado dependiente de los demás o a negarte a afrontar la carencia que hay en tu interior.\n\nLa verdadera abundancia está dentro. Redefine tu abundancia.",
+      "questions": [
+        "¿Qué abundancia necesito realmente?",
+        "¿Tengo demasiado miedo de perder mi independencia como para involucrarme emocionalmente de verdad?",
+        "¿Cómo puedo redimir mi complejo de inferioridad interior?"
+      ],
+      "dos": [
+        "Crear una lista de compras",
+        "15 minutos de lectura"
+      ],
+      "donts": [
+        "consumo impulsivo",
+        "sintonizar"
+      ]
+    }
+  },
+  {
+    "card_key": "ten_of_pentacles",
+    "upright": {
+      "affirmation": "Incluso en días normales me siento tranquilo.",
+      "reading": "El Diez de Oros simboliza la familia, la herencia y la realización material: cuando el esfuerzo individual se une a la acumulación colectiva, se logra la verdadera abundancia. En este momento, céntrate en la familia y en el largo plazo.\n\nEs posible que tenga una relación armoniosa con su familia, considere una planificación a largo plazo o se dé cuenta de la importancia de la herencia. Este es un buen momento para pasar tiempo con la familia, planificar el futuro o expresar gratitud por el apoyo familiar. Evite descuidar a su familia, centrarse en las cosas materiales en lugar de las relaciones o perderse por la presión familiar.\n\nLa verdadera abundancia incluye la familia y la herencia. Aprecia esta perfección.",
+      "questions": [
+        "¿Puede acompañarme a envejecer juntos?",
+        "¿Cómo planificar a largo plazo?",
+        "¿Cómo debo asignar mis activos de manera razonable?"
+      ],
+      "dos": [
+        "positivo",
+        "Obtenga una entrega rápida"
+      ],
+      "donts": [
+        "exceso de indulgencia",
+        "perdido todo"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Mi ritmo protege mi corazón",
+      "reading": "Esas presiones en casa a veces te afectan antes de que las digas. No es difícil darse cuenta de que tiene conflictos con miembros de la familia, problemas económicos o siente presión por parte de la familia.\n\nEs mejor hablar lentamente de los problemas en casa que evitarlos. Lo primero que puedes hacer es comunicarte para resolver diferencias, redefinir las relaciones familiares o establecer límites saludables. No sigas evitando problemas, ni te sacrifiques por la familia ni cortes los lazos por completo.\n\nLos lazos familiares se pueden reparar. Encuentre el equilibrio y reconstruya conexiones saludables.",
+      "questions": [
+        "¿Qué salió mal en las relaciones familiares?",
+        "¿Cómo reparar las divisiones en tu familia?",
+        "¿Hay problemas en esta relación por enredos económicos?"
+      ],
+      "dos": [
+        "Gastando esta semana",
+        "escritorio ordenado"
+      ],
+      "donts": [
+        "abarrotar",
+        "consumo impulsivo nocturno"
+      ]
+    }
+  },
+  {
+    "card_key": "page_of_pentacles",
+    "upright": {
+      "affirmation": "Empieza desde algo que no sabes",
+      "reading": "La Sota de Oros simboliza el comienzo del aprendizaje, la oportunidad y la realidad: contempla cada posibilidad de crecimiento con ojos humildes y enfocados. En este momento, concéntrate en el aprendizaje y la practicidad.\n\nPuede comenzar a aprender nuevas habilidades, encontrar nuevas oportunidades o querer implementar ideas. Ahora es un buen momento para apuntarse a un curso, investigar un nuevo campo o hacer planes prácticos. Evite simplemente no querer hacerlo, tener miedo de intentarlo porque no tiene experiencia o sentir que está aprendiendo demasiado lento.\n\nTodo experto fue alguna vez un novato. Empieza a aprender, paso a paso.",
+      "questions": [
+        "¿Es su favor lo suficientemente sincero como para merecer mi seria consideración?",
+        "¿Puede esta relación generar progreso mutuo y brindarme suficiente seguridad?",
+        "¿Cómo debo trabajar de manera constante y hacer un buen trabajo en mi carrera actual?"
+      ],
+      "dos": [
+        "palabras en ingles",
+        "documental"
+      ],
+      "donts": [
+        "Cero constancia",
+        "comer en exceso"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Aunque es lento, se vuelve más fuerte.",
+      "reading": "He leído la pregunta varias veces, pero todavía no sé por dónde empezar. Estos días te falta motivación, progresas lentamente o sientes que no puedes aprender.\n\nCambia tu método de estudio y tómate un poco más de tiempo. Hoy puede ser un buen día para estudiar de otra manera, pedir ayuda o admitir que necesito más tiempo. No se dé por vencido debido a los contratiempos, al sentir que no es lo suficientemente inteligente o al negarse a admitir las dificultades.\n\nAprender lleva tiempo. Ajuste su enfoque y comience de nuevo.",
+      "questions": [
+        "¿Cómo rechazo a un pretendiente que sólo se jacta?",
+        "¿Hay demasiados cálculos y comparaciones entre nosotros?",
+        "¿Estoy fantaseando demasiado y dando muy poco?"
+      ],
+      "dos": [
+        "trabajar duro",
+        "té con leche caliente"
+      ],
+      "donts": [
+        "recuerdos del pasado",
+        "estar nervioso"
+      ]
+    }
+  },
+  {
+    "card_key": "knight_of_pentacles",
+    "upright": {
+      "affirmation": "Llega lento también",
+      "reading": "El Caballero de Oros simboliza confiabilidad, diligencia y progreso constante: no es impaciente y avanza hacia sus objetivos paso a paso con paso firme. Por ahora, avance de manera constante.\n\nEs posible que deba ceñirse a un plan, completar una tarea de manera confiable o lograr una meta de manera constante. Este es un buen momento para ir paso a paso, perseverar o demostrar confiabilidad. Evite ser demasiado conservador y perder oportunidades, darse por vencido porque es aburrido o esforzarse demasiado por alcanzar la perfección.\n\nLa robustez es más importante que la rapidez. Paso a paso se irá logrando el objetivo.",
+      "questions": [
+        "¿Vale la pena conformarse con esta relación poco romántica pero estable?",
+        "¿Es estabilidad de un vistazo lo que quiero?",
+        "¿Cómo puede ayudarme mi estabilidad?"
+      ],
+      "dos": [
+        "Deshonrar a tu compañero de clase",
+        "Pasear sin rumbo"
+      ],
+      "donts": [
+        "No sale según lo planeado",
+        "dificultad para elegir"
+      ]
+    },
+    "reversed": {
+      "affirmation": "También pruebo un nuevo camino",
+      "reading": "Caminando por el mismo camino todos los días, poco a poco irás olvidando que puedes cambiar de dirección. En este momento, estás flotando en el agua, esforzándote demasiado por alcanzar la perfección o demasiado asustado para correr riesgos.\n\nTómate un descanso y prueba algo nuevo. ¿Qué tal inyectar nueva energía, tomar riesgos o reconocer que el perfeccionismo me está frenando? No continúe siendo demasiado conservador, inactivo por miedo al fracaso o resistente al cambio.\n\nA veces es necesario romper las reglas. La asunción adecuada de riesgos puede conducir a avances.",
+      "questions": [
+        "¿Estoy siendo demasiado conservador?",
+        "Ante esta aburrida relación, ¿qué debo hacer?",
+        "¿Cómo inyectar nueva vitalidad a una relación?"
+      ],
+      "dos": [
+        "tomar el metro",
+        "autocuración"
+      ],
+      "donts": [
+        "sumiso",
+        "infeliz"
+      ]
+    }
+  },
+  {
+    "card_key": "queen_of_pentacles",
+    "upright": {
+      "affirmation": "Cuidarme es lo primero",
+      "reading": "La Reina de Oros simboliza la abundancia, el alimento y la sabiduría práctica; su enfoque realista convierte el cariño en calidez visible. En este momento, cuídate a ti mismo y a los demás de manera práctica.\n\nEs posible que deba cuidar a miembros de su familia, administrar recursos o resolver problemas de manera práctica. Este es un buen momento para atender las necesidades físicas, administrar las finanzas o brindar asistencia práctica a los demás. Evita dar demasiado y descuidarte, centrarte sólo en las cosas materiales y descuidar las emociones, o perder tus sueños por ser demasiado práctico.\n\nLa practicidad y la calidez pueden coexistir. Nutre la vida a tu manera.",
+      "questions": [
+        "¿Cómo encontrar un compañero de vida con el que poder progresar y vivir juntos?",
+        "¿Qué cualidades debo mostrar para atraer a alguien?",
+        "Ahora bien, ¿puedo disfrutar de una alta calidad de vida con tranquilidad?"
+      ],
+      "dos": [
+        "paquete",
+        "dormir"
+      ],
+      "donts": [
+        "siempre quédate en casa",
+        "Descuidarte"
+      ]
+    },
+    "reversed": {
+      "affirmation": "no me dejes último",
+      "reading": "Mientras estás ocupado cuidando de los demás, tu parte a menudo queda al final de la cola. Durante este período, ignoras tus necesidades, te vuelves demasiado realista o pierdes calidez.\n\nIncluya el cuidado personal en su agenda. Puedes empezar con estas pequeñas cosas: darte amor, redescubrir tus sueños o encontrar el equilibrio entre lo material y lo espiritual. Tenga cuidado de no seguir descuidándose, de dar demasiado por culpa o de sustituir emociones por cosas materiales.\n\nTú también mereces que te cuiden bien. Restaura el equilibrio y cuídate.",
+      "questions": [
+        "¿Me he descuidado en esta relación?",
+        "¿Cómo equilibras el cuidado de los demás contigo mismo?",
+        "¿Cómo aliviar su propia presión financiera?"
+      ],
+      "dos": [
+        "30 minutos de lectura",
+        "poco antes de ir a dormir"
+      ],
+      "donts": [
+        "pellizco de carga",
+        "De guardia"
+      ]
+    }
+  },
+  {
+    "card_key": "king_of_pentacles",
+    "upright": {
+      "affirmation": "Si te importa, te sentirás a gusto.",
+      "reading": "El Rey de Oros simboliza el éxito, la gestión y el control material: gestiona todo con sabiduría madura y maximiza el valor de los recursos. Ahora, use la sabiduría para administrar sus recursos.\n\nEs posible que deba tomar decisiones financieras, administrar un equipo o recursos, o demostrar su visión para los negocios. Este es un buen momento para hacer planes a largo plazo, invertir sabiamente o utilizar su éxito para ayudar a otros. Evite ser demasiado controlador, centrarse en el dinero excluyendo todo lo demás o definir todo su valor en términos de éxito.\n\nEl éxito requiere sabiduría. Utilice sus recursos para crear mayor valor.",
+      "questions": [
+        "¿Cómo aseguro el futuro de esta relación?",
+        "¿Qué planificación a largo plazo necesito hacer?",
+        "¿Puedo usar mi éxito para ayudar a otros?"
+      ],
+      "dos": [
+        "comida para mascotas",
+        "meta de ahorro"
+      ],
+      "donts": [
+        "prestar dinero",
+        "consumo impulsivo nocturno"
+      ]
+    },
+    "reversed": {
+      "affirmation": "No sigas el éxito de otras personas.",
+      "reading": "Cuanto más quieras conservar el dinero y la seguridad, más fácil será apretar tu corazón. En este punto, estás siendo demasiado codicioso, lo estás administrando mal o te estás dando cuenta de que el dinero no lo es todo.\n\nReconsidere lo que significan para usted el dinero y el éxito. Es más momento de redefinir el éxito, mejorar mi forma de gestionar o admitir que necesito equilibrio. Trate de no seguir persiguiendo dinero, abusando del poder o los recursos, o negándose a admitir errores.\n\nEl éxito también debería hacer que la gente duerma tranquilamente y se sienta relajada.",
+      "questions": [
+        "¿Soy demasiado materialista?",
+        "¿Es esta relación demasiado materialista y carente de sinceridad?",
+        "¿Qué significa para mí el verdadero éxito?"
+      ],
+      "dos": [
+        "Limpia tu estado de ánimo",
+        "20 minutos al parque"
+      ],
+      "donts": [
+        "pelear con alguien",
+        "Cupón caducado"
+      ]
+    }
+  },
+  {
+    "card_key": "ace_of_swords",
+    "upright": {
+      "affirmation": "Cuando hayas terminado de pensar en ello, hazlo.",
+      "reading": "El As de Espadas simboliza la claridad, la verdad y las nuevas ideas: cuando la mente está verdaderamente clara, puede atravesar toda niebla y confusión. En este momento, tu pensamiento es particularmente claro.\n\nEs posible que de repente descubras algo, veas la verdad con claridad o tengas una idea innovadora. Este es un buen momento para tomar decisiones importantes, expresar opiniones claras o utilizar la lógica para resolver problemas. Evite ser tan racional que ignore sus sentimientos, herir a otros con su verdad o volverse insensible porque ve con demasiada claridad.\n\nLa claridad es poder. Utilice su sabiduría, pero también conserve algo de ternura.",
+      "questions": [
+        "Ahora que veo la verdad sobre esta relación, ¿cómo debo afrontarla?",
+        "¿Es apropiado tener una conversación profunda con la otra persona ahora mismo?",
+        "¿Cómo encontrar un estado de aprendizaje con lógica perfecta y pensamiento claro?"
+      ],
+      "dos": [
+        "Charla profunda",
+        "racionalidad"
+      ],
+      "donts": [
+        "dudar en medio de la noche",
+        "arrepentirse"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Posponer la decisión por un tiempo",
+      "reading": "Era como si se abrieran muchas ventanas en mi mente al mismo tiempo, y cuanto más pensaba en ello, más confundida me sentía. A juzgar por la reacción, no puedes ver la verdad, te preocupan las mentiras o el autoengaño, o sientes que no puedo pensar con claridad.\n\nPrimero, ordena los hilos en tu mente. Hoy es un buen día para detenerme y ordenar mis pensamientos, buscar un consejo objetivo o admitir que necesito más información. Deja de tomar decisiones importantes en medio del caos, de encubrir la verdad con más mentiras o de dejar de pensar porque no puedes ver con claridad.\n\nLa claridad volverá poco a poco. Date un tiempo y la verdad saldrá a la luz.",
+      "questions": [
+        "¿He lastimado a alguien que me importa con mis palabras?",
+        "En la relación, ¿soy demasiado competitivo y lastimo a la otra persona?",
+        "¿Cómo puedo remediar mis errores al tomar decisiones?"
+      ],
+      "dos": [
+        "solo gay",
+        "charlar con la familia"
+      ],
+      "donts": [
+        "spoiler del infierno de balas",
+        "habla demasiado rápido"
+      ]
+    }
+  },
+  {
+    "card_key": "two_of_swords",
+    "upright": {
+      "affirmation": "dame más tiempo",
+      "reading": "El Dos de Espadas simboliza decisiones difíciles, impases y la necesidad de tiempo; a veces, se utiliza una venda temporal en los ojos para permitir que la voz interior emerja con mayor claridad. En este momento, es posible que se enfrente a un dilema.\n\nEs posible que esté dudando entre dos opciones, que se sienta dividido entre la espada y la pared o que se dé cuenta de que ahora no es el momento de decidir. Este es un buen momento para darme tiempo para pensar, recopilar más información o admitir que aún no estoy listo para decidir. Evite obligarse a tomar decisiones, evitar decisiones o fingir que no hay problemas debido a la ansiedad.\n\nNo decidir también es una decisión. Date tiempo y la respuesta se irá aclarando poco a poco.",
+      "questions": [
+        "Ante estas dos opciones, ¿debería esperar y ver qué pasa?",
+        "¿Cómo encuentro una salida a esta relación estancada?",
+        "¿Cómo me mantengo neutral en las relaciones?"
+      ],
+      "dos": [
+        "reparación de relaciones",
+        "Organiza tus notas"
+      ],
+      "donts": [
+        "desordenado",
+        "guerra fría con cosas"
+      ]
+    },
+    "reversed": {
+      "affirmation": "confía en mi juicio",
+      "reading": "La situación que había estado estancada durante mucho tiempo finalmente tuvo algo de espacio para moverse. En la vida, empiezas a ver tus opciones con claridad, te preparas para quitarte las anteojeras o te das cuenta de que posponer las cosas sólo empeorará las cosas.\n\nAhora que ha visto sus opciones, deje de dejar la decisión enteramente en manos de la postergación. Intente tomar una decisión primero, acepte elecciones imperfectas o reconozca que no existe una solución que ofrezca lo mejor de ambos mundos. No más postergar las cosas, no elegir nada por miedo o esperar la respuesta perfecta.\n\nHacer una elección es más importante que una elección perfecta. Quítate las vendas con valentía y sigue adelante.",
+      "questions": [
+        "¿Debo elegir rápidamente entre tirones?",
+        "¿Es ahora el momento adecuado para revelar la verdad?",
+        "¿Tengo demasiado miedo de cometer errores como para actuar?"
+      ],
+      "dos": [
+        "dulce",
+        "melodrama de encuentro"
+      ],
+      "donts": [
+        "comer demasiado",
+        "Trabajo de construcción"
+      ]
+    }
+  },
+  {
+    "card_key": "three_of_swords",
+    "upright": {
+      "affirmation": "esta bien llorar",
+      "reading": "El Tres de Espadas simboliza el desamor, la traición y el dolor profundo; algunos dolores son reales y deben reconocerse, no ignorarse. Es posible que esté experimentando dolor emocional en este momento.\n\nEs posible que se sienta traicionado, desconsolado o experimente una profunda decepción. Este es un buen momento para permitirse llorar, ser honesto acerca de su dolor o buscar apoyo para superarlo juntos. Evite reprimir el dolor, fingir que está bien o encerrarse a causa del dolor.\n\nLa tristeza es normal. Permítete llorar para que la herida comience a sanar.",
+      "questions": [
+        "¿Cómo salir de esta relación con gracia y curarte a ti mismo?",
+        "¿Qué tipo de crecimiento tendré después de este dolor desgarrador?",
+        "¿Cómo lidio con la frustración del fracaso?"
+      ],
+      "dos": [
+        "mira la puesta de sol",
+        "jugando con la música"
+      ],
+      "donts": [
+        "cheque ex amante",
+        "tía nocturna"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Las cicatrices también se desvanecen",
+      "reading": "La herida todavía duele, pero ya no es tan dolorosa como al principio. Poco a poco, comienzas a aceptar el dolor, sientes que la herida cicatriza o te preparas para dejar ir la experiencia.\n\nEl dolor no desaparece, pero ya no te mantiene en tu lugar. Date tiempo primero para perdonar a quienes te han herido, para dejar ir los resentimientos o para permitir que otros nuevos entren en tu corazón. Recuerde no salir corriendo del dolor, pretender estar curado o rechazar el verdadero proceso de curación.\n\nLa curación lleva tiempo. Pero estás en camino, continúa.",
+      "questions": [
+        "¿Qué sorpresas me esperan en mi nueva vida?",
+        "¿Debería considerar dar marcha atrás? ¿O irse con firmeza?",
+        "¿Cómo debo detener mis pérdidas y encontrar nuevos caminos de desarrollo?"
+      ],
+      "dos": [
+        "resolver",
+        "Organiza tu armario"
+      ],
+      "donts": [
+        "pensamientos aleatorios",
+        "fricción interna emocional"
+      ]
+    }
+  },
+  {
+    "card_key": "four_of_swords",
+    "upright": {
+      "affirmation": "Descansar también es trabajo.",
+      "reading": "El Cuatro de Espadas simboliza el descanso, la recuperación y la pausa temporal; el verdadero descanso no se trata de escapar, sino de empezar de nuevo mejor. Ahora mismo necesitas descansar.\n\nEs posible que se sienta agotado, que necesite un descanso del estrés o que se dé cuenta de que tengo que parar. Este es un buen momento para tomarse unas vacaciones, alejarse de los factores estresantes o simplemente no hacer nada. Evite sentirse culpable por tomar un descanso, sentir que tomar un descanso es una pérdida de tiempo u obligarse a continuar.\n\nEl descanso es necesario. Sólo restaurando tu energía podrás afrontar mejor los desafíos que te esperan.",
+      "questions": [
+        "¿Este período de tratamiento con frío puede darnos un verdadero descanso?",
+        "¿Cómo ordenar tus sentimientos durante el período de pausa?",
+        "¿Debo seguir esforzándome o debo descansar primero?"
+      ],
+      "dos": [
+        "leche tibia",
+        "bebe caliente"
+      ],
+      "donts": [
+        "Maratón nocturno",
+        "oscuridad teléfono inteligente"
+      ]
+    },
+    "reversed": {
+      "affirmation": "No apresures la recuperación",
+      "reading": "Después de acostarme lo suficiente, mi cuerpo y mi mente comenzaron a querer moverse nuevamente. En mi mente, realmente me despierto del reposo, siento que mi energía ha regresado o que estoy listo para volver a la vida.\n\nQuerer volver a moverse demuestra que el descanso realmente funcionó. A continuación, retoma poco a poco tu rutina diaria, establece nuevas metas o agradece este tiempo de descanso. No siempre se apresure de una vez, no se agote antes de recuperarse por completo ni se preocupe por tomar un descanso demasiado largo.\n\nVuelve a tu rutina diaria a tu propio ritmo, no te apresures a llenar los huecos nuevamente.",
+      "questions": [
+        "¿Debo tomar la iniciativa y romper el silencio en la relación?",
+        "¿Cómo puedo compensar las oportunidades que perdí al escaparme?",
+        "¿Es este el momento adecuado para arriesgarse y mejorar?"
+      ],
+      "dos": [
+        "plan semanal",
+        "agua tibia"
+      ],
+      "donts": [
+        "horas extras inútiles",
+        "auto perra"
+      ]
+    }
+  },
+  {
+    "card_key": "five_of_swords",
+    "upright": {
+      "affirmation": "Incluso si ganas, no todo es bueno",
+      "reading": "El Cinco de Espadas simboliza el conflicto, la derrota y la victoria por cualquier medio necesario; nos recuerda que ganar la batalla no significa necesariamente ganar lo que es verdaderamente importante. En este momento, es posible que esté involucrado en un conflicto.\n\nEs posible que tenga una discusión acalorada, se sienta derrotado o se dé cuenta de que alguien está utilizando medios injustos. Ahora es un buen momento para evaluar si el conflicto vale la pena, para protegerse sin lastimar a los demás o para alejarse en lugar de confrontar a los demás. Evite hacer lo que sea necesario para ganar, tratar a todos como enemigos o negarse a sí mismo por el fracaso.\n\nAlgunas victorias no merecen ser celebradas. Mantener la dignidad es más importante que ganar.",
+      "questions": [
+        "¿Hacia dónde conducirá esta disputa nuestra relación?",
+        "¿Debería inclinar la cabeza primero y poner fin a este conflicto?",
+        "¿Mi ira lastimará a los amigos que me rodean?"
+      ],
+      "dos": [
+        "cariñosamente",
+        "Coordenadas de Rakuchin"
+      ],
+      "donts": [
+        "conflicto con otros",
+        "sentado"
+      ]
+    },
+    "reversed": {
+      "affirmation": "deja de discutir",
+      "reading": "Es posible que no valga la pena recordar las palabras que ganes. Cosas como ésta: empiezas a arrepentirte de las tácticas que utilizaste, sientes el vacío de tu victoria o te sientes dispuesto a dejar de lado el conflicto.\n\nMirar hacia atrás y ver el coste es más útil que ganar otro juego. No se apresure a resolverlo todo ahora. Primero busca la reconciliación, admite tus errores o elige abandonar este campo de batalla. No estés demasiado ansioso por aguantar, ni te niegues a disculparte por orgullo ni utilices más conflictos para encubrir tu culpa.\n\nUna persona verdaderamente fuerte sabe dejarse llevar. Reconciliarse o irse es más valiente que seguir luchando.",
+      "questions": [
+        "¿Qué he perdido en este conflicto?",
+        "El equipo está peleando, ¿debería alejarme y buscar nuevas oportunidades?",
+        "¿He abandonado completamente esta relación?"
+      ],
+      "dos": [
+        "Romper el hielo",
+        "pescando"
+      ],
+      "donts": [
+        "hablar a mis espaldas",
+        "Releer chats del ex"
+      ]
+    }
+  },
+  {
+    "card_key": "six_of_swords",
+    "upright": {
+      "affirmation": "miremos hacia adelante",
+      "reading": "El Seis de Espadas simboliza la transición, dejar una situación difícil y avanzar hacia un lugar mejor, dirigiéndose hacia aguas más tranquilas incluso con rastros de lo antiguo. En este momento estás dejando atrás un momento difícil.\n\nEs posible que esté saliendo de una crisis, sintiendo que las cosas están empezando a mejorar o preparándose para pasar a un nuevo entorno. Este es un buen momento para continuar esta transición, confiar en que nos esperan cosas mejores o agradecer este difícil viaje. Evite tener miedo de irse, recordar el dolor o sentir que la mejoría es temporal.\n\nConfía en que te diriges a un lugar mejor. Sigue adelante, te esperan aguas tranquilas.",
+      "questions": [
+        "¿Podemos apoyarnos unos a otros y salir de nuestros bajos emocionales?",
+        "¿Debería empezar de nuevo en un entorno diferente?",
+        "¿Quieres dejar atrás los rencores del pasado y confiar en él?"
+      ],
+      "dos": [
+        "Organiza tu bolso",
+        "Organiza tu escritorio"
+      ],
+      "donts": [
+        "Extraño los viejos tiempos",
+        "Debate con gánsteres"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Está bien pedir ayuda",
+      "reading": "Obviamente quiero irme, pero siempre termino en el mismo lugar. Tu reacción: quieres irte pero no puedes, te topas con un obstáculo en tu transición o te das cuenta de que todavía estoy en la misma situación.\n\nEncuentra el paso que realmente se te ha quedado grabado. Elige una cosa para hacer primero: identificar el obstáculo, pedir ayuda para salir o admitir que necesito más coraje. No hay necesidad de permanecer en un ambiente tóxico, tener miedo de cambiar o fingir que todo está bien.\n\nNo hay necesidad de esperar hasta que sea absolutamente necesario para abandonar el lugar que te consume.",
+      "questions": [
+        "¿Deberíamos utilizar la confrontación frontal para resolver conflictos persistentes en las relaciones?",
+        "¿Por qué nuestra relación todavía me entristece?",
+        "¿He evitado mis responsabilidades?"
+      ],
+      "dos": [
+        "Halagar a 3",
+        "zapatos habituales"
+      ],
+      "donts": [
+        "trastorno del reloj biológico",
+        "Sobrepensar"
+      ]
+    }
+  },
+  {
+    "card_key": "seven_of_swords",
+    "upright": {
+      "affirmation": "Déjame decirte después de organizar mis pensamientos.",
+      "reading": "El Siete de Espadas simboliza la estrategia, el engaño y evitar el conflicto directo; a veces es prudente tomar un desvío, pero también es importante examinar si ese camino es realmente necesario. En este punto, es posible que necesite alguna estrategia.\n\nEs posible que tengas que manejar algo con tacto, evitar la confrontación o darte cuenta de que alguien me está engañando. Este es un buen momento para utilizar la sabiduría en lugar de la fuerza bruta, proteger los propios intereses o ver claramente las intenciones de los demás. Evite utilizar el engaño para herir a personas inocentes, ser demasiado astuto y perder la confianza, o engañarse a sí mismo.\n\nLa estrategia es sabiduría, pero no cruces los límites morales. La honestidad es siempre la política más duradera.",
+      "questions": [
+        "¿Hay algún pequeño secreto detrás de su comportamiento que desconozco?",
+        "¿Cómo utilizar trucos inteligentes para evitar obstáculos en el lugar de trabajo?",
+        "¿Debo cerrar esta inversión tan pronto como sea buena?"
+      ],
+      "dos": [
+        "comer mcdonalds",
+        "tolerancia"
+      ],
+      "donts": [
+        "reacio a hablar",
+        "ansiedad"
+      ]
+    },
+    "reversed": {
+      "affirmation": "la verdad es mas facil",
+      "reading": "Cuanto más ocultes tus palabras, más difícil será fingir que no pasó nada. Se descubren las palabras ocultas, la estrategia falla o finalmente ya no quieres mentirte más.\n\nYa no puedo ocultar cosas, pero puedo dejar de consumirme. Si todavía no sabes qué hacer, primero admite tu error, enfrenta las consecuencias con honestidad o deja de hacer trampa y comienza de nuevo. No dejes que la ansiedad te obligue a seguir mintiendo para encubrir, culpar a otros o negar responsabilidades.\n\nLa verdad duele, pero también te libera del esfuerzo de mantener una mentira.",
+      "questions": [
+        "¿Debería bajar mis defensas y enfrentarlo con calma?",
+        "¿Mi condición me ayudará a aprobar el examen?",
+        "¿Me está ocultando algo?"
+      ],
+      "dos": [
+        "organiza tu mente",
+        "taxi"
+      ],
+      "donts": [
+        "Armar drama",
+        "Hablar mal"
+      ]
+    }
+  },
+  {
+    "card_key": "eight_of_swords",
+    "upright": {
+      "affirmation": "Soy más libre de lo que pensaba",
+      "reading": "El Ocho de Espadas simboliza la autolimitación, el atrapamiento y los sentimientos de impotencia; los que nos rodean suelen ser nuestras propias creencias y miedos, más que obstáculos reales. En este momento, es posible que se sienta atrapado.\n\nQuizás te sientas impotente, restringido o te des cuenta de que no puedo salir. Pero si miras de cerca, puede que sean tus propios pensamientos los que te limiten. Ahora es un buen momento para cuestionar la creencia de que no puedo, desafiar las limitaciones o darme cuenta de que realmente puedo. Evite seguir creyendo que es impotente, culpar a los de afuera o negarse a ver su propio poder.\n\nEres más libre de lo que crees. La cuerda está suelta y puedes irte si quieres.",
+      "questions": [
+        "¿Cómo puedo ver claramente la verdadera naturaleza del TA?",
+        "¿Tengo miedo de dejar esta relación porque tengo miedo de estar solo?",
+        "¿Debo tomar la iniciativa para romper la situación y abandonar el entorno actual?"
+      ],
+      "dos": [
+        "meditación",
+        "Ver películas curativas"
+      ],
+      "donts": [
+        "duda de ti mismo",
+        "cuando un perro lame"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Hay otra manera también",
+      "reading": "La capa de cosas que cubren el camino frente a mí se va aflojando poco a poco. No es difícil ver cuándo te has quitado las anteojeras, te has dado cuenta de tu poder o estás listo para dejar una situación difícil.\n\nHas visto que la puerta no está cerrada. Lo primero que puedes hacer es tomar medidas para salir, romper el viejo patrón o creer en tus habilidades. Por no hablar de verlo pero aún así no atreverse a moverse, volver a ponerse la venda por miedo o sentir que la libertad da demasiado miedo.\n\nEstás encontrando tu libertad. Sigue liberándote, eres más fuerte de lo que crees.",
+      "questions": [
+        "¿Cómo salgo de este lío?",
+        "¿Debo dejar inmediatamente a la persona que me consume?",
+        "¿Qué sorpresas me llevaré cuando me reencuentre?"
+      ],
+      "dos": [
+        "Crear informes diarios",
+        "organización de almacenamiento"
+      ],
+      "donts": [
+        "Mente divagando de clase",
+        "procrastinar"
+      ]
+    }
+  },
+  {
+    "card_key": "nine_of_swords",
+    "upright": {
+      "affirmation": "No tengas miedo solo",
+      "reading": "El Nueve de Espadas simboliza la ansiedad, las pesadillas y la preocupación excesiva, los mayores temores de la noche, que a menudo parecen menos aterradores después del amanecer. En este momento, es posible que te sientas invadido por la ansiedad.\n\nEs posible que te despiertes en medio de la noche, abrumado por la preocupación o que sientas que todo se está desmoronando. Pero si miramos más de cerca, muchas de las preocupaciones pueden ser imaginarias. Ahora es un buen momento para diferenciar entre problemas reales y miedos imaginarios, buscar apoyo o hacer algo para calmarse. Evite hundirse en la ansiedad, quedarse despierto hasta tarde preocupándose o aceptar todas las preocupaciones como reales.\n\nLa mayoría de los temores no sucederán. Respira hondo y vuelve al momento presente.",
+      "questions": [
+        "¿Qué me pone ansioso?",
+        "¿Debo tomar la iniciativa de hablar con él o ella sobre mis inquietudes?",
+        "¿Mi subconsciente me está enviando señales?"
+      ],
+      "dos": [
+        "prioridad",
+        "paseo nocturno"
+      ],
+      "donts": [
+        "Escribirle a tu crush",
+        "Aprecio mis arrepentimientos"
+      ]
+    },
+    "reversed": {
+      "affirmation": "relájate un poco",
+      "reading": "La preocupación que pesaba mucho en mi corazón finalmente se ha vuelto menos pesada recientemente. En los últimos días has empezado a ver claramente que tus preocupaciones son imaginarias, sientes que tus miedos se disipan o te preparas para afrontar la realidad.\n\nEstar menos preocupado no significa que el problema haya desaparecido, pero sí te da la fuerza para afrontarlo. Hoy puede ser un día para agradecer el alivio de la ansiedad, tomar medidas para afrontar problemas reales o buscar ayuda profesional. No se apresure a asumir que todo estará bien una vez que su ansiedad desaparezca, ni ignore el problema real ni se niegue a buscar ayuda.\n\nEl cielo se irá iluminando poco a poco; solo ocúpate primero de lo pequeño que puedas hacer frente a ti.",
+      "questions": [
+        "¿Cómo deshacerse de la ansiedad?",
+        "¿Cómo aprovecho la oportunidad de tocar fondo?",
+        "¿Cómo evitar que vuelva la ansiedad?"
+      ],
+      "dos": [
+        "Resumen del pequeño Hongseo",
+        "30 minutos de almuerzo"
+      ],
+      "donts": [
+        "Agenda llena",
+        "gran cabeza de aceite"
+      ]
+    }
+  },
+  {
+    "card_key": "ten_of_swords",
+    "upright": {
+      "affirmation": "No es todo mi culpa",
+      "reading": "El Diez de Espadas simboliza tocar fondo y dar la vuelta: los momentos más difíciles han pasado y hay un rayo de luz en la distancia. En este punto ya ha pasado la depresión más profunda.\n\nPuede que ahora mismo estés muy cansado, algo cansado. Te preguntas si no soy lo suficientemente bueno... no. Algunos finales simplemente están destinados a suceder. Este es un buen momento para escribir algo que deseas dejar ir y romperlo, borrar mensajes de alguien con quien ya no tienes contacto o simplemente decirte a ti mismo que hice lo mejor que pude. Evite preguntar constantemente por qué a mí, u obligarse a ser fuerte y reprimir su verdadera tristeza.\n\nPermítete cansarte. El sol volverá a salir y eres más fuerte de lo que crees.",
+      "questions": [
+        "¿Qué necesito dejar ir?",
+        "¿Cómo encontrar nuevas oportunidades de crecimiento en el duelo?",
+        "¿Qué crecimiento puedo obtener de esta transformación?"
+      ],
+      "dos": [
+        "despertarse temprano",
+        "voz curativa"
+      ],
+      "donts": [
+        "Pin en alguien que te preocupa",
+        "dulces"
+      ]
+    },
+    "reversed": {
+      "affirmation": "puedo pararme de nuevo",
+      "reading": "Después de superar el lugar más difícil, la gente irá recuperando fuerzas poco a poco. Ahora comienzas a sacar la espada de tu espalda, sientes que el dolor disminuye o te preparas para levantarte.\n\nSer capaz de sentir que el dolor se alivia es un progreso muy real en sí mismo. Anota cada mejora y haz un plan más flexible para la próxima recuperación. No se apresure a recuperarse por completo, ni niegue que llevará tiempo ni se ponga ansioso porque el progreso es lento.\n\nNo te apresures, simplemente mantente más firme hoy.",
+      "questions": [
+        "¿Todavía vale la pena luchar por reparar esta relación?",
+        "¿Qué debo hacer para curarme?",
+        "¿Cómo evitar volver a caer?"
+      ],
+      "dos": [
+        "grabar vida",
+        "Déjalo todo"
+      ],
+      "donts": [
+        "decisión apresurada",
+        "Comparar con otros"
+      ]
+    }
+  },
+  {
+    "card_key": "page_of_swords",
+    "upright": {
+      "affirmation": "mira y pregunta",
+      "reading": "La Sota de Espadas simboliza la curiosidad, el estado de alerta y la búsqueda de la verdad: explora cada verdad oculta con sus ojos penetrantes y su corazón abierto. En este momento, mantente curioso y alerta.\n\nQuizás quieras explorar una verdad, sospechar de algo o sentir la necesidad de investigar algo. Este es un buen momento para hacer preguntas, investigar o analizar problemas de manera lógica. Evite sospechar demasiado y perder la confianza, tratar a los demás con frialdad o herir sentimientos por el bien de la verdad.\n\nVale la pena buscar la verdad, pero también hay que conservar algo de ternura.",
+      "questions": [
+        "¿Debo observarlo desde la distancia?",
+        "¿Hay algún subtexto en lo que dijo que no noté?",
+        "¿Hay oportunidades a mi alrededor de las que aún no soy consciente?"
+      ],
+      "dos": [
+        "uno para aprender",
+        "cosquillas"
+      ],
+      "donts": [
+        "encontrar un tema",
+        "comida fresca y fría"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Reduce un poco tus dudas",
+      "reading": "Cuando todo el mundo tiene un problema, a menudo eres tú el que se cansa primero. Durante este período, ves a todos como mentirosos, analizas demasiado hasta el punto de perder tus sentimientos o te lastimas y dejas de confiar.\n\nBaje las especulaciones y mire los hechos. Puede comenzar con cosas pequeñas como preguntarme a qué tengo miedo, confiar selectivamente o reconocer que no todos me van a hacer daño. Tenga cuidado de no seguir sospechando demasiado, rechazar a todos por un dolor o protegerse con frialdad.\n\nEs bueno estar alerta, pero no perder la confianza básica.",
+      "questions": [
+        "¿Sospecho un poco al enfrentarlo?",
+        "¿Cómo lidiar con los rumores?",
+        "¿Cómo poner fin al impetuoso estado actual?"
+      ],
+      "dos": [
+        "recortar las uñas",
+        "ordenado"
+      ],
+      "donts": [
+        "demasiado sensible",
+        "una promesa falsa"
+      ]
+    }
+  },
+  {
+    "card_key": "knight_of_swords",
+    "upright": {
+      "affirmation": "No te dejes llevar por las dudas",
+      "reading": "El Caballero de Espadas simboliza el coraje de la acción rápida, la franqueza y la inteligencia: avanza con juicio claro y acción decisiva. Ahora es el momento de actuar rápido.\n\nEs posible que necesite tomar decisiones rápidas, expresar sus opiniones directamente o demostrar su valía mediante acciones. Este es un buen momento para solucionar el problema rápidamente, expresar sus verdaderos pensamientos o utilizar la lógica para resolver problemas. Evite ser demasiado imprudente y herir a los demás, ver sólo el objetivo e ignorar el proceso, o sustituir el coraje por la crueldad.\n\nEs bueno ser rápido y directo, pero también tener cierta consideración hacia los demás.",
+      "questions": [
+        "¿Es necesario abordar esta relación rápidamente?",
+        "¿Cómo puedo usar mis pensamientos para conquistar a alguien que es extremadamente inteligente?",
+        "¿Cuáles son las consecuencias de esta decisión?"
+      ],
+      "dos": [
+        "Cortar de raíz",
+        "trabajar eficientemente"
+      ],
+      "donts": [
+        "procrastinar",
+        "corte de esquina"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Respira antes de hablar.",
+      "reading": "Las personas que corren demasiado rápido a menudo se olvidan de comprobar si hay hoyos bajo sus pies. En este caso, actúas sin pensar con claridad, hablas demasiado bruscamente y lastimas a los demás, o te das cuenta de que soy demasiado impulsivo.\n\nAntes de que las palabras salgan de tu boca, tómate un momento para hacer una pausa. Este es un mejor momento para reducir el ritmo y hacer un balance, pensar antes de hablar o admitir que necesito ser más cauteloso. Trate de no correr hacia adelante, negarse a disculparse por orgullo o glorificar la imprudencia como valentía.\n\nEl coraje no se trata de apresurarse a ciegas. La verdadera sabiduría sabe cuándo reducir el ritmo.",
+      "questions": [
+        "¿Estoy siendo demasiado imprudente?",
+        "¿En qué áreas debo prestar especial atención a mis palabras y hechos recientemente?",
+        "¿Le puse demasiada presión?"
+      ],
+      "dos": [
+        "despues de pensar",
+        "jugo de naranja"
+      ],
+      "donts": [
+        "tener miedo",
+        "Soltar veneno"
+      ]
+    }
+  },
+  {
+    "card_key": "queen_of_swords",
+    "upright": {
+      "affirmation": "Hace calor para ser honesto",
+      "reading": "La Reina de Espadas simboliza independencia, claridad y juicio imparcial: su sabiduría proviene de la experiencia y su sobriedad proviene de haberlo enfrentado todo de verdad. En este momento, usa tu sabiduría e independencia.\n\nEs posible que deba hacer juicios justos, pensar de forma independiente o resolver problemas con una lógica clara. Este es un buen momento para expresar límites claros, no dejar que las emociones influyan en su juicio o ayudar a otros a ver la verdad. Evite ser tan despiadado que pierda su humanidad, usar la verdad para herir a otros o buscar justicia a expensas de la compasión.\n\nLa claridad y la compasión pueden coexistir. Puedes ser inteligente y al mismo tiempo gentil al mismo tiempo.",
+      "questions": [
+        "¿Cómo debería crearme un espacio independiente en esta relación?",
+        "¿Cómo aclaro mi resultado final en las interacciones interpersonales?",
+        "¿Puedo identificar a las personas a mi alrededor que me consumen?"
+      ],
+      "dos": [
+        "1+1",
+        "drama de medianoche"
+      ],
+      "donts": [
+        "expresar afecto",
+        "charla verdadera"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Se vuelve un poco más suave",
+      "reading": "Antes de que las palabras se endurezcan, es posible que los resentimientos hayan estado guardados en el corazón durante mucho tiempo. A juzgar por la reacción, usaste la razón para reprimir todas las emociones, te volviste malo o cerraste tu corazón porque estabas herido.\n\nNo se apresure a reprimir todos sus sentimientos. Hoy puedo empezar por permitirme sentir, ser amable conmigo mismo y con los demás, o reconocer que soy digno de cuidado. Deja de protegerte con frialdad, rechazando toda emoción por miedo o pensando que la gentileza es debilidad.\n\nSea capaz de expresar sus sentimientos con claridad manteniendo cierto sentido de la proporción.",
+      "questions": [
+        "¿Soy demasiado frío cuando se trata de personas que se preocupan por mí?",
+        "¿Los altos muros que construí para protegerme, están protegiéndome o atrapándome?",
+        "¿Cómo darte más amor y cuidado?"
+      ],
+      "dos": [
+        "Escribirle a tu crush",
+        "Nos vemos al atardecer"
+      ],
+      "donts": [
+        "golpear a una persona",
+        "jurar"
+      ]
+    }
+  },
+  {
+    "card_key": "king_of_swords",
+    "upright": {
+      "affirmation": "escuchar a ambos lados",
+      "reading": "El Rey de Espadas simboliza la razón, la autoridad y el juicio claro: toma decisiones verdaderamente importantes con buen ojo y cabeza fría. En este momento, lidera con tu sabiduría.\n\nEs posible que deba tomar decisiones importantes, utilizar la lógica para resolver problemas complejos o brindar una orientación clara a los demás. Este es un buen momento para ser racional, manejar los asuntos de manera justa o establecer reglas claras. Evite ser demasiado frío y deshumanizante, ser arbitrario y no escuchar opiniones, o utilizar la autoridad para reprimir a los demás.\n\nEl verdadero liderazgo es una combinación de sabiduría y justicia. Puedes ser firme y aun así ser justo.",
+      "questions": [
+        "¿Cómo puedo controlar la dirección con calma y racionalidad?",
+        "¿Es nuestra relación lo suficientemente fuerte?",
+        "¿Cuál será el impacto de mi decisión?"
+      ],
+      "dos": [
+        "piensa con calma",
+        "Ver discusión"
+      ],
+      "donts": [
+        "ascensor lleno de gente",
+        "dulces palabras"
+      ]
+    },
+    "reversed": {
+      "affirmation": "Aunque me equivoque lo admito",
+      "reading": "Los prejuicios también pueden estar mezclados con lo que usted cree que es un juicio tranquilo. En tu vida, estás abusando de tu poder, siendo demasiado insensible o dándote cuenta de que mi juicio está empañado por prejuicios.\n\nDeja de lado los juicios y escucha opiniones diferentes. Empiece por intentar reevaluar su juicio, escuchar voces diferentes o admitir que yo también cometo errores. No es necesario seguir siendo arbitrario, utilizar la autoridad para encubrir errores o negarse a admitir parcialidad.\n\nSólo admitiendo que no lo ve todo podrá su juicio acercarse más a la justicia.",
+      "questions": [
+        "¿Me estoy dejando llevar demasiado y perdiendo oportunidades?",
+        "¿Estoy demasiado influenciado por la otra persona en esta relación?",
+        "¿Estoy tan concentrado en mi propia lógica que estoy pasando por alto algo?"
+      ],
+      "dos": [
+        "escucha bien",
+        "organiza tu escritorio"
+      ],
+      "donts": [
+        "palabras fuertes",
+        "aceite para zona t"
+      ]
+    }
+  }
+]

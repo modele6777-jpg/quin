@@ -1,0 +1,41 @@
+package defpackage;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+public final class kw5 {
+    public final long a;
+    public final long b;
+    public final long c;
+    public final long d;
+
+    public kw5(long j, long j2, long j3, long j4) {
+        this.a = j;
+        this.b = j2;
+        this.c = j3;
+        this.d = j4;
+    }
+
+    public final boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (!(obj instanceof kw5)) {
+            return false;
+        }
+        kw5 kw5Var = (kw5) obj;
+        long j = kw5Var.a;
+        int i = y72.l;
+        return faf.a(this.a, j) && faf.a(this.b, kw5Var.b) && faf.a(this.c, kw5Var.c) && faf.a(this.d, kw5Var.d);
+    }
+
+    public final int hashCode() {
+        int i = y72.l;
+        return Long.hashCode(this.d) + ib8.b(ib8.b(Long.hashCode(this.a) * 31, 31, this.b), 31, this.c);
+    }
+
+    public final String toString() {
+        String strH = y72.h(this.a);
+        String strH2 = y72.h(this.b);
+        return ks0.m(ib8.o("FourSeasonsReportPalette(backgroundLight=", strH, ", backgroundDark=", strH2, ", subtitleLight="), y72.h(this.c), ", subtitleDark=", y72.h(this.d), ")");
+    }
+}

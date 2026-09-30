@@ -1,0 +1,314 @@
+[
+  {
+    "cardKey": "the_fool",
+    "description": "La joven Loca viste una hermosa falda y sostiene en su mano una pequeña flor blanca, símbolo de pureza y espiritualidad. El bastón, que debería representar la fuerza, lo usa para cargar con ligereza su pequeño hatillo. Con los ojos cerrados, avanza con paso liviano y confiado, sin prestar atención al precipicio que tiene ante ella. El perrito que la acompaña parece advertirle del peligro bajo sus pies, pero ella no se inmuta y continúa caminando, despreocupada y llena de optimismo. Esta Loca alegre y positiva inicia el viaje que le pertenece únicamente a ella."
+  },
+  {
+    "cardKey": "the_magician",
+    "description": "La Maga, ataviada con ropas espléndidas, despliega su magia con plena convicción. En la mano izquierda sostiene un libro de hechizos; en la derecha, una varita mágica. El símbolo del infinito sobre su cabeza es la fuente de su energía, y sus trenzas y flores flotan en el aire impulsadas por la magia. Sobre la mesa ante ella reposan los cuatro elementos: el Cáliz del agua, la Vara del fuego, la Espada del aire y el Pentáculo de la tierra. Todos ellos están bajo su dominio y los maneja con maestría."
+  },
+  {
+    "cardKey": "the_high_priestess",
+    "description": "La Suma Sacerdotisa, serena y reservada, se sienta en el centro sosteniendo entre sus manos un pergamino que simboliza la sabiduría. El pergamino, medio oculto, sugiere que hay capas más profundas de conocimiento aún por revelar. Su corona lunar y su túnica blanca hablan de pureza; la luna a sus pies, de sabiduría. A ambos lados se alzan dos columnas, una negra y una blanca. En la negra está grabada la letra B de Boaz, que significa «establecer y sostener»; en la blanca, la J de Jachin, que significa «fuerza interior». Juntas forman las Columnas de la Verdad y la dualidad del ser. El equilibrio entre lo consciente y lo inconsciente impregna toda la carta."
+  },
+  {
+    "cardKey": "the_empress",
+    "description": "La hermosa Emperatriz, llena de ternura y maternidad, sonríe recostada en su sofá. Su corona lleva doce estrellas, una por cada signo del zodíaco; en la mano derecha sostiene el cetro de la autoridad; su vestido está adornado con motivos de granada, símbolo de la fertilidad. A su lado descansa un cojín con el signo de Venus (♀), emblema del amor y la belleza. Plantas y flores la rodean por todas partes, y hasta las cortinas de su fondo lucen bordados de espigas de trigo, imagen de la tierra fecunda y de la abundante cosecha."
+  },
+  {
+    "cardKey": "the_emperor",
+    "description": "El imponente Emperador ocupa su trono con majestuosa autoridad. Lleva la corona del poder, está vestido de rojo y sostiene un orbe en una mano; en la otra, el cetro ankh del antiguo Egipto, símbolo de la fuerza vital. En los brazos del trono están talladas cuatro cabezas de carnero, en correspondencia con el signo de Aries. Las montañas del fondo representan los formidables desafíos y pruebas que ha tenido que superar. No tiene facilidad para expresar sus emociones y prefiere mantenerlas ocultas bajo su compostura imperial."
+  },
+  {
+    "cardKey": "the_hierophant",
+    "description": "El Hierofante se yergue ante sus fieles con la mano derecha levantada hacia el cielo en señal de bendición, y la izquierda sostiene el cetro en forma de cruz, símbolo de lo divino y la autoridad. Su triple corona representa los tres planos del cuerpo, la mente y el espíritu. Los dos devotos ante él escuchan con atención, ansiosos por perfeccionarse y despertar bajo su guía. Las dos llaves entre ellos representan la sabiduría que une lo interior con lo exterior, capaz de abrir las puertas del conocimiento y el misterio."
+  },
+  {
+    "cardKey": "the_lovers",
+    "description": "Dos amantes se abrazan. A sus espaldas, doce llamas ardientes representan la energía de los doce signos del zodíaco: el fuego del deseo. Un árbol del conocimiento da cinco frutos, símbolo de los cinco sentidos; una serpiente del deseo y la tentación serpentea a su alrededor como si quisiera seducirlos hacia la caída. En la distancia, la montaña masculina y el agua femenina cercana expresan el estado de equilibrio entre yin y yang, energías en perfecta armonía."
+  },
+  {
+    "cardKey": "the_chariot",
+    "description": "Una valiente guerrera conduce un carro tirado por dos osos: uno negro y uno blanco, emblemas del equilibrio entre el yin y el yang, y también de las emociones, los deseos y los instintos difíciles de controlar. La guerrera lleva armadura, sostiene el bastón de la voluntad y la fuerza, y porta una corona de laurel de victoria. No lleva riendas; es la fuerza de su voluntad lo que mantiene a los dos animales bajo su control. Parece que defiende la ciudad amurallada a sus espaldas o, quizás, que deja el mundo material atrás y emprende un viaje interior."
+  },
+  {
+    "cardKey": "strength",
+    "description": "Una joven menuda, ataviada con un hermoso vestido de capas, se mueve con la elegancia de una bailarina sobre un piano. Los lazos trenzados en su cabello y las flores bordadas en su ropa hablan de su nobleza, pureza y dulzura. El símbolo del infinito sobre su cabeza proclama que su poder no tiene límites. Extiende la mano y acaricia suavemente al enorme león, que yace dócil con la cabeza inclinada hacia ella: ya ha sido domado. El león representa el instinto humano, sometido ahora por la sabiduría y un espíritu superior."
+  },
+  {
+    "cardKey": "the_hermit",
+    "description": "Una joven descalza se alza sobre la cima de una montaña en profunda meditación, sin que haya nadie más a la vista. En una mano sostiene bien alto un farol de la verdad, dentro del cual brilla una estrella de seis puntas, cuya luz ilumina el camino hacia la sabiduría. En la otra mano lleva un bastón que ya ha aparecido en el Loco, el Mago y el Carro: siempre como instrumento de exploración del yo, un medio para el viaje interior."
+  },
+  {
+    "cardKey": "the_wheel_of_fortune",
+    "description": "La Rueda de la Fortuna está rodeada por el Árbol de la Vida. En el anillo exterior están grabadas las letras T-A-R-O y el nombre hebreo YHVH, que representa a Jehová; en el anillo interior, cuatro símbolos alquímicos. Sobre el árbol hay una esfinge; debajo, Anubis con forma de chacal, que simboliza el alma en ascenso. La serpiente es la encarnación de Tifón, el dios del mal, y representa la caída. En las cuatro esquinas, las criaturas guardianas —el águila (Escorpio/agua), el león (Leo/fuego), el toro (Tauro/tierra) y el hombre (Acuario/aire)— gobiernan los cuatro elementos y controlan el cambio y las leyes del mundo. La Rueda gira sin cesar: este mundo es, ante todo, imprevisible."
+  },
+  {
+    "cardKey": "justice",
+    "description": "Una mujer se sienta erguida en un banco de piedra y alza la espada en su mano derecha perfectamente vertical, sin inclinarse ni a la izquierda ni a la derecha: emblema de imparcialidad. En la mano izquierda sostiene una balanza, símbolo de Libra. Sus ojos están cerrados y su expresión es fría e imperturbable, sin dejarse afectar por ninguna circunstancia exterior. Las dos columnas a sus lados representan las fuerzas positiva y negativa en equilibrio."
+  },
+  {
+    "cardKey": "the_hanged_man",
+    "description": "Una mujer con las manos atadas a la espalda cuelga boca abajo, formando un triángulo con su cuerpo. Las piernas cruzadas forman una cruz; la cruz y el triángulo juntos componen un símbolo alquímico que representa la transmutación del deseo bajo en alma elevada, encarnando el bautismo, el sacrificio, la devoción y la preparación para una vida nueva y más elevada. El halo de luz que la rodea simboliza la sabiduría y la evolución del espíritu."
+  },
+  {
+    "cardKey": "death",
+    "description": "La Muerte cabalga sobre un caballo blanco, con un tocado de plumas y la bandera de la Rosacruz. Cuatro figuras aparecen en la escena: un rey aplastado bajo los cascos por haberse resistido; un papa con las manos juntas en reverencia ante la muerte; una mujer que ha caído desvanecida o no puede soportar lo que ve; y un niño que, sin conocer la muerte, la observa simplemente con curiosidad. Todos son iguales ante la muerte, sin importar edad ni condición. El río a lo lejos representa el ciclo ininterrumpido de la vida; la luz que asoma tras las montañas es el símbolo de la esperanza y el renacimiento, como si dijera que la muerte nunca es el final."
+  },
+  {
+    "cardKey": "temperance",
+    "description": "Una joven de largo cabello viste una hermosa falda larga y tiene en la espalda alas de mariposa que representan la transformación. El motivo del cuadrado dentro del triángulo en su pecho fusiona la espiritualidad con la naturaleza animal, y a la vez une el elemento tierra con el elemento fuego, simbolizando el espíritu que surge del cuerpo. Su pie derecho se adentra en el estanque del inconsciente; el izquierdo descansa sobre una piedra en la orilla de la consciencia. Con un cáliz en cada mano, vierte el agua de uno a otro en un flujo continuo que sostiene el equilibrio dinámico entre el yin y el yang. Una luz resplandece en la cima de una montaña lejana, señal de que esta carta ha trascendido el miedo que nos trajo la Muerte. Todo el arcano irradia paz y serenidad, recordándonos que tras la muerte llega siempre la nueva vida."
+  },
+  {
+    "cardKey": "the_devil",
+    "description": "Un hombre y una mujer, malditos y encadenados, se han convertido en siervos del Diablo: son el arquetipo de Adán y Eva. La cola de Eva es el fruto prohibido del árbol del conocimiento; la llama en la cola de Adán, la llama del árbol de la vida. Tentados, comieron el fruto prohibido y fueron arrojados al infierno. El Diablo simboliza la seducción de lo material y del deseo, la persecución de la fama y la riqueza, y el hundimiento en el anhelo tanto material como espiritual."
+  },
+  {
+    "cardKey": "the_tower",
+    "description": "Una alta torre en la cima de una montaña es alcanzada por un rayo y se derrumba. Dos personas caen de ella con la cabeza hacia abajo. La corona, también alcanzada por el rayo, está a punto de caer. A ambos lados se esparcen veintidós chispas, una por cada carta del Arcano Mayor. La Torre recibe el castigo del cielo: la torre simboliza lo material; la corona, el dominio y los logros. Con un golpe fatal, todo desaparece. El rayo es el lenguaje del castigo divino; el golpe catastrófico que llega sin aviso presagia un período de oscuridad."
+  },
+  {
+    "cardKey": "the_star",
+    "description": "Una joven rubia con una corona de flores mantiene el pie izquierdo sobre la tierra de la consciencia y el pie derecho en el estanque del inconsciente. En cada mano sostiene una jarra llena del agua de la vida: la de la derecha la vierte en el estanque, creando ondas; la de la izquierda la derrama sobre la tierra, dividiéndose en cinco corrientes que representan los cinco sentidos humanos, una de las cuales regresa al estanque para alimentar de nuevo el manantial del inconsciente. A sus espaldas florecen flores y vuela un pájaro de la sabiduría, creador de todo arte. Detrás de ella se extiende una vasta pradera florida y una cordillera; en el cielo brilla una enorme estrella dorada, rodeada por siete pequeñas estrellas octagonales."
+  },
+  {
+    "cardKey": "the_moon",
+    "description": "Una luna llena pende en el cielo nocturno, y en ella aparece el rostro de una mujer con los ojos cerrados y el ceño fruncido, revelando confusión e inquietud. Bajo la luna hay un perro blanco doméstico y un lobo negro salvaje, ambos asustados, mirando hacia la luna: representan respectivamente la psique domesticada y la bestia interior sin domar. En la parte inferior, un cangrejo sale del agua hacia la tierra, simbolizando una angustia más profunda que el miedo o la animalidad. El largo camino sinuoso que se extiende hacia adelante representa peligros desconocidos que intensifican la desorientación y el desasosiego que impregnan esta carta."
+  },
+  {
+    "cardKey": "the_sun",
+    "description": "Un niño rubio con una corona de flores encarna la vitalidad del nuevo comienzo. Cuatro girasoles en el muro que lo rodea simbolizan los cuatro elementos. Los girasoles se vuelven hacia el niño en lugar de hacia el sol, indicando que la energía de este niño ya supera a la del astro que brilla sobre él. El niño monta sin riendas, señal de que su energía está plenamente bajo control. La bandera roja en su mano simboliza la acción; el sol del fondo es la fuente de toda vida."
+  },
+  {
+    "cardKey": "judgement",
+    "description": "Un ángel toca su trompeta en el cielo y su música tiene el poder de liberar a la humanidad de las limitaciones del mundo material y de sanar el cuerpo y el alma. Bajo el ángel se extiende un mar que representa el inconsciente; sobre él flotan numerosos ataúdes con personas dentro, que simbolizan los viejos patrones del mundo material. En los ataúdes ya han brotado nuevas flores, aunque las personas a lo lejos siguen siendo grises. Al frente, un hombre —símbolo de la consciencia— levanta la vista hacia el ángel con discreción; una mujer —símbolo del inconsciente— extiende los brazos y acepta el llamado con generosidad; un niño —símbolo de la personalidad renacida— nos da la espalda."
+  },
+  {
+    "cardKey": "the_world",
+    "description": "Una danzarina de figura grácil baila dentro de una corona de laurel, símbolo de la victoria. Viste ropas de nobleza y sacralidad; sus alas de mariposa, ligeras y translúcidas, indican que su transformación ha alcanzado su plenitud. Sostiene dos bastones con suavidad: las fuerzas de la evolución y la involución. La forma ovalada, casi un cero, representa el fin de esta etapa y el comienzo inminente de la siguiente: el Loco, y un nuevo ciclo. En la parte superior e inferior de la corona hay dos símbolos del infinito que representan lo ilimitado y lo eterno. Las cuatro criaturas en las esquinas —el águila, el león, el toro y el hombre— que ya aparecieron en la Rueda de la Fortuna sosteniendo libros para absorber conocimiento, aquí en el Mundo completan finalmente su misión."
+  },
+  {
+    "cardKey": "ace_of_wands",
+    "description": "Dos manos emergen de entre las nubes y sujetan un bastón adornado con hojas y una gema brillante. El agarre es firme y elegante, insinuando vitalidad y entusiasmo. La alta montaña en la distancia marca el destino: la posibilidad del éxito."
+  },
+  {
+    "cardKey": "two_of_wands",
+    "description": "En lo alto de una montaña, una joven está erguida, con el pecho hacia adelante y los ojos cerrados en meditación, como si estuviera planificando el futuro y dando a entender que el presente no le es suficiente. En su mente ya toma forma un plan o decisión audaz y exitoso. Sostiene dos varas; la capacidad de actuar va de la mano con la conciencia de que hay dos caminos distintos posibles."
+  },
+  {
+    "cardKey": "three_of_wands",
+    "description": "En la cumbre de una montaña, una comerciante contempla el mar a lo lejos, atraída por horizontes que la llaman a demostrar su valía. Tiene en sus manos tres varas y es, sin duda, una líder visionaria: cuanto más alto se suba, más lejos se ve; y cuanto más lejos se ve, más certera y anticipada es la decisión."
+  },
+  {
+    "cardKey": "four_of_wands",
+    "description": "Cuatro enormes columnas se alzan sobre la tierra como varas, decoradas con guirnaldas de victoria y luminarias. En primer plano, una bella mujer sostiene una piedra preciosa resplandeciente y baila con pasos ligeros, celebrando algo. Los fuegos artificiales estallan en el cielo y toda la escena está impregnada de alegría, en una imagen de armonía y regocijo."
+  },
+  {
+    "cardKey": "five_of_wands",
+    "description": "Bajo la influencia del elemento fuego, cinco personas en campo abierto sostienen cada una una vara. Cada cual defiende su punto de vista; cinco varas apuntan en cinco direcciones distintas. Nadie escucha a nadie: todos combaten entre sí, en un enfrentamiento tenso y caótico sin visos de resolución."
+  },
+  {
+    "cardKey": "six_of_wands",
+    "description": "Un caballero con armadura, coronado con el laurel de la victoria, regresa triunfante a lomos de un caballo negro. Las varas que lo rodean representan tanto a los seguidores que lo apoyan como a la multitud. La vara en la mano del jinete es el trofeo de la victoria: la ardua lucha ya pasó; ahora es el momento de llevar la cabeza en alto y recibir los vítores y la gloria."
+  },
+  {
+    "cardKey": "seven_of_wands",
+    "description": "Una joven se yergue con calma en una ladera, sosteniendo una vara con una mano. Las seis varas que avanzan desde abajo no parecen capaces de amenazar seriamente su posición. Vencerá estos desafíos al final, porque aunque lucha sola, está en terreno elevado y eso le da ventaja. El Siete de Varas habla del éxito alcanzado gracias a la perseverancia inquebrantable."
+  },
+  {
+    "cardKey": "eight_of_wands",
+    "description": "Un ángel tensa el arco y una vara está a punto de salir disparada. Las otras siete varas mágicas se deslizan ordenadamente y a gran velocidad por el aire. Sus puntas apuntan hacia abajo, a punto de tocar tierra: nada puede detener su vuelo. También pueden anunciar la llegada de algo nuevo. La velocidad del Ocho de Varas refleja un momento en que los obstáculos son pocos y la acción fluye libremente."
+  },
+  {
+    "cardKey": "nine_of_wands",
+    "description": "Una guerrera herida se aferra a su vara con fuerza; ocho varas más están plantadas detrás de ella, bloqueando su camino. Lleva vendajes en la cabeza y en las manos: aún no se ha curado del todo. Pero no tiene miedo. Su postura tensa revela su estado de alerta, su obstinación y el temple silencioso de su voluntad."
+  },
+  {
+    "cardKey": "ten_of_wands",
+    "description": "La figura en la carta está de pie en una postura de ofrenda, con los brazos abiertos, y diez varas-vela se apoyan pesadamente sobre ella, produciendo una sensación de ahogo agobiante. Las razones de esta sobrecarga son múltiples: incapacidad de negarse, planificación deficiente, ocuparse de demasiadas cosas a la vez. Esta carga no suele ser fruto del entorno, sino de su propia naturaleza o de sus decisiones, que la llevan a no poder más. Pero, movida por la convicción y el sentido de responsabilidad, no se rinde y carga sola con todo."
+  },
+  {
+    "cardKey": "page_of_wands",
+    "description": "La Sota de Varas apoya su vara en el suelo y gira el rostro hacia ella. Viste de manera casual, con colores vivos, irradiando una energía franca y animada. A lo lejos se divisan el desierto, las pirámides y un camello en camino, todos emblemas del elemento fuego."
+  },
+  {
+    "cardKey": "knight_of_wands",
+    "description": "El Caballero de Varas monta a caballo con plena confianza y sujeta su vara. Su ropa amarillo brillante luce un motivo de salamandra de fuego, aunque la boca y la cola no se tocan: señal de una acción o un plan incompletos. Comparado con el Rey, el Caballero acaba de comenzar su aventura. La capa roja simboliza el carácter apasionado; el caballo al galope, la rapidez de la acción."
+  },
+  {
+    "cardKey": "queen_of_wands",
+    "description": "La Reina de Varas lleva una corona de hojas y flores y se sienta en su trono con aplomo y seguridad. Detrás de ella florecen girasoles, símbolo de luz y alegría. Sostiene una vara en la mano derecha; el dosel de leones del trono simboliza la fortaleza interior capaz de domar la bestia instintiva. A sus pies, un gato negro hace guardia, custodio de la inspiración y la intuición."
+  },
+  {
+    "cardKey": "king_of_wands",
+    "description": "El Rey sostiene su vara en la mano derecha y se sienta en su trono con total confianza. El trono está decorado con leones y lagartos; los leones encarnan el carácter de fuego. El motivo de la salamandra de fuego, que en el Caballero aparecía solo a medias unido, aquí está completamente cerrado: símbolo de una maestría alcanzada en su plenitud. El cabello rojo encendido y el borde escarlata de la ropa declaran su apasionada naturaleza. Una salamandra escupiendo fuego monta guardia a su lado."
+  },
+  {
+    "cardKey": "ace_of_cups",
+    "description": "Una paloma blanca desciende desde lo alto y deposita una hostia sagrada —símbolo del cuerpo de Cristo— en el interior de un cáliz, representando el alma que entra en el mundo material. Cinco corrientes de agua brotan del cáliz, simbolizando los cinco sentidos humanos. Los nenúfares, plantas que solo prosperan en aguas profundas, sugieren que el estanque inferior tiene una gran profundidad, emblema de la riqueza emocional. Una mano sostiene el cáliz con ternura: el amor requiere cuidado y atención."
+  },
+  {
+    "cardKey": "two_of_cups",
+    "description": "Un hombre y una mujer ataviados con hermosas ropas inclinan levemente la cabeza el uno hacia el otro y alzan sus copas en un brindis de reconocimiento mutuo. Detrás de ellos, un arco de conexión se abre, adornado con cintas y enredaderas. Entre ellos flota un báculo con cabeza de león del que se enroscan dos serpientes: la cabeza de león y las alas representan el amor y la belleza; el caduceo de las serpientes, la comunicación y el intercambio."
+  },
+  {
+    "cardKey": "three_of_cups",
+    "description": "En un banquete de celebración, la cortina roja se abre, las velas rojas oscilan y tres buenas amigas, con coronas de flores y copas en mano, conversan animadamente sobre las alegrías y curiosidades de la vida. Los momentos de reencuentro son siempre especialmente felices. Que toda belleza permanezca para siempre en sus rostros."
+  },
+  {
+    "cardKey": "four_of_cups",
+    "description": "Una joven se apoya en un gran árbol con el cuerpo encogido en un gesto de autoprotección. Los tres cálices en el suelo simbolizan experiencias pasadas; el cáliz en el aire, una nueva oportunidad. Pero sus ojos miran hacia la lejanía sin ver la copa que le es ofrecida."
+  },
+  {
+    "cardKey": "five_of_cups",
+    "description": "Una figura con máscara y capa inclina la cabeza en lamento ante tres cálices volcados en el suelo, sumida en la tristeza. Bajo un cielo gris, un río fluye lentamente. La casa en la distancia representa estabilidad y continuidad: en este momento no está sola ni desprovista de todo. La casa sigue en pie; si ella quiere, en cualquier momento puede recoger las copas que tiene a sus espaldas y volver a empezar."
+  },
+  {
+    "cardKey": "six_of_cups",
+    "description": "En un jardín, un niño tiende a una niña un cáliz lleno de flores, como si le estuviera contando algo. A su alrededor hay cinco cálices más rebosantes de flores, que nos llevan al dulce recuerdo de los tiempos de la infancia."
+  },
+  {
+    "cardKey": "seven_of_cups",
+    "description": "En un cielo envuelto en niebla, flotan siete cálices que contienen cada uno algo diferente. Bajo la niebla, unas manos entrelazadas en oración miran hacia arriba, sin saber si están soñando despiertas o fantaseando con poseer algo. Los Siete de Copas es la dimensión no real de la vida: los sueños, las fantasías y los ensueños. Los cálices contienen, respectivamente: un castillo (aventura), joyas (riqueza), una corona de laurel (victoria), un dragón (tentación), una cabeza humana, una figura luminosa cubierta por un manto (uno mismo) y una serpiente (sabiduría)."
+  },
+  {
+    "cardKey": "eight_of_cups",
+    "description": "Una hermosa joven se apoya en un bastón y se dispone a abandonar los ocho cálices que recopiló con tanto esfuerzo, para salir en busca del noveno que está vacío. El bosque espeso en la distancia puede presagiar un camino difícil, pero ella no parece detenerse por eso. El tema del Ocho de Copas es el «abandono»: romper con lo establecido mediante la acción."
+  },
+  {
+    "cardKey": "nine_of_cups",
+    "description": "Una mujer elegantemente vestida descansa a sus anchas bajo su propio árbol; nueve cálices crecen en el árbol emotivo y exuberante que tiene a sus espaldas. Su expresión dice claramente que está muy satisfecha con su situación actual. Aquí hay una felicidad sencilla y sin adornos: puro contentamiento, un placer sereno frente a los logros ya acumulados."
+  },
+  {
+    "cardKey": "ten_of_cups",
+    "description": "Una familia de tres personas disfruta de un momento maravilloso juntos. Los padres se apoyan mutuamente con ternura; el adorable hijo juega feliz a su lado. Flores brillantes, plantas y mariposas revoloteando a su alrededor pintan un cuadro de armonía perfecta. Diez cálices flotan en el cielo: el Diez de Copas es una carta de alegría y de compartir. La satisfacción y la dicha irradian por todas partes, y la felicidad puede extenderse a todos los seres queridos."
+  },
+  {
+    "cardKey": "page_of_cups",
+    "description": "La Sota de Copas, ataviada con hermosas ropas, está de pie junto al mar en oleaje, con una mano en la cadera y una sonrisa amable: una presencia cálida y simpática. Del cáliz que sostiene en la mano salta un pez, que representa la imaginación, e indica que esta Sota posee una riqueza interior creativa extraordinaria."
+  },
+  {
+    "cardKey": "knight_of_cups",
+    "description": "A diferencia de los demás Caballeros de la corte, el Caballero de Copas monta un caballo blanco que avanza con elegancia, apuesto y caballeroso, igual que su gallardo jinete. El Caballero levanta el cáliz en alto; los hermosos motivos que decoran toda la carta hablan de imaginación, creatividad y vida espiritual."
+  },
+  {
+    "cardKey": "queen_of_cups",
+    "description": "La Reina de Copas se sienta en su trono junto al mar y contempla con ternura el cáliz que sostiene. Rica en el elemento agua, encarna una profunda espiritualidad y una percepción emocional de una delicadeza extraordinaria."
+  },
+  {
+    "cardKey": "king_of_cups",
+    "description": "En un mar embravecido, el Rey se sienta en su trono y deja ver la cola de pez que asoma bajo su manto. Por mucho que se agiten las olas a sus espaldas, el Rey las enfrenta con calma inquebrantable. Su éxito es fruto de la imaginación, la disciplina y la perseverancia. Esa mirada serena significa autodominio, y el autodominio es lo que le permite triunfar una y otra vez."
+  },
+  {
+    "cardKey": "ace_of_swords",
+    "description": "Una espada afilada atraviesa una corona de la que cuelgan plantas verdes, simbolizando que la mente puede ver más allá del mundo material. Una bella mano surge de entre las nubes y empuña la espada. A lo lejos, la niebla y el agua se mueven impulsadas por el viento. La espada de doble filo se alza recta y vertical: la fuerza neutral e imparcial de la razón pura."
+  },
+  {
+    "cardKey": "two_of_swords",
+    "description": "Nubes turbulentas se agitan en el horizonte y los escollos ocultos bajo el mar sugieren una vida interior compleja. Una mujer ataviada con una larga y espléndida falda sostiene dos espadas con la punta apuntando en dos direcciones opuestas, adoptando una postura de resistencia y conflicto interno. Sus ojos están cubiertos por el yelmo alado: evita las causas o las verdades que le provocan miedo. La evasión de la realidad y la contradicción interior se entrelazan, negándose a tomar una decisión y creando un punto muerto."
+  },
+  {
+    "cardKey": "three_of_swords",
+    "description": "En una noche tormentosa de oscuros nubarrones, lluvia y flores caen arrastradas por el viento. Una joven con los ojos vendados abraza con fuerza su propio corazón rojo y vivo, mientras tres espadas afiladas lo atraviesan sin piedad. Es una carta que hace sentir el dolor y la tristeza de inmediato y sin rodeos."
+  },
+  {
+    "cardKey": "four_of_swords",
+    "description": "Tres espadas cuelgan de un estante; una guerrera descansa en una postura semi-recostada. Su armadura aún no se ha quitado y su espada está al alcance de la mano: se trata únicamente de un breve descanso. La guerrera puede levantarse y estar lista para luchar en cualquier momento."
+  },
+  {
+    "cardKey": "five_of_swords",
+    "description": "Una mujer con una sonrisa de satisfacción sostiene tres espadas en la mano; a su lado hay dos más, todas como trofeos de guerra. Detrás de ella hay dos mujeres con expresión de disgusto, que parecen ser las antiguas dueñas de esas espadas. Por su actitud y su gesto, no parece que vayan a resignarse fácilmente. Esta victoria puede que no sea tan completa como imagina la vencedora."
+  },
+  {
+    "cardKey": "six_of_swords",
+    "description": "Una barca lleva clavadas seis espadas que simbolizan heridas. La mujer a bordo tiene el semblante entristecido y, con el remo en la mano, se prepara para alejarse de estas aguas de dolor. Si arrancara las espadas, los agujeros que dejan hundirían la barca sin remedio. El agua de este lado es agitada, pero si logra partir, encontrará un lago tranquilo y sereno al otro lado. El proceso de sanación es igual: despedirse del pasado y abrirse al futuro."
+  },
+  {
+    "cardKey": "seven_of_swords",
+    "description": "Una mujer enmascarada, vestida de negro para un asalto nocturno, aprovecha que el enemigo está desprevenido y roba cinco espadas con tranquila confianza. Las dos que quedan en el suelo son ya demasiadas para llevarse: esta empresa conlleva riesgo. Su ropa negra indica que sus capacidades son limitadas y que no puede enfrentarse al enemigo abiertamente, por lo que recurre al sigilo, al engaño y a la astucia para alcanzar su objetivo."
+  },
+  {
+    "cardKey": "eight_of_swords",
+    "description": "Una mujer con los ojos vendados y el torso atado se encuentra atrapada en un lugar donde ocho espadas están clavadas en el suelo. A lo lejos se divisa una mansión sobre un acantilado, símbolo de la autoridad que la retiene. Escapar parece terriblemente difícil; aparenta estar sola y sin ayuda. Pero sus pies no están atados. Las espadas no la rodean por completo. No hay ningún guardia en los alrededores. Un solo paso adelante, un acto de voluntad, y la libertad es posible."
+  },
+  {
+    "cardKey": "nine_of_swords",
+    "description": "Una joven desciende flotando desde el cielo, como si cayera en un sueño extraño y absurdo al estilo de Alicia en el País de las Maravillas. Abajo está el dosel de una cama, pero nueve espadas lo atraviesan, haciendo el descenso peligroso a cada instante. Conciliar el sueño no es nada fácil aquí. La presión asfixiante de las espadas afiladas crea una sensación de desesperación absoluta."
+  },
+  {
+    "cardKey": "ten_of_swords",
+    "description": "Diez espadas se clavan cruelmente en el cuerpo de una mujer que ha ardido hasta consumirse; la sangre roja fluye hacia abajo. Parece haber perdido toda señal de vida. A lo lejos, el cielo es negro como la pez y se cierne pesadamente; las nubes se dispersan con el viento en una desolación y desesperanza totales. Sin embargo, en el horizonte más lejano aparece un tenue resplandor amarillo-verdoso. Incluso el momento más oscuro de una vida terminará por pasar."
+  },
+  {
+    "cardKey": "page_of_swords",
+    "description": "La Sota de Espadas es un joven de mente ágil y gran curiosidad. Sostiene una espada en una mano y gira el rostro hacia adelante. Los árboles a lo lejos y la hierba bajo sus pies se agitan y vuelan impulsados por el viento."
+  },
+  {
+    "cardKey": "knight_of_swords",
+    "description": "El Caballero de Espadas tiene el semblante serio y sereno; su ardiente cabellera roja simboliza también la impulsividad que late bajo la superficie. Viste armadura, empuña la espada, cabalga a toda velocidad y avanza sin dudar. Las nubes y las plantas a su alrededor adoptan las formas que el viento imprime a su paso."
+  },
+  {
+    "cardKey": "queen_of_swords",
+    "description": "La Reina de Espadas lleva su corona, y el motivo de mariposas en sus oídos simboliza el alma y el elemento aire. Contempla la espada erguida que sostiene en su mano, perfectamente recta, señal de que puede disipar el engaño y ver la verdad con claridad: una percepción excepcional, gran sabiduría, una mente activa, serenidad, y una justicia sin favoritismos."
+  },
+  {
+    "cardKey": "king_of_swords",
+    "description": "El apuesto Rey de Espadas de cabello rubio se sienta en su trono con solemne gravedad, los ojos cerrados en meditación. La espada en su mano derecha tiene la punta ligeramente inclinada a la derecha: hacia la acción. La mano izquierda luce un anillo de autoridad. Motivos de mariposas decoran el trono, símbolos del alma y del elemento aire. En el cielo, el viento desgarra las nubes."
+  },
+  {
+    "cardKey": "ace_of_pentacles",
+    "description": "Una mano emerge de entre las nubes sosteniendo una moneda. Al fondo, un jardín exuberante lleno de plantas y flores sugiere que el As de Pentáculos no habla solo del mundo material, sino que se extiende también al plano espiritual. La naturaleza crece abundante a su alrededor: al igual que el pragmatismo del palo de Pentáculos, cualquier dinero o tiempo que inviertas te traerá una gran recompensa."
+  },
+  {
+    "cardKey": "two_of_pentacles",
+    "description": "En un escenario, un bailarín con máscara hace malabarismos con dos monedas de oro que llevan enrolladas cintas en forma de ocho. El mar agitado del telón de fondo refleja las oscilaciones de la situación financiera, así como los vaivenes de la vida emocional y de tantas otras cosas."
+  },
+  {
+    "cardKey": "three_of_pentacles",
+    "description": "Tres personas se reúnen para planificar la decoración interior de una casa: una se encargará de pintar los tres pentáculos del tragaluz, otra del diseño de planos, y otra de pensar en la ejecución. Cada una tiene su rol; así la colaboración avanza sin tropiezos. La intensidad de su conversación indica que el trabajo conjunto les resulta gratificante."
+  },
+  {
+    "cardKey": "four_of_pentacles",
+    "description": "Una mujer con corona se sienta sobre un cofre del tesoro. Una moneda descansa en su corona; otra la sostiene con cuidado entre sus manos; dos más están bajo sus pies. Teme perder incluso la más mínima parte de lo que posee. Detrás de ella se alza un castillo próspero."
+  },
+  {
+    "cardKey": "five_of_pentacles",
+    "description": "Bajo el frío y la nieve, dos mendigos avanzan cojeando con gran esfuerzo, con la ropa hecha jirones. Pasan frente a una iglesia que simboliza el refugio material y espiritual, pero no le prestan atención y siguen su camino con hambre y frío."
+  },
+  {
+    "cardKey": "six_of_pentacles",
+    "description": "Un hombre adinerado se sitúa en un lugar elevado y reparte limosnas a dos personas que esperan debajo. Ante él cuelga una balanza que simboliza la equidad; sin embargo, quien controla la situación es él, y los pentáculos que distribuye no están, en verdad, en equilibrio."
+  },
+  {
+    "cardKey": "seven_of_pentacles",
+    "description": "Un campesino descansa apoyado en su pala, con expresión satisfecha, contemplando los abundantes frutos que han crecido ante él. Se puede ver que su esfuerzo ya ha comenzado a dar resultados. Ahora está un poco cansado y necesita descansar; también es un buen momento para pensar en el siguiente paso."
+  },
+  {
+    "cardKey": "eight_of_pentacles",
+    "description": "Una herrería vestida con ropas de rica tradición trabaja en su mesa con un martillo, golpeando la moneda con minuciosa atención, concentración y diligencia. Ante ella se alinean las monedas ya terminadas, representando la labor paso a paso, la acumulación gradual de experiencia y de riqueza."
+  },
+  {
+    "cardKey": "nine_of_pentacles",
+    "description": "Una bella mujer elegantemente vestida está de pie en su lujoso hogar; detrás de ella, los armarios guardan diversas riquezas. Sostiene un pequeño pájaro en una mano con serena confianza: una imagen de independencia, aplomo y fortaleza. A su alrededor hay pentáculos esparcidos, emblemas del logro material y del placer."
+  },
+  {
+    "cardKey": "ten_of_pentacles",
+    "description": "En un jardín, tres generaciones de una familia disfrutan juntas de la felicidad del hogar. Por su forma de vestir y el entorno que les rodea, se puede apreciar que es una familia de considerable patrimonio, claramente más tradicional y acaudalada que la que aparece en el Diez de Copas."
+  },
+  {
+    "cardKey": "page_of_pentacles",
+    "description": "La Sota de Pentáculos está de pie en un campo abierto, sostiene el pentáculo en alto y lo mira con atención concentrada, lista para estudiar y aprender. Todo el escenario está bañado en un verde exuberante."
+  },
+  {
+    "cardKey": "knight_of_pentacles",
+    "description": "El Caballero de Pentáculos se sienta erguido sobre un caballo negro, examinando con cuidado la moneda en su mano. El caballo negro también se mantiene completamente inmóvil: es el único corcel de los cuatro Caballeros que está en reposo, lo que refleja una actitud de prudencia y pragmatismo."
+  },
+  {
+    "cardKey": "queen_of_pentacles",
+    "description": "La Reina de Pentáculos sostiene el pentáculo con ambas manos, sentada en su trono con una postura de cálida serenidad. Viste gruesas pieles de gran opulencia; los árboles detrás de ella son frondosos y abundantes. Todo el escenario respira una profunda tranquilidad: la sensación de recursos generosos y de una prosperidad bien asentada."
+  },
+  {
+    "cardKey": "king_of_pentacles",
+    "description": "El Rey de Pentáculos es un gobernante exitoso. Se sienta en su trono con plena confianza, con todo bajo su dominio. Sus ropas son magníficas; vides y hojas verdes trepan por él y lo rodean; detrás se alzan los esplendorosos edificios de un castillo y una ciudad, testimonio de la vida próspera y feliz de quienes viven bajo su gobierno."
+  }
+]

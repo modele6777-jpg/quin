@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <root-path
+        name="root"
+        path="."/>
+    <files-path
+        name="logs"
+        path="logs/"/>
+    <files-path
+        name="resources"
+        path="cache"/>
+    <files-path
+        name="share"
+        path="shared/"/>
+    <files-path
+        name="quin"
+        path="Quin/"/>
+    <files-path
+        name="TarotCards"
+        path="files/"/>
+    <cache-path
+        name="cache"
+        path="."/>
+</paths>

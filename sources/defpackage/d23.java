@@ -1,0 +1,41 @@
+package defpackage;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+public final class d23 extends gbe implements a26 {
+    final /* synthetic */ a26 $block;
+    final /* synthetic */ w5c $db;
+    int label;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public d23(xn2 xn2Var, a26 a26Var, w5c w5cVar) {
+        super(1, xn2Var);
+        this.$db = w5cVar;
+        this.$block = a26Var;
+    }
+
+    @Override // defpackage.a26
+    public final Object d(Object obj) {
+        return new d23((xn2) obj, this.$block, this.$db).r(wef.a);
+    }
+
+    @Override // defpackage.pt0
+    public final Object r(Object obj) {
+        int i = this.label;
+        if (i != 0) {
+            if (i == 1) {
+                jzb.q(obj);
+                return obj;
+            }
+            qc0.p("call to 'resume' before 'invoke' with coroutine");
+            return null;
+        }
+        jzb.q(obj);
+        w5c w5cVar = this.$db;
+        c23 c23Var = new c23(null, this.$block, w5cVar, true, false);
+        this.label = 1;
+        Object objR = w5cVar.r(false, c23Var, this);
+        bw2 bw2Var = bw2.a;
+        return objR == bw2Var ? bw2Var : objR;
+    }
+}

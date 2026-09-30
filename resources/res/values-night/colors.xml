@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="selectionBackground">#33dddddd</color>
+    <color name="selectionHandleColor">#ccdddddd</color>
+    <color name="splashBackground">#ff131314</color>
+</resources>

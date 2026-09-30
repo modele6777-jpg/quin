@@ -1,0 +1,56 @@
+package defpackage;
+
+import java.util.List;
+import tech.chatmind.api.annual.model.MonthlyReportRequestBody;
+import tech.chatmind.api.annual.model.UserPostContent;
+import tech.chatmind.api.common.model.TarotCardRequestBody;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+public final class b50 extends gbe implements l26 {
+    final /* synthetic */ List<TarotCardRequestBody> $monthlyCards;
+    final /* synthetic */ UserPostContent $userInfo;
+    final /* synthetic */ String $year;
+    int label;
+    final /* synthetic */ c50 this$0;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public b50(c50 c50Var, String str, UserPostContent userPostContent, List list, xn2 xn2Var) {
+        super(2, xn2Var);
+        this.this$0 = c50Var;
+        this.$year = str;
+        this.$userInfo = userPostContent;
+        this.$monthlyCards = list;
+    }
+
+    @Override // defpackage.pt0
+    public final xn2 k(xn2 xn2Var, Object obj) {
+        return new b50(this.this$0, this.$year, this.$userInfo, this.$monthlyCards, xn2Var);
+    }
+
+    @Override // defpackage.pt0
+    public final Object r(Object obj) {
+        int i = this.label;
+        if (i != 0) {
+            if (i == 1) {
+                jzb.q(obj);
+                return obj;
+            }
+            qc0.p("call to 'resume' before 'invoke' with coroutine");
+            return null;
+        }
+        jzb.q(obj);
+        n10 n10Var = this.this$0.a;
+        String str = this.$year;
+        MonthlyReportRequestBody monthlyReportRequestBody = new MonthlyReportRequestBody(this.$userInfo, this.$monthlyCards);
+        this.label = 1;
+        Object objC = n10Var.c(str, monthlyReportRequestBody, false, this);
+        bw2 bw2Var = bw2.a;
+        return objC == bw2Var ? bw2Var : objC;
+    }
+
+    @Override // defpackage.l26
+    public final Object z(Object obj, Object obj2) {
+        return ((b50) k((xn2) obj2, (aw2) obj)).r(wef.a);
+    }
+}

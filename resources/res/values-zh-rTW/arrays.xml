@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="annual_domain_draw_pattern_title">
+        <item>抽一張感情牌\n看看心靠向哪裡</item>
+        <item>抽一張學業牌\n看看學習的節奏</item>
+        <item>抽一張事業牌\n聽聽你的方向現在落在哪</item>
+        <item>抽一張財富牌\n感受能量的流動</item>
+        <item>抽一張健康牌\n留意身體的聲音</item>
+        <item>抽一張人際牌\n看看你和他人的節奏</item>
+        <item>抽一張成長牌\n聽聽內在的步伐</item>
+    </array>
+    <array name="annual_monthly_draw_pattern_title">
+        <item>抽出你的第一個月\n讓一年慢慢開始</item>
+        <item>再抽一張\n看看二月運勢如何</item>
+        <item>三月的牌\n節奏開始往前了</item>
+        <item>來到四月\n看看命運的線往哪輕動</item>
+        <item>五月的牌\n會在流動裡留下輕點</item>
+        <item>到了六月\n上半年的能量在此合攏</item>
+        <item>七月為界\n一年進入新的循環</item>
+        <item>進入八月\n新循環在這裡慢慢鋪開</item>
+        <item>到了九月\n時間的弧線更清晰了</item>
+        <item>十月\n故事向前微微偏了一點</item>
+        <item>十一月\n這一年的線條開始收攏</item>
+        <item>最後十二月\n這一年的輪廓逐漸成形</item>
+    </array>
+    <array name="exo_controls_playback_speeds">
+        <item>0.25 倍</item>
+        <item>0.5 倍</item>
+        <item>0.75 倍</item>
+        <item>正常</item>
+        <item>1.25 倍</item>
+        <item>1.5 倍</item>
+        <item>2 倍</item>
+    </array>
+    <array name="onboarding_feedback_comment">
+        <item>每次抽牌的分析都讓我覺得被理解、被陪伴。很多解釋比真人還細膩，焦慮時看看就能安心。真的太喜歡這個App了❤️</item>
+        <item>第一次免費體驗就被抽牌，解牌過程超驚艷！後來每天都忍不住來打卡、占卜，覺得它像個溫柔的朋友。</item>
+        <item>解讀細緻、情緒共鳴強，很多話都擊中心坎。謝謝這個App在我低潮時的陪伴，已經是我心中的年度App✨</item>
+    </array>
+    <array name="onboarding_feedback_nickname">
+        <item>柚子雲</item>
+        <item>晴野</item>
+        <item>深木青</item>
+    </array>
+    <array name="personality_rating_label">
+        <item>非常不符合</item>
+        <item>不太符合</item>
+        <item>中立</item>
+        <item>比較符合</item>
+        <item>非常符合</item>
+    </array>
+    <array name="tips_items">
+        <item>獎勵累計上限為 100 次免費占卜</item>
+        <item>所有獎勵次數，有效期為 365 天</item>
+        <item>若好友於月卡期內升級為年卡，僅計算年卡獎勵，不再重複計算月卡獎勵</item>
+        <item>此活動僅限新註冊用戶參加</item>
+    </array>
+</resources>

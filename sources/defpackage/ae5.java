@@ -1,0 +1,26 @@
+package defpackage;
+
+import java.io.File;
+import java.io.IOException;
+import kotlin.Metadata;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes3.dex */
+@Metadata(d1 = {"\u0000\u0018\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0006\n\u0002\u0010\u000e\n\u0002\b\u0005\b\u0016\u0018\u00002\u00020\u0001R\u0017\u0010\u0003\u001a\u00020\u00028\u0006¢\u0006\f\n\u0004\b\u0003\u0010\u0004\u001a\u0004\b\u0005\u0010\u0006R\u0019\u0010\u0007\u001a\u0004\u0018\u00010\u00028\u0006¢\u0006\f\n\u0004\b\u0007\u0010\u0004\u001a\u0004\b\b\u0010\u0006R\u0019\u0010\n\u001a\u0004\u0018\u00010\t8\u0006¢\u0006\f\n\u0004\b\n\u0010\u000b\u001a\u0004\b\f\u0010\r¨\u0006\u000e"}, d2 = {"Lae5;", "Ljava/io/IOException;", "Ljava/io/File;", "file", "Ljava/io/File;", "getFile", "()Ljava/io/File;", "other", "getOther", "", "reason", "Ljava/lang/String;", "getReason", "()Ljava/lang/String;", "kotlin-stdlib"}, k = 1, mv = {2, 4, 0}, xi = z7c.f)
+public class ae5 extends IOException {
+    private final File file;
+    private final File other;
+    private final String reason;
+
+    public ae5(File file, File file2, String str) {
+        StringBuilder sb = new StringBuilder(file.toString());
+        if (file2 != null) {
+            sb.append(" -> " + file2);
+        }
+        sb.append(": ".concat(str));
+        super(sb.toString());
+        this.file = file;
+        this.other = file2;
+        this.reason = str;
+    }
+}

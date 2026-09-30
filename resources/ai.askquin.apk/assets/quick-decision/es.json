@@ -1,0 +1,470 @@
+[
+  {
+    "cardKey": "the_fool",
+    "answer": "Maybe",
+    "tagline": "Da el paso, y el mundo cambiará",
+    "reading": "El Loco, con su ligero fardo, se detiene al borde del abismo, con la mirada en el viento y la distancia. No ignora las grietas, pero elige dejar que la curiosidad lo guíe. La respuesta se esconde justo donde pise su pie."
+  },
+  {
+    "cardKey": "the_magician",
+    "answer": "Yes",
+    "tagline": "Ya tienes todo lo necesario, el momento es ahora",
+    "reading": "Bastos, copas, espadas y oros están frente a ti. El universo ha dado el sí; no te faltan condiciones, solo ese impulso mágico para comenzar."
+  },
+  {
+    "cardKey": "the_high_priestess",
+    "answer": "Maybe",
+    "tagline": "La respuesta no está fuera; basta con mirar hacia adentro",
+    "reading": "Ella se sienta frente al velo, guardando secretos que nadie puede nombrar. Te recuerda que la verdadera guía siempre habita en tu corazón. Quédate en silencio, y ella misma hablará."
+  },
+  {
+    "cardKey": "the_empress",
+    "answer": "Yes",
+    "tagline": "La abundancia está en camino, ábrete a recibirla",
+    "reading": "La Emperatriz se sienta en un campo de flores, rebosando de gracia natural. Los dones del universo no se exigen; solo tienes que abrir tus manos para que caigan en ellas las cosas buenas que se acercan."
+  },
+  {
+    "cardKey": "the_emperor",
+    "answer": "Yes",
+    "tagline": "Las raíces son profundas, es hora de dar pasos grandes",
+    "reading": "El Emperador se asienta en su trono sin dudar. Las bases son sólidas y el camino está trazado. No es tiempo de esperar, sino de avanzar con firmeza."
+  },
+  {
+    "cardKey": "the_hierophant",
+    "answer": "Maybe",
+    "tagline": "A veces, el viejo camino esconde su propia sabiduría",
+    "reading": "El Sumo Sacerdote sostiene el cetro, transmitiendo verdades forjadas por el tiempo. No te apresures a abrir una nueva ruta. Piensa primero por qué funcionó el camino anterior, y luego decide."
+  },
+  {
+    "cardKey": "the_lovers",
+    "answer": "Yes",
+    "tagline": "Ya tienes la respuesta en tu corazón, solo síguela",
+    "reading": "Ambos se miran, y el ángel atestigua en silencio. Las verdaderas elecciones nunca se hacen solo con la cabeza. Esa voz que vive en lo profundo ya ha hablado; simplemente síguela."
+  },
+  {
+    "cardKey": "the_chariot",
+    "answer": "Maybe",
+    "tagline": "La meta está cerca, no sueltes las riendas",
+    "reading": "El auriga domina con su voluntad dos bestias de direcciones opuestas, manteniendo el equilibrio en la tensión. La victoria está al alcance de la mano. Lo que no puedes hacer ahora es soltar la cuerda."
+  },
+  {
+    "cardKey": "strength",
+    "answer": "Yes",
+    "tagline": "Mantén la calma, esta serenidad es tu poder",
+    "reading": "Humano y bestia se miran sin luchar, solo con paz y entendimiento. La verdadera fuerza no hace ruido; vive en ese lugar donde te reconcilias contigo misma. Si el interior está en paz, todo cede el paso naturalmente."
+  },
+  {
+    "cardKey": "the_hermit",
+    "answer": "No",
+    "tagline": "Antes de salir al mundo, pasa un tiempo a solas contigo",
+    "reading": "El Ermitaño sostiene su lámpara en la cima de la montaña. No está perdido; eligió detenerse. No es momento de buscar respuestas afuera; entra en ti, y la dirección se aclarará sola."
+  },
+  {
+    "cardKey": "wheel_of_fortune",
+    "answer": "Maybe",
+    "tagline": "La ruleta sigue girando, espera a que se detenga",
+    "reading": "La Rueda de la Fortuna gira lentamente; no intentes frenarla. La dirección del cambio aún no se revela, solo espera con calma a que decante."
+  },
+  {
+    "cardKey": "justice",
+    "answer": "Maybe",
+    "tagline": "Deja que tu balanza interior te dé la respuesta",
+    "reading": "La Justicia sostiene la espada y la balanza, pesando todo con imparcialidad. Detente y pregúntate: ¿esta elección coincide con tu verdadera escala de valores? La respuesta está en esa balanza."
+  },
+  {
+    "cardKey": "the_hanged_man",
+    "answer": "No",
+    "tagline": "Míralo al revés, quizás todo se vea diferente",
+    "reading": "El Colgado cuelga pacíficamente, sin dolor en su rostro, con la paz de quien lo ha comprendido todo. No es el momento de avanzar corriendo; cambia de perspectiva y el mundo te dará una nueva respuesta."
+  },
+  {
+    "cardKey": "death",
+    "answer": "No",
+    "tagline": "Tras el punto final comienza lo verdadero",
+    "reading": "La Muerte llega a caballo llevándose las formas viejas, no la vida en sí. Un capítulo llegó a su fin; despídete bien y déjalo ir para que las nuevas oportunidades tengan donde aterrizar."
+  },
+  {
+    "cardKey": "temperance",
+    "answer": "Maybe",
+    "tagline": "Sin prisa, necesitas sopesarlo bien",
+    "reading": "El ángel vierte agua suavemente entre dos copas, buscando la proporción exacta. Algunas cosas requieren ser bien sopesadas. Siente dónde está el punto de equilibrio y entonces da el paso."
+  },
+  {
+    "cardKey": "the_devil",
+    "answer": "No",
+    "tagline": "Mira primero qué es lo que realmente te ata",
+    "reading": "Las cadenas de los dos encadenados al Diablo son sueltas; podrían irse si quisieran. Antes de dar un paso, mira bien qué es lo que te hace creer que no puedes salir."
+  },
+  {
+    "cardKey": "the_tower",
+    "answer": "No",
+    "tagline": "Se derrumba para que algo más sólido se reconstruya",
+    "reading": "La torre colapsa bajo el rayo; las viejas estructuras se rompen en un instante. No es el fin, es una limpieza. Deja ir lo que cae, para que unas raíces más fuertes puedan crecer."
+  },
+  {
+    "cardKey": "the_star",
+    "answer": "Yes",
+    "tagline": "Esa luz siempre ha estado ahí y te iluminará",
+    "reading": "La Estrella brilla después de la tormenta. La luz nunca desapareció realmente, solo estaba cubierta. El universo dice que sí: esa luz siempre ha estado, y te alcanzará."
+  },
+  {
+    "cardKey": "the_moon",
+    "answer": "Maybe",
+    "tagline": "Deja de pensar, cierra los ojos y siente la respuesta",
+    "reading": "La Luna lo ilumina todo tenuemente, un camino serpenteando entre plata y sombras. Está bien si no ves con claridad. Ahora no necesitas lógica; detente a sentir esa voz interna, que siempre se acerca más a la verdad que cualquier análisis."
+  },
+  {
+    "cardKey": "the_sun",
+    "answer": "Yes",
+    "tagline": "La luz ha iluminado el camino, ve con confianza",
+    "reading": "El Sol brilla con total claridad, sin sombras ni dudas. El universo te dice \\\"sí\\\" sin reservas; es una afirmación pura. No busques más confirmaciones, confía, el camino es el correcto."
+  },
+  {
+    "cardKey": "judgement",
+    "answer": "Maybe",
+    "tagline": "Date la oportunidad de una mirada honesta al pasado",
+    "reading": "El ángel hace sonar la trompeta y los que duermen despiertan para mirar a la luz. Es una invitación a mirar atrás con honestidad. Reflexionar no es un castigo, es para que, siendo más consciente de ti misma, escuches esa llamada interna que siempre estuvo."
+  },
+  {
+    "cardKey": "the_world",
+    "answer": "Yes",
+    "tagline": "Has llegado hasta aquí, vale la pena celebrarlo",
+    "reading": "La danzarina del Mundo baila envuelta en la corona de laurel. Un ciclo entero concluye con perfección. Este momento merece que te detengas a celebrarlo."
+  },
+  {
+    "cardKey": "ace_of_wands",
+    "answer": "Yes",
+    "tagline": "Saltan chispas, aprovecha y arranca mientras arde la inspiración",
+    "reading": "Una mano surge de las nubes sosteniendo un basto en llamas. La pura creatividad y el deseo de actuar convergen ahora. Aprovecha mientras brilla la chispa y emprende el viaje."
+  },
+  {
+    "cardKey": "two_of_wands",
+    "answer": "Maybe",
+    "tagline": "La visión aún no es clara, quédate un momento más",
+    "reading": "Con un globo en la mano, él mira a lo lejos, con anhelo pero también cautela. No te precipites al salir; evalúa primero el panorama y toma tu decisión con calma."
+  },
+  {
+    "cardKey": "three_of_wands",
+    "answer": "Yes",
+    "tagline": "El horizonte está a la vista, es tiempo de zarpar",
+    "reading": "Desde la costa, los barcos en la distancia ya han comenzado su travesía. La dirección es clara y la meta está a la vista. Lo único que debes hacer ahora es partir."
+  },
+  {
+    "cardKey": "four_of_wands",
+    "answer": "Yes",
+    "tagline": "Disfruta este instante de alegría, te lo mereces",
+    "reading": "Cuatro bastos sostienen una guirnalda y todos celebran debajo. Esta pausa festiva es el resultado de tu esfuerzo. No tengas prisa por seguir, disfrútalo plenamente."
+  },
+  {
+    "cardKey": "five_of_wands",
+    "answer": "No",
+    "tagline": "Esta contienda gasta más de lo que ganas, retírate por ahora",
+    "reading": "Cinco personas pelean con sus bastos, en caos y sin dirección. Si sigues aquí, darás más de lo que obtienes. Retirarse de este ruido no es perder, es tener claridad mental."
+  },
+  {
+    "cardKey": "six_of_wands",
+    "answer": "Yes",
+    "tagline": "Tu esfuerzo ha sido visto y reconocido",
+    "reading": "El caballero regresa coronado de laurel, aplaudido por la multitud. Este reconocimiento es real. El entorno ya te ha dado una respuesta afirmativa; no dudes ahora, acéptalo con orgullo."
+  },
+  {
+    "cardKey": "seven_of_wands",
+    "answer": "Maybe",
+    "tagline": "Entre sostener y soltar, piénsalo bien primero",
+    "reading": "Desde lo alto, él se defiende con su basto de quienes lo atacan. Mantener este puesto cuesta. Pregúntate si vale la pena antes de decidir si seguir resistiendo."
+  },
+  {
+    "cardKey": "eight_of_wands",
+    "answer": "Yes",
+    "tagline": "El viento está a favor, es el momento de avanzar rápido",
+    "reading": "Ocho bastos cruzan el cielo a toda velocidad en la misma dirección. Es un tiempo de vientos favorables, no de pararse a analizar. Aprovecha este impulso y avanza rápido."
+  },
+  {
+    "cardKey": "nine_of_wands",
+    "answer": "Maybe",
+    "tagline": "Aguantar hasta aquí ya es un logro, respira primero",
+    "reading": "El guerrero herido y cansado se apoya en su basto, con la barrera que construyó tras él. Has llegado muy lejos y soportado mucho. Toma un respiro profundo antes de pensar en el próximo paso."
+  },
+  {
+    "cardKey": "ten_of_wands",
+    "answer": "Maybe",
+    "tagline": "Has caminado mucho, y el destino ya no está lejos",
+    "reading": "Con la espalda encorvada, lleva diez bastos con esfuerzo, pero el destino está a la vista. El peso es real y has cargado mucho. Si puedes, sigue, ya estás cerca; si no puedes más, no pasa nada por soltar un poco de peso."
+  },
+  {
+    "cardKey": "page_of_wands",
+    "answer": "Yes",
+    "tagline": "La curiosidad es hoy tu mejor arma",
+    "reading": "La Sota levanta el basto, con los ojos llenos de entusiasmo por lo desconocido. Ahora lo valioso no es la experiencia, sino esa curiosidad intacta. Llévala contigo y ve hacia adelante."
+  },
+  {
+    "cardKey": "knight_of_wands",
+    "answer": "Yes",
+    "tagline": "Pensar tanto no supera a actuar; la claridad viene caminando",
+    "reading": "El Caballo avanza galopando, con la llama al viento. Un plan perfecto no supera el paso real que das. Muévete, y muchas cosas se aclararán solas."
+  },
+  {
+    "cardKey": "queen_of_wands",
+    "answer": "Yes",
+    "tagline": "Ahora mismo, tú eres esa luz",
+    "reading": "La Reina se sienta en su trono, con el girasol y el gato negro, irradiando encanto y poder. Esta carta describe cómo estás ahora: auténtica, segura y magnética. Avanza, tú eres tu propia respuesta."
+  },
+  {
+    "cardKey": "king_of_wands",
+    "answer": "Yes",
+    "tagline": "Es momento de decidir, no lo dejes en el aire",
+    "reading": "El Rey, firme en su trono, tiene la mirada clara y resuelta. Este es un momento que requiere una decisión, y la persona más adecuada para tomarla eres tú."
+  },
+  {
+    "cardKey": "ace_of_cups",
+    "answer": "Yes",
+    "tagline": "La puerta del corazón está abierta, deja fluir el sentir",
+    "reading": "La copa sale de las nubes, y la paloma desciende. Todo es un buen presagio. La fuente de las emociones se ha abierto; solo debes abrirte para dejarla fluir hacia adentro."
+  },
+  {
+    "cardKey": "two_of_cups",
+    "answer": "Yes",
+    "tagline": "Las frecuencias de dos corazones se han sincronizado",
+    "reading": "Frente a frente con copas alzadas, el caduceo atestigua en silencio. La resonancia entre ambos corazones ya ocurrió; no necesitas reconfirmarlo, simplemente confía."
+  },
+  {
+    "cardKey": "three_of_cups",
+    "answer": "Yes",
+    "tagline": "Lo bueno merece compartirse, ve a celebrar",
+    "reading": "Tres mujeres brindan y bailan, rodeadas de flores y frutos. Semejante alegría no debe esconderse en soledad. Busca a las personas que quieres y celebra el momento."
+  },
+  {
+    "cardKey": "four_of_cups",
+    "answer": "No",
+    "tagline": "Aún no estás lista, y rechazar también es un derecho",
+    "reading": "Sentado bajo el árbol, él ni siquiera mira la copa que le ofrecen las nubes. No estar lista interiormente no es un problema. Decir que no es tu derecho, y no debes explicaciones."
+  },
+  {
+    "cardKey": "five_of_cups",
+    "answer": "No",
+    "tagline": "Primero, vive esta pérdida hasta el final",
+    "reading": "Él mira las tres copas volcadas, olvidando las dos que siguen de pie a su espalda. La pérdida necesita ser experimentada. Cuando termines de llorar, voltea; verás que no lo has perdido todo."
+  },
+  {
+    "cardKey": "six_of_cups",
+    "answer": "Maybe",
+    "tagline": "Mirar atrás no hace daño, pero no te mudes allí",
+    "reading": "Los niños se regalan flores, es la ternura exclusiva del pasado. Echar una mirada atrás no está mal y te da fuerzas, pero la respuesta real aún te espera adelante."
+  },
+  {
+    "cardKey": "seven_of_cups",
+    "answer": "Maybe",
+    "tagline": "Demasiadas opciones te nublan, aquiétate primero",
+    "reading": "Siete copas surgen de las nubes con ilusiones tentadoras. A veces, mucha abundancia de opciones trae confusión. Calma tu corazón y obsérvalas con claridad una por una."
+  },
+  {
+    "cardKey": "eight_of_cups",
+    "answer": "No",
+    "tagline": "Es momento de partir, lo nuevo te está esperando",
+    "reading": "Bajo la luna, él deja atrás las ocho copas ordenadas y camina a la montaña. Alejarse no es fallar, es un regalo a ti misma. Lo que de verdad mereces aguarda más adelante."
+  },
+  {
+    "cardKey": "nine_of_cups",
+    "answer": "Yes",
+    "tagline": "Lo que deseas ya está en camino",
+    "reading": "Sentado satisfecho frente a sus nueve copas, la alegría de su rostro es real. El universo asiente; aquello que has estado esperando ya viene hacia ti."
+  },
+  {
+    "cardKey": "ten_of_cups",
+    "answer": "Yes",
+    "tagline": "Esta felicidad llegó paso a paso",
+    "reading": "Diez copas forman un arcoíris y la familia se abraza. Esta plenitud no cayó del cielo; fue construida paso a paso. Vale la pena atesorarla y protegerla."
+  },
+  {
+    "cardKey": "page_of_cups",
+    "answer": "Yes",
+    "tagline": "Una voz te llama desde adentro, síguela",
+    "reading": "La Sota mira asombrado al pez que salta de su copa. Esa voz intuitiva, que te susurra suavecito, suele estar más cerca de la verdad que cualquier análisis minucioso."
+  },
+  {
+    "cardKey": "knight_of_cups",
+    "answer": "Yes",
+    "tagline": "Si lo haces con emoción verdadera, el resultado será otro",
+    "reading": "El Caballo avanza lento, sosteniendo la copa como lo más valioso del mundo. No todo necesita ser dominado por la razón. Haz esto con un sentimiento auténtico y notarás la diferencia."
+  },
+  {
+    "cardKey": "queen_of_cups",
+    "answer": "Yes",
+    "tagline": "Ese sentimiento es real, merece tu confianza",
+    "reading": "La Reina se sienta junto al agua, mirando su copa con una paz profunda. Tus sentimientos no están de más; son señales verdaderas. Confía en ellos, vale más creerles que dudar."
+  },
+  {
+    "cardKey": "king_of_cups",
+    "answer": "Yes",
+    "tagline": "Razón y emoción están equilibradas, buen momento para partir",
+    "reading": "El Rey navega sobre las olas, dominando el oleaje de las emociones con madurez. Lo racional y lo sensible están alineados. Puedes tomar tu decisión con firmeza."
+  },
+  {
+    "cardKey": "ace_of_swords",
+    "answer": "Yes",
+    "tagline": "La verdad ha emergido, corta lo que sobra",
+    "reading": "La espada sale de las nubes atravesando la corona y rompiendo la niebla. La respuesta ya es nítida. Deja de dar vueltas; corta el ruido mental y actúa con la verdad que ya sabes."
+  },
+  {
+    "cardKey": "two_of_swords",
+    "answer": "Maybe",
+    "tagline": "Ambos caminos tienen sentido, date un poco más de tiempo",
+    "reading": "La mujer vendada cruza dos espadas frente a un mar tranquilo. Ambas opciones tienen su peso. No te obligues a decidir ahora mismo, date espacio para pensar."
+  },
+  {
+    "cardKey": "three_of_swords",
+    "answer": "No",
+    "tagline": "Esta decisión podría traer dolor, piénsalo con cuidado",
+    "reading": "Tres espadas perforan un corazón bajo una lluvia gris. Esta carta advierte que este camino puede traer dolor. No significa que no debas ir, sino que te preguntes honestamente si estás lista."
+  },
+  {
+    "cardKey": "four_of_swords",
+    "answer": "No",
+    "tagline": "Detenerse ahora es prepararse para volver a empezar",
+    "reading": "El caballero yace sereno en su sepulcro con las espadas en silencio. Esta pausa no es rendirse, es recargar energía. Cuando estés llena de nuevo, sabrás de forma natural que es tiempo de moverse."
+  },
+  {
+    "cardKey": "five_of_swords",
+    "answer": "No",
+    "tagline": "El desgaste de este conflicto es mayor que sus recompensas",
+    "reading": "Él recoge con desdén las espadas ajenas en medio del desastre. El precio de esta disputa puede ser mucho más amargo de lo imaginado. Retirarte es la opción más cuerda y sanadora."
+  },
+  {
+    "cardKey": "six_of_swords",
+    "answer": "Maybe",
+    "tagline": "Despídete a tiempo, otro paisaje te espera en la otra orilla",
+    "reading": "El barquero conduce suavemente por el agua quieta, con seis espadas en proa. Dejar este lugar es parte original del viaje. Solo despidiéndote lograrás verdaderamente llegar."
+  },
+  {
+    "cardKey": "seven_of_swords",
+    "answer": "Yes",
+    "tagline": "Puedes avanzar, pero elige bien y ve en silencio",
+    "reading": "Él actúa de noche en silencio, consciente de lo que hace. Es momento de avanzar, pero no mediante un choque frontal. Encuentra tu propio camino y muévete de forma inteligente y discreta."
+  },
+  {
+    "cardKey": "eight_of_swords",
+    "answer": "No",
+    "tagline": "Eso que tanto crees, quizás es lo que te ata",
+    "reading": "La mujer vendada está cercada por espadas, pero las cuerdas están flojas. Lo que realmente te inmoviliza no es un encierro real, sino una idea o creencia que no te atreves a soltar."
+  },
+  {
+    "cardKey": "nine_of_swords",
+    "answer": "No",
+    "tagline": "No decidas a solas en la madrugada, espera al alba",
+    "reading": "Él se despierta aterrorizado de noche; la oscuridad agranda el peso de las espadas en la pared. La noche siempre hace las cosas más pesadas. Espera a la luz del día y luego vuelve a mirar."
+  },
+  {
+    "cardKey": "ten_of_swords",
+    "answer": "No",
+    "tagline": "Este camino se cerró, suéltalo por completo",
+    "reading": "Tendido en el suelo, con diez espadas clavadas, este camino llegó a su final absoluto. Soltar no es un fracaso, es regalarte la oportunidad de renacer libre de ataduras."
+  },
+  {
+    "cardKey": "page_of_swords",
+    "answer": "Maybe",
+    "tagline": "Aún falta algo por ver, espera un poco más",
+    "reading": "La Sota, espada en alto, escudriña su alrededor sin dejar escapar detalle. Aún falta información. Decidir ahora puede hacer que omitas algo vital. Espera un momento."
+  },
+  {
+    "cardKey": "knight_of_swords",
+    "answer": "Yes",
+    "tagline": "Si lo tienes claro, embiste; las chances no esperan por siempre",
+    "reading": "El Caballo avanza veloz con la espada apuntando al viento. Hay velocidad, dirección y resolución. Si ya lo has pensado bien, ve al frente; la oportunidad no estará ahí para siempre."
+  },
+  {
+    "cardKey": "queen_of_swords",
+    "answer": "Maybe",
+    "tagline": "Aparta lo emocional por un momento, juzga con la mente",
+    "reading": "La Reina, erguida, alza su espada con mirada afilada y fría. Esta situación necesita que la mente clara sea tu guía. Deja a un lado lo que sientes por ahora y usa tu intelecto."
+  },
+  {
+    "cardKey": "king_of_swords",
+    "answer": "Yes",
+    "tagline": "La respuesta racional está en tu mente, confía en ella",
+    "reading": "El Rey sostiene su espada con ojos lúcidos y certeros de águila. Lo que había que analizar, ya se analizó, y la respuesta está ahí. Confía en tu cabeza y ejecuta sin miedo."
+  },
+  {
+    "cardKey": "ace_of_pentacles",
+    "answer": "Yes",
+    "tagline": "Esta oportunidad es real, recíbela con los pies en la tierra",
+    "reading": "La mano sale de las nubes ofreciendo un pentáculo de oro sobre el verde jardín. Esta oportunidad no es un espejismo, es algo que se puede materializar. Tómala con realismo."
+  },
+  {
+    "cardKey": "two_of_pentacles",
+    "answer": "Maybe",
+    "tagline": "Para equilibrar ambas, halla primero tu propio ritmo",
+    "reading": "Con las olas de fondo, el balancea dos monedas. Compaginar dos cosas es posible, pero solo si antes encuentras un ritmo que sea estable y verdaderamente tuyo."
+  },
+  {
+    "cardKey": "three_of_pentacles",
+    "answer": "Yes",
+    "tagline": "Hay cargas que no se llevan a solas, busca con quién construir",
+    "reading": "El artesano debate el diseño con otras dos personas en la iglesia. No debes cargar en solitario todos los pesos. Encuentra a las personas indicadas para trabajar; el resultado será mucho mejor."
+  },
+  {
+    "cardKey": "four_of_pentacles",
+    "answer": "No",
+    "tagline": "Te aferras demasiado, prueba a soltar un poco",
+    "reading": "Abrazado a sus cuatro monedas, no desvía la mirada un segundo. Aferrarte obsesivamente al control es, en sí mismo, un desgaste de energía. Abre un poquito la mano y ve qué sucede."
+  },
+  {
+    "cardKey": "five_of_pentacles",
+    "answer": "No",
+    "tagline": "Está siendo muy difícil, pero la ayuda no anda lejos",
+    "reading": "Caminan heridos en la nieve y no ven la luz cálida de la iglesia. Sí, ahora mismo todo es duro, pero creer que estás sola es una ilusión. Mira a tu alrededor, la ayuda está muy cerca."
+  },
+  {
+    "cardKey": "six_of_pentacles",
+    "answer": "Yes",
+    "tagline": "Actúa; lo que ofreces, de alguna forma retornará",
+    "reading": "El rico pesa sus monedas y regala generosamente; la buena intención fluye en armonía. El verdadero acto de dar nunca se pierde; volverá a ti de formas inesperadas. Solo sé consciente de tu lugar y pide ayuda si lo necesitas."
+  },
+  {
+    "cardKey": "seven_of_pentacles",
+    "answer": "Maybe",
+    "tagline": "Tras tanto cultivar, es tiempo de sopesar los frutos",
+    "reading": "El campesino se apoya contemplando los frutos maduros y pesados en la vid. Has sembrado y esperado por largo tiempo. Ahora toca pausar, evaluar lo logrado y reconsiderar qué paso sigue."
+  },
+  {
+    "cardKey": "eight_of_pentacles",
+    "answer": "Yes",
+    "tagline": "Haz lo que tienes enfrente, lo demás llegará por sí solo",
+    "reading": "El artesano trabaja enfocado en su moneda, con las obras terminadas a un lado. No mires tan lejos; haz lo mejor posible la tarea de hoy, el resto te seguirá de manera natural."
+  },
+  {
+    "cardKey": "nine_of_pentacles",
+    "answer": "Yes",
+    "tagline": "Todo ha llegado a ti por ti misma, disfrútalo",
+    "reading": "Ella se erige en su viñedo con el halcón, todo rodeado de las monedas de su propio cultivo. Nadie puede arrebatarte esto. Tómate el tiempo de respirar y de disfrutar tu propia recompensa."
+  },
+  {
+    "cardKey": "ten_of_pentacles",
+    "answer": "Yes",
+    "tagline": "Esta acumulación sin prisa está forjando un éxito duradero",
+    "reading": "Varias generaciones en el patio y las diez monedas arman el árbol de la vida. Esas pequeñas cosas que has reunido poco a poco, ahora están echando raíces que te sostendrán firmemente."
+  },
+  {
+    "cardKey": "page_of_pentacles",
+    "answer": "Yes",
+    "tagline": "No pasa nada si no sabes; pon tu atención en lo que tienes entre manos",
+    "reading": "La Sota mira la moneda con ojos enfocados y llenos de interés. No saber no es un muro, solo importa el enfoque. Aprende poco a poco sobre lo concreto y lo dominarás con naturalidad."
+  },
+  {
+    "cardKey": "knight_of_pentacles",
+    "answer": "Maybe",
+    "tagline": "No es ir a toda prisa, el secreto es caminar con seguridad",
+    "reading": "El Caballo va despacio, su mirada fija y serena en la moneda de oro. No hace falta velocidad para probarle nada a nadie. Pisar firme y lento es la manera más segura de caminar."
+  },
+  {
+    "cardKey": "queen_of_pentacles",
+    "answer": "Yes",
+    "tagline": "Cuida bien de tu entorno, y avanzarás con más paz",
+    "reading": "La Reina acoge su moneda y la naturaleza florece fértil a su alrededor. Si cuidas tu presente y acomodas tu entorno inmediato, tendrás la seguridad necesaria para dar grandes pasos."
+  },
+  {
+    "cardKey": "king_of_pentacles",
+    "answer": "Yes",
+    "tagline": "Los cimientos están ahí, toma tu decisión con tranquilidad",
+    "reading": "El Rey, en su trono envuelto en parras, luce estable y sereno. Has labrado unas bases que son profundas y sólidas. Tienes el respaldo necesario; toma tu decisión con absoluta confianza."
+  }
+]

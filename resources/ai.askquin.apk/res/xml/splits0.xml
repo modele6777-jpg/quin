@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splits>
+    <module name="">
+        <language>
+            <entry
+                key="en"
+                split="config.en"/>
+            <entry
+                key="es"
+                split="config.es"/>
+            <entry
+                key="ja"
+                split="config.ja"/>
+            <entry
+                key="ko"
+                split="config.ko"/>
+            <entry
+                key="zh"
+                split="config.zh"/>
+        </language>
+    </module>
+</splits>

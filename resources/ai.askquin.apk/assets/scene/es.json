@@ -1,0 +1,231 @@
+[
+  {
+    "id": "new-love",
+    "category": "loveRelationship",
+    "title": "Nuevo amor",
+    "subTitle": "¿Cuándo llegará el amor? Descúbrelo.",
+    "shuffleCardHint": "Piensa en tu pregunta en silencio",
+    "spreadKey": "MOU",
+    "imageURL": "img-truelove-light.webp",
+    "darkImageURL": "img-truelove-dark.webp",
+    "guessQuestions": [
+      "¿Encontraré un nuevo amor en los próximos 3 meses?",
+      "Estoy confundido con mi pareja actual, a veces dulce, a veces perdido. ¿Es mi destino?",
+      "¿Cuándo conoceré a mi verdadero amor la próxima vez?"
+    ]
+  },
+  {
+    "id": "relationship-insight",
+    "category": "loveRelationship",
+    "title": "Relación",
+    "subTitle": "¿Seguir o dejarlo? Mira lo que viene.",
+    "shuffleCardHint": "Piensa en tu pregunta en silencio",
+    "spreadKey": "RD",
+    "imageURL": "img-relationship-light.webp",
+    "darkImageURL": "img-relationship-dark.webp",
+    "guessQuestions": [
+      "Mi relación está estancada, ¿habrá progreso en los próximos 3 meses?",
+      "Tenemos una relación a distancia, ¿cómo mantenerla?",
+      "¿Vale la pena seguir luchando por esta persona?",
+      "Durante esta pelea, ¿debería contactarle primero?",
+      "¿Es esta persona mi verdadero amor?"
+    ]
+  },
+  {
+    "id": "their-real-thoughts",
+    "category": "loveRelationship",
+    "title": "Lo que piensa",
+    "subTitle": "¿Qué está pensando en realidad?",
+    "shuffleCardHint": "Piensa en tu pregunta en silencio",
+    "spreadKey": "TFA",
+    "imageURL": "img-abouthim-light.webp",
+    "darkImageURL": "img-abouthim-dark.webp",
+    "guessQuestions": [
+      "¿Qué piensa sobre mis acciones recientes?",
+      "Está frío y cálido últimamente, ¿qué siente realmente?",
+      "¿Ha pensado en nuestro futuro juntos?",
+      "¿Cuáles son sus verdaderos sentimientos hacia mí?"
+    ]
+  },
+  {
+    "id": "relationship-reconciliation",
+    "category": "loveRelationship",
+    "title": "Volver",
+    "subTitle": "¿Pueden empezar de nuevo? Mira las señales.",
+    "shuffleCardHint": "Piensa en tu pregunta en silencio",
+    "spreadKey": "RD",
+    "imageURL": "img-breakup-light.webp",
+    "darkImageURL": "img-breakup-dark.webp",
+    "guessQuestions": [
+      "¿Qué probabilidad hay de reconciliarnos en 3 meses?",
+      "Si contacto primero, ¿su reacción será positiva o negativa?",
+      "¿Debo seguir luchando por esta relación o dejarla ir?",
+      "¿Qué acción tomará respecto a esta relación?"
+    ]
+  },
+  {
+    "id": "yes-or-no",
+    "category": "popular",
+    "title": "Sí o No",
+    "subTitle": "¿Dudas? Aquí tienes la respuesta.",
+    "shuffleCardHint": "Piensa en tu pregunta en silencio",
+    "spreadKey": "S",
+    "imageURL": "img-yesorno-light.webp",
+    "darkImageURL": "img-yesorno-dark.webp",
+    "guessQuestions": [
+      "¿Debería declararme a esta persona?",
+      "¿Debo aceptar esta oferta ahora?",
+      "¿Debería seguir el consejo de amigos o familiares?"
+    ]
+  },
+  {
+    "id": "choose-between-two",
+    "category": "other",
+    "title": "Uno u otro",
+    "subTitle": "¿Dudas entre dos? Elige bien.",
+    "shuffleCardHint": "Piensa en tus opciones en silencio",
+    "spreadKey": "ABS",
+    "imageURL": "img-oneoftwo-light.webp",
+    "darkImageURL": "img-oneoftwo-dark.webp",
+    "guessQuestions": [
+      "¿Debo contactar primero o esperar a que lo haga él/ella?",
+      "¿Debo mantener mi trabajo actual o renunciar?"
+    ]
+  },
+  {
+    "id": "choose-from-three",
+    "category": "other",
+    "title": "El mejor de Tres",
+    "subTitle": "¿Tres opciones? Encuentra la ideal.",
+    "shuffleCardHint": "Piensa en tus opciones en silencio",
+    "spreadKey": "ABCS",
+    "imageURL": "img-oneofthree-light.webp",
+    "darkImageURL": "img-oneofthree-dark.webp",
+    "guessQuestions": [
+      "¿Dónde debería viajar en las próximas vacaciones?",
+      "¿Con quién salir este fin de semana para disfrutar más?",
+      "¿Qué carrera debería elegir?"
+    ]
+  },
+  {
+    "id": "shopping-decision",
+    "category": "popular",
+    "title": "¿Comprar o no?",
+    "subTitle": "¿Vale la pena? Piénsalo antes.",
+    "shuffleCardHint": "Piensa en el artículo que deseas comprar en silencio",
+    "spreadKey": "BNS",
+    "imageURL": "img-shopping-light.webp",
+    "darkImageURL": "img-shopping-dark.webp",
+    "guessQuestions": [
+      "Si compro esto, ¿seré feliz?",
+      "¿Debería comprar lo que tengo en mente?"
+    ]
+  },
+  {
+    "id": "exam-luck",
+    "category": "academicCareer",
+    "title": "Examen",
+    "subTitle": "¿Aprobarás? Averígualo ahora.",
+    "shuffleCardHint": "Piensa en tu pregunta en silencio",
+    "spreadKey": "P",
+    "imageURL": "img-exam-light.webp",
+    "darkImageURL": "img-exam-dark.webp",
+    "guessQuestions": [
+      "¿Cómo será mi suerte en el próximo examen?",
+      "¿Podré aprobar este examen exitosamente?",
+      "¿Qué debería priorizar en mi revisión?"
+    ]
+  },
+  {
+    "id": "event-prediction",
+    "category": "other",
+    "title": "Qué pasará",
+    "subTitle": "Descubre cómo se va a desarrollar.",
+    "shuffleCardHint": "Piensa en tu pregunta en silencio",
+    "spreadKey": "SAO",
+    "imageURL": "img-specificevents-light.webp",
+    "darkImageURL": "img-specificevents-dark.webp",
+    "guessQuestions": [
+      "¿Mi viaje planeado irá bien?",
+      "Si me declaro, ¿me aceptará?",
+      "¿Cómo evolucionará mi preocupación actual en 3 meses?"
+    ]
+  },
+  {
+    "id": "daily-outfit-tips",
+    "category": "popular",
+    "title": "Look diario",
+    "subTitle": "Qué ponerte para atraer buenas vibras.",
+    "spreadKey": "TOG",
+    "imageURL": "img-ootd-light.webp",
+    "darkImageURL": "img-ootd-dark.webp",
+    "guessQuestions": [
+      "¿Qué ropa es apropiada para hoy?",
+      "¿Qué color de ropa traerá suerte hoy?",
+      "¿Qué accesorios aumentarán mi suerte hoy?"
+    ]
+  },
+  {
+    "id": "health-status",
+    "category": "other",
+    "title": "Salud",
+    "subTitle": "Escucha lo que tu cuerpo te dice.",
+    "shuffleCardHint": "Piensa en tu pregunta en silencio",
+    "spreadKey": "PPF",
+    "imageURL": "img-health-light.webp",
+    "darkImageURL": "img-health-dark.webp",
+    "guessQuestions": [
+      "¿Cómo estará mi salud en los próximos 3 meses?",
+      "¿Qué problemas de salud debería tener en cuenta en 3 meses?",
+      "¿Cómo debería ajustar mi estilo de vida para mejorar mi salud?"
+    ]
+  },
+  {
+    "id": "social-relations",
+    "category": "other",
+    "title": "Relaciones",
+    "subTitle": "Entiende qué pasa entre ustedes.",
+    "shuffleCardHint": "Piensa en tu pregunta en silencio",
+    "spreadKey": "MOU",
+    "imageURL": "img-interpersonal-light.webp",
+    "darkImageURL": "img-interpersonal-dark.webp",
+    "guessQuestions": [
+      "¿Cómo va mi relación reciente con mi amor platónico?",
+      "¿Cómo está mi relación reciente con este amigo/a?",
+      "¿Qué problemas ocultos hay en mi relación actual?",
+      "¿Cómo manejar la relación familiar recientemente?"
+    ]
+  },
+  {
+    "id": "job-opportunities",
+    "category": "academicCareer",
+    "title": "Oportunidad",
+    "subTitle": "¿Cuándo llega el buen trabajo?",
+    "shuffleCardHint": "Piensa en tu pregunta en silencio",
+    "spreadKey": "JI",
+    "imageURL": "img-jobseeking-light.webp",
+    "darkImageURL": "img-jobseeking-dark.webp",
+    "guessQuestions": [
+      "¿Tendré nuevas oportunidades laborales en los próximos 3 meses?",
+      "¿El proyecto actual irá bien?",
+      "¿Pasaré exitosamente la entrevista?",
+      "¿Recibiré respuesta de los CVs enviados recientemente?"
+    ]
+  },
+  {
+    "id": "career-path",
+    "category": "academicCareer",
+    "title": "Camino laboral",
+    "subTitle": "¿Seguir o cambiar? Encuentra tu momento.",
+    "shuffleCardHint": "Piensa en tu pregunta en silencio",
+    "spreadKey": "P",
+    "imageURL": "img-career-light.webp",
+    "darkImageURL": "img-career-dark.webp",
+    "guessQuestions": [
+      "¿Cómo será mi futuro laboral en los próximos 3 meses?",
+      "¿Debo considerar cambiar de trabajo o carrera?",
+      "Me siento atrapado y confundido en el trabajo, ¿cómo superarlo?",
+      "¿Cambiaré exitosamente de trabajo el próximo mes?"
+    ]
+  }
+]

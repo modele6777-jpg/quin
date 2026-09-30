@@ -1,0 +1,2030 @@
+[
+  {
+    "cardKey": "the_fool",
+    "englishName": "The Fool",
+    "name": "El Loco",
+    "element": "Aire",
+    "planet": "Urano",
+    "zodiac": null,
+    "keywords": [
+      "Inocencia",
+      "Inicios",
+      "Riesgo",
+      "Potencial"
+    ],
+    "uprightKeywords": [
+      "partida",
+      "aventura",
+      "inocencia"
+    ],
+    "reversedKeywords": [
+      "imprudencia",
+      "extravío",
+      "estancamiento"
+    ],
+    "meaning": "La carta del Loco anuncia nuevos comienzos y una confianza sin miedo. Refleja un estado de soltar las preocupaciones y seguir al corazón hacia un viaje hacia lo desconocido, representando posibilidades infinitas y libertad, alentando a fluir con el diseño de la vida. Sin embargo, la inocencia también necesita el equilibrio de la realidad: ignorar completamente los riesgos puede convertirse en imprudencia. Una vez que decides partir, lleva la audacia del principiante mientras exploras, pero mantén la atención en las condiciones reales, transformando el impulso en verdadera sabiduría.",
+    "description": "Un joven se halla al borde del precipicio, a punto de adentrarse en un abismo desconocido; ese acantilado simboliza la frontera entre el peligro vital y el comienzo de un viaje completamente nuevo. En su mano izquierda sostiene una rosa blanca, emblema de la pureza y del espíritu que lo impulsa; sobre el hombro derecho carga un pequeño hatillo colgado de un palo, sugiriendo que, aunque marcha ligero de equipaje, guarda en él los recuerdos y experiencias del inconsciente. A sus pies, un perro blanco ladra con frenesí, voz del instinto y la razón que intenta llamarle la atención sobre los peligros reales; pero él alza el rostro al cielo, ajeno al abismo que se abre ante sí, mostrando una ceguera casi divina y un arrojo absoluto, mientras se lanza con confianza al libre viaje que le aguarda."
+  },
+  {
+    "cardKey": "the_magician",
+    "englishName": "The Magician",
+    "name": "El Mago",
+    "element": "Aire",
+    "planet": "Mercurio",
+    "zodiac": null,
+    "keywords": [
+      "Acción",
+      "Creatividad",
+      "Voluntad",
+      "Éxito"
+    ],
+    "uprightKeywords": [
+      "acción",
+      "manifestación",
+      "ambición"
+    ],
+    "reversedKeywords": [
+      "engaño",
+      "desperdicio",
+      "fantasía"
+    ],
+    "meaning": "La carta del Mago trata sobre la acción y la manifestación. Señala que la capacidad práctica para convertir la inspiración en realidad ya está en su lugar: la voluntad está enfocada y los recursos integrados, haciendo de este el momento perfecto para actuar proactivamente. Con las habilidades en mano, avanza hacia tus metas con intención clara y ejecución enfocada, vigilando que los medios sean correctos. Solo anclando la creatividad en la sinceridad y el pragmatismo podrás abrir capítulos verdaderamente prometedores.",
+    "description": "En el centro de un jardín, el mago Hermes tiende el puente entre el cielo y la tierra: su mano derecha apunta al firmamento y la izquierda señala la tierra, abriendo el canal entre lo sagrado y lo mundano para proclamar «Como es arriba, es abajo». Sobre el altar se ordenan la copa, la espada, el bastón y el pentáculo —los cuatro elementos reunidos—, símbolo de que todo lo necesario para crear está listo, aguardando solo la acción; la serpiente ouroboros que ciñe su cintura representa el ciclo espiritual infinito, y el símbolo del infinito sobre su cabeza anuncia una voluntad inagotable. Se encuentra en el cénit de su poder para transformar la inspiración inmaterial en realidad tangible: la manifestación y la creación ocurren en este mismo instante."
+  },
+  {
+    "cardKey": "the_high_priestess",
+    "englishName": "The High Priestess",
+    "name": "La Sacerdotisa",
+    "element": "Agua",
+    "planet": "Luna",
+    "zodiac": null,
+    "keywords": [
+      "Secretos",
+      "Intuición",
+      "Sabiduría",
+      "Subconsciente"
+    ],
+    "uprightKeywords": [
+      "intuición",
+      "secreto",
+      "estudio"
+    ],
+    "reversedKeywords": [
+      "represión",
+      "confusión",
+      "superficialidad"
+    ],
+    "meaning": "La carta de la Sacerdotisa se centra en el despertar de la intuición y la quietud interior. Refleja un estado de búsqueda hacia adentro en lugar de actuar impulsivamente hacia afuera, insinuando que verdades aún por revelarse se ocultan bajo la superficie. Cuando una situación aún no está clara, es sabio hacer una pausa, dándote tiempo para la observación paciente y la introspección. No te apresures por respuestas: deja que la intuición y la reflexión profunda te guíen hasta que la claridad emerja naturalmente.",
+    "description": "La suma sacerdotisa reposa en silencio entre dos columnas —una negra y una blanca—, símbolo del yin y el yang y del principio de dualidad, ocupando el lugar de guardiana del equilibrio. El pergamino que sostiene a medias representa la sabiduría oculta del inconsciente: a medio mostrar, sugiere que la verdad solo puede buscarse en el interior y no debe revelarse a la ligera. La luna nueva a sus pies refleja su profunda conexión con la intuición y el inconsciente femenino; la túnica azul que la envuelve fluye hacia adentro como el agua, y el velo bordado de granadas que la rodea la aísla del mundanal ruido. Sumida en una meditación serena, escucha hacia dentro sin pretender manifestarse al exterior, custodiando un potencial todavía por descubrir."
+  },
+  {
+    "cardKey": "the_empress",
+    "englishName": "The Empress",
+    "name": "La Emperatriz",
+    "element": "Tierra",
+    "planet": "Venus",
+    "zodiac": null,
+    "keywords": [
+      "Abundancia",
+      "Aceptación",
+      "Nutrición",
+      "Creatividad"
+    ],
+    "uprightKeywords": [
+      "creación",
+      "abundancia",
+      "gestación"
+    ],
+    "reversedKeywords": [
+      "carencia",
+      "dependencia",
+      "estancamiento"
+    ],
+    "meaning": "La carta de la Emperatriz encarna la abundancia y el florecimiento. Retrata la prosperidad del mundo material y sensorial, irradiando vitalidad desbordante y generoso sustento, presagiando un período de plenitud, alegría y creatividad. Ante esta abundancia, simplemente disfruta de la comodidad del presente y recuerda compartir ese calor con quienes te rodean, cuidando también de tus propias necesidades mientras creces.",
+    "description": "Una mujer coronada de estrellas reposa en un diván de musgo en medio de un bosque exuberante; las doce estrellas evocan la protección de los doce signos del zodíaco y el ritmo del cosmos. La emperatriz es la propia Deméter, diosa de la cosecha: su vestidura blanca está sembrada de granadas, emblemas de la fertilidad y la abundancia. A sus pies se mecen espigas de oro, dones de la tierra próspera; una cascada lejana riega el paisaje como una bendición que concede vida a todo ser. Con su infinita generosidad y ternura maternal, nutre a todas las criaturas; el placer de los sentidos y la gestación de la vida se han hecho presentes."
+  },
+  {
+    "cardKey": "the_emperor",
+    "englishName": "The Emperor",
+    "name": "El Emperador",
+    "element": "Fuego",
+    "planet": null,
+    "zodiac": "Aries",
+    "keywords": [
+      "Autoridad",
+      "Orden",
+      "Estructura",
+      "Control"
+    ],
+    "uprightKeywords": [
+      "orden",
+      "poder",
+      "límites"
+    ],
+    "reversedKeywords": [
+      "tiranía",
+      "rigidez",
+      "descontrol"
+    ],
+    "meaning": "El núcleo de la carta del Emperador es el orden y el control. Representa un estado de construcción de estructuras de poder a través de la razón, las reglas y la autodisciplina, proyectando autoridad estable y pragmatismo. Esto significa que se deben trazar límites para dirigir la situación. Cuando se necesita tomar el timón, reemplaza la emoción con la lógica y asume responsabilidades con decisión: establece reglas y límites claros para construir una fortaleza real que resista el paso del tiempo.",
+    "description": "Con el cetro apretado en la mano derecha y el orbe firmemente sostenido en la izquierda, el emperador entronizado ante escarpadas montañas es el mismísimo Zeus, dios que detenta la ley. Bajo la toga roja, su armadura es un recuerdo de que, bajo el afecto, el orden debe imponerse con mano de hierro; las cabezas de carnero que adornan los cuatro ángulos del trono proclaman su ímpetu y su liderazgo, resonando con la naturaleza de Aries que protege. Gobierna su territorio con autoridad absoluta: su voluntad de acero está erigiendo un orden secular que nadie podrá traspasar, y los cimientos sólidos con el dominio de la ley están ya plenamente establecidos."
+  },
+  {
+    "cardKey": "the_hierophant",
+    "englishName": "The Hierophant",
+    "name": "El Hierofante",
+    "element": "Tierra",
+    "planet": null,
+    "zodiac": "Tauro",
+    "keywords": [
+      "Tradición",
+      "Creencia",
+      "Educación",
+      "Guía"
+    ],
+    "uprightKeywords": [
+      "consenso",
+      "compromiso",
+      "enseñanza"
+    ],
+    "reversedKeywords": [
+      "rebeldía",
+      "dogma",
+      "atadura"
+    ],
+    "meaning": "La carta del Hierofante representa el establecimiento de la tradición y la fe. Refleja la transmisión de orientación espiritual y marcos morales, sugiriendo la necesidad de estudiar el conocimiento establecido, seguir las normas sociales o buscar consejo de mentores experimentados. Para encontrar paz y crecimiento, abraza los valores tradicionales y busca orientación dentro del orden y la estructura existentes: a través del aprendizaje estructurado y la adhesión sincera a las normas, puedes encontrar tu propio lugar.",
+    "description": "Entre las columnas de piedra de una catedral solemne resuena el eco de oraciones devotas. El sumo sacerdote inclina la mirada hacia los dos discípulos arrodillados a sus pies; como puente espiritual entre los dioses y los hombres, lleva en la cabeza la triple tiara que simboliza los tres planos del cuerpo, la mente y el espíritu, y en la mano izquierda sostiene el báculo de triple cruz, emblema de la autoridad de la fe. Dos fieles —uno vestido de rojo, otro de blanco— contemplan con devoción al maestro en busca de guía; él señala a las almas perdidas el camino de regreso con la doctrina tradicional y la compasión. Aquí se hacen patentes la pertenencia a la institución y el amparo de la fe."
+  },
+  {
+    "cardKey": "the_lovers",
+    "englishName": "The Lovers",
+    "name": "Los Enamorados",
+    "element": "Aire",
+    "planet": null,
+    "zodiac": "Géminis",
+    "keywords": [
+      "Elección",
+      "Afinidad",
+      "Amor",
+      "Valores"
+    ],
+    "uprightKeywords": [
+      "amor",
+      "elección",
+      "unión"
+    ],
+    "reversedKeywords": [
+      "desequilibrio",
+      "evasión",
+      "conflicto"
+    ],
+    "meaning": "La carta de los Enamorados interpreta la elección y la unión. Refleja la clarificación y realineación de los valores cuando se enfrenta una bifurcación en el camino de la vida, lo que significa que se debe tomar una decisión que honre al corazón. En una encrucijada donde se debe elegir un camino, deja de vacilar: calma tu mente, confirma los principios que realmente valoras y actúa con decisión, pues la elección correcta puede conducir a un nivel superior de integración.",
+    "description": "En el jardín del Edén, Adán y Eva se miran desnudos de frente mientras un arcángel alado los observa desde lo alto, representando la mirada de la conciencia desde una dimensión superior. El hombre contempla a la mujer; ella alza la vista para escuchar la revelación divina. A su espalda, el árbol de la vida arde, y la serpiente desciende sinuosa por el árbol del conocimiento, símbolo del despertar de la tentación y la sabiduría. Ante una elección decisiva, ambos se hallan en el cruce entre el deseo y la conciencia; el pacto de la unión de las almas aguarda su rúbrica, y el libre albedrío confluye en este preciso instante."
+  },
+  {
+    "cardKey": "the_chariot",
+    "englishName": "The Chariot",
+    "name": "El Carro",
+    "element": "Agua",
+    "planet": null,
+    "zodiac": "Cáncer",
+    "keywords": [
+      "Voluntad",
+      "Control",
+      "Victoria",
+      "Avance"
+    ],
+    "uprightKeywords": [
+      "avance",
+      "decisión",
+      "control"
+    ],
+    "reversedKeywords": [
+      "extravío",
+      "descontrol",
+      "derrota"
+    ],
+    "meaning": "La carta del Carro significa voluntad y victoria. Retrata un avance imparable: aprovechar los conflictos internos y externos a través de una resolución inquebrantable y una autodisciplina rigurosa para superar obstáculos, exigiendo un enfoque intenso y dominio propio. Para lograr un avance, debes calmar tu mente, frenar los impulsos instintivos con la razón y concentrar tu energía directamente en el objetivo. Mientras mantengas el control de la situación, podrás conquistar el camino y alcanzar la meta.",
+    "description": "Conduciendo a un esfinge negro y a una esfinge blanca, el guerrero que ocupa el carro es un caballero artúrico vuelto en triunfo. Parado ante el foso de la ciudad, lleva en la cabeza una corona de estrellas y viste una armadura grabada con símbolos alquímicos, sujetando las riendas con la sola fuerza de su voluntad. Las dos bestias simbolizan instintos en pugna, fuerzas que se contraponen en el inconsciente; sin embargo, él busca el equilibrio en medio de esa tensión y arremete con valentía hacia la orilla gloriosa, sorteando todos los obstáculos. La victoria sobre la adversidad mediante la fortaleza de la voluntad ya está al alcance de su mano."
+  },
+  {
+    "cardKey": "strength",
+    "englishName": "Strength",
+    "name": "La Fuerza",
+    "element": "Fuego",
+    "planet": null,
+    "zodiac": "Leo",
+    "keywords": [
+      "Coraje",
+      "Paciencia",
+      "Resiliencia",
+      "Interior"
+    ],
+    "uprightKeywords": [
+      "manejo",
+      "resistencia",
+      "ternura"
+    ],
+    "reversedKeywords": [
+      "cobardía",
+      "estallido",
+      "descontrol"
+    ],
+    "meaning": "La carta de la Fuerza trata sobre la doma suave pero firme. Ilustra cómo la compasión y la paciencia pueden guiar los instintos primitivos, convirtiendo la ferocidad en sumisión voluntaria, mostrando que el verdadero poder radica en la comprensión y la transformación. Cuando te enfrentes a resistencia intensa o estallidos emocionales, no respondas con supresión: mantén la calma y, con suavidad que no resiste y paciencia duradera, disuelve lo que es rígido. A través de la aceptación, se logra el dominio profundo.",
+    "description": "Una mujer se inclina con delicadeza y acaricia las fauces abiertas de un fiero león, que, sumiso, dobla la cola. La santa de la carta de la Fuerza luce el símbolo del infinito sobre la cabeza y no recurre a la violencia; irradia compasión y paciencia desde su túnica azul y su guirnalda de flores. El león representa los miedos interiores y los instintos primordiales; venciendo la bravura con la suavidad, ella apacigua la furia con la firmeza interior y la misericordia. En una armonía asombrosa se revela el autodominio del alma: la flexibilidad puede domeñar la barbarie."
+  },
+  {
+    "cardKey": "the_hermit",
+    "englishName": "The Hermit",
+    "name": "El Ermitaño",
+    "element": "Tierra",
+    "planet": null,
+    "zodiac": "Virgo",
+    "keywords": [
+      "Introspección",
+      "Soledad",
+      "Precipitación",
+      "Guía"
+    ],
+    "uprightKeywords": [
+      "análisis",
+      "soledad",
+      "búsqueda"
+    ],
+    "reversedKeywords": [
+      "encierro",
+      "hosquedad",
+      "extravío"
+    ],
+    "meaning": "La carta del Ermitaño se centra en la búsqueda de la verdad en soledad. Refleja una retirada deliberada del ruido, girando hacia adentro para buscar sabiduría en el silencio. Para ver las cosas con claridad, aléjate del clamor y date tiempo a solas: escucha atentamente la voz interior, confía en tu propia experiencia y reflexión para llegar a la comprensión, y trata la soledad como campo de entrenamiento para la mente.",
+    "description": "En la cima de una montaña helada y cubierta de nieve, el profeta que busca la verdad —Enoc— permanece en solitaria vigilia. El ermitaño se envuelve en un manto gris que lo confunde con el paraje desolado, signo de humildad y recogimiento; en una mano sostiene una linterna que irradia la luz de la estrella de David, y en la otra un largo bastón que lo sostiene; inclina la cabeza hacia la pared rocosa, dando deliberadamente la espalda al bullicio del mundo. La linterna simboliza la tenue llama interior que lo guía; avanza con dificultad entre el viento y la nieve, alejándose voluntariamente de la multitud para explorar su interior. La reflexión y la introspección silenciosas se condensan en esa luz."
+  },
+  {
+    "cardKey": "the_wheel_of_fortune",
+    "englishName": "The Wheel of Fortune",
+    "name": "La Rueda de la Fortuna",
+    "element": null,
+    "planet": "Júpiter",
+    "zodiac": null,
+    "keywords": [
+      "Ciclos",
+      "Punto de inflexión",
+      "Destino",
+      "Oportunidad"
+    ],
+    "uprightKeywords": [
+      "suerte",
+      "giro",
+      "destino"
+    ],
+    "reversedKeywords": [
+      "estancamiento",
+      "mala fortuna",
+      "resistencia"
+    ],
+    "meaning": "La carta de la Rueda de la Fortuna encarna los ciclos irresistibles y los puntos de inflexión. Refleja un momento en que la vida llega a una encrucijada crucial, ya que el destino madura y el karma se despliega para cambiar el curso de los eventos, presagiando el fin de un capítulo y la apertura de otro. Cuando te enfrentes a cambios fuera de tu control, flúe con ellos en lugar de resistir: acepta el giro con corazón abierto y da la bienvenida con calma a las posibilidades que vienen una tras otra.",
+    "description": "En el vasto océano de nubes, el reloj cósmico manipulado por los dioses gira lentamente. En la Rueda de la Fortuna, Anubis la sostiene con esfuerzo hacia arriba, simbolizando la fuerza espiritual que asciende; el dios serpiente Set resbala hacia abajo con el giro, imagen del declive y la extinción inevitables; en el centro de la rueda están grabados símbolos alquímicos, y en las cuatro esquinas el toro, el águila, el ángel y el león leen en silencio sus escrituras. Los engranajes encajan lentamente, revelando el ciclo incesante de causa y efecto en el cosmos: solo quien se adapta a los altibajos puede encontrar vida en el fluir."
+  },
+  {
+    "cardKey": "justice",
+    "englishName": "Justice",
+    "name": "La Justicia",
+    "element": "Aire",
+    "planet": null,
+    "zodiac": "Libra",
+    "keywords": [
+      "Equidad",
+      "Equilibrio",
+      "Objetividad",
+      "Karma"
+    ],
+    "uprightKeywords": [
+      "decisión",
+      "equilibrio",
+      "equidad"
+    ],
+    "reversedKeywords": [
+      "parcialidad",
+      "evasión",
+      "desequilibrio"
+    ],
+    "meaning": "El núcleo de la carta de la Justicia radica en el juicio absoluto en las escalas de causa y efecto. Refleja un proceso de búsqueda de la verdad que deja de lado el sesgo y sopesa las cosas desde una perspectiva neutral e imparcial, declarando que toda acción debe traer su consecuencia correspondiente. En momentos que requieren juicio o responsabilidad, debes dejar de lado los prejuicios, sopesar con una actitud objetiva y racional, tomar la decisión más justa basada en los hechos y asumir la responsabilidad por tus elecciones con lucidez.",
+    "description": "Una inteligencia absolutamente objetiva dicta una sentencia justa que no admite apelación. En el trono de una sala majestuosa, la diosa Astrea, vestida de rojo, empuña en la mano derecha una espada afilada —emblema de la decisión— y sostiene en la izquierda una balanza precisa que pesa el bien y el mal, con la mirada fija al frente sin inclinarse hacia ningún lado. La hoja doble de la espada representa la inevitabilidad del karma; la balanza evoca la ley del equilibrio aplicada con rigor. En este instante alza la espada para cortar toda mentira y falsedad; la atmósfera es solemne y fría, todos los actos tienen aquí su ajuste de cuentas, y la ley de la equidad no admite discusión."
+  },
+  {
+    "cardKey": "the_hanged_man",
+    "englishName": "The Hanged Man",
+    "name": "El Colgado",
+    "element": "Agua",
+    "planet": "Neptuno",
+    "zodiac": null,
+    "keywords": [
+      "Pausa",
+      "Perspectiva",
+      "Rendición",
+      "Sacrificio"
+    ],
+    "uprightKeywords": [
+      "espera",
+      "sacrificio",
+      "cambio de perspectiva"
+    ],
+    "reversedKeywords": [
+      "inutilidad",
+      "resistencia",
+      "atasco"
+    ],
+    "meaning": "El Colgado significa un cambio de perspectiva a través de la suspensión. Refleja una pausa voluntaria elegida para un propósito superior o una conciencia más profunda, obteniendo perspectivas completamente nuevas al cesar el esfuerzo externo y ver las cosas desde un ángulo diferente. Cuando llegas a un callejón sin salida, no te apresures a forzar tu camino: en su lugar, haz una pausa deliberada, reexamina la situación actual desde un nuevo punto de vista, acepta la suspensión temporal y busca una nueva dirección para avanzar mientras esperas.",
+    "description": "Bajo un tronco sombrío, un joven de cabellos dorados cuelga invertido de un travesaño en forma de T; la pierna derecha cruza la izquierda por detrás, y las manos —atadas a la espalda— no muestran ningún signo de lucha. El Colgado es Odín, que se sacrificó a sí mismo en busca de la sabiduría; sin embargo, su cabeza irradia una aureola dorada, símbolo de la iluminación ganada en la quietud y el sufrimiento. Al aceptar voluntariamente el tormento de la suspensión, contempla el mundo desde una perspectiva invertida; en la inmovilidad extrema se está gestando un giro decisivo: la rendición y el sacrificio han traído el despertar del alma, y la empatía está siendo incubada."
+  },
+  {
+    "cardKey": "death",
+    "englishName": "Death",
+    "name": "La Muerte",
+    "element": "Agua",
+    "planet": null,
+    "zodiac": "Escorpio",
+    "keywords": [
+      "Final",
+      "Transformación",
+      "Abandono",
+      "Renacimiento"
+    ],
+    "uprightKeywords": [
+      "transformación",
+      "fin",
+      "renacimiento"
+    ],
+    "reversedKeywords": [
+      "estancamiento",
+      "apego",
+      "resistencia"
+    ],
+    "meaning": "La carta de la Muerte trata sobre finales inevitables y transformación profunda. Refleja la conclusión natural de una fase o patrón antiguo, haciendo espacio para un nuevo comienzo: una metamorfosis y renovación profunda. Cuando te enfrentes a una situación que debe terminar, deja de forzar su continuación. Acepta este cierre inevitable, suelta las cargas del pasado, libera tus manos y ábrete al nuevo comienzo que está en camino.",
+    "description": "En una tierra desolada, un jinete esquelético enfundado en armadura negra avanza lentamente sobre un caballo blanco. La Muerte es el exterminador que trae el fin último: porta un estandarte negro con una rosa blanca, símbolo del renacimiento puro que germina en la muerte y la extinción total. Los cascos del caballo pasan sin misericordia sobre el rey caído, representando el derrumbe del poder mundano y las estructuras antiguas ante las leyes cósmicas; el niño que llora y la mujer que reza expresan la resistencia instintiva al cambio y el apego; sin embargo, el alba dorada que surge entre las dos torres en el horizonte lejano proclama que la extinción de lo caduco abre espacio para la nueva vida. La metamorfosis que destruye lo viejo para edificar lo nuevo es irreversible."
+  },
+  {
+    "cardKey": "temperance",
+    "englishName": "Temperance",
+    "name": "La Templanza",
+    "element": "Fuego",
+    "planet": null,
+    "zodiac": "Sagitario",
+    "keywords": [
+      "Armonía",
+      "Equilibrio",
+      "Moderación",
+      "Purificación"
+    ],
+    "uprightKeywords": [
+      "negociación",
+      "equilibrio",
+      "conciliación"
+    ],
+    "reversedKeywords": [
+      "desequilibrio",
+      "exceso",
+      "conflicto"
+    ],
+    "meaning": "La carta de la Templanza interpreta el arte del equilibrio en el flujo. Retrata la fusión y armonización de elementos opuestos, alcanzando una armonía vibrante a través de la calibración paciente y la sabiduría interior: encontrando el camino del medio en lugar de ir a los extremos. Cuando te sientas atraído en direcciones opuestas, no te apresures a tomar partido. Intenta integrar los factores en conflicto, ajusta gradualmente el ritmo con paciencia y encuentra el punto de equilibrio justo.",
+    "description": "Un ángel con un triángulo solar brillando en el pecho posa un pie en el agua y el otro en la tierra; con las dos manos sostiene sendas copas doradas e intercambia su contenido con calma, mezclando el líquido en un flujo sereno. El ángel de la Templanza es Iris, la diosa del arcoíris que armoniza el yin y el yang; el camino montañoso que lleva a la corona y al sol naciente aguarda a lo lejos, mientras ella busca con paciencia el término medio entre los extremos: elementos distintos están siendo fusionados a la perfección. El fluir del agua sagrada simboliza el refinamiento del alma; en la paz circula una esencia purificada, y la sabiduría del equilibrio transforma el conflicto en un elixir diáfano."
+  },
+  {
+    "cardKey": "the_devil",
+    "englishName": "The Devil",
+    "name": "El Diablo",
+    "element": "Tierra",
+    "planet": null,
+    "zodiac": "Capricornio",
+    "keywords": [
+      "Deseo",
+      "Atadura",
+      "Obsesión",
+      "Material"
+    ],
+    "uprightKeywords": [
+      "limitación",
+      "deseo",
+      "atadura"
+    ],
+    "reversedKeywords": [
+      "liberación",
+      "ruptura",
+      "despertar"
+    ],
+    "meaning": "La carta del Diablo se refiere a la esclavitud del deseo y la obsesión material. Refleja un estado de estar esclavizado por los deseos mundanos, hábitos adictivos o creencias estrechas, reflejando la prisión invisible construida por la propia codicia. Cuando te veas arrastrado por el deseo, no te dejes hundir más. Intenta confrontar directamente tus miedos y codicia internos, reconoce que puedes cortar el apego en cualquier momento y rompe la ilusión del autoencarcelamiento.",
+    "description": "En la oscuridad de la noche, Lucifer —el carcelero de las almas— está sentado sobre un cubo negro. El Diablo tiene cuernos de macho cabrío y alas de murciélago; levanta con la mano derecha una antorcha encendida y extiende la izquierda hacia abajo, mientras el pentagrama invertido sobre su cabeza simboliza la caída de la materia que se impone sobre el espíritu. Ante sus pies, un hombre y una mujer desnudos están sujetos sin apretar por cadenas de hierro al cuello, emblema de los lazos del deseo; las colas y los cuernos que crecen en sus cuerpos representan la progresiva asimilación por la bestialidad. Las cadenas son en realidad tan anchas que se podrían soltar con facilidad, pero ellos inclinan la cabeza y se someten. La tragedia de la rendición voluntaria se despliega: la codicia y el miedo cierran los ojos, y la jaula es de su propia factura."
+  },
+  {
+    "cardKey": "the_tower",
+    "englishName": "The Tower",
+    "name": "La Torre",
+    "element": "Fuego",
+    "planet": "Marte",
+    "zodiac": null,
+    "keywords": [
+      "Agitación",
+      "Colapso",
+      "Liberación",
+      "Revelación"
+    ],
+    "uprightKeywords": [
+      "destrucción",
+      "revelación",
+      "derrumbe"
+    ],
+    "reversedKeywords": [
+      "evasión",
+      "tensión latente",
+      "demora"
+    ],
+    "meaning": "La carta de la Torre señala una conmoción repentina y la desestabilización de estructuras antiguas. Los problemas suprimidos durante mucho tiempo estallan de repente, destruyendo instantáneamente un statu quo precario. Aunque el shock es aturdidor, elimina por la fuerza patrones obsoletos, despertándote de la ceguera: una reestructuración necesaria. Cuando llegue el cambio repentino, no te aferres a estructuras a punto de colapsar. En su lugar, suelta con el flujo, busca dentro de los escombros recursos para reconstruir y establece una base más sólida para ti mismo.",
+    "description": "En una noche de tormenta y lluvia, un rayo cegador golpea una lujosa torre que se eleva hasta las nubes. La Torre es la arrogante Torre de Babel destruida por los dioses: la corona que coronaba su cúspide sale volando, simbolizando el derrumbe del poder mundano y del ego soberbio; el fuego arde en las paredes, consumiendo toda la grandeza ilusoria. Un hombre y una mujer caen desesperados desde la torre hacia el abismo; llamas y escombros llueven por todas partes, representando el brutal desprendimiento de la vieja sensación de seguridad. La comodidad ilusoria queda desgarrada por completo; solo tras la cruel destrucción puede la luz de la verdad atravesar las ruinas."
+  },
+  {
+    "cardKey": "the_star",
+    "englishName": "The Star",
+    "name": "La Estrella",
+    "element": "Aire",
+    "planet": null,
+    "zodiac": "Acuario",
+    "keywords": [
+      "Esperanza",
+      "Curación",
+      "Inspiración",
+      "Serenidad"
+    ],
+    "uprightKeywords": [
+      "esperanza",
+      "guía",
+      "sanación"
+    ],
+    "reversedKeywords": [
+      "desorientación",
+      "desilusión",
+      "desconexión"
+    ],
+    "meaning": "La carta de la Estrella trata sobre la sanación y la esperanza después de la tormenta. Refleja cómo, después de un gran shock, el corazón se vuelve a llenar de tranquilidad y anticipación por el futuro, expresando una resiliencia serena e invitándote a confiar en la bondad y dejar que la inspiración fluya naturalmente. Después de experimentar turbulencias, dale a tu espíritu tiempo para sanar, libera el control excesivo, siente naturalmente la calma del momento presente y camina lentamente hacia adelante por la tenue luz interior.",
+    "description": "Una mujer desnuda se arrodilla sobre una rodilla bajo un cielo estrellado y sereno; con la mano izquierda vierte agua limpia de un cántaro de vuelta al estanque, mientras la derecha riega la tierra reseca. Ella es Isis, madre de la esperanza, que desciende tras el gran diluvio para devolverle la vida al mundo. Su desnudez representa la autenticidad y la fragilidad tras haber pasado por la prueba; la gran estrella de ocho puntas que resplandece en el cielo es guía de esperanza y de espíritu; pájaros la acompañan en vuelo, y en la distancia los arbustos rebosan de vigor. Riega con su agua espiritual pura el mundo herido; en la quietud que sigue a la tormenta, la promesa de sanación y renacimiento llega en silencio."
+  },
+  {
+    "cardKey": "the_moon",
+    "englishName": "The Moon",
+    "name": "La Luna",
+    "element": "Agua",
+    "planet": null,
+    "zodiac": "Piscis",
+    "keywords": [
+      "Subconsciente",
+      "Ilusiones",
+      "Intuición",
+      "Inquietud"
+    ],
+    "uprightKeywords": [
+      "crisis",
+      "emoción profunda",
+      "ilusión"
+    ],
+    "reversedKeywords": [
+      "miedo",
+      "descarga",
+      "caos"
+    ],
+    "meaning": "La carta de la Luna se centra en la corriente subterránea del miedo y la niebla. Refleja un reino sombrío más allá de la conciencia, donde las dudas latentes, los miedos y los asuntos sin resolver emergen lentamente, dejando a uno sintiéndose subjetivamente confundido e inquieto. Cuando te enfrentes a preocupaciones vagas e innombrables, no dejes que tu propia imaginación te asuste. Enfrenta directamente tu inquietud interior, intenta dar forma concreta a los miedos borrosos, despeja los peligros ocultos en la oscuridad y convoca el coraje para atravesar la niebla psicológica.",
+    "description": "En la oscuridad de la noche, un rostro angustiado cuelga sobre una luna llena; en el páramo, dos perros aúllan a la luna y un cangrejo de río trepa penosamente desde las aguas tenebrosas. La Luna es como Hécate, guardiana del Inframundo; el cangrejo representa los miedos primitivos ocultos en el inconsciente, que comienzan a aflorar a la superficie. Un sendero sinuoso atraviesa el baldío hasta llegar a dos torres que se pierden en la niebla lejana, símbolo del arduo camino hacia lo desconocido. Ilusiones e inquietudes surgen como mareas; el viajero extraviado avanza a tientas en la noche fantasmagórica, y la bruma de lo incierto espera aún ser disipada."
+  },
+  {
+    "cardKey": "the_sun",
+    "englishName": "The Sun",
+    "name": "El Sol",
+    "element": "Fuego",
+    "planet": "Sol",
+    "zodiac": null,
+    "keywords": [
+      "Éxito",
+      "Vitalidad",
+      "Absoluto",
+      "Alegría"
+    ],
+    "uprightKeywords": [
+      "crecimiento",
+      "recuperación",
+      "alegría"
+    ],
+    "reversedKeywords": [
+      "sombra",
+      "demora",
+      "bajón"
+    ],
+    "meaning": "La carta del Sol encarna la alegría pura y el éxito. Retrata un estado de florecimiento con confianza y facilidad, donde los esfuerzos están a punto de recibir recompensas claras. Esto marca un período de desarrollo fluido en el que todas las dudas y obstáculos se disolverán. Ya que estás en excelente forma, muestra generosamente tu verdadero yo, aprovecha activamente las oportunidades actuales y disfruta de los frutos y la felicidad que tus esfuerzos han ganado.",
+    "description": "Bajo un sol radiante, cuatro enormes girasoles se abren con el viento, expresión de la pura adoración a la luz. El niño de la carta del Sol es la encarnación del propio Apolo, portador de claridad; monta desnudo un caballo blanco, símbolo de la pureza e inocencia del alma; lleva una corona de plumas en la cabeza y abre los brazos con una sonrisa deslumbrante. En la mano agita una bandera roja, como si acabara de romper los límites del muro bajo, proclamando el triunfo de la vida. Todas las sombras han sido disipadas; la alegría sin nubes libera la fuerza vital y la inocencia en plenitud, y el alma festeja en la luz absoluta la felicidad mundana llevada al extremo."
+  },
+  {
+    "cardKey": "judgement",
+    "englishName": "Judgement",
+    "name": "El Juicio",
+    "element": "Fuego",
+    "planet": "Plutón",
+    "zodiac": null,
+    "keywords": [
+      "Despertar",
+      "Ajuste de Cuentas",
+      "Renacimiento",
+      "Llamado"
+    ],
+    "uprightKeywords": [
+      "pasado",
+      "renacer",
+      "revisión"
+    ],
+    "reversedKeywords": [
+      "evasión",
+      "autoduda",
+      "dureza"
+    ],
+    "meaning": "El núcleo del Juicio es el despertar y el ajuste de cuentas del alma. Refleja el proceso de responder a un llamado interior, liberarse de situaciones antiguas para renacer, requiriendo un examen completo de acciones y creencias pasadas. En un punto de inflexión vital, deja de pasar los días a la deriva: haz una pausa y revisa cuidadosamente las ganancias y pérdidas pasadas, escucha el llamado interior, realiza cambios audaces y abraza el fresco comienzo que alivia el peso.",
+    "description": "Desde las nubes, las trompetas del juicio final resuenan con la bandera de la cruz ondeando; el arcángel Gabriel despierta a las almas en los sepulcros helados. El momento del Juicio ha llegado: el sonido de la trompeta simboliza el llamado profundo del alma; un hombre, una mujer y un niño emergen de los ataúdes, cierran los ojos y abren los brazos para recibir la luz que desciende del cielo, mientras la bandera de la cruz alude a la redención que trasciende la muerte. Las montañas nevadas del fondo son testigos de este instante sagrado; los difuntos que responden al llamado divino están abandonando su antigua envoltura, el karma pasado se salda aquí, y el renacimiento espiritual alcanza la redención definitiva."
+  },
+  {
+    "cardKey": "the_world",
+    "englishName": "The World",
+    "name": "El Mundo",
+    "element": "Tierra",
+    "planet": "Saturno",
+    "zodiac": null,
+    "keywords": [
+      "Plenitud",
+      "Finalización",
+      "Totalidad",
+      "Logro"
+    ],
+    "uprightKeywords": [
+      "éxito",
+      "conclusión",
+      "integración"
+    ],
+    "reversedKeywords": [
+      "inconcluso",
+      "defecto",
+      "demora"
+    ],
+    "meaning": "La carta del Mundo trata sobre el cumplimiento y la cima del ciclo. Retrata la conclusión perfecta de un esfuerzo largo o significativo, marcando la maduración de todo lo cultivado, el logro del nivel más alto en experiencia y comprensión, y la conquista de verdadera libertad y pertenencia. Habiendo llegado a la meta, celebra esta victoria ganada con tanto esfuerzo con plena alegría, mientras interiorizas este viaje como sabiduría y te preparas para dar la bienvenida a un capítulo de vida aún más amplio.",
+    "description": "Dentro de una corona ovalada tejida de hojas de laurel, una bailarina con un manto de púrpura gira en el aire sobre una sola pierna, sosteniendo en cada mano un bastón que describe arcos ligeros. La bailarina del Mundo es el alma perfecta que nace al final de la Gran Obra alquímica; la corona simboliza el círculo del triunfo y la plenitud; en las cuatro esquinas, el león, el toro, el águila y el ser humano custodian en silencio, representando la integración última de los cuatro elementos y de la materia. El largo viaje llega por fin a un desenlace de plenitud absoluta: la unión perfecta entre el interior y el exterior se logra en este instante. El viejo ciclo proclama su fin; una nueva era del universo está a punto de comenzar."
+  },
+  {
+    "cardKey": "ace_of_wands",
+    "englishName": "Ace of Wands",
+    "name": "As de Bastos",
+    "element": "Fuego",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Inspiración",
+      "Acción",
+      "Potencial",
+      "Inicio"
+    ],
+    "uprightKeywords": [
+      "inspiración",
+      "acción",
+      "pasión"
+    ],
+    "reversedKeywords": [
+      "apagón",
+      "postergar",
+      "sin fuerza"
+    ],
+    "meaning": "El As de Bastos señala la primera chispa de acción y la semilla de la inspiración. Una poderosa energía creativa fluye hacia la vida, dando lugar a nuevas aventuras y direcciones: el impulso está en su punto máximo y es el momento de poner las ideas en práctica. Ya que la inspiración ha llegado, deja de dudar. Da el primer paso decisivo con valor y confianza, nutre el plan naciente con enfoque y acción, y transforma la voluntad en progreso real que da forma al futuro.",
+    "description": "Entre la bruma asoma una mano que sostiene un bastón del que brotan hojas verdes y frescas. El As de Bastos es la semilla de fuego entregada por los propios dioses; las hojas simbolizan el despertar de la vitalidad y la creatividad. Hojas doradas caen con el viento, evocando los dones del ciclo natural; abajo, en el jardín, el arroyo serpentea y el castillo se adivina, base de la realidad que ha de manifestarse. La energía ardiente anuncia el inicio de una nueva acción; la fuerza vital sagrada está a punto de descender al mundo terrenal. El impulso creativo ya es incontenible, y el preludio de la inspiración y la motivación se alza oficialmente con la rama que germina. La chispa apasionada espera para prender."
+  },
+  {
+    "cardKey": "two_of_wands",
+    "englishName": "Two of Wands",
+    "name": "Dos de Bastos",
+    "element": "Fuego",
+    "planet": "Marte",
+    "zodiac": "Aries",
+    "keywords": [
+      "Plan",
+      "Decisión",
+      "Visión",
+      "Control"
+    ],
+    "uprightKeywords": [
+      "planificar",
+      "dominar",
+      "lo desconocido"
+    ],
+    "reversedKeywords": [
+      "miopía",
+      "cancelar",
+      "restricción"
+    ],
+    "meaning": "El Dos de Bastos trata sobre la visión y las elecciones dentro de la planificación. De pie sobre una base establecida con resultados ya en mano, sin embargo estás sopesando diferentes caminos hacia adelante: la clave ahora es dirigir la dirección del desarrollo a través de una deliberación cuidadosa. En esta encrucijada, deja de agonizar por las ganancias y pérdidas. Evalúa audazmente las posibilidades, toma la iniciativa, rompe la vacilación para establecer tus coordenadas hacia adelante y convierte las ideas en decisiones claras.",
+    "description": "El señor de la capa roja del Dos de Bastos es como Alejandro ante la disyuntiva, apoyado en lo alto de la muralla, meditando sobre los dominios del imperio. En su mano derecha sostiene un globo terráqueo, alusión a lo desconocido y vasto y a la ambición de conquista; la mano izquierda empuña el bastón, fijado firmemente a la muralla, representando la estabilidad actual y sus límites. Dirige la mirada más allá del foso y contempla el vasto océano que se extiende a lo lejos; aunque ya domina la sólida ciudadela que tiene a su espalda, sigue anhelando lo ignoto y más amplio. Parado en el punto de partida de la planificación, está listo para salir de la zona de confort, y la visión de futuro aguarda con urgencia ser desplegada."
+  },
+  {
+    "cardKey": "three_of_wands",
+    "englishName": "Three of Wands",
+    "name": "Tres de Bastos",
+    "element": "Fuego",
+    "planet": "Sol",
+    "zodiac": "Aries",
+    "keywords": [
+      "Expansión",
+      "Previsión",
+      "Exploración",
+      "Resultados"
+    ],
+    "uprightKeywords": [
+      "expansión",
+      "visión",
+      "espera"
+    ],
+    "reversedKeywords": [
+      "obstaculizado",
+      "demora",
+      "miopía"
+    ],
+    "meaning": "El Tres de Bastos se centra en la puesta en práctica de la previsión y la expansión. La planificación temprana ha construido un alto punto de observación, permitiéndote medir tu futuro con una visión más amplia: ya sea forjando alianzas comerciales o avanzando en objetivos, el progreso se desarrolla de manera constante según lo previsto. Cuando veas resultados iniciales, no te conformes con el statu quo. Mantén paciencia y previsión para seguir expandiéndote hacia afuera, usa los logros existentes para conectar con más recursos y ampliar tus límites, y prepárate para el próximo salto adelante.",
+    "description": "Contempla en silencio los tres veleros que se alejan con el viento marino hacia una orilla ignota; el comerciante del Tres de Bastos es el pionero que espera el retorno de su empresa. En lo alto de un acantilado sobre la costa, vestido con una túnica dorada, está de espaldas al observador con un bastón en la mano, mientras otros dos se hunden en el suelo a sus pies —emblema de los cimientos sólidos ya establecidos y la inversión inicial—. Aguarda con paciencia el regreso de las naves; las olas doradas que se agitan en el mar presagian la prosperidad comercial, y espera que esa visión de futuro se traduzca en frutos abundantes. El retorno de la exploración llegará pronto con las velas."
+  },
+  {
+    "cardKey": "four_of_wands",
+    "englishName": "Four of Wands",
+    "name": "Cuatro de Bastos",
+    "element": "Fuego",
+    "planet": "Venus",
+    "zodiac": "Aries",
+    "keywords": [
+      "Celebración",
+      "Armonía",
+      "Estabilidad",
+      "Pertenencia"
+    ],
+    "uprightKeywords": [
+      "celebración",
+      "estabilidad",
+      "pertenencia"
+    ],
+    "reversedKeywords": [
+      "inestabilidad",
+      "mudanza",
+      "sin pertenencia"
+    ],
+    "meaning": "El Cuatro de Bastos encarna la construcción sólida y la celebración. El arduo trabajo ha dado sus frutos y estás entrando en un período estable digno de brindar: la base establecida a través de una acción constante ha traído una armonía tranquilizadora al hogar, la carrera o la asociación. Ahora que las cosas se han asentado, reconoce generosamente los logros presentes, comparte los frutos de la victoria con socios, usa este entorno estable para descansar y recargar, y sienta las bases para la próxima fase.",
+    "description": "Cuatro bastones forman un arco florido, símbolo de celebración y amparo, y a lo lejos se perfila un castillo acogedor. El Cuatro de Bastos es como el festín de la cosecha que el señor ofrece a su pueblo; una pareja con ramos de flores da la bienvenida a los que regresan montados en caballos blancos. Guirnaldas y frutos lo adornan todo, imagen de los dones de la naturaleza y la abundancia de la vida; la alegría de la celebración impregna el aire, y ellos, tras el largo camino, han vuelto por fin al hogar seguro para estrechar entre los brazos a familiares y amigos, disfrutando de esa estabilidad ganada a pulso y de la felicidad mundana. La pertenencia sólida y el reencuentro se entrelazan."
+  },
+  {
+    "cardKey": "five_of_wands",
+    "englishName": "Five of Wands",
+    "name": "Cinco de Bastos",
+    "element": "Fuego",
+    "planet": "Saturno",
+    "zodiac": "Leo",
+    "keywords": [
+      "Conflicto",
+      "Competición",
+      "Desacuerdo",
+      "Fricción"
+    ],
+    "uprightKeywords": [
+      "competencia",
+      "conflicto",
+      "caos"
+    ],
+    "reversedKeywords": [
+      "ceder",
+      "esquivar",
+      "reconciliar"
+    ],
+    "meaning": "El Cinco de Bastos señala las chispas de la competencia y los dolores del crecimiento. Al encontrar obstáculos externos o fricción interna en el camino hacia tus sueños, te encuentras inmerso en un estado de rivalidad cargada. Este tipo de conflicto no nace de la malicia, sino de la colisión de diferentes puntos de vista. Cuando te veas tirado en muchas direcciones a la vez, no temas al choque. Trátalo como una prueba para aclarar tu posición, enfréntalo con una actitud proactiva y encuentra tu punto de quiebre dentro de la competencia.",
+    "description": "Sin ceder terreno el uno al otro, se disputan la voz con choques apasionados; los jóvenes del Cinco de Bastos son aprendices en torneo de combate. En un espacio abierto, cinco personas agitan sus bastones y se enfrentan en un cruce caótico, con movimientos enérgicos. Los cinco bastones que se cruzan forman obstáculos, símbolo de la discrepancia de opiniones y el choque de posiciones; en el aire se percibe el ardor del elemento fuego, y el conflicto está a punto de estallar. El combate no es una lucha a vida o muerte, pero la colisión de distintos puntos de vista hunde la situación en un punto muerto; la confusión de la competencia exige que alguien tome ventaja para apaciguar esta disputa llena de vitalidad."
+  },
+  {
+    "cardKey": "six_of_wands",
+    "englishName": "Six of Wands",
+    "name": "Seis de Bastos",
+    "element": "Fuego",
+    "planet": "Júpiter",
+    "zodiac": "Leo",
+    "keywords": [
+      "Victoria",
+      "Reconocimiento",
+      "Progreso",
+      "Confianza"
+    ],
+    "uprightKeywords": [
+      "victoria",
+      "reconocimiento",
+      "orgullo"
+    ],
+    "reversedKeywords": [
+      "derrota",
+      "sin reconocimiento",
+      "caída"
+    ],
+    "meaning": "El Seis de Bastos trata sobre la gloria del triunfo y ser coronado con reconocimiento. Ganando a través de la perseverancia y la convicción, obtienes elogios y validación generalizados: tu sudor finalmente es atestiguado, tu valor brilla con fuerza, y todo lo que sigue es orgullo y convicción. Cuando te enfrentes a flores y aplausos, no trates la victoria como la meta final. Mientras disfrutas del sentido de logro, mantén una medida de humildad y claridad, consolida la victoria actual y convierte este impulso en combustible para lo que viene.",
+    "description": "La multitud que lo rodea se apretuja para felicitarlo; el caballo avanza erguido y las cintas ondean. El general del Seis de Bastos es el héroe que vuelve triunfante; con la corona de laurel del vencedor, cabalga en su corcel blanco sosteniendo un bastón adornado de vides. La guirnalda verde bajo los cascos del caballo y el clamor de los que le rodean confirman que su acción le ha ganado el reconocimiento más alto; acaba de ganar una batalla durísima y acepta con orgullo la ovación de todos los presentes. La cima del honor relata la gloria de la victoria; este instante es el de disfrutar de los aplausos y el orgullo. El logro sublime resplandece."
+  },
+  {
+    "cardKey": "seven_of_wands",
+    "englishName": "Seven of Wands",
+    "name": "Siete de Bastos",
+    "element": "Fuego",
+    "planet": "Marte",
+    "zodiac": "Leo",
+    "keywords": [
+      "Defensa",
+      "Persistencia",
+      "Desafío",
+      "Límite"
+    ],
+    "uprightKeywords": [
+      "defensa",
+      "aguante",
+      "desafío"
+    ],
+    "reversedKeywords": [
+      "ceder",
+      "retroceder",
+      "rendirse"
+    ],
+    "meaning": "El núcleo del Siete de Bastos es la defensa firme y mantener tu posición. Frente a desafíos competitivos, la postura de defender activamente los resultados obtenidos no se trata de provocar conflictos, sino de una defensa estratégica nacida de conocer tus propios límites y negarte a ceder. Cuando encuentres presión externa y competencia, mantén tu posición y no retrocedas ni un solo paso. Lucha con fuerza para enfrentar los desafíos ante ti: mientras mantengas la línea, lo que proteges no son solo tus resultados sino también la confirmación de tu propio valor.",
+    "description": "Sin retroceder ante el asedio de la multitud, defiende desde las alturas el terreno que pisa; el guerrero del Siete de Bastos es el guardián que lucha en solitario. En una colina escarpada, vestido de verde, agita vigorosamente el bastón que empuña, intentando rechazar los seis bastones que atacan desde abajo. Los seis bastones simbolizan los retos que se suceden sin parar y la codicia de los rivales; en las alturas, el frío es extremo, y debe poner todo de sí mismo. La resistencia en la adversidad le hace apretar los dientes; no está dispuesto a que el logro que tanto le ha costado le sea arrebatado fácilmente. La determinación de hacer frente al desafío está ardiendo."
+  },
+  {
+    "cardKey": "eight_of_wands",
+    "englishName": "Eight of Wands",
+    "name": "Ocho de Bastos",
+    "element": "Fuego",
+    "planet": "Mercurio",
+    "zodiac": "Sagitario",
+    "keywords": [
+      "Velocidad",
+      "Acción",
+      "Progreso",
+      "Fluidez"
+    ],
+    "uprightKeywords": [
+      "rapidez",
+      "acción",
+      "cambio"
+    ],
+    "reversedKeywords": [
+      "demora",
+      "obstáculo",
+      "frenar"
+    ],
+    "meaning": "El Ocho de Bastos encarna el torrente veloz y el flujo libre. Los planes que alguna vez estuvieron estancados adquieren de repente un poderoso impulso, avanzando a gran velocidad con los obstáculos aparentemente barridos, trayendo un progreso fluido o un chorro de creatividad sin obstáculos. Cuando el avance rápido llega inesperadamente, no interfiereas en exceso ni intentes controlarlo. Cabalga el impulso y muévete rápidamente, aprovechando este período de alta eficiencia para poner tus objetivos en acción.",
+    "description": "Con una fuerza arrolladora que rompe la parálisis del aire en un instante, el Ocho de Bastos es como el dardo de fuego que los dioses lanzan. En el cielo abierto, ocho bastones surcan el firmamento velocísimos como flechas, atravesando las nubes de manera acompasada mientras la colina y el verdor de abajo aguardan su llegada. Los bastones en vuelo simbolizan la transmisión fulminante de mensajes y la súbita aceleración de la acción; todo está en movimiento vertiginoso. Hay que aferrar la oportunidad y avanzar al impulso de esa corriente incontenible; los avances repentinos toman a todos por sorpresa."
+  },
+  {
+    "cardKey": "nine_of_wands",
+    "englishName": "Nine of Wands",
+    "name": "Nueve de Bastos",
+    "element": "Fuego",
+    "planet": "Luna",
+    "zodiac": "Sagitario",
+    "keywords": [
+      "Resiliencia",
+      "Vigilancia",
+      "Fatiga",
+      "Resistencia"
+    ],
+    "uprightKeywords": [
+      "defensa",
+      "resistencia",
+      "fatiga"
+    ],
+    "reversedKeywords": [
+      "bajar la guardia",
+      "agotamiento",
+      "retirarse"
+    ],
+    "meaning": "El Nueve de Bastos significa defensa vigilante y resiliencia duramente ganada. Tras muchas pruebas, la experiencia ha construido una sólida línea defensiva; guardas tu territorio establecido con una postura cautelosa, permaneciendo perpetuamente alerta y listo para repeler nuevos asaltos, manteniendo tu posición bajo presión intensa a través de pura tenacidad. Pero una vigilancia prolongada inevitablemente trae fatiga. Mientras te mantienes alerta, examina si tus defensas se han vuelto excesivas, intenta encontrar un equilibrio entre mantenerte firme y relajarte, y déjate un poco de espacio para recuperar tu energía.",
+    "description": "Un hombre de verde con la frente vendada sujeta con firmeza un bastón y se apoya en la empalizada de ocho bastones que tiene a su espalda, símbolo de defensa y límites. El hombre del Nueve de Bastos es el superviviente de una batalla sangrienta y devastadora; exhausto, vigila con cautela el frente. Las vendas representan los traumas del pasado y el desgaste; aunque está agotado, mantiene la última línea de defensa y se niega a caer. Su voluntad tenaz lo hace apretar los dientes para aguantar en el tramo final que precede al éxito, sin ceder un palmo de terreno. La paciencia resistente custodia la esperanza que aún titila."
+  },
+  {
+    "cardKey": "ten_of_wands",
+    "englishName": "Ten of Wands",
+    "name": "Diez de Bastos",
+    "element": "Fuego",
+    "planet": "Saturno",
+    "zodiac": "Sagitario",
+    "keywords": [
+      "Carga",
+      "Responsabilidad",
+      "Presión",
+      "Sobrecarga"
+    ],
+    "uprightKeywords": [
+      "carga",
+      "responsabilidad",
+      "opresión"
+    ],
+    "reversedKeywords": [
+      "soltar",
+      "delegar",
+      "colapso"
+    ],
+    "meaning": "El Diez de Bastos trata sobre cargar un peso opresivo y asumir responsabilidades a ciegas. Cargar mucho más peso del que uno puede soportar, nacido de la obstinación, demandas excesivas o asumir todo uno mismo, te lleva a presionar hacia adelante con la cabeza agachada, sin embargo la obstrucción de tu visión te hace ignorar la necesidad de ajuste estratégico y descanso. Muchas cargas en realidad pueden bajarse. Cuando sientas que estás a punto de aplastarte, deja de aferrarte con todas tus fuerzas. Haz un inventario de las responsabilidades a mano, delega lo que pueda delegarse, aprende a rechazar peticiones irrazonables y reemplaza el esfuerzo solitario con colaboración.",
+    "description": "Un hombre vestido de rojo avanza encorvado, cargando trabajosamente diez pesados bastones. El portador del Diez de Bastos es como un obrero aplastado por su propia ambición; avanza a trompicones, casi sin poder respirar bajo el peso de la carga. Los diez bastones le tapan la vista e impiden que levante la cabeza para ver la casa que se acerca, símbolo de que la meta está cerca pero la fatiga excesiva lo ciega. No se resigna a soltar ninguno y lucha en solitario bajo el peso agobiante. El amargo fruto de asumir demasiado advierte del pesado precio que cobran el exceso de deseo y la sobrecarga de responsabilidad; el empeño en cargar con todo hace perder el paisaje del camino."
+  },
+  {
+    "cardKey": "page_of_wands",
+    "englishName": "Page of Wands",
+    "name": "Sota de Bastos",
+    "element": "Fuego",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Mensaje",
+      "Curiosidad",
+      "Pasión",
+      "Inicio"
+    ],
+    "uprightKeywords": [
+      "explorar",
+      "entusiasmo",
+      "descubrir"
+    ],
+    "reversedKeywords": [
+      "aburrimiento",
+      "frialdad",
+      "demora"
+    ],
+    "meaning": "La Sota de Bastos se centra en capturar la inspiración y la prueba de fuego del entusiasmo. Al recibir una nueva oportunidad o chispa creativa, se enciende un ferviente deseo de explorar lo desconocido, lleno de curiosidad por las cosas nuevas, instando a transformar la inspiración en pequeñas acciones. Cuando te encuentres por primera vez con algo nuevo, mantente curioso y atrévete a intentarlo, pero no dejes que se convierta solo en un entusiasmo pasajero. Canaliza esa pasión en aprendizaje y práctica concretos, y construye tus habilidades de manera constante.",
+    "description": "Un joven con sombrero sostiene entre las manos un bastón del que brotan hojas nuevas, se alza de puntillas y contempla con curiosidad y entusiasmo lo que hay arriba; las hojas nuevas simbolizan el brote de la inspiración. El paje de Bastos es el mensajero portador de una nueva misión; en el desierto parece que asoma el verde de un oasis, y en sus ojos reluce la curiosidad y el anhelo por lo desconocido. El lagarto a sus pies sugiere la metamorfosis y la capacidad de adaptación; el traspaso del fuego enciende el entusiasmo desbordante, y él se prepara para abrir con inocencia y vitalidad una exploración en lo ignoto. El entusiasmo sincero y el afán de conocimiento aguardan ser convertidos en acción."
+  },
+  {
+    "cardKey": "knight_of_wands",
+    "englishName": "Knight of Wands",
+    "name": "Caballero de Bastos",
+    "element": "Fuego",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Acción",
+      "Impulso",
+      "Aventura",
+      "Impulso"
+    ],
+    "uprightKeywords": [
+      "ímpetu",
+      "aventura",
+      "energía"
+    ],
+    "reversedKeywords": [
+      "atropellar",
+      "derrota",
+      "desánimo"
+    ],
+    "meaning": "El Caballero de Bastos encarna el salvaje impulso de la pasión y una carga intrépida. Impulsado por una visión poderosa, la acción veloz busca velocidad y avances: esta energía es valiente y profundamente contagiosa, sin miedo a los obstáculos y atreviéndose a correr riesgos. Cuando reboses de impulso, no olvides equilibrar las consideraciones prácticas y la estrategia. No caigas en un callejón sin salida por valentía sin previsión; deja que la pasión sirva como la lanza del avance, mientras la combinas con el escudo de la razón.",
+    "description": "Los cascos delanteros del corcel se alzan en el aire y la capa vuela como llamas, emblema de una capacidad de acción ardiente. El caballero de Bastos es el guerrero fanático que carga al frente; vestido con una armadura de salamandras, galopa en tromba por un vasto campo. Las salamandras de la armadura representan la resistencia que sobrevive al fuego; alza el bastón con un empuje que arrasa con todo y se lanza de golpe al campo de batalla, avanzando sin mirar atrás, persiguiendo hazañas en la aventura. La impulsividad ciega lo hace difícil de dominar y puede causar estragos en el choque; la marcha apresurada y temeraria, aunque demuestra valor, oculta también un peligro latente."
+  },
+  {
+    "cardKey": "queen_of_wands",
+    "englishName": "Queen of Wands",
+    "name": "Reina de Bastos",
+    "element": "Fuego",
+    "planet": null,
+    "zodiac": "Aries",
+    "keywords": [
+      "Confianza",
+      "Encanto",
+      "Independencia",
+      "Carisma"
+    ],
+    "uprightKeywords": [
+      "confianza",
+      "carisma",
+      "vitalidad"
+    ],
+    "reversedKeywords": [
+      "envidia",
+      "exclusión",
+      "baja autoestima"
+    ],
+    "meaning": "La Reina de Bastos significa el pleno florecimiento del carisma y el despertar de la calidez. Transformando la pasión interior en magnetismo y accesibilidad, ella gracia a quienes la rodean con una presencia confiada y radiante: esta vitalidad alegre y generosa sobresale en inspirar a otros y crear una atmósfera positiva. Mientras irradias encanto y ayudas a otros, cuida también tu propio estado. No agotes tu energía dando demasiado; mantén la independencia en tu sentido de autoestima para que tu luz pueda brillar durante mucho tiempo.",
+    "description": "Sentada en un trono de pantera negra bajo la luz exuberante del sol, la reina de Bastos es una empresaria de magnetismo irresistible; la pantera negra simboliza el instinto domesticado y la intuición del inconsciente. Lleva corona y sostiene un girasol y un bastón en ciernes, mirando al frente con confianza e irradiando entusiasmo alrededor. El girasol representa una creatividad que crece hacia la luz; el gato negro la acompaña, y ella nutre con su atracción interior el sueño que lleva en el corazón, transformando con elegancia su propio fervor en logros concretos, brillando sin depender de nadie. La riqueza y la vivacidad del agua de fuego se fusionan en ella a la perfección."
+  },
+  {
+    "cardKey": "king_of_wands",
+    "englishName": "King of Wands",
+    "name": "Rey de Bastos",
+    "element": "Fuego",
+    "planet": null,
+    "zodiac": "Leo",
+    "keywords": [
+      "Liderazgo",
+      "Visión",
+      "Decisión",
+      "Autoridad"
+    ],
+    "uprightKeywords": [
+      "liderazgo",
+      "visión",
+      "autoridad"
+    ],
+    "reversedKeywords": [
+      "tirano",
+      "miopía",
+      "autoritarismo"
+    ],
+    "meaning": "El Rey de Bastos trata sobre el mando magistral y la conquista visionaria. Empuñando el elemento fuego con madura autoridad, fusiona la gran visión con la ejecución pragmática: este magnetismo imponente y recto lidera a las multitudes a través de la creencia y la gloria. Cuando el poder está en mano, la arrogancia puede surgir fácilmente; condúcete con apertura e imparcialidad. No suprimas opiniones diferentes por vanidad. Lidera el equipo con honor y generosidad, y sé quien ilumina el camino de los demás.",
+    "description": "El rey de Bastos es el soberano de visión elevada; empuña un bastón en ciernes y está sentado en un trono majestuoso con la mirada firme y dirigida al horizonte. Sobre su hombro reposa una salamandra de fuego, símbolo de la metamorfosis y el renacimiento; el trono de leones a sus pies proclama el dominio absoluto. La salamandra que muerde su propia cola forma un ciclo, imagen del poder que se perpetúa sin cesar; ejerce el control de la situación con una voluntad poderosa y una capacidad de acción firme, combinando una visión grandiosa con una estrategia práctica. Con un empuje indestructible abre los dominios que le pertenecen; la autoridad del elemento fuego y el arrojo pionero son aquí coronados."
+  },
+  {
+    "cardKey": "ace_of_cups",
+    "englishName": "Ace of Cups",
+    "name": "As de Copas",
+    "element": "Agua",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Emoción",
+      "Intuición",
+      "Conexión",
+      "Amor"
+    ],
+    "uprightKeywords": [
+      "emoción",
+      "nueva relación",
+      "intuición"
+    ],
+    "reversedKeywords": [
+      "represión",
+      "bloqueo emocional",
+      "evasión"
+    ],
+    "meaning": "El As de Copas encarna el desbordamiento de la emoción y el comienzo de una apertura espiritual. Una profunda alegría se agita en el interior; llegan nuevos vínculos o inspiración, representando el punto de partida del amor, la alegría y la plenitud emocional: un momento de abrir el corazón para recibir nutrición. Al enfrentarte a nuevos sentimientos o creatividad, no pongas muros ni pienses demasiado. Fluye con la corriente de la emoción, deja que el amor y la inspiración fluyan naturalmente, y disfruta del profundo sentido de plenitud y felicidad.",
+    "description": "Una paloma blanca desciende con una hostia en el pico, símbolo de la bendición espiritual y la llegada del Espíritu Santo; nenúfares flotan en la superficie del agua, emblemas de la inspiración que emerge del inconsciente. El As de Copas es la gracia que el cielo otorga: una mano asoma entre las nubes y, en su palma, sostiene una copa de la que mana agua a raudales. La fuente desbordante representa el nacimiento de una emoción pura y la abundancia del amor en su primera manifestación. El agua viva se vierte sobre una tierra sedienta, anunciando el brote de un nuevo sentimiento y la apertura de un manantial espiritual; en las profundidades del alma todo se prepara para recibir esta alegría desbordante y la llegada del amor. La riqueza del corazón está a punto de florecer."
+  },
+  {
+    "cardKey": "two_of_cups",
+    "englishName": "Two of Cups",
+    "name": "Dos de Copas",
+    "element": "Agua",
+    "planet": "Venus",
+    "zodiac": "Cáncer",
+    "keywords": [
+      "Unión",
+      "Armonía",
+      "Cooperación",
+      "Atracción"
+    ],
+    "uprightKeywords": [
+      "unión",
+      "atracción",
+      "cooperación"
+    ],
+    "reversedKeywords": [
+      "desequilibrio",
+      "distanciamiento",
+      "ruptura"
+    ],
+    "meaning": "El Dos de Copas significa la resonancia de las almas y un pacto de iguales. Se construye una interacción sincera, mutuamente beneficiosa y profundamente conectada entre dos personas o dos energías: ya sea en emoción o colaboración, apunta hacia la armonía y el equilibrio, experimentando la alegría de la unión en el dar y recibir. Para una relación duradera, nunca sacrifiques unilateralmente ni intentes controlar. Mientras abres tu corazón para un intercambio profundo, mantén la línea de la mutualidad y la sinceridad, y nutran juntos este entendimiento para que la fuente de la resonancia siga fluyendo.",
+    "description": "Cada uno sosteniendo una copa hacia el otro, y entre ambos un caduceo de serpientes entrelazadas, símbolo de curación y unión. Los amantes del Dos de Copas son los compañeros que sellan un pacto; en una plaza tranquila, se hallan de pie frente a frente, mirándose a los ojos. La cabeza de león y el bastón de Hermes que los separa representan la atracción y el beneficio mutuo en el plano afectivo o comercial; intercambian un amor y un compromiso iguales, y bajo una mirada sagrada dos corazones se funden trascendiendo la distancia. La resonancia de las almas los conduce a una unión perfecta de entendimiento mutuo, y la armonía de la dependencia y la atracción mutua florecen en silencio."
+  },
+  {
+    "cardKey": "three_of_cups",
+    "englishName": "Three of Cups",
+    "name": "Tres de Copas",
+    "element": "Agua",
+    "planet": "Mercurio",
+    "zodiac": "Cáncer",
+    "keywords": [
+      "Celebración",
+      "Amistad",
+      "Comunidad",
+      "Compartir"
+    ],
+    "uprightKeywords": [
+      "celebración",
+      "reunión",
+      "amistad"
+    ],
+    "reversedKeywords": [
+      "ruptura",
+      "exceso",
+      "aislamiento"
+    ],
+    "meaning": "El Tres de Copas trata sobre compartir la alegría y cosechar la amistad. En una atmósfera alegre y ligera, compartes felicidad, logros y vínculos profundos con otros: este es un período dorado lleno de deleite social, celebración colectiva y apoyo emocional. Cuando te unas a las festividades grupales, mantén una medida de claridad y límites. Asegúrate de que la felicidad provenga de una resonancia genuina en lugar de un ruido vacío, y no pierdas tu verdadero yo en la socialización.",
+    "description": "Celebran los dones de la tierra y la dulzura de la amistad; las mujeres del Tres de Copas son servidoras de la alegría en la cosecha. En un huerto fértil, tres personas coronadas de flores forman un círculo alzando sus copas en regocijo. Las guirnaldas simbolizan la victoria y la festividad; a sus pies abundan frutas maduras, imagen de los frutos cultivados juntos, con logros compartidos y una intimidad sin fisuras. Sus figuras se entrelazan, signo de la fusión emocional y la camaradería social; la cálida reunión representa la plenitud de la cooperación, y la resonancia afectiva alcanza en este instante una alegría y satisfacción puras. El canto de la amistad se teje en versos."
+  },
+  {
+    "cardKey": "four_of_cups",
+    "englishName": "Four of Cups",
+    "name": "Cuatro de Copas",
+    "element": "Agua",
+    "planet": "Luna",
+    "zodiac": "Cáncer",
+    "keywords": [
+      "Apatía",
+      "Retirada",
+      "Indiferencia",
+      "Negligencia"
+    ],
+    "uprightKeywords": [
+      "hastío",
+      "insatisfacción",
+      "oportunidad perdida"
+    ],
+    "reversedKeywords": [
+      "salir",
+      "intentar",
+      "despertar"
+    ],
+    "meaning": "El Cuatro de Copas se centra en el estancamiento del cansancio y los regalos que se están perdiendo. Al encontrar la estimulación externa poco inspiradora, hundiéndote en el aburrimiento y la insensibilidad emocional, estás tan concentrado en la carencia y la decepción que no logras notar una nueva oportunidad justo frente a ti. Cuando estés insatisfecho con el statu quo pero no puedas encontrar motivación, deja de retirarte a ti mismo. Rompe activamente el punto muerto mental, echa un vistazo fresco a tu alrededor: esos destellos de luz ignorados pueden ser exactamente lo que se necesita para romper el aburrimiento y nutrirse emocionalmente una vez más.",
+    "description": "Frente a él hay tres copas, y una mano entre las nubes le ofrece una cuarta —oportunidad de renovación— que él no parece ver. El hombre del Cuatro de Copas es el asceta hastiado del mundo; sentado con las piernas cruzadas bajo un árbol, cierra los ojos y cruza los brazos sobre el pecho. Su actitud de rechazo refleja el cierre interior y el tedio del alma; aunque se halla rodeado de abundancia, la siente vacía y adormecida. Rechaza la nueva posibilidad que el universo le tiende y se encierra en la resistencia del aburrimiento; la indiferencia le hace perder la nueva oportunidad emocional."
+  },
+  {
+    "cardKey": "five_of_cups",
+    "englishName": "Five of Cups",
+    "name": "Cinco de Copas",
+    "element": "Agua",
+    "planet": "Marte",
+    "zodiac": "Escorpio",
+    "keywords": [
+      "Tristeza",
+      "Pérdida",
+      "Arrepentimiento",
+      "Duelo"
+    ],
+    "uprightKeywords": [
+      "pérdida",
+      "pesar",
+      "tristeza"
+    ],
+    "reversedKeywords": [
+      "aceptar",
+      "salir",
+      "recuperar"
+    ],
+    "meaning": "El Cinco de Copas encarna la inmersión en la pérdida y el eco persistente del arrepentimiento. Lamentando lo que ha pasado, tu mirada permanece en el pasado volcado mientras te hundes en la tristeza, experimentando el punto bajo de la decepción y el dolor emocional. Permitirte el duelo es completamente correcto. Pero no tiene sentido quedarse mirando la leche derramada. Después del dolor, sécate las lágrimas y da la vuelta. Acepta lo que está roto y atesora lo que queda. No dejes que el pantano del arrepentimiento retenga tus pies; recoge la vitalidad a tu alrededor que aún puede ser aprovechada.",
+    "description": "A su espalda, el río turbulento erosiona la orilla, simbolizando el desahogo y el fluir de las emociones; justamente detrás de ella, dos copas llenas permanecen en pie en silencio, pero ella no se ha dado la vuelta. La mujer del Cinco de Copas es como Eva, expulsada del Edén; envuelta en un manto negro, inclina la cabeza en el viento frío y contempla con melancolía las tres copas derramadas ante sí. Las copas volcadas representan la afección perdida y las expectativas frustradas; el dolor del pasado la ciega para los restos hermosos que permanecen al alcance. La tragedia del ensimismamiento en el sufrimiento le impide salir de la sombra de la pérdida, y la niebla del arrepentimiento nubla la esperanza."
+  },
+  {
+    "cardKey": "six_of_cups",
+    "englishName": "Six of Cups",
+    "name": "Seis de Copas",
+    "element": "Agua",
+    "planet": "Sol",
+    "zodiac": "Escorpio",
+    "keywords": [
+      "Nostalgia",
+      "Pasado",
+      "Inocencia",
+      "Recuerdos"
+    ],
+    "uprightKeywords": [
+      "nostalgia",
+      "inocencia",
+      "recuerdo"
+    ],
+    "reversedKeywords": [
+      "despedida",
+      "salir",
+      "realidad"
+    ],
+    "meaning": "El Seis de Copas significa la calidez de los viejos sueños y un retorno a la inocencia infantil. Sumergido en la nostalgia y el hermoso pasado, revisitando emociones puras y refugio, absorbiendo calidez y fuerza de los recuerdos, y recuperando la pureza de los primeros sentimientos: la nostalgia es hermosa, pero no te pierdas tanto en ella que no puedas encontrar el camino de regreso. No uses un pasado idealizado como escapatoria de la realidad. Deja que la calidez del pasado sea la confianza que te impulsa hacia adelante, no una jaula que te confina. Lleva esa pureza de regreso al presente y sigue creciendo.",
+    "description": "Al fondo, una antigua mansión señorial; un anciano con una lanza monta guardia a un lado, símbolo de la protección del mayor y la vigilancia del pasado. El niño del Seis de Copas es la encarnación inocente que revive los sueños de antaño; en un jardín tranquilo, un niño ofrece a una niña una copa cuajada de flores. La copa florida está llena de recuerdos de infancia; sumergidos en la calidez del ayer, comparten una bondad pura. La emoción retrocede en el tiempo, y aquellos momentos hermosos del pasado se convierten en un consuelo dulce que acaricia el alma en el presente. La ternura de la nostalgia calienta el corazón."
+  },
+  {
+    "cardKey": "seven_of_cups",
+    "englishName": "Seven of Cups",
+    "name": "Siete de Copas",
+    "element": "Agua",
+    "planet": "Venus",
+    "zodiac": "Escorpio",
+    "keywords": [
+      "Elección",
+      "Ilusión",
+      "Confusión",
+      "Tentación"
+    ],
+    "uprightKeywords": [
+      "fantasía",
+      "elección",
+      "confusión"
+    ],
+    "reversedKeywords": [
+      "concentrarse",
+      "despertar",
+      "actuar"
+    ],
+    "meaning": "El Siete de Copas trata sobre el laberinto de ilusiones y las sombras flotantes del deseo. Innumerables visiones tentadoras surgen en el interior, pero por falta de determinación y profundidad no van más allá de los sueños diurnos, dejándote perdido entre varios deseos con la verdad y la ilusión difíciles de distinguir. Solo pensar, sin actuar, no equivale a nada. Rompe la niebla, frena la mente dispersa, distingue el anhelo genuino del escapismo, realiza elecciones fundamentadas, coloca tu imaginación en objetivos alcanzables y actúa en lugar de soñar.",
+    "description": "Las copas están llenas de castillos, joyas y guirnaldas —espejismos del deseo—; él las mira fijamente, sin saber qué hacer. El hombre del Siete de Copas es como Fausto, perdido en el océano del deseo; extiende la mano hacia siete copas que surgen entre la niebla, pero no sabe cuál asir, con expresión de plena perplejidad. La niebla representa las ilusiones del inconsciente y los sueños diurnos; perdido entre la codicia y la fantasía, ha extraviado el rumbo. Las tentaciones ilusorias le impiden ver la realidad y el verdadero camino; las trampas del deseo y la red de las ilusiones ya lo tienen atrapado."
+  },
+  {
+    "cardKey": "eight_of_cups",
+    "englishName": "Eight of Cups",
+    "name": "Ocho de Copas",
+    "element": "Agua",
+    "planet": "Saturno",
+    "zodiac": "Piscis",
+    "keywords": [
+      "Salida",
+      "Búsqueda",
+      "Abandono",
+      "Persecución"
+    ],
+    "uprightKeywords": [
+      "partir",
+      "renunciar",
+      "buscar sentido"
+    ],
+    "reversedKeywords": [
+      "vacilar",
+      "regresar",
+      "apego"
+    ],
+    "meaning": "El Ocho de Copas se centra en la búsqueda resuelta y el valiente acto de dejar atrás. Sintiendo profundamente que la situación actual ya no puede llenar el vacío espiritual, te vas resueltamente del confort para buscar un propósito más elevado, renunciando a lo que tienes en respuesta a un llamado interior. Aunque la soledad acompaña el viaje, es una parte necesaria del avance. Cuando sientas que el entorno actual ya no puede nutrirte, no te conformes. Atiende la guía interior y di adiós con decisión, ve a buscar un lugar que realmente encaje, camina hacia adelante con resolución clara: partir es para llegar a un lugar mejor.",
+    "description": "Porque lo que existe —material y afectivamente— no puede colmar el vacío interior, decide abandonar la comodidad con resolución. El buscador del Ocho de Copas es un peregrino que ha emprendido el camino de la penitencia; bajo la fría luz de la luna, vestido de rojo, se apoya en un bastón y da la espalda a las ocho copas ordenadas para adentrarse pesaroso en las escarpadas montañas del horizonte, emblema de la búsqueda espiritual superior. Dejar deliberadamente las copas llenas simboliza el abandono definitivo de la satisfacción superficial; avanza hacia la soledad, hacia el llamado de una dimensión más elevada, y esta huida del alma ya ha tomado forma irrevocable. La búsqueda profunda ha vencido al estancamiento."
+  },
+  {
+    "cardKey": "nine_of_cups",
+    "englishName": "Nine of Cups",
+    "name": "Nueve de Copas",
+    "element": "Agua",
+    "planet": "Júpiter",
+    "zodiac": "Piscis",
+    "keywords": [
+      "Satisfacción",
+      "Disfrute",
+      "Abundancia",
+      "Deseos"
+    ],
+    "uprightKeywords": [
+      "satisfacción",
+      "deseo cumplido",
+      "disfrute"
+    ],
+    "reversedKeywords": [
+      "insatisfacción",
+      "exceso",
+      "decepción"
+    ],
+    "meaning": "El Nueve de Copas encarna la dicha de la satisfacción y la abundancia mundana. Un profundo deseo del corazón se ha cumplido, experimentando el placer último y la alegría de la satisfacción: un período dorado donde los deseos se hacen realidad y la dulzura de la vida se saborea plenamente. Este es el verdadero contentamiento. Cuando un deseo se hace realidad, sumérgete por completo en esta alegría y afirma tu propio valor y esfuerzo; pero no caigas en la autoindulgencia o la gratificación excesiva. Mantén un sentido de gratitud y apertura para que esta abundancia siga fluyendo suave y constantemente.",
+    "description": "Detrás de él, nueve copas se disponen en un arco elegante, símbolo de la presentación consumada de los deseos y la satisfacción emocional más plena. El señor del Nueve de Copas es el rey Salomón que exhibe sus trofeos; vestido de azul con un manto rojo, está sentado en una lujosa plataforma con los brazos cruzados y una sonrisa satisfecha. Disfruta en solitario del festín máximo de los sentidos y de la materia, y el instante en que el sueño se ha hecho realidad lo deja colmado. El afecto y el deseo se reconcilian por completo; abraza sin reservas esta plenitud autosuficiente, y el cénit de la satisfacción y el gozo de los sentidos llegan tal como fueron prometidos."
+  },
+  {
+    "cardKey": "ten_of_cups",
+    "englishName": "Ten of Cups",
+    "name": "Diez de Copas",
+    "element": "Agua",
+    "planet": "Marte",
+    "zodiac": "Piscis",
+    "keywords": [
+      "Plenitud",
+      "Familia",
+      "Armonía",
+      "Felicidad"
+    ],
+    "uprightKeywords": [
+      "felicidad",
+      "armonía",
+      "plenitud"
+    ],
+    "reversedKeywords": [
+      "armonía superficial",
+      "choque de valores",
+      "desavenencia"
+    ],
+    "meaning": "El Diez de Copas significa el cumplimiento emocional y el establecimiento del hogar. Después de muchos giros y vueltas, finalmente llegas a una utopía emocional, uniendo felicidad duradera dentro del amor y la aceptación, con relaciones o familia alcanzando una profunda armonía. Esta es la conclusión perfecta del viaje emocional. El cumplimiento no es un logro de una sola vez. Atesora y comparte este profundo amor y paz, construye una visión compartida con tus seres queridos, sostén las relaciones con comprensión y tolerancia duraderas, y en larga compañía renueva continuamente el significado del amor.",
+    "description": "Una pareja abre los brazos en un abrazo; dos niños danzan en el prado, y a lo lejos se adivina el hogar acogedor. La familia del Diez de Copas es como la Sagrada Familia bendecida por Dios; bajo un arcoíris espléndido, diez copas se disponen en el aire formando una red, emblema de la armonía emocional más alta y de la bendición del cosmos. Bañados en la dicha de la concordia familiar, disfrutan del afecto que une a los de la misma sangre. Este es el amor en su expresión más sublime, que trasciende la satisfacción personal de la carta nueve para convertirse en la alegría de la armonía colectiva que nutre cada corazón."
+  },
+  {
+    "cardKey": "page_of_cups",
+    "englishName": "Page of Cups",
+    "name": "Sota de Copas",
+    "element": "Agua",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Mensaje",
+      "Intuición",
+      "Sensibilidad",
+      "Romance"
+    ],
+    "uprightKeywords": [
+      "mensaje",
+      "sensibilidad",
+      "ánimo de niño"
+    ],
+    "reversedKeywords": [
+      "emocionalidad",
+      "inmadurez",
+      "retirarse"
+    ],
+    "meaning": "La Sota de Copas trata sobre la recepción sensible y el despertar de los tiernos sentimientos. Al recibir sutiles mensajes emocionales o inspiración, lleno de curiosidad y empatía por el mundo interior, esta energía pura y delicada está aprendiendo a comprender y expresar emociones. Un corazón demasiado suave se hiere fácilmente. Mientras escuchas la intuición y la voz interior, protege tu paz interior. Transforma esta sensibilidad en un don para la creación artística o la sanación, y no dejes que se convierta en una hoja que te agote desde dentro.",
+    "description": "Con expresión de asombro, contempla el maravilloso regalo: en la copa se asoma un pececillo, símbolo del mensaje del inconsciente y la aparición de la inspiración. El paje de Copas es el pequeño Cupido que porta el mensaje del amor; junto al borde del agua, con un sombrero suave y ropa elegante, sostiene una copa entre las dos manos. Recibe sorprendido el tierno mensaje que surge de su corazón y lo cuida con esmero, listo para llevar este amor puro y esta creatividad al mundo. La primera marea emocional y el despertar de la intuición están a punto de romper el cascarón."
+  },
+  {
+    "cardKey": "knight_of_cups",
+    "englishName": "Knight of Cups",
+    "name": "Caballero de Copas",
+    "element": "Agua",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Encanto",
+      "Invitación",
+      "Búsqueda",
+      "Ideal"
+    ],
+    "uprightKeywords": [
+      "romance",
+      "invitación",
+      "acción"
+    ],
+    "reversedKeywords": [
+      "frivolidad",
+      "evasión",
+      "irrealidad"
+    ],
+    "meaning": "El Caballero de Copas se centra en la búsqueda romántica y el llamado de los ideales. Partiendo con una hermosa visión y profundo sentimiento, persiguiendo el ideal del corazón con elegante gracia: esta energía romántica, considerada e imaginativa cree en la poesía y la convicción. Sin embargo, demasiado romance puede volverse poco práctico. Al perseguir relaciones ideales, ten cuidado de no perderte en la fantasía o el exceso sentimental. Busca equilibrio entre el anhelo romántico y la consideración pragmática, no dejes que te queme un reflejo ilusorio, y ve a la otra persona tal como realmente es.",
+    "description": "Cargado de un idealismo a raudales, persigue en las ondas del agua el romántico sueño que alberga en su corazón. El caballero de Copas es Galahad en busca del Grial; monta un caballo blanco y avanza con calma vadeando una orilla poco profunda. Sostiene la copa con elegancia romántica, y su manto está decorado con peces, emblemas del impulso del inconsciente y la guía emocional. Es tierno y apasionado, ansioso por convertir el amor interior en acción, aunque también propenso a ahogarse en oleadas de sentimentalismo y a deambular más allá de los límites de la realidad. La propuesta romántica y la búsqueda sensible se despliegan suavemente al ritmo del agua."
+  },
+  {
+    "cardKey": "queen_of_cups",
+    "englishName": "Queen of Cups",
+    "name": "Reina de Copas",
+    "element": "Agua",
+    "planet": null,
+    "zodiac": "Cáncer",
+    "keywords": [
+      "Empatía",
+      "Gentileza",
+      "Curación",
+      "Intuición"
+    ],
+    "uprightKeywords": [
+      "intuición",
+      "nutrir",
+      "empatía"
+    ],
+    "reversedKeywords": [
+      "emocionalidad",
+      "dependencia",
+      "encierro"
+    ],
+    "meaning": "La Reina de Copas encarna la empatía profunda y la nutrición sin límites. Con emociones altamente refinadas, puede percibir y sanar sensiblemente tanto su propio mundo interior como el de los demás: esta fuerza gentil y aceptadora sana heridas con amor e intuye lo sutil y oculto. Ser el confidente de los demás aún requiere tener un límite. Cuando uses la empatía para forjar conexiones profundas y crear ambientes seguros, mantente firme en tus propios límites. No dejes que te agotes absorbiendo demasiado de las emociones del mundo exterior; mantén tu claridad interior.",
+    "description": "Sentada en un trono de lotos a orillas de un lago tranquilo, la reina de Copas es la diosa marina que custodia el abismo. Ceñida con corona, sostiene con ambas manos una copa exquisita sobre la que posa su mirada; la falda roza el agua, símbolo de la profunda fusión entre lo emocional y lo inconsciente. El ángel grabado en la copa representa la escucha sagrada; ella percibe con una sensibilidad asombrosa las alegrías y penas del mundo, sin pronunciar una sola palabra, nutriendo a todos los seres con su compasión infinita y su amor. Guarda en silencio la sabiduría emocional, consuelo de las almas heridas; la empatía profunda y la compasión intuitiva se extienden como ondas en el agua."
+  },
+  {
+    "cardKey": "king_of_cups",
+    "englishName": "King of Cups",
+    "name": "Rey de Copas",
+    "element": "Agua",
+    "planet": null,
+    "zodiac": "Escorpio",
+    "keywords": [
+      "Tolerancia",
+      "Firmeza",
+      "Diplomacia",
+      "Control"
+    ],
+    "uprightKeywords": [
+      "control",
+      "contención",
+      "equilibrio"
+    ],
+    "reversedKeywords": [
+      "descontrol",
+      "hipocresía",
+      "manipulación"
+    ],
+    "meaning": "El Rey de Copas significa el dominio de las emociones y la compasión razonada. Fusionando el sentimiento profundo con el comando racional, gobernando el gran poder de las emociones a través de aguas quietas y profundas: esta influencia madura y magnánima calma la turbulencia a través de la inteligencia emocional. La restricción puede convertirse fácilmente en represión. Maneja con calma los trastornos emocionales, canaliza las emociones a través de la razón y sé un sabio soberano de la mente; pero no dejes que el control emocional se convierta en manipulación. Mantén la justicia y la compasión y deja que la energía emocional fluya de manera saludable.",
+    "description": "Al fondo, una ballena salta fuera del mar y una vela navega entre las olas, símbolo de los vaivenes del inconsciente y la travesía de las emociones. El rey de Copas es Neptuno, que gobierna el océano; envuelto en un manto azul, está sentado en su trono de hipocampos sobre un mar encrespado. El hipocampo representa el dominio intuitivo del inconsciente; con un cetro en una mano y una copa en la otra, su mirada es profunda y maneja con destreza el timón entre la razón y el sentimiento. Transforma el amor apasionado en una fuerza de tolerancia y guía con sabiduría esa corriente impetuosa, custodiando el orden interior. La madurez emocional y la estrategia de la magnanimidad mantienen estable el navío del amor."
+  },
+  {
+    "cardKey": "ace_of_swords",
+    "englishName": "Ace of Swords",
+    "name": "As de Espadas",
+    "element": "Aire",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Claridad",
+      "Verdad",
+      "Comunicación",
+      "Avance"
+    ],
+    "uprightKeywords": [
+      "ruptura",
+      "verdad",
+      "fuerza"
+    ],
+    "reversedKeywords": [
+      "confusión",
+      "impotencia",
+      "desviación"
+    ],
+    "meaning": "El As de Espadas encarna el amanecer de la razón y la afilada hoja de la verdad. Una claridad mental repentina ve la perspicacia cortando la niebla y la ilusión, representando un nuevo comienzo basado en la lógica y la verdad: mente afilada, convicción como el hierro. Una vez que hayas visto el corazón del asunto, aplica decididamente la sabiduría y la determinación para trazar líneas claras y señalar directamente el problema central; pero no dejes que la búsqueda de la verdad te haga duro. Deja que la verdad sea una herramienta para resolver problemas, no un arma para herir a las personas.",
+    "description": "La espada de la verdad que el cielo concede se eleva de improviso; la mano que la empuña apunta con fuerza al firmamento. La hoja doble simboliza las dos caras de la justicia y el daño —puede dar vida o quitarla—. La punta del As de Espadas levanta una corona de laurel y una rama de palmera: el laurel representa la victoria del espíritu, la palmera el resurgir de la esperanza; la acometida deslumbrante desgarra el cielo de la perplejidad y corta de raíz toda mentira. El poder de la decisión sagrada desciende al mundo: la claridad de la mente basta para abrir paso entre los obstáculos, y el pensamiento renovado con la verdad liberadora ya ha desenvainado."
+  },
+  {
+    "cardKey": "two_of_swords",
+    "englishName": "Two of Swords",
+    "name": "Dos de Espadas",
+    "element": "Aire",
+    "planet": "Luna",
+    "zodiac": "Libra",
+    "keywords": [
+      "Estancamiento",
+      "Sopesar",
+      "Equilibrio",
+      "Punto ciego"
+    ],
+    "uprightKeywords": [
+      "estancamiento",
+      "evasión",
+      "equilibrio"
+    ],
+    "reversedKeywords": [
+      "decidir",
+      "romper",
+      "soltar"
+    ],
+    "meaning": "El Dos de Espadas significa un difícil punto muerto y un estancamiento cegador. La mente está atrapada en un tira y afloja equilibrado, eligiendo vendarse los ojos para mantener el equilibrio, con una deliberación excesiva y miedo a la pérdida que causa estancamiento y retirada cerrada. Evitar las elecciones no puede resolver el problema. La verdad bajo la venda todavía existe: es mejor que elimines tus defensas psicológicas, enfrentes tus miedos y sentimientos verdaderos, y rompas el punto muerto. Incluso si tomar la decisión es doloroso, ganará mayor libertad interior que dar vueltas en círculos.",
+    "description": "La mujer del Dos de Espadas es como una justicia ciega atrapada en una encrucijada; sentada en un banco de piedra a orillas de un mar oscuro, tiene los ojos vendados —signo del rechazo a ver la realidad y de la evasión interior—, y cruza los brazos sobre el pecho sosteniendo una espada en cada mano, imagen de pensamientos en pugna y de una razón paralizada. Detrás de ella, la luna nueva y los arrecifes áridos; las olas que se agitan en la superficie sugieren la turbulencia emocional. Se cubre los ojos para lograr una paz provisional; sumida en el conflicto racional, no puede tomar una decisión. Las dos espadas se cruzan y las murallas son altas; la contradicción interior paraliza la situación, y la resistencia estancada espera con urgencia que algo rompa el equilibrio."
+  },
+  {
+    "cardKey": "three_of_swords",
+    "englishName": "Three of Swords",
+    "name": "Tres de Espadas",
+    "element": "Aire",
+    "planet": "Saturno",
+    "zodiac": "Libra",
+    "keywords": [
+      "Dolor",
+      "Tristeza",
+      "Separación",
+      "Trauma"
+    ],
+    "uprightKeywords": [
+      "desamor",
+      "dolor",
+      "separación"
+    ],
+    "reversedKeywords": [
+      "soltar",
+      "sanar",
+      "evadir"
+    ],
+    "meaning": "El Tres de Espadas trata sobre el daño emocional y el dolor de crecimiento de ver la realidad con claridad. El dolor que viene cuando la razón y la emoción chocan, la aparición de la verdad rompiendo el confort y la ilusión original: el dolor de la pérdida o las expectativas incumplidas es muy real. Cuando sientas dolor interno, no te pongas rígido fingiendo que todo está bien. En su lugar, enfrenta la tristeza abiertamente, dale a la pena una salida, usa el aguijón para ver la realidad con claridad, trata esta experiencia como una oportunidad de crecimiento y permítete volverte más resiliente.",
+    "description": "Tres espadas afiladas descienden del cielo y penetran sin piedad; las tres espadas que atraviesan el corazón simbolizan el daño extremo que la razón inflige a los sentimientos. El corazón carmesí representa la sensibilidad viva, herida por el análisis de la mente. El fondo del Tres de Espadas es un cielo plomizo sin asomo de vida; la lluvia torrencial simboliza el desahogo de las emociones y el bautismo de la tristeza, y el dolor de la desolación absoluta lo impregna todo. Sin embargo, la lluvia acabará por cesar y el corazón seguirá latiendo; este tormento que rasga el ser es el crisol por el que el alma debe pasar para alcanzar la lucidez. El abismo de la tristeza y el desgarro del corazón hieren hasta lo más hondo."
+  },
+  {
+    "cardKey": "four_of_swords",
+    "englishName": "Four of Swords",
+    "name": "Cuatro de Espadas",
+    "element": "Aire",
+    "planet": "Júpiter",
+    "zodiac": "Libra",
+    "keywords": [
+      "Descanso",
+      "Recuperación",
+      "Contemplación",
+      "Estancamiento"
+    ],
+    "uprightKeywords": [
+      "descanso",
+      "meditación",
+      "recuperación"
+    ],
+    "reversedKeywords": [
+      "reanimar",
+      "actuar",
+      "intranquilidad"
+    ],
+    "meaning": "El Cuatro de Espadas se centra en el descanso de un alto el fuego y la reorganización silenciosa. Después de un conflicto mental o externo intenso, cuerpo y mente entran en un estado de recuperación y sanación, necesitando retirarse temporalmente del ruido y restaurar la vitalidad a través de la soledad y la meditación. Cuando te sientas agotado en cuerpo y mente, date un descanso completo, deja que el cerebro sobrecargado se enfríe y busca orientación interior en el silencio. Pero el descanso no es evasión: una vez que hayas repuesto tu espíritu, debes ponerte en marcha de nuevo con una mente más despejada.",
+    "description": "En la pared cuelgan tres espadas, y una cuarta reposa inclinada junto a él; una tenue luz de paz penetra, y las espadas suspendidas simbolizan la pausa y el cese del pensamiento. El hombre del Cuatro de Espadas es un asceta retirado a la penitencia; en la penumbra de una cripta subterránea de iglesia, está tendido sobre un sarcófago con las manos juntas en oración. El sarcófago simboliza el repliegue temporal y el silencio del cuerpo. Alejado del bullicio mundano, deja que el cuerpo y la mente se sosieguen en ese espacio sagrado. Esto no es rendición, sino un retraimiento tras una herida grave; está acumulando fuerzas para el próximo avance, y la quietud restauradora y la sanación hacia dentro avanzan en silencio."
+  },
+  {
+    "cardKey": "five_of_swords",
+    "englishName": "Five of Swords",
+    "name": "Cinco de Espadas",
+    "element": "Aire",
+    "planet": "Venus",
+    "zodiac": "Acuario",
+    "keywords": [
+      "Conflicto",
+      "Costo",
+      "Fracaso",
+      "Egoísmo"
+    ],
+    "uprightKeywords": [
+      "conflicto",
+      "derrota",
+      "sinsentido"
+    ],
+    "reversedKeywords": [
+      "reconciliar",
+      "reflexionar",
+      "soltar"
+    ],
+    "meaning": "El Cinco de Espadas encarna una victoria hueca y un conflicto interior sin sentido. Al ganar una ventaja superficial en el conflicto a costa de las relaciones o la integridad moral, terminas cayendo en el aislamiento y el vacío: la terquedad o la vanidad llevan a relaciones rotas y al arrepentimiento. Ganar el argumento pero perder los corazones de los demás sigue siendo perder. Deja de aferrarte a conflictos y hostilidades sin sentido; retírate de las ruinas de la batalla y reflexiona que la verdadera victoria nunca se trata de derribar a otros. Es mejor soltar los prejuicios y recuperar la paz interior.",
+    "description": "Da la vuelta para mirar a las dos personas que se alejan cabizbijas; en el suelo hay esparcidas dos espadas abandonadas, y el agua agitada sugiere el caos tras el conflicto y el desánimo del alma. El vencedor del Cinco de Espadas es como un ambicioso que gana a costa de un precio altísimo; en una playa sombría sostiene tres espadas mientras el viento sopla gélido. Aunque ha ganado el enfrentamiento, queda aislado en un campo de batalla frío, habiendo perdido la confianza y la camaradería. Las espadas que empuña no pueden colmar el vacío espiritual; esta victoria hueca carece de sentido, y en soledad saborea la amargura del aislamiento a que ha conducido la competencia malintencionada. La disputa inútil deja solo una victoria miserable."
+  },
+  {
+    "cardKey": "six_of_swords",
+    "englishName": "Six of Swords",
+    "name": "Seis de Espadas",
+    "element": "Aire",
+    "planet": "Mercurio",
+    "zodiac": "Acuario",
+    "keywords": [
+      "Transición",
+      "Curación",
+      "Estabilidad",
+      "Viaje"
+    ],
+    "uprightKeywords": [
+      "transición",
+      "partir",
+      "sanar"
+    ],
+    "reversedKeywords": [
+      "obstaculizado",
+      "regreso",
+      "estancamiento"
+    ],
+    "meaning": "El Seis de Espadas significa el pasaje racional y la transición a través de las heridas. Despidiéndose de la turbulencia y el dolor, navegando hacia la calma bajo la protección de la razón: una transición del caos hacia la estabilidad. Aunque la partida es reluctante, es sabia. Dejar un desastre atrás no significa que todos los problemas estén resueltos. Fluye con el cambio, acepta el cambio de circunstancias, deja que el tiempo y el espacio suavicen gradualmente las heridas; pero mientras avanzas establemente, sigue trabajando en los nudos sin resolver hasta que realmente hayas soltado y hecho las paces con el pasado.",
+    "description": "El barquero Caronte, que conduce las almas, impulsa lentamente la barca con su pértiga. La embarcación del Seis de Espadas navega sobre un lago tranquilo; en la barca se alzan seis espadas que simbolizan el pasado penoso y la carga del pensamiento que llevan consigo pero no pueden arrancarse. Transporta a una mujer con los ojos vendados y a un niño pequeño, guiando a los heridos desde el lado de las aguas tormentosas hasta la orilla donde el agua es como un espejo. El agua pasa de agitada a serena, signo de la pacificación del ánimo; el alma herida sigue su camino cargando sus preocupaciones, y aunque la travesía es apacible, mantiene aún la guardia. Siguiendo la corriente, se alejan poco a poco del cenagal del dolor; la transición serena y la sanación racional se mecen con las olas."
+  },
+  {
+    "cardKey": "seven_of_swords",
+    "englishName": "Seven of Swords",
+    "name": "Siete de Espadas",
+    "element": "Aire",
+    "planet": "Luna",
+    "zodiac": "Acuario",
+    "keywords": [
+      "Estrategia",
+      "Ocultación",
+      "Escape",
+      "Flexibilidad"
+    ],
+    "uprightKeywords": [
+      "estrategia",
+      "engaño",
+      "esquivar"
+    ],
+    "reversedKeywords": [
+      "descubierto",
+      "confesar",
+      "parar"
+    ],
+    "meaning": "El Siete de Espadas trata sobre la maniobra encubierta y tomar rutas inteligentes. En una posición de desventaja o punto muerto, se intenta lograr el objetivo a través de medios poco convencionales o incluso clandestinos: esta energía perspicaz y astuta se mueve por áreas grises. Los tiempos extraordinarios pueden requerir medidas extraordinarias para resolver una necesidad urgente. Pero el engaño y la intriga finalmente conllevan el riesgo de exposición; nunca dejes que la astucia se convierta en la razón para perder la confianza. Solo dirigiendo el ingenio hacia el camino correcto y convirtiendo la astucia en estrategia puedes realmente convertir el peligro en seguridad.",
+    "description": "Al borde del campamento, en la oscuridad de la noche, Odiseo se escabulle llevando cinco espadas y dejando dos hincadas ante la tienda, símbolo de una defensa incompleta y de la verdad que no puede llevarse del todo. El proceder del Siete de Espadas es el del arquitecto del Caballo de Troya; al mirar hacia atrás esboza una sonrisa astuta: con ingenio y engaño busca una salida en los resquicios, intentando obtener sin esfuerzo. La tienda amarilla representa la ambición en el plano material; esta evasión que evita el enfrentamiento directo puede resolver la urgencia, pero siembra también semillas peligrosas. La mentira puede ser descubierta en cualquier momento; el cálculo artero y las maniobras subrepticias están llenas de riesgo."
+  },
+  {
+    "cardKey": "eight_of_swords",
+    "englishName": "Eight of Swords",
+    "name": "Ocho de Espadas",
+    "element": "Aire",
+    "planet": "Júpiter",
+    "zodiac": "Géminis",
+    "keywords": [
+      "Restricción",
+      "Miedo",
+      "Dilema",
+      "Atadura"
+    ],
+    "uprightKeywords": [
+      "atadura",
+      "limitación",
+      "miedo"
+    ],
+    "reversedKeywords": [
+      "liberar",
+      "romper",
+      "ver claro"
+    ],
+    "meaning": "El Ocho de Espadas se centra en la prisión de la mente y un predicamento ilusorio. Atrapado en grilletes invisibles por el miedo, la ansiedad y la preocupación excesiva, sintiéndote que no hay salida, aprisionado por pensamientos negativos y propenso a caer en una mentalidad de víctima. La mayoría de las restricciones que enfrentas son autoimpuestas. Las cuerdas no son imposibles de romper: no te asustes con tu imaginación. Quítate la venda, examina tu situación real con razón, convoca el coraje para dar el primer paso, y descubrirás que el predicamento no es tan inquebrantable como imaginabas.",
+    "description": "Ocho espadas clavadas en el barro la rodean como una jaula, símbolo de las cadenas mentales y las creencias de autolimitación; el castillo al fondo, como en la orilla opuesta, representa el objetivo que siente fuera de su alcance. La mujer del Ocho de Espadas es una prisionera del demonio interior; en un páramo lúgubre, tiene los ojos vendados y las manos atadas flojamente con cuerdas. La venda simboliza la incapacidad de mirar la verdad de frente; el barro evoca el desgaste mental y el estancamiento. Se queda inmóvil; parece una situación desesperada, pero si se atreve a quitarse la venda y dar un paso, descubrirá que las cadenas se sueltan fácilmente y que el círculo tiene una salida. El miedo ilusorio se disipará ante la razón, y la angustia ciega tendrá solución."
+  },
+  {
+    "cardKey": "nine_of_swords",
+    "englishName": "Nine of Swords",
+    "name": "Nueve de Espadas",
+    "element": "Aire",
+    "planet": "Marte",
+    "zodiac": "Géminis",
+    "keywords": [
+      "Ansiedad",
+      "Pesadilla",
+      "Preocupación",
+      "Fricción"
+    ],
+    "uprightKeywords": [
+      "angustia",
+      "pesadilla",
+      "preocupación"
+    ],
+    "reversedKeywords": [
+      "soltar",
+      "mejorar",
+      "recuperar"
+    ],
+    "meaning": "El Nueve de Espadas encarna la ansiedad de medianoche y el terror oculto. Las preocupaciones interiores se amplifican en la quietud, soportando cargas mentales pesadas en soledad, con intensa inquietud e insomnio desencadenados por la preocupación excesiva, la presión o la culpa. La mayoría de lo que se teme es un fantasma conjurado por la propia mente. La mayor parte del sufrimiento viene de la imaginación en lugar de la realidad: no rumies tus miedos solo en el silencio de la noche. Enfrenta directamente la oscuridad interior, da forma concreta a la ansiedad y descomponla racionalmente, busca apoyo externo y recupera claridad y paz.",
+    "description": "En la pared cuelgan nueve espadas; el borde del edredón está bordado de rosas y constelaciones, sugiriendo que el sufrimiento a menudo surge de la imaginación del inconsciente y del peso del espíritu; las rosas representan la belleza herida por las espinas del pensamiento. La mujer del Nueve de Espadas es una insomne devorada por la angustia; en la oscuridad de la noche se despierta sobresaltada, tapa el rostro con las manos y está completamente anegada por el miedo y la preocupación. Parece que todo peligra, sin embargo las espadas del muro no apuntan hacia ella; con la llegada del día todo se disipará, y ella aguarda ese hilo de luz del alba que ahuyente el fantasma de los demonios interiores. El desgaste interno sin fin acabará por abrirse al amanecer."
+  },
+  {
+    "cardKey": "ten_of_swords",
+    "englishName": "Ten of Swords",
+    "name": "Diez de Espadas",
+    "element": "Aire",
+    "planet": "Sol",
+    "zodiac": "Géminis",
+    "keywords": [
+      "Final",
+      "Fondo",
+      "Dolor",
+      "Renacimiento"
+    ],
+    "uprightKeywords": [
+      "fondo",
+      "fin",
+      "dolor extremo"
+    ],
+    "reversedKeywords": [
+      "recuperar",
+      "resistir el fin",
+      "demorar"
+    ],
+    "meaning": "El Diez de Espadas significa el punto más bajo del ciclo y la hora más oscura antes del amanecer. Una creencia, relación o situación ha sufrido un golpe devastador: el sufrimiento ha alcanzado su punto máximo y se acerca un final inevitable. La noche más oscura significa que el amanecer está cerca. Llegar al punto más bajo es precisamente el punto de partida para un rebote. Ya que lo peor ya ha sucedido, deja de aferrarte desesperadamente a los restos. Acepta el final completo, despeja los escombros, y cada paso dado a partir de aquí es un paso hacia una nueva vida.",
+    "description": "En la oscuridad previa al alba, el mártir yace boca abajo sobre la tierra negra con diez espadas hincadas en la espalda, símbolo del fin absoluto y el colapso de los límites mentales; la sangre tiñe el suelo, imagen de la muerte del viejo modelo. El Diez de Espadas ha llegado al extremo del tormento, pero en el horizonte lejano la luz dorada del amanecer comienza a traspasar las nubes y el agua centellea levemente, insinuando que tras la noche más oscura vendrá la claridad. Las diez espadas que atraviesan el corazón significan la muerte total de lo antiguo, pero también anuncian el fin del sufrimiento; la noche más profunda antes del alba está a punto de ser desgarrada por el amanecer. El final en el fondo anuncia que, tras el extremo, vendrá el giro."
+  },
+  {
+    "cardKey": "page_of_swords",
+    "englishName": "Page of Swords",
+    "name": "Sota de Espadas",
+    "element": "Aire",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Agudeza",
+      "Mensaje",
+      "Vigilancia",
+      "Curiosidad"
+    ],
+    "uprightKeywords": [
+      "alerta",
+      "curiosidad",
+      "comunicación"
+    ],
+    "reversedKeywords": [
+      "habladurías",
+      "nerviosismo",
+      "malentendido"
+    ],
+    "meaning": "La Sota de Espadas trata sobre la observación aguda y la primera prueba del nuevo pensamiento. Rápida para captar nuevas ideas y nueva información, examinando el entorno con curiosa cautela: esta energía mental inteligente y adaptable está ocupada recopilando información. La mente se mueve rápido pero también puede volverse impulsiva. Mantente mentalmente activo y abierto, percibe la verdad en los detalles, pero cultiva el enfoque y el pensamiento profundo. No creas los rumores demasiado fácilmente; transforma la rapidez mental en sólidas habilidades cognitivas y comunicativas.",
+    "description": "El paje de Espadas es el espía de la familia del viento; con la espada en alto sobre el páramo batido por el vendaval, se alza de puntillas y observa alerta los cuatro puntos cardinales. Los pájaros que alzan el vuelo simbolizan el fluir de los pensamientos y los mensajes que se esparcen. Como una brisa fresca, está captando los movimientos difíciles de percibir en el aire. Trae nuevas ideas y señales de alerta, siempre listo para diseccionar con su aguda razón la situación que tiene ante sí, sin dejar pasar ningún detalle. La observación perspicaz y la curiosidad inquisitiva van rastreando la verdad."
+  },
+  {
+    "cardKey": "knight_of_swords",
+    "englishName": "Knight of Swords",
+    "name": "Caballero de Espadas",
+    "element": "Aire",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Rapidez",
+      "Carga",
+      "Decisión",
+      "Filo"
+    ],
+    "uprightKeywords": [
+      "rapidez",
+      "acción",
+      "franqueza"
+    ],
+    "reversedKeywords": [
+      "atropellar",
+      "descontrol",
+      "dispersión"
+    ],
+    "meaning": "El Caballero de Espadas se centra en el asalto feroz y la carga testaruda. Empujando puntos de vista con fuerza de rayo, la mente se convierte en una hoja intrépida: esta energía valiente y decisiva que puede fácilmente inclinarse hacia el extremismo impulsivo cree en el blanco y negro. Demasiado impulso se descontrola demasiado fácilmente. No dudes cuando sea el momento de actuar con decisión, pero la fuerza también necesita ser moderada por la razón y la empatía, para evitar el daño causado por la imprudencia, la falta de estrategia o la imposición de tu voluntad a los demás. Mantén las riendas de la mente: no lastimes a otros ni a ti mismo.",
+    "description": "En un campo azotado por el vendaval, el guerrero furioso de la familia del viento arremete a galope en su caballo rojo; alza la espada y la capa vuela como emblema de la violencia del viento y la velocidad extrema del pensamiento. La actitud del caballero de Espadas es formidable; hasta los árboles se quiebran ante su ímpetu —signo del corte de la razón sobre la emoción natural—, y se lanza al campo de batalla con una decisión rápida y feroz, intentando barrer todos los obstáculos por la fuerza. Su acción es audaz, pero la impulsividad ciega lo hace difícil de dominar y puede causar daños irreparables en el choque. La acción apresurada y el avance temerario encierran peligros ocultos."
+  },
+  {
+    "cardKey": "queen_of_swords",
+    "englishName": "Queen of Swords",
+    "name": "Reina de Espadas",
+    "element": "Aire",
+    "planet": null,
+    "zodiac": "Libra",
+    "keywords": [
+      "Independencia",
+      "Razón",
+      "Límites",
+      "Claridad"
+    ],
+    "uprightKeywords": [
+      "independencia",
+      "claridad",
+      "frialdad"
+    ],
+    "reversedKeywords": [
+      "rigor",
+      "crueldad",
+      "rencor"
+    ],
+    "meaning": "La Reina de Espadas encarna la percepción fría y el juicio independiente. Combinando la agudeza mental con la sensibilidad sutil, perfora la ilusión con absoluta objetividad y claridad: las palabras son incisivas y golpean el núcleo; el engaño no es tolerado. A veces ver a través de algo sin decirlo es la elección más amable. Usa el pensamiento independiente y los límites claros para defender la verdad, desemarañando la complejidad en medio de la confusión; pero mientras persigues la verdad, retén un hilo de ternura. No dejes que la severidad excesiva dañe las relaciones cercanas; deja que la razón sirva como muro protector.",
+    "description": "La reina de Espadas es Atenea, que ha cortado todo lazo de pasión; está sentada en un trono que se eleva hasta las nubes, con la espada erguida en la mano derecha y la mano izquierda ligeramente extendida, haciendo un gesto de invitación que al mismo tiempo mantiene a todos a distancia, emblema de la fría aceptación de la verdad. El semblante es grave y triste; su túnica blanca ondea en el viento gélido, y los pájaros que revolotean alrededor representan el girar de los pensamientos. Disecciona todo con una mirada excepcionalmente serena, trazando una línea nítida entre el sentimiento y la razón. No tolera ni una mota de arena; con una actitud objetiva e independiente va directa a la verdad y alza la espada para cortar todos los hilos ilusorios de la afección. El juicio frío y los límites claros despejan el laberinto."
+  },
+  {
+    "cardKey": "king_of_swords",
+    "englishName": "King of Swords",
+    "name": "Rey de Espadas",
+    "element": "Aire",
+    "planet": null,
+    "zodiac": "Acuario",
+    "keywords": [
+      "Autoridad",
+      "Lógica",
+      "Juicio",
+      "Equidad"
+    ],
+    "uprightKeywords": [
+      "razón",
+      "autoridad",
+      "decisión"
+    ],
+    "reversedKeywords": [
+      "tiranía",
+      "injusticia",
+      "obstinación"
+    ],
+    "meaning": "El Rey de Espadas significa razón absoluta y juicio autoritario. El ápice del poder mental, gobernando todo con calma trascendente y lógica rigurosa: esta autoridad imponente e incuestionable sigue solo la sabiduría y las reglas. Pero hacer reglas también requiere sentimiento humano. Usa una mente clara y principios firmes para tomar las decisiones más lógicas y mantener la línea; sin embargo, la razón absoluta puede convertirse fácilmente en frialdad. Dejar espacio para la compasión en el trono de la razón: esa es la verdadera sabiduría.",
+    "description": "En el vasto océano de nubes, el dictador implacable de la familia del viento está sentado en el trono con la mirada penetrante; empuña una espada recta en la mano derecha y lleva en la izquierda un guantelete de hierro, símbolo del poder; a su espalda los árboles se doblan en el vendaval, representando la conquista de la naturaleza por la razón y el establecimiento del orden. El rey de Espadas ejerce el control de la situación con reglas y un orden que no admiten réplica. El tótem de la mariposa sugiere la metamorfosis del intelecto; decide con claridad sin dejarse llevar por las emociones, y blande el bastón del juicio con una lógica gélida y una autoridad incontestable. El dominio absoluto de la mente y la autoridad de la razón son inamovibles."
+  },
+  {
+    "cardKey": "ace_of_pentacles",
+    "englishName": "Ace of Pentacles",
+    "name": "As de Oros",
+    "element": "Tierra",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Oportunidad",
+      "Riqueza",
+      "Material",
+      "Base"
+    ],
+    "uprightKeywords": [
+      "oportunidad",
+      "riqueza",
+      "base"
+    ],
+    "reversedKeywords": [
+      "perder oportunidad",
+      "dispersión",
+      "inestabilidad"
+    ],
+    "meaning": "El As de Pentáculos trata sobre la semilla de la riqueza y la manifestación de lo tangible. Un nuevo comienzo en beneficio material o práctico, donde la inspiración empieza a echar raíces, trayendo nueva oportunidad para una base sólida: un nuevo trabajo, inversión o habilidad que apenas brota. No solo pienses sin actuar; aprovecha esta energía fundamentada y da pasos sólidos hacia metas reales. La manifestación material requiere cultivo continuo. No desestimes los pequeños comienzos: riégalos con paciencia y trabajo duro, y la pequeña semilla eventualmente crecerá hasta ser un gran árbol.",
+    "description": "La palma de una mano sostiene un enorme pentáculo grabado con una estrella de cinco puntas; la estrella simboliza la unión entre el espíritu humano y la materia, y el As de Oros es la gema espiritual otorgada por la diosa de la tierra. La mano que asoma entre las nubes lo lleva hasta el cielo sobre el jardín; a su alrededor se enredan vides florecientes, y abajo se abren lirios y rosas, imagen de la armoniosa fusión del alma con la materia. Un arco conduce hacia campos y montañas lejanas, aludiendo a la puerta que lleva a la abundancia, ya abierta de par en par. La gracia celestial se vierte en el mundo terrenal: quien tome esta moneda habrá sentado las bases sólidas de la prosperidad y la riqueza."
+  },
+  {
+    "cardKey": "two_of_pentacles",
+    "englishName": "Two of Pentacles",
+    "name": "Dos de Oros",
+    "element": "Tierra",
+    "planet": "Júpiter",
+    "zodiac": "Capricornio",
+    "keywords": [
+      "Equilibrio",
+      "Malabares",
+      "Flexibilidad",
+      "Fluctuación"
+    ],
+    "uprightKeywords": [
+      "equilibrio",
+      "ajuste",
+      "flexibilidad"
+    ],
+    "reversedKeywords": [
+      "desequilibrio",
+      "exceso",
+      "descontrol"
+    ],
+    "meaning": "El Dos de Pentáculos se centra en el equilibrio flexible y el manejo de múltiples prioridades. Moviéndose entre múltiples tareas o recursos en un intento de mantener un delicado equilibrio, requiriendo tremenda adaptabilidad y elasticidad, ajustando constantemente las prioridades en medio de altibajos. Intentar manejar ambos lados fácilmente lleva a descuidar uno por el otro. Enfrenta la presión en múltiples frentes con una actitud optimista y mantente adaptable; pero la fluctuación prolongada genera fatiga. Guárdate de volverte superficial por distracciones excesivas: establece metas centrales y no pierdas tu fuerza impulsora en el acto de equilibrar.",
+    "description": "Sobre un mar de olas que se alzan y caen, el artista del Dos de Oros es como un malabarista que sube y baja en el oleaje del comercio; con un pentáculo en cada mano, unidos por el símbolo del infinito que los enlaza, balanceándose ágilmente con el vaivén del barco para mantener el equilibrio dinámico entre los extremos y las múltiples tareas. El barco lejano al fondo representa el objetivo del viaje; solo conservando la flexibilidad y el buen humor podrá estabilizar la distribución y los ajustes de recursos. El equilibrio elástico expresa el ritmo de la vida."
+  },
+  {
+    "cardKey": "three_of_pentacles",
+    "englishName": "Three of Pentacles",
+    "name": "Tres de Oros",
+    "element": "Tierra",
+    "planet": "Marte",
+    "zodiac": "Capricornio",
+    "keywords": [
+      "Cooperación",
+      "Habilidad",
+      "Profesión",
+      "Planificación"
+    ],
+    "uprightKeywords": [
+      "cooperación",
+      "aprendizaje",
+      "oficio"
+    ],
+    "reversedKeywords": [
+      "trabajar solo",
+      "mala calidad",
+      "desavenencia"
+    ],
+    "meaning": "El Tres de Pentáculos encarna la construcción colaborativa y el perfeccionamiento de la artesanía. La colaboración en equipo convierte las ideas iniciales en planos concretos, refinando la calidad a través del intercambio y la crítica mutua, construyendo una estructura material sólida a través de la habilidad profesional y la sabiduría colectiva. Para grandes logros, no vayas solo. Respeta la experiencia, escucha con mente abierta, afila tu oficio a través de la cooperación: el verdadero valor viene de bases sólidas y trabajo en equipo sin fisuras. No aspires demasiado alto demasiado rápido; vierte el corazón de tu artesano en cada ladrillo colocado ahora mismo.",
+    "description": "Bajo el arco de un majestuoso monasterio, los artesanos del Tres de Oros están construyendo el Templo de Salomón: el maestro sostiene los planos y debate con el monje y el cantero sobre el relieve de pentáculos en la pared, emblema de la materialización de lo espiritual y del arte de dar cuerpo a un proyecto. Los tres, cada uno en su función, colaboran con precisión y van convirtiendo paso a paso el divino proyecto en realidad. Su actitud de búsqueda de la excelencia pule el oficio, y la cooperación del equipo va dando forma al edificio inmortal. El espíritu artesanal y las habilidades en ciernes están levantando logros sólidos."
+  },
+  {
+    "cardKey": "four_of_pentacles",
+    "englishName": "Four of Pentacles",
+    "name": "Cuatro de Oros",
+    "element": "Tierra",
+    "planet": "Sol",
+    "zodiac": "Capricornio",
+    "keywords": [
+      "Conservadurismo",
+      "Control",
+      "Terquedad",
+      "Ahorro"
+    ],
+    "uprightKeywords": [
+      "control",
+      "retener",
+      "estabilidad"
+    ],
+    "reversedKeywords": [
+      "soltar",
+      "dispersar",
+      "arriesgar"
+    ],
+    "meaning": "El Cuatro de Pentáculos significa la obsesión de aferrarse y quedarse quieto en nombre de la seguridad. El control excesivo y la avaricia sobre posesiones materiales, recursos o seguridad establecida, rechazando compartir o cambiar por miedo a la pérdida, hace que la energía se vuelva rígida y cerrada. No vale ser un avaro. Las cosas materiales son herramientas naturalmente fluidas; el acaparamiento excesivo se convierte en un grillete. Afloja la mano que aprieta firmemente en la medida adecuada, aprende a circular y dar, rompe las barreras conservadoras y deja fluir la energía: solo entonces puede llegar una cosecha más abundante.",
+    "description": "Ante los edificios de una ciudad próspera, el hombre del Cuatro de Oros es el avaro Grandet: abraza con fuerza un pentáculo, sobre la cabeza lleva otro, y bajo los pies aprieta dos más. El gesto de aferrar simboliza el miedo extremo a la pérdida y el sentimiento de carencia interior. Con expresión tensa, mira a su alrededor, aterrado de que alguien le arrebate su fortuna; deposita todo el valor de su existencia en objetos inertes y custodia con rigidez esa riqueza petrificada. Paralizado por el miedo a perder, no se permite que la energía circule ni se comparta; el estado de acumulación extrema por inseguridad convierte la materia en una prisión."
+  },
+  {
+    "cardKey": "five_of_pentacles",
+    "englishName": "Five of Pentacles",
+    "name": "Cinco de Oros",
+    "element": "Tierra",
+    "planet": "Mercurio",
+    "zodiac": "Tauro",
+    "keywords": [
+      "Escasez",
+      "Dificultad",
+      "Aislamiento",
+      "Ayuda"
+    ],
+    "uprightKeywords": [
+      "carencia",
+      "dificultad",
+      "aislamiento"
+    ],
+    "reversedKeywords": [
+      "reanimar",
+      "recuperar",
+      "recibir"
+    ],
+    "meaning": "El Cinco de Pentáculos trata sobre las dificultades materiales y la desolación interior. Encontrando escasez en términos materiales o espirituales, sintiéndose aislado y dejado en el frío, a menudo asociado con un período bajo de escasez o pérdida, caminando solo en el frío. Cuando estés en apuros, no te rindas. Incluso en la dificultad, no dejes que el dolor te ciegue ante las manos de ayuda y el calor justo al lado. Mantén la esperanza y busca apoyo activamente: es el puente para atravesar tiempos difíciles, y también la oportunidad de reconstruir la fe interior.",
+    "description": "En una noche de viento y nieve, dos mendigos andrajosos y cojos cojean junto a la vidriera de una iglesia; la ventana simboliza la redención espiritual y el calor interior que tienen al alcance, pero que pasan por alto. Los mendigos del Cinco de Oros son como paganos vagabundos en la calle; desde el interior fluye la luz cálida, pero ellos solo pueden tiritar en el frío glacial, con expresión desolada, sumidos en una dificultad extrema y el aislamiento, padeciendo la carencia tanto material como espiritual. Sin embargo, la iglesia cercana no está cerrada; ellos solo saben lamentarse con la cabeza gacha y dejan escapar la posibilidad de buscar refugio y auxilio."
+  },
+  {
+    "cardKey": "six_of_pentacles",
+    "englishName": "Six of Pentacles",
+    "name": "Seis de Oros",
+    "element": "Tierra",
+    "planet": "Luna",
+    "zodiac": "Tauro",
+    "keywords": [
+      "Generosidad",
+      "Caridad",
+      "Asistencia",
+      "Equilibrio"
+    ],
+    "uprightKeywords": [
+      "dar",
+      "recibir",
+      "justicia"
+    ],
+    "reversedKeywords": [
+      "deuda",
+      "injusticia",
+      "desequilibrio"
+    ],
+    "meaning": "El Seis de Pentáculos se centra en la generosidad fluida y la armonía entre diferentes niveles. La riqueza circula entre dar y recibir, sosteniendo un equilibrio dinámico: ya sea dando o recibiendo, cada uno está experimentando la sabiduría del flujo material. Tanto dar como recibir tienen su propia forma correcta. Cuando tienes, comparte con bondad; cuando estás necesitado, recibe con gratitud. La verdadera generosidad proviene de una creencia en la abundancia, no de mirar desde arriba; y recibir no es humillante. Mantener el equilibrio y la dignidad de dar y recibir lleva a la plenitud.",
+    "description": "En un animado mercado, el comerciante del Seis de Oros es el filántropo generoso; bien vestido, sostiene una balanza en la mano izquierda y reparte monedas con la derecha a los mendigos arrodillados a sus pies. La balanza mide la equidad del dar y el recibir, emblema de la ley cósmica del equilibrio y el fluir del karma. Está realizando un intercambio fiel a la causalidad universal, sabiendo que en la generosidad se crea valor; tanto en lo material como en el conocimiento, el amor y la abundancia circulan en el acto de compartir. Las dádivas que fluyen y el dar y recibir justo sostienen el equilibrio del mundo."
+  },
+  {
+    "cardKey": "seven_of_pentacles",
+    "englishName": "Seven of Pentacles",
+    "name": "Siete de Oros",
+    "element": "Tierra",
+    "planet": "Saturno",
+    "zodiac": "Tauro",
+    "keywords": [
+      "Evaluación",
+      "Paciencia",
+      "Espera",
+      "Retorno"
+    ],
+    "uprightKeywords": [
+      "esperar",
+      "evaluar",
+      "cultivar"
+    ],
+    "reversedKeywords": [
+      "sin frutos",
+      "irritación",
+      "cambiar de rumbo"
+    ],
+    "meaning": "El Siete de Pentáculos encarna la evaluación paciente y una revisión exhaustiva de la inversión. Después del arduo trabajo, haciendo una pausa para evaluar calmamente los retornos del esfuerzo pasado, necesitando esperar pacientemente a que los resultados maduren, quizás acompañado de dudas sobre el camino actual. No puedes apresurar lo que necesita tiempo. Los ritmos naturales no pueden forzarse; la ansiedad no ayuda en nada. Revisa objetivamente: si la dirección es correcta, espera pacientemente a que florezcan las flores; si los resultados no han cumplido las expectativas, ajusta la estrategia racionalmente. Convierte la espera en una práctica de acumular fuerza interior.",
+    "description": "A sus pies, tres pentáculos siguen creciendo; se detiene a evaluar el esfuerzo de los últimos meses, y en su mirada se mezclan la expectativa y la perplejidad. El campesino del Siete de Oros es el capitalista que espera ansioso la cosecha; apoyado en su azada bajo una frondosa enredadera, observa fatigado los seis pentáculos que cuelgan de las ramas. Los frutos simbolizan la recompensa inicial de la inversión y la lenta acumulación. El esfuerzo ha dado sus primeros resultados, pero aún no se ha llegado a la cosecha definitiva; debe conservar la paciencia y aguardar a que la semilla brote, o bien replantear la estrategia. La revisión del cultivo y la larga espera ponen a prueba la perseverancia."
+  },
+  {
+    "cardKey": "eight_of_pentacles",
+    "englishName": "Eight of Pentacles",
+    "name": "Ocho de Oros",
+    "element": "Tierra",
+    "planet": "Sol",
+    "zodiac": "Virgo",
+    "keywords": [
+      "Enfoque",
+      "Diligencia",
+      "Refinamiento",
+      "Detalles"
+    ],
+    "uprightKeywords": [
+      "foco",
+      "esfuerzo",
+      "perfeccionamiento"
+    ],
+    "reversedKeywords": [
+      "negligencia",
+      "falta de motivación",
+      "cambiar de carrera"
+    ],
+    "meaning": "El Ocho de Pentáculos significa el artesano enfocado y el refinamiento fundamentado. Vertiendo atención indivisa en la adquisición de habilidades y la perfección del trabajo, persiguiendo la más alta artesanía a través de la práctica diaria deliberada, forjando excelencia profesional en los detalles. Un artesano debe soportar la soledad del proceso. Calma tu mente, disfruta del estado de flujo que viene con el enfoque, encuentra el brillo de la mejora en la repetición, abandona la ambición inquieta, teje el amor en cada momento: la artesanía finalmente ganará respeto.",
+    "description": "A sus pies ya hay seis monedas terminadas, y en la pared cuelgan otras dos; día tras día repite el golpe y el cincelado. El artesano del Ocho de Oros es un miembro concentrado de un gremio medieval; en un taller silencioso, sentado en un banco, esculpe con plena atención el pentáculo que tiene en las manos. El movimiento de cincelar simboliza el perfeccionamiento del oficio y la entrega al flujo creativo. No se deja distraer por el bullicio exterior; vuelca toda su energía en la obra y, con una concentración extrema y la búsqueda de la excelencia, persigue el dominio del arte. La dedicación al pulido y el ahondamiento en el oficio están esculpiendo el alma."
+  },
+  {
+    "cardKey": "nine_of_pentacles",
+    "englishName": "Nine of Pentacles",
+    "name": "Nueve de Oros",
+    "element": "Tierra",
+    "planet": "Venus",
+    "zodiac": "Virgo",
+    "keywords": [
+      "Independencia",
+      "Abundancia",
+      "Disfrute",
+      "Autosuficiencia"
+    ],
+    "uprightKeywords": [
+      "independencia",
+      "abundancia",
+      "elegancia"
+    ],
+    "reversedKeywords": [
+      "dependencia",
+      "vanidad",
+      "falta de base"
+    ],
+    "meaning": "El Nueve de Pentáculos trata sobre la abundancia independiente y la elegancia serena. A través del propio esfuerzo y la autodisciplina, logrando independencia tanto material como espiritual: autosuficiente, disfrutando de una vida de alta calidad en soledad. Este es el dulce fruto nacido de un cultivo cuidadoso. Con frutos abundantes en mano, simplemente disfruta de la dulzura del presente con tranquilidad; y también aprende a convertir la riqueza material en alimento para el alma. Deja que la riqueza se convierta verdaderamente en las alas que sostienen la libertad, no en la jaula que te confina.",
+    "description": "La mano izquierda reposa sobre el lomo de un halcón; la punta de los dedos derechos roza suavemente una moneda de oro; alrededor, pesados racimos de uva morada y frondosa vegetación. La uva simboliza la cosecha y el placer; el halcón, la fuerza latente y la voluntad libre. La dama del Nueve de Oros es una señora próspera que domina la magia de la naturaleza; enfundada en sedas lujosas, está de pie a solas en un viñedo fértil. Disfruta con elegancia del dominio que ha ganado con su inteligencia y su esfuerzo, sin necesidad de depender de nadie; posee una riqueza y una libertad absolutas, y saborea ese lujo que le pertenece y la serenidad de bastarse a sí misma. El deleite solitario de la abundancia y la elegancia sensorial se complementan a la perfección."
+  },
+  {
+    "cardKey": "ten_of_pentacles",
+    "englishName": "Ten of Pentacles",
+    "name": "Diez de Oros",
+    "element": "Tierra",
+    "planet": "Mercurio",
+    "zodiac": "Virgo",
+    "keywords": [
+      "Legado",
+      "Familia",
+      "Estabilidad",
+      "Prosperidad"
+    ],
+    "uprightKeywords": [
+      "legado",
+      "abundancia",
+      "familia"
+    ],
+    "reversedKeywords": [
+      "ruptura",
+      "crisis financiera",
+      "lo caduco"
+    ],
+    "meaning": "El Diez de Pentáculos se centra en un legado de fundamentos y el cumplimiento de generaciones. La acumulación máxima de riqueza material y tradición familiar, construyendo una fortaleza que abarca generaciones: marcando la transmisión intergeneracional de riqueza, estatus y valores. Un huevo de nido suficiente aún necesita protegerse de la rigidez. Atesora las raíces y tradiciones familiares o colectivas, planifica el bienestar a largo plazo para los descendientes; pero la estabilidad puede convertirse fácilmente en inflexibilidad. Prevén el estancamiento y la resistencia al nuevo cambio: inyecta la corriente fresca de los tiempos en lo que se transmite, para que los cimientos permanezcan siempre verdes.",
+    "description": "Diez pentáculos, como el tótem de la familia, se dispersan por la escena; enredaderas trepan por el muro, y los pentáculos simbolizan la base material heredada de generación en generación y el nervio vital de la familia. La familia del Diez de Oros es como un linaje centenario de poderoso abolengo; ante una puerta antigua, un anciano con bastón acaricia a un perro blanco, junto a una pareja vestida con ropajes suntuosos y un niño que juega en el prado. Se bañan en la riqueza y la serenidad acumuladas a lo largo de generaciones; la transmisión del patrimonio inmobiliario y la sangre construye una fortaleza inexpugnable, y los parientes comparten la prosperidad y la continuidad del linaje. La herencia de las épocas perdura sin fin."
+  },
+  {
+    "cardKey": "page_of_pentacles",
+    "englishName": "Page of Pentacles",
+    "name": "Sota de Oros",
+    "element": "Tierra",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Pragmatismo",
+      "Aprendizaje",
+      "Estabilidad",
+      "Plan"
+    ],
+    "uprightKeywords": [
+      "aprender",
+      "planear",
+      "ser concreto"
+    ],
+    "reversedKeywords": [
+      "pereza",
+      "distracción",
+      "desperdicio"
+    ],
+    "meaning": "La Sota de Pentáculos encarna al aprendiz diligente y el estar anclado en la realidad. Estudiando nuevas habilidades o explorando nuevos territorios materiales con humilde pragmatismo, la energía inicial es realista, seria y ansiosa de acumular: la mirada anclada en los detalles del mundo real. Aprender un oficio requiere un paso a la vez. Mantén los pies en el suelo y acumula conocimiento y riqueza de manera constante; la teoría debe coincidir con la práctica. Nunca apuntes demasiado alto demasiado rápido: trata cada experiencia de aprendizaje como un paso esencial para sentar las bases de tu futuro.",
+    "description": "Sostiene entre las manos un enorme pentáculo, con los pies firmemente plantados, y alza con curiosidad y reverencia la mirada hacia la moneda; esa actitud de contemplación hacia arriba simboliza la curiosidad por el mundo material y el respeto ante el camino del aprendizaje. El paje de Oros es el aprendiz de la familia de la tierra; en un prado en flor, está entrando en la realidad con la veneración que merece la materia y el deseo de aprender, dispuesto a acumular con paso seguro la sabiduría de la acumulación. Como si acabara de tocar el misterio del mundo material, sus pasos firmes guardan la promesa de una cosecha abundante y un crecimiento futuro. El corazón pragmático está listo para echar raíces."
+  },
+  {
+    "cardKey": "knight_of_pentacles",
+    "englishName": "Knight of Pentacles",
+    "name": "Caballero de Oros",
+    "element": "Tierra",
+    "planet": null,
+    "zodiac": null,
+    "keywords": [
+      "Firmeza",
+      "Confiabilidad",
+      "Persistencia",
+      "Lentitud"
+    ],
+    "uprightKeywords": [
+      "diligencia",
+      "estabilidad",
+      "persistencia"
+    ],
+    "reversedKeywords": [
+      "pausa",
+      "terquedad",
+      "pereza"
+    ],
+    "meaning": "El Caballero de Pentáculos significa el trekking constante y el cultivo tenaz. Avanzando hacia los objetivos materiales con un paso tranquilo pero inquebrantable: la encarnación de la responsabilidad y la resistencia, diligente, confiable y lleno de perseverancia. Esforzarse mucho sigue requiriendo mirar por dónde caminas. Mantén un ritmo constante y honra los compromisos a través del esfuerzo continuo; el tiempo dará testimonio. Pero la tenacidad puede volverse terquedad: mientras persistes hacia tu objetivo, también observa los cambios en el entorno, no sea que vayas demasiado lejos por el camino equivocado para dar la vuelta.",
+    "description": "El caballero de Oros es el diligente administrador de la hacienda; monta un caballo negro y avanza lento y firme junto al trono tirado por bueyes negros. El caballo negro simboliza los pasos sólidos y la vinculación con la tierra. Con una mano sostiene el pentáculo y con la mirada fija en el suelo contempla estas tierras; el casco está decorado con una cabeza de toro, y de la armadura brotan plantas verdes, signo de la convivencia con la naturaleza y la vitalidad del crecimiento. Este labrador incansable avanza despacio pero nunca retrocede; con sentido de la responsabilidad y tesón va adelantando paso a paso, a la espera de la cosecha otoñal. La perseverancia pragmática avanza con firmeza."
+  },
+  {
+    "cardKey": "queen_of_pentacles",
+    "englishName": "Queen of Pentacles",
+    "name": "Reina de Oros",
+    "element": "Tierra",
+    "planet": null,
+    "zodiac": "Capricornio",
+    "keywords": [
+      "Nutrición",
+      "Pragmatismo",
+      "Seguridad",
+      "Cuidado"
+    ],
+    "uprightKeywords": [
+      "practicidad",
+      "cuidar",
+      "abundancia"
+    ],
+    "reversedKeywords": [
+      "carencia",
+      "descuido",
+      "desorden"
+    ],
+    "meaning": "La Reina de Pentáculos trata sobre la nutrición abundante y el buen gusto práctico. Transformando la abundancia material en un sustento cuidadoso de la vida y los demás: cálida, próspera y muy fundamentada, creando hábilmente un entorno estable y cómodo. Pero el ama de casa también debe cuidar de sí misma. Confía en tu propia capacidad para crear y nutrir, saborea la belleza en el mundo cotidiano, convierte el cuidado en apoyo práctico; pero no te conviertas en preocupación excesiva o materialismo. Mantener la riqueza y la tranquilidad interiores: esa es la verdadera prosperidad.",
+    "description": "En el centro de un bosque exuberante, una mujer coronada de flores está sentada en un trono en flor; sobre las rodillas reposa un pentáculo que acaricia con ternura. El gesto de acariciar simboliza el cuidado y el cultivo de la riqueza; el conejo y la vid a su lado evocan la abundancia y la proliferación. La reina de Oros es la sacerdotisa de la Diosa Tierra; transforma el afecto en una atención concreta y cuida con suavidad el crecimiento de la riqueza. Esta cálida madre terrena hace que todo eche raíces y germine, y la plenitud gestante nutre las raíces de la vida."
+  },
+  {
+    "cardKey": "king_of_pentacles",
+    "englishName": "King of Pentacles",
+    "name": "Rey de Oros",
+    "element": "Tierra",
+    "planet": null,
+    "zodiac": "Tauro",
+    "keywords": [
+      "Riqueza",
+      "Éxito",
+      "Solidez",
+      "Gestión"
+    ],
+    "uprightKeywords": [
+      "riqueza",
+      "éxito",
+      "seguridad"
+    ],
+    "reversedKeywords": [
+      "codicia",
+      "corrupción",
+      "inmovilismo"
+    ],
+    "meaning": "El Rey de Pentáculos se centra en la cima del logro mundano y el timonel de la abundancia. Llevando el poder y el logro en el mundo material a la cima: el amo absoluto de la riqueza y el orden, estable, próspero y muy prestigioso, asegurando la prosperidad a través de una excelente gestión financiera. Un verdadero líder debe tener amplitud de visión. Planifica la riqueza con una perspectiva a largo plazo, cumple tus compromisos y sé un pilar sólido para los demás. La cima del poder engendra fácilmente arrogancia; guárdate del apego a las cosas materiales. Solo empuñando la riqueza con tolerancia y generosidad se logra la verdadera riqueza real.",
+    "description": "El rey de Oros es el magnate financiero de la familia de la tierra; vestido de verde, está sentado en un imponente trono de toro negro ante un castillo majestuoso; el manto lleva bordadas uvas y cabezas de toro, emblemas de la prosperidad material más plena y de la riqueza del dominio. Con la corona de flores en la cabeza, el cetro en una mano y el pentáculo en la otra, y los pies posados sobre una tierra cubierta de flores, el castillo representa los logros mundanos construidos con solidez. Como soberano supremo del mundo material, ejercita el control absoluto y la prudencia estable. La riqueza y el orden alcanzan en sus manos una prosperidad extrema, y el cénit mundano edifica un imperio en la realidad."
+  }
+]

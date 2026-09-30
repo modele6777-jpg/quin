@@ -1,0 +1,9 @@
+package defpackage;
+
+import java.util.List;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+public interface h8e {
+    void a(List list, gm1 gm1Var, float f, float f2);
+}

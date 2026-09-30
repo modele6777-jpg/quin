@@ -1,0 +1,470 @@
+[
+  {
+    "cardKey": "the_fool",
+    "answer": "Maybe",
+    "tagline": "Take the step, the world awaits",
+    "reading": "The Fool stands at the cliff's edge with a light pack, eyes on the wind and horizon. It’s not blind ignorance of the cracks ahead, but choosing curiosity over fear. The true answer is hidden right where your foot lands."
+  },
+  {
+    "cardKey": "the_magician",
+    "answer": "Yes",
+    "tagline": "You hold what you need, the time is now",
+    "reading": "Wands, Cups, Swords, and Pentacles lie before you. The elements are gathered. The universe has given its blessing; you lack nothing but the spark to begin."
+  },
+  {
+    "cardKey": "the_high_priestess",
+    "answer": "Maybe",
+    "tagline": "Look within, the answer is already there",
+    "reading": "She sits before the veil, guarding secrets words cannot hold. She reminds you that true guidance lives quietly in your heart. Sit in stillness, and it will speak."
+  },
+  {
+    "cardKey": "the_empress",
+    "answer": "Yes",
+    "tagline": "Abundance is on its way, open up to receive it",
+    "reading": "The Empress sits in a field of flowers, naturally overflowing with grace. The universe never forces its gifts; simply open your hands, and the good things coming your way will fall right in."
+  },
+  {
+    "cardKey": "the_emperor",
+    "answer": "Yes",
+    "tagline": "Roots run deep, stride forward now",
+    "reading": "The Emperor sits firmly, his gaze unwavering. The foundation is set, the path is paved. This is not a moment for waiting; it is time to step forward with authority."
+  },
+  {
+    "cardKey": "the_hierophant",
+    "answer": "Maybe",
+    "tagline": "Old paths hold their own hidden wisdom",
+    "reading": "Holding his staff, the Hierophant passes down time-tested truths. Don’t rush to forge a new trail just yet. Look back at why the old ways worked, then decide."
+  },
+  {
+    "cardKey": "the_lovers",
+    "answer": "Yes",
+    "tagline": "Your heart already knows, follow its lead",
+    "reading": "Two souls meet under the angel's quiet gaze. True choices are never made by logic alone. That gentle voice in your heart has already spoken—just follow it."
+  },
+  {
+    "cardKey": "the_chariot",
+    "answer": "Maybe",
+    "tagline": "The finish line is close, hold the reins steady",
+    "reading": "The charioteer guides two beasts of opposing wills, balancing power through pure focus. Victory is within reach, and right now, the one thing you cannot do is let go."
+  },
+  {
+    "cardKey": "strength",
+    "answer": "Yes",
+    "tagline": "Stay centered, this quiet certainty is your power",
+    "reading": "Human and beast meet gaze to gaze—no force, just a calm understanding. True strength is never loud; it lives in that fearless place of inner peace. Stay grounded, and the world will yield."
+  },
+  {
+    "cardKey": "the_hermit",
+    "answer": "No",
+    "tagline": "Spend time with yourself before looking outward",
+    "reading": "The Hermit holds his lantern high on the peak. He isn't lost; he chose to pause. Now is not the time to seek answers from the world. Look inward first, and the path will clear."
+  },
+  {
+    "cardKey": "wheel_of_fortune",
+    "answer": "Maybe",
+    "tagline": "The wheel turns, just wait for it to settle",
+    "reading": "The Wheel of Fortune spins softly. There is no need to force it to stop. The direction of change is yet to be revealed—wait patiently for the dust to settle."
+  },
+  {
+    "cardKey": "justice",
+    "answer": "Maybe",
+    "tagline": "Let your inner scales give you the answer",
+    "reading": "Lady Justice holds her sword and scales, weighing every truth impartially. Pause and ask yourself: does this choice align with your deepest values? The answer lies on those scales."
+  },
+  {
+    "cardKey": "the_hanged_man",
+    "answer": "No",
+    "tagline": "Look at it upside down, everything might change",
+    "reading": "The Hanged Man hangs peacefully, his face serene with newfound clarity. This isn't the time to push forward. Shift your perspective, and the world will offer a different answer."
+  },
+  {
+    "cardKey": "death",
+    "answer": "No",
+    "tagline": "After the period comes the true beginning",
+    "reading": "Death rides in, sweeping away old forms, not life itself. A chapter has reached its natural end. Say a proper goodbye and let it go, so new encounters have a place to land."
+  },
+  {
+    "cardKey": "temperance",
+    "answer": "Maybe",
+    "tagline": "No rush, weigh it carefully",
+    "reading": "The Angel of Temperance pours softly between two cups, finding that perfect ratio. Some things require delicate balance. Quiet down, feel for that harmonious point, and then step forward."
+  },
+  {
+    "cardKey": "the_devil",
+    "answer": "No",
+    "tagline": "See clearly what is truly holding you back",
+    "reading": "The chains on the two figures are loose; they can leave whenever they wish. Before making a move, look closely at what is tricking you into thinking you are trapped."
+  },
+  {
+    "cardKey": "the_tower",
+    "answer": "No",
+    "tagline": "It falls so something stronger can be built",
+    "reading": "The Tower crumbles under lightning, old structures shattering in an instant. This is not the end, it’s a clearing. Let go of what is falling so deeper roots can grow."
+  },
+  {
+    "cardKey": "the_star",
+    "answer": "Yes",
+    "tagline": "The light has always been there, it will find you",
+    "reading": "The Star hangs quietly after the storm. The light never truly vanished; it was only hidden. The universe says yes—that guiding light is still there, and it will shine on you."
+  },
+  {
+    "cardKey": "the_moon",
+    "answer": "Maybe",
+    "tagline": "Stop thinking, close your eyes and feel the answer",
+    "reading": "The Moon casts a shimmering light, the path winding through silver and shadow. It’s okay if you can’t see clearly. Logic isn't needed right now. Pause and feel your inner voice; it is closer to the truth than any analysis."
+  },
+  {
+    "cardKey": "the_sun",
+    "answer": "Yes",
+    "tagline": "The path is lit, walk it with confidence",
+    "reading": "The Sun shines with absolute clarity—no shadows, no hesitation. The universe is giving you an unshielded 'Yes.' This is the purest affirmation. No need to double-check, just walk; this path is right."
+  },
+  {
+    "cardKey": "judgement",
+    "answer": "Maybe",
+    "tagline": "Give yourself an honest look back",
+    "reading": "The angel sounds the trumpet, and sleeping souls rise to face the light. This card invites you to reflect on your journey honestly. Reflection isn't punishment; it's waking up to the calling that was always there."
+  },
+  {
+    "cardKey": "the_world",
+    "answer": "Yes",
+    "tagline": "You made it here, it’s time to celebrate",
+    "reading": "The World dancer moves gracefully within the laurel wreath. A complete cycle has reached its beautiful conclusion. Take a moment to stop and truly celebrate this milestone."
+  },
+  {
+    "cardKey": "ace_of_wands",
+    "answer": "Yes",
+    "tagline": "Sparks are flying, set off while inspiration is hot",
+    "reading": "A hand from the clouds holds a burning wand. Pure creativity and the urge to act are merging right now. While the spark is bright, make your move."
+  },
+  {
+    "cardKey": "two_of_wands",
+    "answer": "Maybe",
+    "tagline": "The view isn't clear yet, stand a little longer",
+    "reading": "The figure holds a globe, gazing far ahead with both longing and caution. Don’t rush to leave. Assess the landscape first, then make your decision with care."
+  },
+  {
+    "cardKey": "three_of_wands",
+    "answer": "Yes",
+    "tagline": "The horizon is here, it’s time to set sail",
+    "reading": "Standing by the shore, the ships have already begun their journey. The direction is set, the destination is in sight. The only thing left to do now is go."
+  },
+  {
+    "cardKey": "four_of_wands",
+    "answer": "Yes",
+    "tagline": "Enjoy this moment of joy, you earned it",
+    "reading": "Four wands hold up a garland as people celebrate below. This joyful pause is the reward of your hard work. Don’t rush to the next step; immerse yourself in the present."
+  },
+  {
+    "cardKey": "five_of_wands",
+    "answer": "No",
+    "tagline": "This fight drains more than it gains, step away",
+    "reading": "Five people swing their wands in a chaotic clash. Staying here costs more than you’ll ever win. Stepping out of this drama isn't a defeat, it’s a moment of clarity."
+  },
+  {
+    "cardKey": "six_of_wands",
+    "answer": "Yes",
+    "tagline": "Your efforts have been seen and recognized",
+    "reading": "The knight returns crowned in laurel, welcomed by the cheering crowd. This recognition is real. The world has given its validation; don't doubt it, just accept it gracefully."
+  },
+  {
+    "cardKey": "seven_of_wands",
+    "answer": "Maybe",
+    "tagline": "To hold or to let go, think it through first",
+    "reading": "Standing on high ground, you fend off challenges alone. Guarding this position takes a toll. Ask yourself if it's truly worth the cost before deciding to hold the line."
+  },
+  {
+    "cardKey": "eight_of_wands",
+    "answer": "Yes",
+    "tagline": "The wind is right, now is the time to move fast",
+    "reading": "Eight wands streak across the sky, aligned and unstoppable. The wind is at your back. This isn't the time to overanalyze—catch the momentum and move quickly."
+  },
+  {
+    "cardKey": "nine_of_wands",
+    "answer": "Maybe",
+    "tagline": "It wasn't easy getting here, catch your breath",
+    "reading": "The weary warrior leans on his staff, defending the boundaries he built. You've come so far and carried so much. Take a deep breath right now before planning your next step."
+  },
+  {
+    "cardKey": "ten_of_wands",
+    "answer": "Maybe",
+    "tagline": "You've come a long way, the end is near",
+    "reading": "Bowed under the weight of ten wands, the destination is finally in sight. The burden is heavy, and you've endured a lot. If you can keep going, the finish line is close; if you can't, it's okay to drop a few."
+  },
+  {
+    "cardKey": "page_of_wands",
+    "answer": "Yes",
+    "tagline": "Curiosity is your greatest weapon right now",
+    "reading": "The Page holds his wand high, eyes bright with excitement for the unknown. Your most precious asset isn't experience, but that untarnished curiosity. Let it lead you forward."
+  },
+  {
+    "cardKey": "knight_of_wands",
+    "answer": "Yes",
+    "tagline": "Better to move than overthink, clarity comes as you go",
+    "reading": "The Knight charges forward, flames dancing on his helm. Even the perfect plan cannot beat taking actual action. Get moving, and things will naturally fall into place."
+  },
+  {
+    "cardKey": "queen_of_wands",
+    "answer": "Yes",
+    "tagline": "Right now, you are the light itself",
+    "reading": "The Queen sits on her throne with a sunflower and a black cat—poised and radiant. This card mirrors your current state: open, confident, and magnetic. Step out just as you are; you are the answer."
+  },
+  {
+    "cardKey": "king_of_wands",
+    "answer": "Yes",
+    "tagline": "A decision is needed, don't leave it hanging",
+    "reading": "The King sits tall, his gaze clear and decisive. This moment calls for a choice, and the best person to step up and make it is you."
+  },
+  {
+    "cardKey": "ace_of_cups",
+    "answer": "Yes",
+    "tagline": "The heart's door is open, let feelings flow",
+    "reading": "A cup is offered from the clouds, a dove descends—all is well. The spring of emotion has opened. Simply open yourself and let the gentle waters flow in."
+  },
+  {
+    "cardKey": "two_of_cups",
+    "answer": "Yes",
+    "tagline": "Two hearts have found the same frequency",
+    "reading": "Facing each other with cups raised, the caduceus witnesses their meeting. The resonance between hearts is real. No need to second-guess it; just trust the connection."
+  },
+  {
+    "cardKey": "three_of_cups",
+    "answer": "Yes",
+    "tagline": "Good things are meant to be shared, go celebrate",
+    "reading": "Three women dance with cups raised, surrounded by blooming fruits. Joy like this shouldn't be kept secret. Find the ones you cherish and celebrate this moment together."
+  },
+  {
+    "cardKey": "four_of_cups",
+    "answer": "No",
+    "tagline": "You're not ready, and saying no is your right",
+    "reading": "Sitting beneath a tree, the figure ignores the cup offered from the clouds. It's okay if your heart isn't ready. You have the right to decline, and you owe no one an explanation."
+  },
+  {
+    "cardKey": "five_of_cups",
+    "answer": "No",
+    "tagline": "Feel this loss fully before moving on",
+    "reading": "Looking down at the spilled cups, the two upright ones behind remain forgotten. Loss needs to be fully felt. When you're done crying, turn around—you haven't lost everything."
+  },
+  {
+    "cardKey": "six_of_cups",
+    "answer": "Maybe",
+    "tagline": "Look back if you must, but don't live there",
+    "reading": "Children exchange flowers, a tender reminder of past innocence. Looking back is fine; the past can give you warmth, but your true answer is still waiting ahead."
+  },
+  {
+    "cardKey": "seven_of_cups",
+    "answer": "Maybe",
+    "tagline": "Too many choices create a fog, quiet down first",
+    "reading": "Seven cups float in the mist, each holding a tempting illusion. An abundance of options can feel like chaos. Calm your heart first, then look at them one by one."
+  },
+  {
+    "cardKey": "eight_of_cups",
+    "answer": "No",
+    "tagline": "It's time to walk away, something new awaits",
+    "reading": "Under the moonlight, a figure walks away from eight neatly arranged cups toward the mountains. Leaving isn't failing; it’s a gift to yourself. What truly deserves you is waiting ahead."
+  },
+  {
+    "cardKey": "nine_of_cups",
+    "answer": "Yes",
+    "tagline": "What you desire is already on its way",
+    "reading": "Sitting comfortably with nine cups, genuine joy radiates from the figure. The universe says yes—the very thing you've been waiting for is making its way to you."
+  },
+  {
+    "cardKey": "ten_of_cups",
+    "answer": "Yes",
+    "tagline": "This fulfillment leaves a beautiful trace",
+    "reading": "Ten cups form a rainbow as a family embraces beneath it. This happiness didn't just appear out of nowhere; it was built step by step. It is worthy of your deepest care and protection."
+  },
+  {
+    "cardKey": "page_of_cups",
+    "answer": "Yes",
+    "tagline": "A voice is calling from within, follow it",
+    "reading": "The Page gazes in wonder at the fish leaping from his cup. That quiet, intuitive whisper inside you is often much closer to the truth than any logical analysis."
+  },
+  {
+    "cardKey": "knight_of_cups",
+    "answer": "Yes",
+    "tagline": "Act with true emotion, and the outcome will change",
+    "reading": "The Knight rides slowly, holding his cup like the most precious treasure. Not everything requires a rational mind. Do this with genuine feeling, and you will sense the difference."
+  },
+  {
+    "cardKey": "queen_of_cups",
+    "answer": "Yes",
+    "tagline": "Those feelings are real, trust them",
+    "reading": "Sitting by the water, the Queen gazes softly into her cup, her presence calm and deep. Your feelings are not an overreaction; they are true signals. Trusting them is far better than doubting them."
+  },
+  {
+    "cardKey": "king_of_cups",
+    "answer": "Yes",
+    "tagline": "Emotion and reason are balanced, safe to depart",
+    "reading": "The King rides the waves, navigating emotional waters with mature wisdom. Both heart and mind are perfectly aligned. You can confidently step forward with your decision."
+  },
+  {
+    "cardKey": "ace_of_swords",
+    "answer": "Yes",
+    "tagline": "The truth is revealed, cut away the noise",
+    "reading": "A sword rises from the clouds, piercing through the crown and all illusions. The answer is already sharp and clear. Stop walking in circles; cut the distractions and do what you know is right."
+  },
+  {
+    "cardKey": "two_of_swords",
+    "answer": "Maybe",
+    "tagline": "Both paths hold weight, give yourself a little more time",
+    "reading": "Blindfolded, holding crossed swords by a still sea. Both options carry their own truth. Don't force a decision right this second; give yourself the space to see clearly."
+  },
+  {
+    "cardKey": "three_of_swords",
+    "answer": "No",
+    "tagline": "This choice may bring pain, think carefully",
+    "reading": "Three swords pierce a heart against a rainy, gray sky. This card is a gentle warning: this path may come with heartbreak. It doesn't mean you can't walk it, but ask yourself honestly—are you prepared?"
+  },
+  {
+    "cardKey": "four_of_swords",
+    "answer": "No",
+    "tagline": "Pausing now is how you prepare to start again",
+    "reading": "The knight rests peacefully on a tomb, swords hanging quietly. This pause isn't a defeat; it's a deep recharge. When your energy is full, you'll naturally know when to move."
+  },
+  {
+    "cardKey": "five_of_swords",
+    "answer": "No",
+    "tagline": "This battle may cost more than it wins",
+    "reading": "The figure collects swords with a smirk, but the scene is empty and broken. The price of this conflict might be heavier than you imagine. Stepping away is the clearer, wiser choice."
+  },
+  {
+    "cardKey": "six_of_swords",
+    "answer": "Maybe",
+    "tagline": "Say your goodbyes, new scenery awaits on the other shore",
+    "reading": "The ferryman gently guides the boat across calm waters, six swords standing at the bow. Leaving is simply part of this journey. Only after you say goodbye can you truly arrive."
+  },
+  {
+    "cardKey": "seven_of_swords",
+    "answer": "Yes",
+    "tagline": "You can go, but tread smartly and quietly",
+    "reading": "The figure slips away in the night, knowing exactly what they are doing. You can make your move now, but avoid direct confrontation. Find your own subtle path and walk it smartly."
+  },
+  {
+    "cardKey": "eight_of_swords",
+    "answer": "No",
+    "tagline": "What you believe may be what binds you",
+    "reading": "Blindfolded and surrounded by swords, yet the bindings are loose enough to slip off. What truly paralyzes you isn't the situation itself, but a deeply held belief that you are trapped."
+  },
+  {
+    "cardKey": "nine_of_swords",
+    "answer": "No",
+    "tagline": "Don't make choices in the dark, wait for sunrise",
+    "reading": "Waking in panic, nine swords hang heavy in the dark. The night always makes burdens feel heavier than they are. Wait until the morning light, then look again."
+  },
+  {
+    "cardKey": "ten_of_swords",
+    "answer": "No",
+    "tagline": "This road is closed, let it go completely",
+    "reading": "Pinned down by ten swords, the figure has reached the absolute end. Letting go of this path isn't a failure, it is a necessary release. It is a gift of closure."
+  },
+  {
+    "cardKey": "page_of_swords",
+    "answer": "Maybe",
+    "tagline": "Something is still unseen, wait a moment longer",
+    "reading": "The Page holds his sword high, eyes scanning sharply for every detail. The information isn't fully gathered yet. Deciding now might mean missing something vital. Just wait."
+  },
+  {
+    "cardKey": "knight_of_swords",
+    "answer": "Yes",
+    "tagline": "Once you're clear, charge; chances won't wait forever",
+    "reading": "The Knight rides fast, sword pointing forward as the wind howls. You have the speed, the direction, and the resolve. If your mind is made up, charge. Opportunities won't linger."
+  },
+  {
+    "cardKey": "queen_of_swords",
+    "answer": "Maybe",
+    "tagline": "Set feelings aside for now, let logic lead",
+    "reading": "The Queen sits high, sword raised straight, her gaze cool and sharp. This matter requires a clear, rational mind. Put emotions gently to the side and re-evaluate with pure logic."
+  },
+  {
+    "cardKey": "king_of_swords",
+    "answer": "Yes",
+    "tagline": "The logical answer is within you, trust it",
+    "reading": "The King sits tall, sword forward, eyes as clear as an eagle's. You've analyzed everything there is to analyze. The answer is there; trust your intellect and execute the plan."
+  },
+  {
+    "cardKey": "ace_of_pentacles",
+    "answer": "Yes",
+    "tagline": "This opportunity is real, reach out and ground it",
+    "reading": "A hand offers a golden coin over a lush, blooming garden. This chance isn't an illusion; it's something tangible you can build on. Reach out and take it firmly."
+  },
+  {
+    "cardKey": "two_of_pentacles",
+    "answer": "Maybe",
+    "tagline": "Balancing both takes time, find your own rhythm first",
+    "reading": "Balancing two coins against the rolling waves. Juggling two things is possible, but only if you find that steady, internal rhythm first. Take your time to stabilize."
+  },
+  {
+    "cardKey": "three_of_pentacles",
+    "answer": "Yes",
+    "tagline": "You can't carry this alone, build it with others",
+    "reading": "The craftsman consults with others under the archway, working in harmony. Some weights shouldn't be carried solo. Find the right people to collaborate with; the outcome will be so much better."
+  },
+  {
+    "cardKey": "four_of_pentacles",
+    "answer": "No",
+    "tagline": "You're holding on too tight, try softening your grip",
+    "reading": "The figure clutches four coins, refusing to look away for even a second. Obsessing over keeping things can become draining. Try opening your hands just a little and see what happens."
+  },
+  {
+    "cardKey": "five_of_pentacles",
+    "answer": "No",
+    "tagline": "It's harsh right now, but help is closer than you think",
+    "reading": "Walking through the snow, the warm light of the stained glass goes unnoticed. It is genuinely hard right now, but you are not as alone as you feel. Look up; help is right nearby."
+  },
+  {
+    "cardKey": "six_of_pentacles",
+    "answer": "Yes",
+    "tagline": "Give freely, your efforts will find their way back",
+    "reading": "The wealthy man weighs his coins, giving generously. Kindness flows quietly between giving and receiving. True generosity is never wasted; it returns in ways you least expect. But know your place in the dynamic, and ask for help if needed."
+  },
+  {
+    "cardKey": "seven_of_pentacles",
+    "answer": "Maybe",
+    "tagline": "You've nurtured it this long, it's time to review the harvest",
+    "reading": "The farmer leans on his hoe, gazing thoughtfully at the heavy coins on the vine. You've planted and waited for so long. Now is the time to pause, assess the growth, and reconsider your next step."
+  },
+  {
+    "cardKey": "eight_of_pentacles",
+    "answer": "Yes",
+    "tagline": "Focus on the task at hand, the rest will follow",
+    "reading": "The craftsman is entirely absorbed in carving the coin, his finished work lined up neatly. Don't look too far ahead. Do this one task beautifully, and everything else will naturally fall into place."
+  },
+  {
+    "cardKey": "nine_of_pentacles",
+    "answer": "Yes",
+    "tagline": "This is all for you, savor the beauty of it",
+    "reading": "The woman stands independently in her vineyard, a falcon on her arm, surrounded by her own cultivated abundance. No one can take this away from you. Take a deep breath and enjoy it."
+  },
+  {
+    "cardKey": "ten_of_pentacles",
+    "answer": "Yes",
+    "tagline": "This quiet accumulation is building lasting success",
+    "reading": "Generations gather in the courtyard, coins forming the tree of life. These slow, steady steps of progress are quietly growing into roots that will support you forever."
+  },
+  {
+    "cardKey": "page_of_pentacles",
+    "answer": "Yes",
+    "tagline": "It's okay not to know; focus on the tactile work in front of you",
+    "reading": "The Page holds the coin gently, studying it with deep, focused curiosity. Ignorance isn't a block, but a lack of focus is. Learn step by step, and the mastery will come."
+  },
+  {
+    "cardKey": "knight_of_pentacles",
+    "answer": "Maybe",
+    "tagline": "You don't need to be the fastest, just the steadiest",
+    "reading": "The Knight rides slowly, his eyes calmly fixed on the coin. This path doesn't require speed to prove anything. Plant every step firmly; walking slowly is the truest way to be secure."
+  },
+  {
+    "cardKey": "queen_of_pentacles",
+    "answer": "Yes",
+    "tagline": "Nurture your immediate world, then step forward with grace",
+    "reading": "The Queen sits in her lush garden, cradling her coin as life blooms around her. Take care of your present moment and your surroundings. Once you feel grounded, your next steps will be effortless."
+  },
+  {
+    "cardKey": "king_of_pentacles",
+    "answer": "Yes",
+    "tagline": "Your foundation is solid, make this decision with peace",
+    "reading": "The King sits on his vine-wrapped throne, grounded and secure. You have already built a foundation deep enough to hold you. You can make this choice with absolute peace of mind."
+  }
+]

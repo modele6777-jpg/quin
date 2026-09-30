@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="annual_domain_draw_pattern_title">
+        <item>恋愛のカードを1枚引く\n心が向く先を見る</item>
+        <item>学業のカードを1枚引く\n学びのリズムを見る</item>
+        <item>仕事のカードを1枚引く\n今の方向性を聞く</item>
+        <item>お金のカードを1枚引く\n流れを感じる</item>
+        <item>健康のカードを1枚引く\n体の声に気づく</item>
+        <item>人間関係のカードを1枚引く\n相手とのリズムを見る</item>
+        <item>自己成長のカードを1枚引く\n内側の歩みを聞く</item>
+    </array>
+    <array name="annual_monthly_draw_pattern_title">
+        <item>最初の月を引く\n1年をそっと始める</item>
+        <item>もう1枚\n2月の流れを見る</item>
+        <item>3月のカード\n流れが動き出す</item>
+        <item>4月へ\n運命の糸が少し動く</item>
+        <item>5月のカード\n流れに小さく残る</item>
+        <item>6月へ\n上半期の力がまとまる</item>
+        <item>7月が境目\n新しい循環へ</item>
+        <item>8月へ\n新しい循環が広がる</item>
+        <item>9月へ\n時間の弧がはっきりする</item>
+        <item>10月\n物語が少し動く</item>
+        <item>11月\n1年の線が収束する</item>
+        <item>最後は12月\n1年の輪郭が整う</item>
+    </array>
+    <array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>標準</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </array>
+    <array name="onboarding_feedback_comment">
+        <item>どのリーディングも寄り添ってくれて、心が落ち着きます。本当に大好きなアプリです❤️</item>
+        <item>初めての無料リーディングに感動して、今では毎日占っています。優しい友達のようです</item>
+        <item>優しくて共感できる言葉が多く、落ち込んだ時に支えられました。私の年間ベストアプリです✨</item>
+    </array>
+    <array name="onboarding_feedback_nickname">
+        <item>みおん（Mion）</item>
+        <item>こはる</item>
+        <item>すみれ</item>
+    </array>
+    <array name="personality_rating_label">
+        <item>全く当てはまらない</item>
+        <item>あまり当てはまらない</item>
+        <item>どちらでもない</item>
+        <item>やや当てはまる</item>
+        <item>とても当てはまる</item>
+    </array>
+    <array name="tips_items">
+        <item>最大100回まで</item>
+        <item>すべての特典回数は365日間有効です</item>
+        <item>月→年パス変更時は年パス特典のみ</item>
+        <item>新規ユーザー限定</item>
+    </array>
+</resources>

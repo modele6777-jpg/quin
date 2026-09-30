@@ -1,0 +1,53 @@
+package defpackage;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+public final class xwe extends gbe implements l26 {
+    final /* synthetic */ float $offset;
+    int label;
+    final /* synthetic */ zwe this$0;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public xwe(zwe zweVar, float f, xn2 xn2Var) {
+        super(2, xn2Var);
+        this.this$0 = zweVar;
+        this.$offset = f;
+    }
+
+    @Override // defpackage.pt0
+    public final xn2 k(xn2 xn2Var, Object obj) {
+        return new xwe(this.this$0, this.$offset, xn2Var);
+    }
+
+    @Override // defpackage.pt0
+    public final Object r(Object obj) {
+        int i = this.label;
+        if (i == 0) {
+            jzb.q(obj);
+            jx jxVar = this.this$0.H0;
+            if (jxVar != null) {
+                Float f = new Float(this.$offset);
+                zwe zweVar = this.this$0;
+                vz vzVar = zweVar.G0 ? wbe.f : zweVar.F0;
+                this.label = 1;
+                obj = jx.b(jxVar, f, vzVar, null, null, this, 12);
+                bw2 bw2Var = bw2.a;
+                if (obj == bw2Var) {
+                    return bw2Var;
+                }
+            }
+            return wef.a;
+        }
+        if (i != 1) {
+            qc0.p("call to 'resume' before 'invoke' with coroutine");
+            return null;
+        }
+        jzb.q(obj);
+        return wef.a;
+    }
+
+    @Override // defpackage.l26
+    public final Object z(Object obj, Object obj2) {
+        return ((xwe) k((xn2) obj2, (aw2) obj)).r(wef.a);
+    }
+}

@@ -1,0 +1,231 @@
+[
+  {
+    "id": "new-love",
+    "category": "loveRelationship",
+    "title": "Love Energy",
+    "subTitle": "Find out when real love might show up",
+    "shuffleCardHint": "Silently think of your question",
+    "spreadKey": "MOU",
+    "imageURL": "img-truelove-light.webp",
+    "darkImageURL": "img-truelove-dark.webp",
+    "guessQuestions": [
+      "Will I meet new love in the next 3 months?",
+      "I'm sometimes happy, sometimes confused with my current crush. Is this person my destined one?",
+      "When will I meet my destined one next?"
+    ]
+  },
+  {
+    "id": "relationship-insight",
+    "category": "loveRelationship",
+    "title": "Relationship Check",
+    "subTitle": "Understand where this connection is heading",
+    "shuffleCardHint": "Silently think of your question",
+    "spreadKey": "RD",
+    "imageURL": "img-relationship-light.webp",
+    "darkImageURL": "img-relationship-dark.webp",
+    "guessQuestions": [
+      "My relationship with them is stagnant. Will there be progress in the next 3 months?",
+      "We're in a long-distance relationship. How should we maintain it?",
+      "Is this person worth pursuing?",
+      "Should I contact them first during this cold war?",
+      "Is the person on my mind my true love?"
+    ]
+  },
+  {
+    "id": "their-real-thoughts",
+    "category": "loveRelationship",
+    "title": "Their Thoughts",
+    "subTitle": "See what they're really thinking and feeling",
+    "shuffleCardHint": "Silently think of your question",
+    "spreadKey": "TFA",
+    "imageURL": "img-abouthim-light.webp",
+    "darkImageURL": "img-abouthim-dark.webp",
+    "guessQuestions": [
+      "What does this person think about my recent actions?",
+      "They're being hot and cold. What's their true feeling?",
+      "Have they considered our future together?",
+      "What's their true feeling towards me?"
+    ]
+  },
+  {
+    "id": "relationship-reconciliation",
+    "category": "loveRelationship",
+    "title": "Breakup/Back",
+    "subTitle": "Find out if reconciliation is still possible",
+    "shuffleCardHint": "Silently think of your question",
+    "spreadKey": "RD",
+    "imageURL": "img-breakup-light.webp",
+    "darkImageURL": "img-breakup-dark.webp",
+    "guessQuestions": [
+      "What's the possibility of getting back together in 3 months?",
+      "Should I reach out first? Will their reaction be positive or negative?",
+      "Should I continue or let go of this relationship?",
+      "What actions will they take regarding this relationship?"
+    ]
+  },
+  {
+    "id": "yes-or-no",
+    "category": "popular",
+    "title": "Yes/No",
+    "subTitle": "Get a clear answer in seconds",
+    "shuffleCardHint": "Silently think of your question",
+    "spreadKey": "S",
+    "imageURL": "img-yesorno-light.webp",
+    "darkImageURL": "img-yesorno-dark.webp",
+    "guessQuestions": [
+      "Should I confess to them?",
+      "Should I accept this offer now?",
+      "Should I listen to my friends/family’s advice?"
+    ]
+  },
+  {
+    "id": "choose-between-two",
+    "category": "other",
+    "title": "This/That",
+    "subTitle": "Torn between two? Make the right call",
+    "shuffleCardHint": "Silently think of your options.",
+    "spreadKey": "ABS",
+    "imageURL": "img-oneoftwo-light.webp",
+    "darkImageURL": "img-oneoftwo-dark.webp",
+    "guessQuestions": [
+      "Should I contact them first or wait?",
+      "Should I stay or quit my current job?"
+    ]
+  },
+  {
+    "id": "choose-from-three",
+    "category": "other",
+    "title": "Pick one (3)",
+    "subTitle": "Compare three choices and spot the best one",
+    "shuffleCardHint": "Silently think of your options",
+    "spreadKey": "ABCS",
+    "imageURL": "img-oneofthree-light.webp",
+    "darkImageURL": "img-oneofthree-dark.webp",
+    "guessQuestions": [
+      "Where should I travel this coming vacation?",
+      "Who should I hang out with this weekend for the best experience?",
+      "Which major should I choose?"
+    ]
+  },
+  {
+    "id": "shopping-decision",
+    "category": "popular",
+    "title": "Buy or Skip",
+    "subTitle": "See if this purchase is really worth it",
+    "shuffleCardHint": "Silently think of the item you want to buy",
+    "spreadKey": "BNS",
+    "imageURL": "img-shopping-light.webp",
+    "darkImageURL": "img-shopping-dark.webp",
+    "guessQuestions": [
+      "Will buying this make me happy?",
+      "Should I buy the item I'm thinking of?"
+    ]
+  },
+  {
+    "id": "exam-luck",
+    "category": "academicCareer",
+    "title": "Exam Reading",
+    "subTitle": "Get insight and confidence before your exam",
+    "shuffleCardHint": "Silently think of your question",
+    "spreadKey": "P",
+    "imageURL": "img-exam-light.webp",
+    "darkImageURL": "img-exam-dark.webp",
+    "guessQuestions": [
+      "How will my exam luck be next month?",
+      "Can I pass this exam successfully?",
+      "What should I focus on during revision?"
+    ]
+  },
+  {
+    "id": "event-prediction",
+    "category": "other",
+    "title": "What Happens Next",
+    "subTitle": "Preview how a specific situation may unfold",
+    "shuffleCardHint": "Silently think of your question",
+    "spreadKey": "SAO",
+    "imageURL": "img-specificevents-light.webp",
+    "darkImageURL": "img-specificevents-dark.webp",
+    "guessQuestions": [
+      "Will my planned trip go smoothly?",
+      "I want to confess. Will they accept?",
+      "How will my current worries unfold in 3 months?"
+    ]
+  },
+  {
+    "id": "daily-outfit-tips",
+    "category": "popular",
+    "title": "Outfit Check",
+    "subTitle": "Pick the right look to boost your vibe",
+    "spreadKey": "TOG",
+    "imageURL": "img-ootd-light.webp",
+    "darkImageURL": "img-ootd-dark.webp",
+    "guessQuestions": [
+      "What outfit suits today's occasion?",
+      "Which clothing color brings good luck today?",
+      "Which accessories boost today's luck?"
+    ]
+  },
+  {
+    "id": "health-status",
+    "category": "other",
+    "title": "Health Vibes",
+    "subTitle": "Notice subtle signals from your body and mood",
+    "shuffleCardHint": "Silently think of your question",
+    "spreadKey": "PPF",
+    "imageURL": "img-health-light.webp",
+    "darkImageURL": "img-health-dark.webp",
+    "guessQuestions": [
+      "How will my health be in the next 3 months?",
+      "Any health concerns I should notice in 3 months?",
+      "How should I improve my lifestyle for better health?"
+    ]
+  },
+  {
+    "id": "social-relations",
+    "category": "other",
+    "title": "Friendship Check",
+    "subTitle": "Understand the dynamics in your relationships",
+    "shuffleCardHint": "Silently think of your question",
+    "spreadKey": "MOU",
+    "imageURL": "img-interpersonal-light.webp",
+    "darkImageURL": "img-interpersonal-dark.webp",
+    "guessQuestions": [
+      "How's my relationship with my crush recently?",
+      "How's my relationship with this friend recently?",
+      "What's the hidden issue in my current relationship?",
+      "How should I handle family relationships recently?"
+    ]
+  },
+  {
+    "id": "job-opportunities",
+    "category": "academicCareer",
+    "title": "Job Timing",
+    "subTitle": "See when new opportunities might appear",
+    "shuffleCardHint": "Silently think of your question",
+    "spreadKey": "JI",
+    "imageURL": "img-jobseeking-light.webp",
+    "darkImageURL": "img-jobseeking-dark.webp",
+    "guessQuestions": [
+      "Will I find new job opportunities in 3 months?",
+      "Will the current project go smoothly?",
+      "Can I pass the interview smoothly?",
+      "Will my recent job applications get responses?"
+    ]
+  },
+  {
+    "id": "career-path",
+    "category": "academicCareer",
+    "title": "Career Move",
+    "subTitle": "Clarify your next step—stay or go",
+    "shuffleCardHint": "Silently think of your question",
+    "spreadKey": "P",
+    "imageURL": "img-career-light.webp",
+    "darkImageURL": "img-career-dark.webp",
+    "guessQuestions": [
+      "What's my career outlook for the next 3 months?",
+      "Should I switch jobs or careers?",
+      "I'm stuck and confused at work. How can I break through?",
+      "Can I change my job successfully next month?"
+    ]
+  }
+]

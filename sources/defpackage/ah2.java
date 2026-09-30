@@ -1,0 +1,35 @@
+package defpackage;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+public final class ah2 implements vpb {
+    public final aw2 a;
+
+    public ah2(aw2 aw2Var) {
+        this.a = aw2Var;
+    }
+
+    @Override // defpackage.vpb
+    public final void a() {
+        aw2 aw2Var = this.a;
+        if (aw2Var instanceof xpb) {
+            ((xpb) aw2Var).b();
+        } else {
+            jgb.I(aw2Var, new e28());
+        }
+    }
+
+    @Override // defpackage.vpb
+    public final void c() {
+        aw2 aw2Var = this.a;
+        if (aw2Var instanceof xpb) {
+            ((xpb) aw2Var).b();
+        } else {
+            jgb.I(aw2Var, new e28());
+        }
+    }
+
+    @Override // defpackage.vpb
+    public final void d() {
+    }
+}

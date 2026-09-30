@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="annual_domain_draw_pattern_title">
+        <item>Saca una carta de Amor\nMira hacia dónde va tu corazón</item>
+        <item>Saca una carta de Estudios\nMira tu ritmo de estudio</item>
+        <item>Saca una carta de Carrera\nEscucha hacia dónde va tu rumbo</item>
+        <item>Saca una carta de Dinero\nSiente el flujo</item>
+        <item>Saca una carta de Salud\nEscucha tu cuerpo</item>
+        <item>Saca una carta de Relaciones\nMira tu ritmo con los demás</item>
+        <item>Saca una carta de Crecimiento\nEscucha tu ritmo interior</item>
+    </array>
+    <array name="annual_monthly_draw_pattern_title">
+        <item>Saca tu primer mes\nQue el año empiece</item>
+        <item>Una más\nMira febrero</item>
+        <item>Carta de marzo\nEl ritmo avanza</item>
+        <item>Llega abril\nMira hacia dónde se mueve el destino</item>
+        <item>Carta de mayo\nDeja una huella suave</item>
+        <item>Llega junio\nSe cierra la primera mitad</item>
+        <item>Julio marca el corte\nEmpieza un nuevo ciclo</item>
+        <item>Entra agosto\nEl ciclo se despliega</item>
+        <item>Septiembre\nLa curva del tiempo se aclara</item>
+        <item>Octubre\nLa historia gira un poco</item>
+        <item>Noviembre\nEl año se va cerrando</item>
+        <item>Por fin diciembre\nEl año toma forma</item>
+    </array>
+    <array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normal</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </array>
+    <array name="onboarding_feedback_comment">
+        <item>Cada lectura me hace sentir comprendida y en calma. Amo esta app ❤️</item>
+        <item>La primera lectura gratis me sorprendió. Ahora entro cada día, es como una amiga dulce</item>
+        <item>Palabras que llegan al alma. Me acompañó en momentos difíciles — mi app favorita del año ✨</item>
+    </array>
+    <array name="onboarding_feedback_nickname">
+        <item>ClaraSoul</item>
+        <item>Luzina</item>
+        <item>AlmaSerena</item>
+    </array>
+    <array name="tips_items">
+        <item>Hasta 100 lecturas gratis</item>
+        <item>Todos los usos de bonus son válidos por 365 días</item>
+        <item>Solo aplica la recompensa anual</item>
+        <item>Solo para nuevas usuarias</item>
+    </array>
+</resources>

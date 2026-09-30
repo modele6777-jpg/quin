@@ -1,0 +1,231 @@
+[
+  {
+    "id": "new-love",
+    "category": "loveRelationship",
+    "title": "桃花正緣",
+    "subTitle": "預測你的正緣什麼時候出現",
+    "shuffleCardHint": "在心中默念你的問題",
+    "spreadKey": "MOU",
+    "imageURL": "img-truelove-light.webp",
+    "darkImageURL": "img-truelove-dark.webp",
+    "guessQuestions": [
+      "未來三個月內，我是否會遇到新的桃花？",
+      "和現在的曖昧對象相處忽冷忽熱，對方是我的正緣嗎？",
+      "下一次遇到正緣會是什麼時候？"
+    ]
+  },
+  {
+    "id": "relationship-insight",
+    "category": "loveRelationship",
+    "title": "關係預測",
+    "subTitle": "看清關係走向，早點做決定",
+    "shuffleCardHint": "在心中默念你的問題",
+    "spreadKey": "RD",
+    "imageURL": "img-relationship-light.webp",
+    "darkImageURL": "img-relationship-dark.webp",
+    "guessQuestions": [
+      "我和對方目前關係停滯不前，未來三個月這段感情會有進展嗎？",
+      "我和對方目前是異地戀，應該如何維繫這段關係？",
+      "這個人值得我繼續爭取嗎？",
+      "冷戰中，我要不要主動聯繫對方？",
+      "心裡所想的這個人會是我的正緣嗎？"
+    ]
+  },
+  {
+    "id": "their-real-thoughts",
+    "category": "loveRelationship",
+    "title": "對方的想法和態度",
+    "subTitle": "揭開對方真正的心裡話",
+    "shuffleCardHint": "在心中默念你的問題",
+    "spreadKey": "TFA",
+    "imageURL": "img-abouthim-light.webp",
+    "darkImageURL": "img-abouthim-dark.webp",
+    "guessQuestions": [
+      "對方對我最近的行為/舉動有什麼看法？",
+      "對方最近對我忽冷忽熱，內心的真實想法是什麼？",
+      "對方有考慮過我們的未來嗎？有考慮和我長期發展嗎？",
+      "對方目前對我的真實想法是什麼？"
+    ]
+  },
+  {
+    "id": "relationship-reconciliation",
+    "category": "loveRelationship",
+    "title": "分手挽回",
+    "subTitle": "還有機會復合嗎？看看可能性",
+    "shuffleCardHint": "在心中默念你的問題",
+    "spreadKey": "RD",
+    "imageURL": "img-breakup-light.webp",
+    "darkImageURL": "img-breakup-dark.webp",
+    "guessQuestions": [
+      "未來三個月復合的可能性有多大？",
+      "我應該主動聯繫對方嗎，對方的反應會是積極還是消極？",
+      "這段關係是否值得我繼續爭取，還是更適合放手？",
+      "對方會對這段感情採取怎樣的行動？"
+    ]
+  },
+  {
+    "id": "yes-or-no",
+    "category": "popular",
+    "title": "Yes or No",
+    "subTitle": "猶豫不決嗎？幫你快速做決定",
+    "shuffleCardHint": "在心中默念你的問題",
+    "spreadKey": "S",
+    "imageURL": "img-yesorno-light.webp",
+    "darkImageURL": "img-yesorno-dark.webp",
+    "guessQuestions": [
+      "我應該向對方表白嗎？",
+      "我現在應該接受這份offer嗎？",
+      "我該聽從朋友或家人的建議嗎？"
+    ]
+  },
+  {
+    "id": "choose-between-two",
+    "category": "other",
+    "title": "二選一",
+    "subTitle": "難以抉擇嗎？幫你穩穩選對",
+    "shuffleCardHint": "在心中默念你的選項",
+    "spreadKey": "ABS",
+    "imageURL": "img-oneoftwo-light.webp",
+    "darkImageURL": "img-oneoftwo-dark.webp",
+    "guessQuestions": [
+      "我應該主動聯繫對方，還是繼續等待對方聯繫我？",
+      "我應該堅持現在的工作，還是選擇辭職？"
+    ]
+  },
+  {
+    "id": "choose-from-three",
+    "category": "other",
+    "title": "三選一",
+    "subTitle": "三個選項？快速分析選出最適合的",
+    "shuffleCardHint": "在心中默念你的選項",
+    "spreadKey": "ABCS",
+    "imageURL": "img-oneofthree-light.webp",
+    "darkImageURL": "img-oneofthree-dark.webp",
+    "guessQuestions": [
+      "即將到來的假期，我應該去哪裡旅行？",
+      "這個週末我該和誰出去玩，才能玩得最開心？",
+      "我應該選哪個專業？"
+    ]
+  },
+  {
+    "id": "shopping-decision",
+    "category": "popular",
+    "title": "購物決策",
+    "subTitle": "買了會開心嗎？幫你挑對不後悔",
+    "shuffleCardHint": "在心中默念你想購買的物品",
+    "spreadKey": "BNS",
+    "imageURL": "img-shopping-light.webp",
+    "darkImageURL": "img-shopping-dark.webp",
+    "guessQuestions": [
+      "如果買了這個東西，我會開心嗎？",
+      "心裡想的這個東西，要不要買？"
+    ]
+  },
+  {
+    "id": "exam-luck",
+    "category": "academicCareer",
+    "title": "考試運勢",
+    "subTitle": "預測考試結果，幫你提早準備",
+    "shuffleCardHint": "在心中默念你的問題",
+    "spreadKey": "P",
+    "imageURL": "img-exam-light.webp",
+    "darkImageURL": "img-exam-dark.webp",
+    "guessQuestions": [
+      "接下來一個月的考試運勢如何？",
+      "我能順利通過這次考試嗎？",
+      "我這次複習中應該關注的重點是？"
+    ]
+  },
+  {
+    "id": "event-prediction",
+    "category": "other",
+    "title": "特定事件預測",
+    "subTitle": "預知發展，搶先看清局勢",
+    "shuffleCardHint": "在心中默念你的問題",
+    "spreadKey": "SAO",
+    "imageURL": "img-specificevents-light.webp",
+    "darkImageURL": "img-specificevents-dark.webp",
+    "guessQuestions": [
+      "我計劃的旅行會順利嗎？",
+      "我打算向對方表白，對方會接受嗎？",
+      "未來三個月，我正在焦慮的事情結果會如何？"
+    ]
+  },
+  {
+    "id": "daily-outfit-tips",
+    "category": "popular",
+    "title": "每日穿搭提示",
+    "subTitle": "穿得對，好運跟著來",
+    "spreadKey": "TOG",
+    "imageURL": "img-ootd-light.webp",
+    "darkImageURL": "img-ootd-dark.webp",
+    "guessQuestions": [
+      "今天的場合適合怎樣的穿搭？",
+      "今天什麼顏色的衣服能帶來好運？",
+      "今天佩戴什麼配飾能提升運勢？"
+    ]
+  },
+  {
+    "id": "health-status",
+    "category": "other",
+    "title": "健康狀態",
+    "subTitle": "發現身心的小訊號",
+    "shuffleCardHint": "在心中默念你的問題",
+    "spreadKey": "PPF",
+    "imageURL": "img-health-light.webp",
+    "darkImageURL": "img-health-dark.webp",
+    "guessQuestions": [
+      "未來三個月內的健康狀況如何？",
+      "未來三個月內有什麼需要注意的健康問題嗎？",
+      "未來三個月內，應該如何調整生活方式改善健康狀況？"
+    ]
+  },
+  {
+    "id": "social-relations",
+    "category": "other",
+    "title": "人際關係",
+    "subTitle": "看懂友情裡的微妙變化",
+    "shuffleCardHint": "在心中默念你的問題",
+    "spreadKey": "MOU",
+    "imageURL": "img-interpersonal-light.webp",
+    "darkImageURL": "img-interpersonal-dark.webp",
+    "guessQuestions": [
+      "我和暗戀對象最近的關係如何？",
+      "我和心裡這位朋友最近的關係如何？",
+      "我和戀人近期關係中隱藏的問題是什麼？",
+      "近期我該如何處理和家人的關係？"
+    ]
+  },
+  {
+    "id": "job-opportunities",
+    "category": "academicCareer",
+    "title": "求職機會",
+    "subTitle": "好工作什麼時候來？提前掌握機會",
+    "shuffleCardHint": "在心中默念你的問題",
+    "spreadKey": "JI",
+    "imageURL": "img-jobseeking-light.webp",
+    "darkImageURL": "img-jobseeking-dark.webp",
+    "guessQuestions": [
+      "接下來三個月，我能遇到新的工作機會嗎？",
+      "目前在推進的項目會順利嗎？",
+      "我能順利通過面試嗎？",
+      "最近投出的履歷會收到回音嗎？"
+    ]
+  },
+  {
+    "id": "career-path",
+    "category": "academicCareer",
+    "title": "職涯發展",
+    "subTitle": "該轉職還是繼續？看清關鍵時機",
+    "shuffleCardHint": "在心中默念你的問題",
+    "spreadKey": "P",
+    "imageURL": "img-career-light.webp",
+    "darkImageURL": "img-career-dark.webp",
+    "guessQuestions": [
+      "我在目前的公司/職位上，未來三個月的發展前景如何？",
+      "我該跳槽還是轉行？哪個方向比較適合？",
+      "我在工作中感到迷茫和瓶頸，我應該如何突破？",
+      "未來一個月，能成功換工作嗎？"
+    ]
+  }
+]

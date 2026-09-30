@@ -1,0 +1,51 @@
+package defpackage;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+public final class fb {
+    public final long a;
+    public final long b;
+    public final long c;
+    public final long d;
+    public final long e;
+    public final long f;
+
+    public fb(long j, long j2, long j3, long j4, long j5, long j6) {
+        this.a = j;
+        this.b = j2;
+        this.c = j3;
+        this.d = j4;
+        this.e = j5;
+        this.f = j6;
+    }
+
+    public final boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (!(obj instanceof fb)) {
+            return false;
+        }
+        fb fbVar = (fb) obj;
+        long j = fbVar.a;
+        int i = y72.l;
+        return faf.a(this.a, j) && faf.a(this.b, fbVar.b) && faf.a(this.c, fbVar.c) && faf.a(this.d, fbVar.d) && faf.a(this.e, fbVar.e) && faf.a(this.f, fbVar.f);
+    }
+
+    public final int hashCode() {
+        int i = y72.l;
+        return Long.hashCode(this.f) + ib8.b(ib8.b(ib8.b(ib8.b(Long.hashCode(this.a) * 31, 31, this.b), 31, this.c), 31, this.d), 31, this.e);
+    }
+
+    public final String toString() {
+        String strH = y72.h(this.a);
+        String strH2 = y72.h(this.b);
+        String strH3 = y72.h(this.c);
+        String strH4 = y72.h(this.d);
+        String strH5 = y72.h(this.e);
+        String strH6 = y72.h(this.f);
+        StringBuilder sbO = ib8.o("AccountUsageColors(primary=", strH, ", secondary=", strH2, ", tertiary=");
+        ub3.v(sbO, strH3, ", divider=", strH4, ", progressTrack=");
+        return ks0.m(sbO, strH5, ", progressFill=", strH6, ")");
+    }
+}

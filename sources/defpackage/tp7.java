@@ -1,0 +1,27 @@
+package defpackage;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+public final class tp7 extends yp7 {
+    public final double a;
+
+    public tp7(double d) {
+        this.a = d;
+    }
+
+    @Override // defpackage.yp7
+    public final Object a() {
+        return Double.valueOf(this.a);
+    }
+
+    public final boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        return (obj instanceof tp7) && Double.compare(this.a, ((tp7) obj).a) == 0;
+    }
+
+    public final int hashCode() {
+        return Double.hashCode(this.a);
+    }
+}

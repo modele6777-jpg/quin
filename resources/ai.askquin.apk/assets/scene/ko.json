@@ -1,0 +1,231 @@
+[
+  {
+    "id": "new-love",
+    "category": "loveRelationship",
+    "title": "인연 시기",
+    "subTitle": "진짜 인연, 언제 올까?",
+    "shuffleCardHint": "마음속으로 질문을 떠올리세요",
+    "spreadKey": "MOU",
+    "imageURL": "img-truelove-light.webp",
+    "darkImageURL": "img-truelove-dark.webp",
+    "guessQuestions": [
+      "앞으로 3개월 내에 새로운 연애운이 찾아올까요?",
+      "현재 썸타는 상대와 달콤하면서도 혼란스러워요. 이 사람과 운명일까요?",
+      "다음 운명의 상대는 언제 만날까요?"
+    ]
+  },
+  {
+    "id": "relationship-insight",
+    "category": "loveRelationship",
+    "title": "관계 전망",
+    "subTitle": "계속할까, 그만둘까? 방향을 알아봐요",
+    "shuffleCardHint": "마음속으로 질문을 떠올리세요.",
+    "spreadKey": "RD",
+    "imageURL": "img-relationship-light.webp",
+    "darkImageURL": "img-relationship-dark.webp",
+    "guessQuestions": [
+      "현재 상대와 관계가 정체 중인데, 3개월 내 진전이 있을까요?",
+      "현재 장거리 연애 중인데 관계를 어떻게 유지할까요?",
+      "이 사람을 계속 붙잡을 가치가 있나요?",
+      "냉전 중인데 제가 먼저 연락해야 할까요?",
+      "마음속의 이 사람이 제 운명의 상대인가요?"
+    ]
+  },
+  {
+    "id": "their-real-thoughts",
+    "category": "loveRelationship",
+    "title": "그 사람의 속마음",
+    "subTitle": "겉과 속이 다를까? 진심을 확인해요",
+    "shuffleCardHint": "마음속으로 질문을 떠올리세요.",
+    "spreadKey": "TFA",
+    "imageURL": "img-abouthim-light.webp",
+    "darkImageURL": "img-abouthim-dark.webp",
+    "guessQuestions": [
+      "상대는 최근 제 행동을 어떻게 생각하나요?",
+      "최근 상대가 저에게 차갑고 따뜻한데, 진심이 뭔가요?",
+      "상대는 우리 미래를 고려하나요? 장기적 관계를 원하나요?",
+      "지금 상대의 진심은 무엇인가요?"
+    ]
+  },
+  {
+    "id": "relationship-reconciliation",
+    "category": "loveRelationship",
+    "title": "이별 & 재회",
+    "subTitle": "다시 시작할 수 있을까?",
+    "shuffleCardHint": "마음속으로 질문을 떠올리세요.",
+    "spreadKey": "RD",
+    "imageURL": "img-breakup-light.webp",
+    "darkImageURL": "img-breakup-dark.webp",
+    "guessQuestions": [
+      "앞으로 3개월 내 재회 가능성은 얼마나 되나요?",
+      "제가 먼저 연락하면 상대의 반응은 긍정적일까요?",
+      "이 관계를 계속 노력해야 하나요, 놓아야 하나요?",
+      "상대는 앞으로 이 관계에 어떤 행동을 할까요?"
+    ]
+  },
+  {
+    "id": "yes-or-no",
+    "category": "popular",
+    "title": "Yes or No",
+    "subTitle": "고민될 땐, 빠르게 결정 도와줄게요",
+    "shuffleCardHint": "마음속으로 질문을 떠올리세요",
+    "spreadKey": "S",
+    "imageURL": "img-yesorno-light.webp",
+    "darkImageURL": "img-yesorno-dark.webp",
+    "guessQuestions": [
+      "상대에게 고백해야 하나요?",
+      "지금 이 제안을 받아들여야 하나요?",
+      "친구나 가족의 조언을 따라야 하나요?"
+    ]
+  },
+  {
+    "id": "choose-between-two",
+    "category": "other",
+    "title": "이중 선택",
+    "subTitle": "둘 중 하나, 어떻게 고를까?",
+    "shuffleCardHint": "마음속으로 선택지를 떠올리세요.",
+    "spreadKey": "ABS",
+    "imageURL": "img-oneoftwo-light.webp",
+    "darkImageURL": "img-oneoftwo-dark.webp",
+    "guessQuestions": [
+      "제가 먼저 연락할까요, 기다릴까요?",
+      "현재 직장을 계속할까요, 그만둘까요?"
+    ]
+  },
+  {
+    "id": "choose-from-three",
+    "category": "other",
+    "title": "삼중 선택",
+    "subTitle": "3가지 중 뭐가 제일 나을까?",
+    "shuffleCardHint": "마음속으로 선택지를 떠올리세요.",
+    "spreadKey": "ABCS",
+    "imageURL": "img-oneofthree-light.webp",
+    "darkImageURL": "img-oneofthree-dark.webp",
+    "guessQuestions": [
+      "다가오는 휴가에 어디로 여행을 가야 할까요?",
+      "이번 주말 누구와 함께 놀아야 가장 즐거울까요?",
+      "어떤 전공을 선택해야 하나요?"
+    ]
+  },
+  {
+    "id": "shopping-decision",
+    "category": "popular",
+    "title": "쇼핑 결정",
+    "subTitle": "사면 행복할까? 후회 없는 선택을 도와줄게요",
+    "shuffleCardHint": "마음속으로 사고 싶은 물건을 떠올리세요.",
+    "spreadKey": "BNS",
+    "imageURL": "img-shopping-light.webp",
+    "darkImageURL": "img-shopping-dark.webp",
+    "guessQuestions": [
+      "이걸 사면 행복해질까요?",
+      "마음에 둔 물건을 사야 할까요?"
+    ]
+  },
+  {
+    "id": "exam-luck",
+    "category": "academicCareer",
+    "title": "시험 운세",
+    "subTitle": "결과가 궁금해? 미리 확인해요",
+    "shuffleCardHint": "마음속으로 질문을 떠올리세요.",
+    "spreadKey": "P",
+    "imageURL": "img-exam-light.webp",
+    "darkImageURL": "img-exam-dark.webp",
+    "guessQuestions": [
+      "다음 달 시험 운세는 어떤가요?",
+      "이번 시험은 순조롭게 통과할 수 있을까요?",
+      "이번 시험 준비에서 중점적으로 봐야 할 것은 무엇인가요?"
+    ]
+  },
+  {
+    "id": "event-prediction",
+    "category": "other",
+    "title": "특정 상황 예측",
+    "subTitle": "이 일, 앞으로 어떻게 될까?",
+    "shuffleCardHint": "마음속으로 질문을 떠올리세요.",
+    "spreadKey": "SAO",
+    "imageURL": "img-specificevents-light.webp",
+    "darkImageURL": "img-specificevents-dark.webp",
+    "guessQuestions": [
+      "계획 중인 여행은 순조롭게 될까요?",
+      "상대에게 고백하면 받아줄까요?",
+      "현재 걱정하는 일이 3개월 내 어떻게 될까요?"
+    ]
+  },
+  {
+    "id": "daily-outfit-tips",
+    "category": "popular",
+    "title": "오늘의 코디 팁",
+    "subTitle": "뭘 입으면 운이 트일까?",
+    "spreadKey": "TOG",
+    "imageURL": "img-ootd-light.webp",
+    "darkImageURL": "img-ootd-dark.webp",
+    "guessQuestions": [
+      "오늘 상황에 맞는 옷차림은 무엇인가요?",
+      "오늘 행운을 부르는 옷 색깔은 무엇인가요?",
+      "오늘 어떤 액세서리를 하면 행운이 올라갈까요?"
+    ]
+  },
+  {
+    "id": "health-status",
+    "category": "other",
+    "title": "건강 상태",
+    "subTitle": "몸과 마음이 보내는 신호를 놓치지 마세요",
+    "shuffleCardHint": "마음속으로 질문을 떠올리세요.",
+    "spreadKey": "PPF",
+    "imageURL": "img-health-light.webp",
+    "darkImageURL": "img-health-dark.webp",
+    "guessQuestions": [
+      "앞으로 3개월 건강 상태는 어떤가요?",
+      "앞으로 3개월 내 건강에서 주의할 점이 있나요?",
+      "건강 개선을 위해 생활 방식을 어떻게 조정해야 하나요?"
+    ]
+  },
+  {
+    "id": "social-relations",
+    "category": "other",
+    "title": "인간관계",
+    "subTitle": "겉으론 괜찮아 보여도, 변화가 있을지도 몰라요",
+    "shuffleCardHint": "마음속으로 질문을 떠올리세요.",
+    "spreadKey": "MOU",
+    "imageURL": "img-interpersonal-light.webp",
+    "darkImageURL": "img-interpersonal-dark.webp",
+    "guessQuestions": [
+      "짝사랑 상대와 최근 관계는 어떤가요?",
+      "마음속 친구와 최근 관계는 어떤가요?",
+      "연인과의 관계에서 숨겨진 문제는 무엇인가요?",
+      "가족 관계를 최근 어떻게 처리해야 하나요?"
+    ]
+  },
+  {
+    "id": "job-opportunities",
+    "category": "academicCareer",
+    "title": "취업 기회",
+    "subTitle": "좋은 일자리, 언제 올까?",
+    "shuffleCardHint": "마음속으로 질문을 떠올리세요.",
+    "spreadKey": "JI",
+    "imageURL": "img-jobseeking-light.webp",
+    "darkImageURL": "img-jobseeking-dark.webp",
+    "guessQuestions": [
+      "향후 3개월 내 새로운 취업 기회가 있을까요?",
+      "현재 추진 중인 프로젝트는 순조로울까요?",
+      "면접에 성공할 수 있을까요?",
+      "최근 제출한 이력서에 응답이 올까요?"
+    ]
+  },
+  {
+    "id": "career-path",
+    "category": "academicCareer",
+    "title": "커리어 방향",
+    "subTitle": "계속할까, 바꿔볼까? 전환의 타이밍",
+    "shuffleCardHint": "마음속으로 질문을 떠올리세요.",
+    "spreadKey": "P",
+    "imageURL": "img-career-light.webp",
+    "darkImageURL": "img-career-dark.webp",
+    "guessQuestions": [
+      "현재 회사/직위에서 앞으로 3개월 전망은 어떤가요?",
+      "이직이나 전업을 고려해야 하나요? 어떤 방향이 적합할까요?",
+      "일에서 막히고 혼란스러운데, 어떻게 극복해야 하나요?",
+      "다음 달 이직에 성공할 수 있을까요?"
+    ]
+  }
+]

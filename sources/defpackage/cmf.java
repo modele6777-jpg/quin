@@ -1,0 +1,40 @@
+package defpackage;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+public final class cmf extends gbe implements l26 {
+    final /* synthetic */ Object $msgOrError;
+    int label;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public cmf(xn2 xn2Var, Object obj) {
+        super(2, xn2Var);
+        this.$msgOrError = obj;
+    }
+
+    @Override // defpackage.pt0
+    public final xn2 k(xn2 xn2Var, Object obj) {
+        return new cmf(xn2Var, this.$msgOrError);
+    }
+
+    @Override // defpackage.pt0
+    public final Object r(Object obj) {
+        if (this.label != 0) {
+            qc0.p("call to 'resume' before 'invoke' with coroutine");
+            return null;
+        }
+        jzb.q(obj);
+        Object obj2 = this.$msgOrError;
+        obj2.getClass();
+        jcc.k(1, obj2);
+        return wef.a;
+    }
+
+    @Override // defpackage.l26
+    public final Object z(Object obj, Object obj2) {
+        cmf cmfVar = (cmf) k((xn2) obj2, (aw2) obj);
+        wef wefVar = wef.a;
+        cmfVar.r(wefVar);
+        return wefVar;
+    }
+}

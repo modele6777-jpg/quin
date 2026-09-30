@@ -1,0 +1,14 @@
+package androidx.camera.camera2.compat.quirk;
+
+import defpackage.g9b;
+import defpackage.t72;
+import defpackage.z7c;
+import java.util.List;
+import kotlin.Metadata;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+@Metadata(d1 = {"\u0000\n\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\b\u0007\u0018\u00002\u00020\u0001¨\u0006\u0002"}, d2 = {"Landroidx/camera/camera2/compat/quirk/ImageCapturePixelHDRPlusQuirk;", "Lg9b;", "camera-camera2"}, k = 1, mv = {2, 1, 0}, xi = z7c.f)
+public final class ImageCapturePixelHDRPlusQuirk implements g9b {
+    public static final List a = t72.I("Pixel 2", "Pixel 2 XL", "Pixel 3", "Pixel 3 XL");
+}

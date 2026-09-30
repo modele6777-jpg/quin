@@ -1,0 +1,25 @@
+package defpackage;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+public abstract class i37 {
+    public static final void a(String str) {
+        throw new IllegalArgumentException(str);
+    }
+
+    public static final Void b(String str) {
+        throw new IllegalArgumentException(str);
+    }
+
+    public static final void c(String str) {
+        throw new IllegalStateException(str);
+    }
+
+    public static final Void d(String str) {
+        throw new IllegalStateException(str);
+    }
+
+    public static final void e(String str) {
+        throw new IndexOutOfBoundsException(str);
+    }
+}

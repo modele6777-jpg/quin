@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="annual_domain_draw_pattern_title">
+        <item>Draw a Love card\nSee where your heart leans</item>
+        <item>Draw a Studies card\nCheck your study rhythm</item>
+        <item>Draw a Career card\nHear where your direction lands</item>
+        <item>Draw a Money card\nFeel the flow</item>
+        <item>Draw a Health card\nListen to your body</item>
+        <item>Draw a Relationships card\nCheck your rhythm with others</item>
+        <item>Draw a Growth card\nHear your inner pace</item>
+    </array>
+    <array name="annual_monthly_draw_pattern_title">
+        <item>Draw your first month\nLet the year begin</item>
+        <item>Draw again\nSee February\'s vibe</item>
+        <item>March card\nThe pace picks up</item>
+        <item>Into April\nWatch fate shift</item>
+        <item>May card\nA soft mark in the flow</item>
+        <item>June arrives\nFirst half ties together</item>
+        <item>July marks the line\nA new cycle begins</item>
+        <item>Into August\nThe cycle unfolds</item>
+        <item>September\nTime looks clearer</item>
+        <item>October\nThe story shifts a bit</item>
+        <item>November\nThe year starts to close</item>
+        <item>Finally December\nThe year takes shape</item>
+    </array>
+    <array name="c_keywords">
+        <item>Choice Spread</item>
+        <item>Choices Spread</item>
+        <item>二择一牌阵</item>
+        <item>二擇一牌陣</item>
+    </array>
+    <array name="cc_keywords">
+        <item>Celtic Cross Spread</item>
+        <item>凯尔特十字牌阵</item>
+        <item>凱爾特十字牌陣</item>
+    </array>
+    <array name="cps_keywords">
+        <item>Career Path Spread</item>
+        <item>事业路径牌阵</item>
+        <item>事業路徑牌陣</item>
+    </array>
+    <array name="dm_keywords">
+        <item>Decision Making Spread</item>
+        <item>决定牌阵</item>
+        <item>決定牌陣</item>
+    </array>
+    <array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </array>
+    <array name="ga_keywords">
+        <item>Goal Achievement Spread</item>
+        <item>目标达成牌阵</item>
+        <item>目標達成牌陣</item>
+    </array>
+    <array name="ie_keywords">
+        <item>Inner Exploration Spread</item>
+        <item>内在探索牌阵</item>
+        <item>內在探索牌陣</item>
+    </array>
+    <array name="ji_keywords">
+        <item>Job Interview Spread</item>
+        <item>面试求职牌阵</item>
+        <item>面試求職牌陣</item>
+    </array>
+    <array name="lc_keywords">
+        <item>Lover Cross Spread</item>
+        <item>恋人十字牌阵</item>
+        <item>戀人十字牌陣</item>
+    </array>
+    <array name="mou_keywords">
+        <item>Me-Other-Us Spread</item>
+        <item>我-对方-我们</item>
+        <item>我-對方-我們</item>
+    </array>
+    <array name="onboarding_feedback_comment">
+        <item>Every reading makes me feel seen and comforted. So gentle, it calms my mind. Absolutely love this app ❤️</item>
+        <item>The first free reading amazed me! Now I check in every day — it feels like a kind friend</item>
+        <item>So thoughtful and heartfelt. It comforted me in hard times — my app of the year ✨</item>
+    </array>
+    <array name="onboarding_feedback_nickname">
+        <item>Luna</item>
+        <item>SunnyMae</item>
+        <item>Ava</item>
+    </array>
+    <array name="ora_keywords">
+        <item>Obstacle-Resource-Advice Spread</item>
+        <item>Obstacle-Resources-Advice Spread</item>
+        <item>阻碍-资源-建议</item>
+        <item>阻礙-資源-建議</item>
+    </array>
+    <array name="p_keywords">
+        <item>Progress Spread</item>
+        <item>进展牌阵</item>
+        <item>進展牌陣</item>
+    </array>
+    <array name="personality_rating_label">
+        <item>Strongly Disagree</item>
+        <item>Disagree</item>
+        <item>Neutral</item>
+        <item>Agree</item>
+        <item>Strongly Agree</item>
+    </array>
+    <array name="ppf_keywords">
+        <item>Past-Present-Future Spread</item>
+        <item>过去-现在-未来</item>
+        <item>過去-現在-未來</item>
+    </array>
+    <array name="qi_keywords">
+        <item>Quick Insight spread</item>
+        <item>单牌启示</item>
+        <item>單牌啟示</item>
+    </array>
+    <array name="rd_keywords">
+        <item>Relationship Dynamics Spread</item>
+        <item>关系牌阵</item>
+        <item>關係牌陣</item>
+    </array>
+    <array name="sao_keywords">
+        <item>Situation-Action-Outcome Spread</item>
+        <item>情景-行动-结果</item>
+        <item>情景-行動-結果</item>
+    </array>
+    <array name="sg_keywords">
+        <item>Spiritual Growth Spread</item>
+        <item>灵魂成长牌阵</item>
+        <item>靈魂成長牌陣</item>
+    </array>
+    <array name="tfa_keywords">
+        <item>Thoughts-Feelings-Actions Spread</item>
+        <item>Thoughts-Feeling-Actions Spread</item>
+        <item>Thought-Feelings-Actions Spread</item>
+        <item>Thought-Feeling-Actions Spread</item>
+        <item>思想-情感-行为</item>
+        <item>思想-情感-行為</item>
+    </array>
+    <array name="tips_items">
+        <item>Rewards are capped at 100 free readings</item>
+        <item>All bonus uses are valid for 365 days.</item>
+        <item>If a friend upgrades, only the annual reward applies</item>
+        <item>For new users only</item>
+    </array>
+    <array name="tol_keywords">
+        <item>Tree of Life Spread</item>
+        <item>生命之树牌阵</item>
+        <item>生命之樹牌陣</item>
+    </array>
+    <array name="ts_keywords">
+        <item>Trouble Shooting Spread</item>
+        <item>直指核心牌阵</item>
+        <item>直指核心牌陣</item>
+    </array>
+    <array name="z_keywords">
+        <item>Zodiac Spread</item>
+        <item>十二宫牌阵</item>
+        <item>十二宮牌陣</item>
+    </array>
+</resources>

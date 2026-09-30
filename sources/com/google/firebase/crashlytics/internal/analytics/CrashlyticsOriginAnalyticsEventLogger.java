@@ -1,0 +1,21 @@
+package com.google.firebase.crashlytics.internal.analytics;
+
+import android.os.Bundle;
+import defpackage.ml;
+import defpackage.nl;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes3.dex */
+public class CrashlyticsOriginAnalyticsEventLogger implements AnalyticsEventLogger {
+    static final String FIREBASE_ANALYTICS_ORIGIN_CRASHLYTICS = "clx";
+    private final ml analyticsConnector;
+
+    public CrashlyticsOriginAnalyticsEventLogger(ml mlVar) {
+        this.analyticsConnector = mlVar;
+    }
+
+    @Override // com.google.firebase.crashlytics.internal.analytics.AnalyticsEventLogger
+    public void logEvent(String str, Bundle bundle) {
+        ((nl) this.analyticsConnector).a(FIREBASE_ANALYTICS_ORIGIN_CRASHLYTICS, str, bundle);
+    }
+}

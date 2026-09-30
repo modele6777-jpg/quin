@@ -1,0 +1,314 @@
+[
+  {
+    "cardKey": "the_fool",
+    "description": "Una hermosa bruja emprende su aventura montada en su escoba. El cielo carmesí, el sol con forma de ojo y las ramas semejantes a garras de demonio presagian los peligros que acecharán en el camino, pero la expresión relajada y confiada de la bruja revela su espíritu indomable. El maletín que lleva consigo guarda su diario de bruja, indicando que tiene algo de experiencia; aunque el maletín abierto traiciona su lado descuidado e ingenuo. El gato negro mira hacia atrás, como si quisiera advertirle de los riesgos desconocidos que aguardan adelante."
+  },
+  {
+    "cardKey": "the_magician",
+    "description": "La Maga alza su vara con la mano izquierda hacia el cielo, desatando una magia prodigiosa, mientras su índice derecho apunta a la tierra: ella es el puente entre lo alto y lo bajo. La esfera mágica, el puñal, la vara y el frasco de poción flotan a su alrededor, atraídos por la magia que emana de su ser. Avanza con paso firme y seguro entre arbustos de rosas entrelazadas; su poderosa magia hace que ni las espinas puedan hacerle daño. El sombrero mágico sobre su cabeza traza el símbolo del infinito, fuente inagotable de su poder sin límites."
+  },
+  {
+    "cardKey": "the_high_priestess",
+    "description": "Una bruja serena e introspectiva se sienta erguida sobre un pilar de piedra, inclinando suavemente la cabeza hacia el libro de tarot mágico en sus manos. A su lado se alzan dos esculturas de búho: el búho negro, con ojos abiertos, lleva la B de Boaz, que significa 'sustentar y establecer'; el búho blanco, con ojos cerrados, lleva la J de Jachin, que significa 'poseer fuerza interior'. Juntos forman los Pilares de la Verdad, símbolo de la dualidad. Detrás, una estantería repleta de libros simboliza la sabiduría; la luz de la luna atraviesa el cristal y revela distintos patrones — sol y lirio arriba, granada y palma abajo. A lo lejos, una luna creciente cuelga en silencio sobre un lago centelleante."
+  },
+  {
+    "cardKey": "the_empress",
+    "description": "La majestuosa Emperatriz se recuesta con seguridad en su sofá. El velo blanco de su sombrero está bordado con doce estrellas hexagonales que representan los doce signos del zodíaco. En la mano izquierda sostiene una pipa mágica, símbolo del poder, de la que brota humo que eleva una esfera roja como la Tierra; la mano derecha acaricia un gato con ternura maternal. Un gato negro y uno blanco, atraídos por la Emperatriz, se arriman cariñosamente a ella. Detrás, el cuadro del bosque y el río da vida a ramas que brotan del lienzo y trepan por las paredes y el suelo, evocando el despertar de la tierra llena de vida."
+  },
+  {
+    "cardKey": "the_emperor",
+    "description": "El apuesto Emperador porta una corona de estrellas y una capa roja, pisando con plena confianza el lomo de un gran dragón. El exterior de la capa lleva bordados de sol y montañas, expresando su pasión y fuerza externas; el interior muestra luna y olas, revelando el amor y la ternura que guarda en su interior. Su armadura simboliza la disciplina estricta. Una esfera de cristal mágico flota sobre su palma izquierda, donde destella un emblema de escudo, espada y dragón. La cruz en su mano derecha irradia una luz abrasadora, símbolo de vida y soberanía."
+  },
+  {
+    "cardKey": "the_hierophant",
+    "description": "Una bruja misteriosa lleva una corona de tres niveles; en su frente se dibuja el trazo del cetro con forma de maestría. Sus ojos velados se inclinan levemente, contemplando a la figura en sus manos; sus labios entreabiertos parecen transmitir conocimientos arcanos. En su garganta, dos llaves cruzadas anuncian que ha llegado el momento de abrir las puertas de la sabiduría y el misterio. En los dedos índice y medio luce anillos en Y (Tauro), apuntando al cielo en señal de bendición. En sus manos se hallan los discípulos que escuchan sus enseñanzas: uno con rosas a la izquierda, otro con lirios blancos a la derecha."
+  },
+  {
+    "cardKey": "the_lovers",
+    "description": "Una pareja enamorada danza entre las nubes. Un ángel inclina la cabeza, sosteniendo una luna creciente en sus manos y soplando una delicada voluta de humo que serpentea entre los amantes. A la izquierda de la galaxia con forma de alas brillan cinco estrellas rojas que simbolizan los cinco sentidos; a la derecha, doce estrellas anaranjadas representan los doce signos zodiacales. El hombre lleva sombrero y túnica mágicos y estrecha la mano de su amada; un pequeño pasador en forma de serpiente sujeta el cabello ondeante de la mujer."
+  },
+  {
+    "cardKey": "the_chariot",
+    "description": "Una poderosa bruja luce un sombrero mágico de dos cabezas; una estrella de ocho puntas brilla sobre hojas de laurel. Cortinas azules caen desde el ala del sombrero, dejando entrever estrellas en su interior. Con una mano apoyada en su mejilla y la otra sosteniendo su vara, contempla con orgullo el tablero de ajedrez de abajo. Dos grifos — uno negro, uno blanco — clavan la mirada en la pieza del Emperador frente a ellos; la victoria parece estar al alcance. Los murciélagos que vuelan detrás de ella, sus familiares, revolotean inquietos ante el triunfo que se avecina."
+  },
+  {
+    "cardKey": "strength",
+    "description": "Una joven vestida de blanco estira su cuerpo con suavidad, su postura relajada y su expresión tranquila y serena, como si todo fluyera sin esfuerzo. La mano izquierda acaricia suavemente la cabeza del león que se abalanza desde atrás con los colmillos al descubierto. Las flores que brotan de su pecho se enredan en su trenza formando el símbolo del infinito invertido, y junto con su mano mantienen al feroz león completamente quieto."
+  },
+  {
+    "cardKey": "the_hermit",
+    "description": "El cielo nocturno, silencioso como agua en calma. La maga que ya ha alcanzado la cima se apoya en su vara con la cabeza inclinada en meditación. A su alrededor no hay rastro humano; lo único que brilla ante sus ojos es la Linterna de la Sabiduría, cuya estrella hexagonal irradia la luz del subconsciente e ilumina el camino a seguir."
+  },
+  {
+    "cardKey": "the_wheel_of_fortune",
+    "description": "La gran Rueda del Destino gira sin cesar en el firmamento estrellado. Leo, Tauro, Escorpio, Acuario y otros signos destellan a su paso. El aro exterior irregular representa la fuerza creativa invisible; una serpiente blanca desciende por él. Una bruja sabia, vara en mano, se sienta entronizada encima. El aro intermedio, que simboliza la fuerza formativa, está convirtiéndose en un círculo completo; un chacal corre constantemente hacia arriba. En la base se halla la Tierra, el mundo material. Toda vida está atrapada en la corriente ineludible del destino."
+  },
+  {
+    "cardKey": "justice",
+    "description": "A diferencia de la Justicia clásica, esta es una bruja de justicia implacable y decidida. Una máscara dorada y fría cubre sus ojos. La espada en su mano derecha parece lista para lanzarse hacia adelante en cualquier momento a impartir justicia; la mano izquierda se eleva mientras la magia sostiene la balanza sobre su cabeza. Un cuervo negro y una paloma blanca entorpecen su avance; en su cintura se enrolla una cinta con el aforismo jurídico del antiguo Roma: 'Fiat justitia, ruat caelum (Hágase justicia, aunque los cielos se derrumben)'."
+  },
+  {
+    "cardKey": "the_hanged_man",
+    "description": "Una bruja atada a una cruz es consumida por llamas verdes, pero incluso en el fuego permanece completamente serena. Las cadenas rotas en sus manos revelan que en realidad tiene el poder de liberarse — simplemente espera el momento en que decida hacerlo. Detrás de ella, una bandada de palomas blancas asciende desde las llamas. Aunque el cuerpo esté atado, nada puede frenar sus nobles ideales ni su más profunda búsqueda espiritual."
+  },
+  {
+    "cardKey": "death",
+    "description": "La Muerte, velada en negro, camina por las aguas del río del Averno. Su mano derecha roza la superficie y las ondas que levanta trazan la frontera entre la vida y la muerte. Algunas velas en el agua ya se han apagado; otras aún parpadean con tenaz vitalidad. La sombra de la Muerte trae el fin, pero a lo lejos un amanecer que emerge enciende la esperanza de la vida. Vida y muerte se transforman sin cesar en esta carta."
+  },
+  {
+    "cardKey": "temperance",
+    "description": "Las alas del ángel que está detrás de la bruja se despliegan. El colgante de cuadrado y triángulo en su cuello le otorga el poder de los elementos. Agita suavemente su vara mágica y dos frascos de poción oscilan al unísono, manteniendo un equilibrio dinámico. Ella elabora la poción — como si preparara el elixir del renacimiento para la carta de la Muerte que la precede. El ambiente verde y natural de toda la carta transmite una sensación de paz y serenidad."
+  },
+  {
+    "cardKey": "the_devil",
+    "description": "La demonia Lilith observa con desdén y perversión a las calaveras arrodilladas ante ella, consumidas por el deseo y con cuernos demoníacos brotados de sus cabezas. La de la izquierda, con cola de fruto, es una mujer; la de la derecha, con cola de llama, es un hombre. Ambos extienden las manos y miran al demonio con súplica — son Eva y Adán, precipitados al infierno por robar el fruto prohibido. Las cadenas sobre sus cuerpos son los grilletes del deseo. El Diablo simboliza la caída en la materialidad y la concupiscencia; el pentagrama invertido es su signo emblemático."
+  },
+  {
+    "cardKey": "the_tower",
+    "description": "La enorme estela mágica que se erguía en la cima de la montaña recibe el castigo divino de un círculo mágico celestial que desciende del cielo, partiéndola en dos. Rayos estallan en torno a ella; los murciélagos huyen en desbandada. Es una confrontación mágica repentina y estremecedora: ante tanta fuerza, toda resistencia es inútil; solo cabe aceptar este convulso momento. El arquetipo de la Torre es la Torre de Babel bíblica, destruida como castigo divino por la soberbia humana. Los rayos caídos son el lenguaje del juicio divino — el golpe catastrófico e imprevisto anuncia la llegada de un período de oscuridad."
+  },
+  {
+    "cardKey": "the_star",
+    "description": "La bruja abraza con ternura una estrella de ocho puntas que irradia luz cálida. Un velo blanco transparente se adhiere a su cuerpo. Su sedoso cabello largo se convierte en dos corrientes de agua a izquierda y derecha: la del lado izquierdo es el agua de la vida que fluye hacia el lago; la del derecho se divide en cinco corrientes que simbolizan los cinco sentidos, y una vuelve a fluir al lago, repleneciendo el manantial mágico del subconsciente. Siete pequeñas estrellas orbitan alrededor; una calma sanadora se extiende entre montaña y agua."
+  },
+  {
+    "cardKey": "the_moon",
+    "description": "En la oscura y alucinante noche, la bruja mira al cielo con inquietud: una luna de sangre pende en lo alto. Desde la luna emerge un ojo levemente entreabierto. El miedo y la confusión se propagan al gato blanco y a la serpiente negra de abajo; incluso las ramas circundantes parecen huesos blancos que rodean todo esto, intensificando la angustia y el desconcierto de la carta de la Luna."
+  },
+  {
+    "cardKey": "the_sun",
+    "description": "Una pequeña bruja de cabello dorado, alegre y radiante, está de pie sobre su escoba mágica con una sonrisa, apuntando su vara hacia adelante. Los girasoles florecen con ardor; las palomas libres vuelan al viento. El sol dorado, como un gran girasol en plena flor, cuelga en el cielo azul, con un solo ojo que mira con calidez a la bruja que tiene delante."
+  },
+  {
+    "cardKey": "judgement",
+    "description": "La montaña árida se vuelve verde una vez más. La bruja rubia, cuyos oídos se han transformado en alas de ángel, inclina la cabeza y vierte toda su energía espiritual en la caracola que sostiene en sus manos. Toca el cuerno y las mariposas, símbolo del renacimiento, revolotean hacia afuera al son de la melodía. Las notas flotan entre el cielo y la tierra, nutriendo todo en silencio; también liberan a la humanidad de las limitaciones del mundo material y sanan el cuerpo y el alma."
+  },
+  {
+    "cardKey": "the_world",
+    "description": "El gato blanco contempla con elegancia a su bruja mientras la corona se posa sobre el sombrero mágico, marcando el glorioso final del viaje mágico de la bruja. El reloj con forma de cero es testigo de todo el camino recorrido — el cierre de esta etapa y el inicio de la siguiente, nueva y renovada. Un nuevo ciclo comienza aquí. El poder de los cuatro planetas elementales orbita alrededor de la bruja y es absorbido y transformado por ella, prueba de que también sus pruebas han llegado a una conclusión perfecta."
+  },
+  {
+    "cardKey": "ace_of_wands",
+    "description": "Del corazón de las llamas emerge una mano fuerte y poderosa, con el símbolo del elemento fuego tatuado en el dedo medio, potenciando la energía del fuego junto con los patrones de llama. Pájaros blancos siguen la dirección del fuego ascendente, volando hacia el sol."
+  },
+  {
+    "cardKey": "two_of_wands",
+    "description": "El mago está de pie sobre la muralla de la ciudad. Un bastón está plantado en el muro; el otro lo sostiene en la mano. Mira hacia el horizonte, con una esfera mágica en forma de globo en su mano — como si el mundo no le bastase y ya estuviera planeando su próxima expedición mágica."
+  },
+  {
+    "cardKey": "three_of_wands",
+    "description": "Una esbelta bruja está de pie en la cima de la montaña, bastón en mano. Los dos bastones clavados en el suelo muestran que su magia ya ha echado raíces firmes. Mira a lo lejos donde brilla una luz dorada, aparentemente repleta de un gran poder mágico, llamándola hacia adelante en un viaje de mayor entrenamiento y logros."
+  },
+  {
+    "cardKey": "four_of_wands",
+    "description": "En la reunión de brujas, cuatro bastones se alzan como las columnas de un salón festivo. Los fuegos artificiales de la celebración iluminan la oscura noche; las brujas se han vestido con sus mejores galas para marcar este momento especial, sus rostros iluminados de alegría y felicidad."
+  },
+  {
+    "cardKey": "five_of_wands",
+    "description": "Magas de diferentes edades y condiciones chocan bajo la influencia del elemento fuego. Cinco bastones mágicos se entrelazan y luchan en el aire — toda la escena es un vívido retrato de rivalidad, conflicto y feroz competencia."
+  },
+  {
+    "cardKey": "six_of_wands",
+    "description": "Una chica mágica levanta su bastón de victoria en alto, montada sobre un gran loro que lleva la corona de laurel del triunfo en el pico. Cinco bastones se alzan detrás de ella como si se unieran para celebrar su triunfo. La escena entera rebosa la alegría y la gloria del triunfo."
+  },
+  {
+    "cardKey": "seven_of_wands",
+    "description": "La bruja sujeta firmemente el bastón con ambas manos, la mirada de acero. El poder de la magia y el fuego ardiente le hacen volar el cabello — habla de su valor y determinación a pleno rendimiento, lista para hacer frente a los desafíos y dificultades que se alzan ante ella."
+  },
+  {
+    "cardKey": "eight_of_wands",
+    "description": "Ocho bastones mágicos se mueven como uno solo, cortando el aire a gran velocidad con las puntas hacia abajo, a punto de tocar tierra — nada puede detener su vuelo. Esto también puede representar la rápida transmisión de mensajes y el veloz despliegue de la acción."
+  },
+  {
+    "cardKey": "nine_of_wands",
+    "description": "La bruja herida sujeta firmemente su bastón; ocho bastones están erguidos bloqueando su camino. Vendas en la cabeza y en la mano — aún no se ha recuperado de sus heridas — pero elige tomar su arma de nuevo y mantener su última posición."
+  },
+  {
+    "cardKey": "ten_of_wands",
+    "description": "En el corazón del fuego rugiente, la maga frunce el ceño y se esfuerza bajo el peso de diez bastones que parecen ligeros pero pesan como montañas. Exhausta pero aún avanzando. Esta carga aplastante representa la responsabilidad y la presión, recordándonos que a veces necesitamos soltar cosas para recuperar nuestra ligereza."
+  },
+  {
+    "cardKey": "page_of_wands",
+    "description": "El Paje de Bastos agita el bastón y al instante aparecen llamas y chispas. El telón de fondo es el desierto; en su velo está el tótem de la salamandra de la familia de bastos. Las bocas de algunas salamandras no están conectadas a sus colas, simbolizando acciones o planes aún no concluidos."
+  },
+  {
+    "cardKey": "knight_of_wands",
+    "description": "El Caballero de Bastos cabalga un grifo, sosteniendo el bastón con audaz confianza. Su capa lleva el estampado de la salamandra — pero la boca y la cola no están conectadas, simbolizando una acción o plan todavía en marcha. Este caballero de ardiente ímpetu está plenamente listo para abrazar la próxima aventura."
+  },
+  {
+    "cardKey": "queen_of_wands",
+    "description": "La Reina de Bastos luce una corona de hojas y oro; se sienta en su trono con serena confianza. El brazo izquierdo abraza girasoles, símbolos de luminosidad y alegría; la mano derecha sostiene el bastón. Bajo su asiento está grabado el patrón de un gato negro, representando su poder oculto. El aura de la Reina es formidable — llena de pasión y vitalidad."
+  },
+  {
+    "cardKey": "king_of_wands",
+    "description": "El Rey sostiene el bastón en la mano izquierda, sentado en el trono con el cuerpo ligeramente inclinado hacia adelante — siempre listo para partir. El patrón de salamandra en el respaldo de su trono, que tenía la cola cortada en la carta del Caballero, es ahora una salamandra completa, simbolizando la plena realización de planes y acciones. El Rey, con toda su fuerza de mando, es el elemento fuego en su expresión más plena."
+  },
+  {
+    "cardKey": "ace_of_cups",
+    "description": "Desde el frasco mágico brotan cinco chorros de agua, uno por cada uno de los cinco sentidos humanos. El nenúfar, planta que prospera en aguas profundas, sugiere que el estanque inferior tiene una hondura considerable, simbolizando la riqueza emocional. Una mano sostiene el frasco; en su muñeca se inscriben los símbolos de la luna, el sol y el elemento agua, señal de energía desbordante."
+  },
+  {
+    "cardKey": "two_of_cups",
+    "description": "La bruja y el mago se enfrentan, cada uno con su frasco mágico, y los hacen chocar en un brindis. La poción que vuela entre ellos forma un corazón en el aire; la amistad y el afecto se extienden entre ellos. En el centro flota un bastón con cabeza de león y dos serpientes entrelazadas — la cabeza de león y las alas representan el amor y la belleza, y el caduceo de doble serpiente simboliza la comunicación y el intercambio."
+  },
+  {
+    "cardKey": "three_of_cups",
+    "description": "La reunión de brujas vuelve a celebrarse. Tres brujas rodean el caldero de pociones, cada una sacando la suya propia para preparar el brebaje, con sonrisas de felicidad en sus rostros — los reencuentros siempre son momentos especialmente dichosos. Las tres brujas visten de manera diferente y llevan sombreros mágicos adornados con distintas plantas, mostrando sus habilidades individuales y su independencia. Al formar un círculo, demuestran que pueden respetarse mutuamente dentro del grupo, sin jerarquías, comunicándose como iguales."
+  },
+  {
+    "cardKey": "four_of_cups",
+    "description": "Una aprendiz de magia descansa con los brazos cruzados y los ojos cerrados — tanto tiempo lleva así que hasta le han crecido telarañas. Los tres frascos mágicos sobre la mesa representan su experiencia pasada. Una araña desciende cargando otro frasco — recordando al primero del mazo —, símbolo de una nueva oportunidad que la aprendiz no llega a ver."
+  },
+  {
+    "cardKey": "five_of_cups",
+    "description": "En el fondo del mar, una bruja con el signo de Escorpio tatuado en el hombro se abraza a sí misma y llora de tristeza. Los tres frascos vacíos evocan un pasado doloroso; en la superficie flotan dos frascos que aún contienen poción, representando el futuro que todavía es posible. Si consigue reponerse, todo puede volver a comenzar."
+  },
+  {
+    "cardKey": "six_of_cups",
+    "description": "En un cálido invernadero mágico lleno de plantas, la bruja se sienta en el agua del lago y enseña con ternura a su pequeña aprendiz. Vierte la poción del frasco y un brote con forma de estrella emerge de inmediato, lleno de esperanza. A su alrededor hay cinco frascos mágicos con forma de estrella, símbolos de tiempos alegres y dichosos."
+  },
+  {
+    "cardKey": "seven_of_cups",
+    "description": "La maga, abrazando un talismán de estrellas y luna, se adentra en el sueño. Siete cálices, cada uno con algo diferente: una llave (aventura), gemas (riqueza), una corona de laurel (victoria), un murciélago (miedo), una calavera, un corazón (el propio espíritu mágico), y una serpiente (sabiduría). Las olas apenas visibles insinúan que todo esto no es más que un ensueño."
+  },
+  {
+    "cardKey": "eight_of_cups",
+    "description": "La bruja monta su escoba y abandona los ocho frascos mágicos que tanto le costó reunir, en busca del noveno cáliz vacío. Su cabello rojo habla de impulso y acción — el tema mismo de esta carta: el abandono, romper con la rutina mediante un movimiento decidido."
+  },
+  {
+    "cardKey": "nine_of_cups",
+    "description": "En la celebración, una bruja de Géminis exhibe con orgullo los nueve frascos mágicos que tiene delante, rodeada de serpentinas y globos con forma de calavera. Su expresión es de triunfo, como si explicara cómo llegó a obtenerlos todos. Está plenamente satisfecha con su situación actual — un retrato de contentamiento sencillo y alegría genuina."
+  },
+  {
+    "cardKey": "ten_of_cups",
+    "description": "Una pareja amorosa y el gatito que han adoptado se acurrucan juntos en felicidad. Detrás, una fuente alegre lanza su chorro; flores de felicidad les rodean; un arcoíris se dibuja en el horizonte; diez frascos de poción descansan perfectamente alineados arriba. La escena entera respira armonía y paz — una sensación de plenitud y dicha pura."
+  },
+  {
+    "cardKey": "page_of_cups",
+    "description": "El Paje de Copas es un joven gentil que abraza a un delfín con ternura, simbolizando su sensibilidad y profunda empatía. Cuando la poción se vierte desde el frasco, los peces se agolpan para absorber su nutrición — y los peces representan la imaginación, sugiriendo que este paje posee una visión creativa extraordinaria."
+  },
+  {
+    "cardKey": "knight_of_cups",
+    "description": "El elegante caballero avanza sobre un caballito de mar con gracia serena. Sostiene el frasco de poción en alto y lo contempla con ojos soñadores. El delfín que le sigue representa imaginación, creatividad y espíritu; su vestimenta está adornada con el estampado de las olas del mar."
+  },
+  {
+    "cardKey": "queen_of_cups",
+    "description": "La Reina de Copas se sienta sobre una concha a la orilla del mar. A diferencia del Rey, que flota en las olas en aislamiento, ella se asienta en tierra — señal de su cercanía con las personas. Sostiene el frasco de poción con ternura, mirando al delfín en su interior con ojos llenos de calidez. Rica en energía del elemento agua, las suaves olas se han convertido en el propio estampado de su falda."
+  },
+  {
+    "cardKey": "king_of_cups",
+    "description": "En el corazón agitado del mar, el Rey de las Aguas se sienta en su trono, vestido con una túnica interior azul — el color del elemento agua, de la imaginación y la creatividad. Sostiene un frasco de poción y un cetro de loto. Un delfín salta desde las olas y a su derecha aparece un barco de vela — el subconsciente emergiendo. Su éxito es una unión de imaginación, disciplina y perseverancia; la firmeza de su mirada habla de la autodisciplina que le permite triunfar una y otra vez."
+  },
+  {
+    "cardKey": "ace_of_swords",
+    "description": "La empuñadura en forma de luna creciente está grabada con laureles de victoria; la corona afilada atraviesa el cielo como una hoja, como si pudiera ver la esencia misma de este mundo. Una mano de bruja, cargada de magia, emerge a través del viento y agarra la espada firme y recta. Runas del elemento viento están inscritas en la mano; una serpiente de sabiduría se enrosca en ella — el poder del intelecto y la razón perspicaz manifestados."
+  },
+  {
+    "cardKey": "two_of_swords",
+    "description": "Una luna creciente cuelga alta en el horizonte; debajo, corrientes ocultas se agitan y formaciones de hielo se alzan. Dos chicas gemelas con vestidos blancos están de espaldas, con las manos entrelazadas, sus expresiones cargadas de conflicto — ambas con vendas blancas sobre los ojos. La de la izquierda lleva pendientes del elemento viento en su forma de chica ordinaria; la de la derecha luce pendientes de Libra y tiene las uñas ennegrecidas, ya transformada en bruja. Las dos espadas cruzadas ante ellas también difieren — una espada normal y una espada mágica — reflejando su contradicción interna y la imposible dificultad de tomar una decisión."
+  },
+  {
+    "cardKey": "three_of_swords",
+    "description": "Una bruja desconsolada llora lágrimas de sangre; su cuerpo se transforma en brillante cristal. Tres espadas afiladas la atraviesan de corazón, y el cristal se parte al instante, la sangre fluyendo como hilos de seda. Nubarrones oscuros se ciernen por todos lados; la angustia y el dolor caen sesgados junto con la lluvia."
+  },
+  {
+    "cardKey": "four_of_swords",
+    "description": "Tres espadas cuelgan del dosel sobre la cama. Una guerrera descansa semi-inclinada sobre la almohada — pero el manto de batalla que aún no se ha quitado y la daga que aún sostiene en la mano nos dicen que esto es solo un breve descanso. Parece lista para levantarse y combatir en cualquier momento."
+  },
+  {
+    "cardKey": "five_of_swords",
+    "description": "La bruja pelirroja luce una expresión de satisfacción ufana. Dos espadas están clavadas en el suelo; tres más están en sus manos — todos trofeos de su victoria. El derrotado que se aleja cabizbajo a lo lejos indica que esta turbulenta contienda acaba de terminar. Las nubes oscuras se fragmentan a lo lejos; la noche es profunda y sombría. Esta victoria puede no ser tan completa como la bruja pelirroja imagina."
+  },
+  {
+    "cardKey": "six_of_swords",
+    "description": "Una luna llena cuelga en el horizonte; la noche brilla como el agua y un estado de ánimo de tristeza lo impregna todo. La bruja se sienta en una barca tallada en brillante cristal de luna y la conduce hacia la lejanía. Seis espadas están clavadas en el casco; la barca tiene grietas y fisuras — sacar las espadas probablemente la haría estallar. El agua agitada detrás es el tumulto del pasado; las amplias aguas tranquilas por delante prometen un futuro emocional más sereno. La curación lleva tiempo."
+  },
+  {
+    "cardKey": "seven_of_swords",
+    "description": "Una bruja vaquera se infiltra silenciosamente en el campamento enemigo y, aprovechando que están desprevenidos, se lleva cinco espadas con plena confianza. Las dos que dejó atrás simbolizan el riesgo de esta maniobra; sus capacidades tienen límites y no puede enfrentarse abiertamente al enemigo, así que recurre a la astucia y el engaño para conseguir lo que quiere. La luna creciente que sonríe burlonamente en el cielo deja claro que esto no es ningún acto honroso."
+  },
+  {
+    "cardKey": "eight_of_swords",
+    "description": "Una bruja con un vestido rojo como la sangre está de espaldas a nosotros; su larga cabellera negra se enreda como grilletes en sus manos. Al girar la cabeza, vemos que sus ojos están cubiertos por una mariposa roja. Ocho espadas están plantadas a su alrededor como centinelas; parece indefensa y atrapada. Sin embargo, no está verdaderamente atada — en el momento en que decida dar un paso adelante, será libre."
+  },
+  {
+    "cardKey": "nine_of_swords",
+    "description": "La bruja está sentada en la cama, cubriéndose el rostro en un colapso de desesperación — quizás recién despertada de una pesadilla, o quizás incapaz de dormir por la preocupación y el miedo. La lámpara, apagada, ha caído sobre la cama. Nueve espadas ensangrentadas cuelgan de la pared, con la sangre goteando de las puntas, como si la hubieran atravesado por detrás, generando una sensación opresiva. Una enorme y extraña polilla con cuatro ojos negros flota en el aire — una advertencia del subconsciente."
+  },
+  {
+    "cardKey": "ten_of_swords",
+    "description": "Ocho espadas se clavan agudamente en el cuerpo de la bruja; dos más la atraviesan en el pecho — son las uñas de un par de manos gigantes debajo. Hilos de sangre descienden por la piel blanca — una visión que golpea el corazón. Y, sin embargo: muy lejos, al borde del oscuro cielo, la primera luz del amanecer rompe. Incluso los momentos más oscuros de una vida pasarán eventualmente."
+  },
+  {
+    "cardKey": "page_of_swords",
+    "description": "El Paje de Espadas es un joven de mente ágil, lleno de curiosidad. Una mano empuña la espada; se gira para mirar adelante, el cabello al viento junto con los árboles distantes. Las mariposas revolotean por la escena con despreocupada libertad."
+  },
+  {
+    "cardKey": "knight_of_swords",
+    "description": "El Caballero de Espadas de cabello corto luce una expresión solemne, vestido de armadura y capa roja. Una mano empuña la espada; la otra tira de las riendas mientras el caballo galopa a toda velocidad por el viento rugiente."
+  },
+  {
+    "cardKey": "queen_of_swords",
+    "description": "La Reina de Espadas lleva una corona afilada; el estampado de mariposas en sus hombros representa el alma y el elemento viento. Con expresión resuelta y serena, contempla la espada erguida en su mano — imperturbable, imparcial — simbolizando su poder para cortar a través de la ilusión, ver la verdad con claridad y ejercer una perspicacia y sabiduría excepcionales."
+  },
+  {
+    "cardKey": "king_of_swords",
+    "description": "El apuesto Rey de Espadas de cabello dorado se sienta con solemne dignidad en su trono. Su expresión es seria; la mano derecha sostiene la espada con la punta ligeramente inclinada hacia la derecha — el lado de la acción. La mano izquierda lleva el anillo de autoridad. El estampado de mariposas que decora su capa simboliza el alma y el elemento viento; las mariposas también danzan en el cielo sobre él."
+  },
+  {
+    "cardKey": "ace_of_pentacles",
+    "description": "Una mano de mago, tatuada con el símbolo del elemento tierra, flota en el aire controlando un pentáculo mágico. Abajo, las plantas brotan en flores nuevas bajo la influencia del pentáculo. El pentáculo es una conexión con la naturaleza; detrás, hierba verde cubre la colina y un árbol echa nuevos brotes. Fiel al espíritu práctico de los Pentáculos: el dinero y el tiempo que inviertas traerán grandes retribuciones."
+  },
+  {
+    "cardKey": "two_of_pentacles",
+    "description": "La maga cabalga sobre una golondrina y equilibra con soltura dos pentáculos en sus manos. Los círculos en forma de ocho rodean las monedas; al fondo, hojas de sauce ondean con la brisa — símbolos de las fluctuaciones de las finanzas y otras corrientes de la vida."
+  },
+  {
+    "cardKey": "three_of_pentacles",
+    "description": "En los pasillos de la academia mágica, tres magas se encuentran ante el gran reloj zodiacal. Trabajando juntas, los tres pentáculos regresan lenta y firmemente a su lugar. Cada persona cumple su propio rol, lo que mantiene la colaboración fluida. A juzgar por sus expresiones concentradas, parece que trabajan con genuina satisfacción."
+  },
+  {
+    "cardKey": "four_of_pentacles",
+    "description": "La bruja se acurruca en una alfombra con una corona en la cabeza, rodeada de gemas, cristales y perlas dispersos. Los cuatro pentáculos más importantes están estrechamente abrazados contra su pecho; sus ojos los contemplan con profunda intensidad, como si temiese perder incluso la más mínima fracción de lo que posee."
+  },
+  {
+    "cardKey": "five_of_pentacles",
+    "description": "En el paraje helado, un mago harapiento avanza tambaleante apoyándose en su compañero, el gran gato blanco. La luz cálida del interior se proyecta sobre el vitral de la iglesia; cinco pentáculos caen justo sobre ellos en ese rayo de luz — pero no los ven, hambríentos y fríos, siguiendo su camino."
+  },
+  {
+    "cardKey": "six_of_pentacles",
+    "description": "A la luz de la luna, el mago sostiene seis pentáculos con fácil dominio, decidiendo con quién compartirlos. Abajo, dos aprendices aguardan — ya sea limosna o lección — pero este poder descansa enteramente en las manos del mago."
+  },
+  {
+    "cardKey": "seven_of_pentacles",
+    "description": "Un pequeño duende con sombrero de paja, una pequeña hoz en mano, se arrodilla junto a la cesta para descansar, contemplando con anhelo los siete pentáculos que ya han madurado ante él. La vid del duende crece exuberante y vigorosa — prueba de un cuidado esmerado — y ahora simplemente descansa esperando que llegue la cosecha."
+  },
+  {
+    "cardKey": "eight_of_pentacles",
+    "description": "En un valle de montaña apartado, la maga se sienta con las piernas cruzadas, completamente absorta en la práctica de la magia. Seis pentáculos perfectos ya han sido completados; el que tiene en la mano está a punto de terminarse. Solo queda el octavo por llenarse de luz y energía verde. El cultivo requiere avanzar paso a paso, firme y con los pies en la tierra."
+  },
+  {
+    "cardKey": "nine_of_pentacles",
+    "description": "Una bruja elegantemente ataviada está de espaldas a nosotros, contemplando con satisfacción los pentáculos ordenados en el estante frente a ella — cada uno un trofeo de esfuerzo persistente. La exuberante vegetación la rodea; el entorno es bello y sereno, representando abundancia material y placer. El pájaro a su lado ha renunciado a su libertad con tal de permanecer cerca, simbolizando que detrás de esta buena vida hay mucho esfuerzo y renuncia."
+  },
+  {
+    "cardKey": "ten_of_pentacles",
+    "description": "En el patio, la abuela bruja sostiene su libro mágico y enseña a las generaciones más jóvenes; incluso el gato blanco se queda cerca en compañía curiosa — una escena de cálida alegría familiar. Flores y plantas prosperan por todos lados; dentro, la casa está repleta de libros de pared a pared. Para una familia de magos, esta es sin duda la riqueza más preciada de todas."
+  },
+  {
+    "cardKey": "page_of_pentacles",
+    "description": "El Paje de Pentáculos es un joven estudiante apasionado. Con una lupa en una mano y un pentáculo en la otra, sostenido a la altura de los ojos, lo examina con atención cuidadosa y absorbida, ya perdido en su investigación. El campo a su alrededor está repleto de vegetación; montañas brumosas se alzan a lo lejos."
+  },
+  {
+    "cardKey": "knight_of_pentacles",
+    "description": "El Caballero de Pentáculos está sentado sobre un majestuoso gato negro, examinando con cuidado el pentáculo en su mano. El gato negro permanece completamente inmóvil, con un fardo en la espalda que simboliza experiencia y riqueza. De las cuatro monturas de caballero, esta es la única en reposo — reflejando una disposición de cautela y pragmatismo."
+  },
+  {
+    "cardKey": "queen_of_pentacles",
+    "description": "La Reina de Pentáculos sostiene un pentáculo en alto con ambas manos, con la cabeza inclinada en contemplación, sentada con soltura en su trono de árbol. Se sienta junto a un riachuelo con vegetación abundante, rodeada de flores y follaje exuberante. Un conejito — símbolo de prolífica abundancia — le hace compañía. La escena entera es tranquila y armoniosa, rica en recursos, impregnada de una sensación de prosperidad bien ganada."
+  },
+  {
+    "cardKey": "king_of_pentacles",
+    "description": "El Rey de Pentáculos es un gobernante que lo ha alcanzado todo. Con un pentáculo en la mano izquierda y un cetro en la derecha, se sienta con plena confianza sobre un trono en forma de árbol decorado con huesos de buey, simbolizando el éxito material y la autoridad soberana. Todo está bajo su control. A su alrededor, viñas y toda clase de plantas — la señal de una gran cosecha — se entrelazan con él hasta que hombre y naturaleza son uno."
+  }
+]

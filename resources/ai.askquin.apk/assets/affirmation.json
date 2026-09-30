@@ -1,0 +1,1796 @@
+[
+  {
+    "card_key": "the_fool",
+    "card_desc_cn": "正位的愚者代表着新的开始、冒险和自由，它提醒你敢于迈出第一步，探索未知的世界，保持纯真与好奇心。",
+    "card_desc_en": "The Fool (Upright) represents new beginnings, adventure, and freedom. It encourages you to take the first step, explore the unknown, and maintain innocence and curiosity.",
+    "reversed_card_desc_cn": "逆位的愚者代表着冲动、缺乏准备或不谨慎的决定，可能提醒你避免过于冒险或轻率行事，保持清醒的头脑，审慎地评估当前的局势。",
+    "reversed_card_desc_en": "The Fool (Reversed) represents impulsiveness, lack of preparation, or careless decisions. It may remind you to avoid taking unnecessary risks and to keep a clear mind while carefully evaluating your current situation.",
+    "card_affirmations_cn": [
+      "勇敢走向未知，\n心怀自由与梦想。",
+      "每一步都是新的冒险，\n每一次尝试都充满希望"
+    ],
+    "card_affirmations_en": [
+      "I embrace the unknown with an open heart.",
+      "Every new journey brings endless possibilities."
+    ],
+    "reversed_card_affirmations_cn": [
+      "审慎行事，\n每一步都思虑周全。",
+      "避免冲动，\n静心寻求智慧的指引。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I move forward with intention, not haste.",
+      "I learn from past mistakes and grow stronger."
+    ]
+  },
+  {
+    "card_key": "the_magician",
+    "card_desc_cn": "正位的魔术师象征着创造力、行动和潜能，它提醒你善用资源，发挥才能，将想法转化为现实。",
+    "card_desc_en": "The Magician (Upright) symbolizes creativity, action, and potential. It reminds you to utilize your resources, showcase your talents, and turn ideas into reality.",
+    "reversed_card_desc_cn": "逆位的魔术师可能表示滥用力量、欺骗或缺乏计划，提醒你诚实面对自己，避免误导他人，制定清晰的目标。",
+    "reversed_card_desc_en": "The Magician (Reversed) may indicate misuse of power, deception, or lack of planning. It reminds you to face yourself honestly, avoid misleading others, and set clear goals.",
+    "card_affirmations_cn": [
+      "掌握力量，\n创造梦想成真。",
+      "智慧与行动，\n让奇迹发生。"
+    ],
+    "card_affirmations_en": [
+      "I harness my skills to manifest my desires.",
+      "I turn my visions into reality."
+    ],
+    "reversed_card_affirmations_cn": [
+      "诚实面对内心，\n规划未来之路。",
+      "真诚与信任，\n是成功的基石。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I align my actions with integrity.",
+      "I plan carefully to achieve my goals."
+    ]
+  },
+  {
+    "card_key": "the_high_priestess",
+    "card_desc_cn": "正位的女祭司代表直觉、潜意识和神秘，提醒你倾听内心的声音，信任自己的直觉，深入探索未知的领域。",
+    "card_desc_en": "The High Priestess (Upright) represents intuition, the subconscious, and mystery. It urges you to listen to your inner voice, trust your instincts, and delve deeper into the unknown.",
+    "reversed_card_desc_cn": "逆位的女祭司可能表示被隐藏的真相、内在混乱或忽视直觉，提醒你揭开迷雾，正视内心的感受，寻求真相。",
+    "reversed_card_desc_en": "The High Priestess (Reversed) may signify hidden truths, inner chaos, or ignoring intuition. It urges you to unveil mysteries, confront your inner feelings, and seek the truth.",
+    "card_affirmations_cn": [
+      "倾听内心智慧，\n直觉指引方向。 ",
+      "深入内在世界，\n发现无限可能。"
+    ],
+    "card_affirmations_en": [
+      "I trust my intuition to guide me.",
+      "I embrace the wisdom within."
+    ],
+    "reversed_card_affirmations_cn": [
+      "揭开内心迷雾，\n寻找真实自我。",
+      "信任直觉力量，\n重获内在平衡。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I unveil the truth within me. ",
+      "I reconnect with my inner wisdom."
+    ]
+  },
+  {
+    "card_key": "the_empress",
+    "card_desc_cn": "正位的女皇象征着丰饶、创造和母性。她象征着爱、温柔和自然的能量，提醒你拥抱生活的美好，信任直觉，滋养自己的创造力和情感。",
+    "card_desc_en": "The Empress (Upright) symbolizes abundance, creation, and motherhood. She embodies love, gentleness, and natural energy, reminding you to embrace life's beauty, trust your intuition, and nurture your creativity and emotions.",
+    "reversed_card_desc_cn": "逆位的女皇可能代表依赖、情感阻塞或创造力的缺失。它提醒你重视自我关怀，避免过度依赖他人，重新连接内在的情感和创造力。",
+    "reversed_card_desc_en": "The Empress (Reversed) may represent dependency, emotional blockage, or a lack of creativity. It reminds you to prioritize self-care, avoid over-reliance on others, and reconnect with your emotions and creativity.",
+    "card_affirmations_cn": [
+      "心怀慈爱，\n万物盛开。 ",
+      "信任直觉，\n创造不绝。"
+    ],
+    "card_affirmations_en": [
+      "I trust my heart,new creations start. ",
+      "With love inside, my dreams abide."
+    ],
+    "reversed_card_affirmations_cn": [
+      "放下依赖，\n心灵自在。 ",
+      "关注自己，\n重拾精彩。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I let go of need,my soul is freed. ",
+      "Caring for me, I set creativity free."
+    ]
+  },
+  {
+    "card_key": "the_emperor",
+    "card_desc_cn": "正位的皇帝代表权威、稳定和结构，提醒你建立秩序，承担责任，领导他人。",
+    "card_desc_en": "The Emperor (Upright) represents authority, stability, and structure. It encourages you to establish order, take responsibility, and lead others.",
+    "reversed_card_desc_cn": "逆位的皇帝可能表示专制、或缺乏纪律，提醒你放下固执，或因失序而迷失方向，鼓励你寻求平衡和自我管理。",
+    "reversed_card_desc_en": "The Emperor (Reversed) may indicate tyranny or lack of discipline. It reminds you to let go of stubbornness or find direction amid disorder, encouraging balance and self-management.",
+    "card_affirmations_cn": [
+      "掌握自我，\n稳健前行。",
+      " 智慧与秩序，\n助我飞腾。"
+    ],
+    "card_affirmations_en": [
+      "I lead with strength and wisdom's light.",
+      "Through discipline, I reach new height."
+    ],
+    "reversed_card_affirmations_cn": [
+      "放下执念，\n心向平衡。",
+      "自律与和谐，\n引领前程。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I release the need to control.",
+      "Finding balance heals my soul."
+    ]
+  },
+  {
+    "card_key": "the_hierophant",
+    "card_desc_cn": "正位的教皇代表传统、智慧和教导。他象征着寻求知识、遵循传统价值观和接受指导，提醒你通过学习和理解来成长。",
+    "card_desc_en": "The Hierophant (Upright) symbolizes tradition, wisdom, and teaching. He signifies seeking knowledge, following traditional values, and accepting guidance, reminding you to grow through learning and understanding.",
+    "reversed_card_desc_cn": "逆位的教皇可能代表反叛、质疑传统和自主思考。它提醒你勇于打破常规，倾听内心的声音，追求属于自己的道路。",
+    "reversed_card_desc_en": "The Hierophant (Reversed) may represent rebellion, questioning traditions, and independent thinking. It encourages you to break conventions, listen to your inner voice, and pursue your own path.",
+    "card_affirmations_cn": [
+      "传承智慧，\n心怀虔诚。 ",
+      "学习不止，\n成长永恒。"
+    ],
+    "card_affirmations_en": [
+      "I seek wisdom from days of old.",
+      "Through knowledge gained, my spirit unfolds."
+    ],
+    "reversed_card_affirmations_cn": [
+      "勇敢突破，\n心之所向。 ",
+      "聆听自我，\n创造辉煌。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I trust my path, forge my own way.",
+      "Breaking the mold, I seize the day."
+    ]
+  },
+  {
+    "card_key": "the_lovers",
+    "card_desc_cn": "正位的恋人代表爱情、和谐和重要的选择。它象征着深刻的情感连接、信任和价值观的一致，提醒你遵循内心，做出真诚的决定。",
+    "card_desc_en": "The Lovers (Upright) represent love, harmony, and important choices. They symbolize deep emotional connections, trust, and alignment of values, reminding you to follow your heart and make sincere decisions.",
+    "reversed_card_desc_cn": "逆位的恋人可能代表冲突、犹豫或关系中的不平衡。它提醒你审视内心的矛盾，寻求自我理解，做出明智的选择。",
+    "reversed_card_desc_en": "The Lovers (Reversed) may signify conflict, indecision, or imbalance in relationships. It reminds you to examine inner contradictions, seek self-understanding, and make wise choices.",
+    "card_affirmations_cn": [
+      "心灵相依，\n爱意无尽。 ",
+      "遵从本心，\n幸福降临。"
+    ],
+    "card_affirmations_en": [
+      "I open my heart to love's true call.",
+      "Following my soul, I embrace it all."
+    ],
+    "reversed_card_affirmations_cn": [
+      "澄清内心，\n重获平静。",
+      "坦然面对，\n自有前景。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I seek clarity within my soul.",
+      "With honest insight, I become whole."
+    ]
+  },
+  {
+    "card_key": "the_chariot",
+    "card_desc_cn": "正位的战车象征意志力、胜利和前进，提醒你集中精力，坚定目标，克服障碍。",
+    "card_desc_en": "The Chariot (Upright) symbolizes willpower, victory, and progression. It reminds you to focus your energy, stay determined, and overcome obstacles.",
+    "reversed_card_desc_cn": "逆位的战车可能表示失控、阻碍或方向不明，提醒你重新审视目标，调整策略，恢复平衡。",
+    "reversed_card_desc_en": "The Chariot (Reversed) may indicate loss of control, obstacles, or unclear direction. It urges you to reassess your goals, adjust your strategies, and restore balance.",
+    "card_affirmations_cn": [
+      "意志如钢，\n勇往直前不惧险阻。",
+      "掌控方向，\n成功在望。"
+    ],
+    "card_affirmations_en": [
+      "I move forward with determination.",
+      "I steer my life towards victory."
+    ],
+    "reversed_card_affirmations_cn": [
+      "调整步伐，\n重新掌握方向。",
+      "平衡内外力量，\n继续前行。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I realign my focus and regain control.",
+      "I balance my energies to progress."
+    ]
+  },
+  {
+    "card_key": "strength",
+    "card_desc_cn": "正位的力量代表勇气、耐心和内在的力量。它象征着以温柔和坚定来面对挑战，提醒你相信自己的能力，用爱和理解克服困难。",
+    "card_desc_en": "Strength (Upright) represents courage, patience, and inner power. It symbolizes facing challenges with gentleness and determination, reminding you to trust your abilities and overcome difficulties with love and understanding.",
+    "reversed_card_desc_cn": "逆位的力量可能代表自我怀疑、缺乏信心或情绪失控。它提醒你直面内心的恐惧，培养自律，重拾自信和力量。",
+    "reversed_card_desc_en": "Strength (Reversed) may represent self-doubt, lack of confidence, or emotional instability. It reminds you to face inner fears, cultivate self-discipline, and regain confidence and strength.",
+    "card_affirmations_cn": [
+      "心怀勇气，\n力量无边。",
+      "以柔克刚，\n信念无限。"
+    ],
+    "card_affirmations_en": [
+      "I embrace my strength with courage and grace.",
+      "Through love and patience, I win each race."
+    ],
+    "reversed_card_affirmations_cn": [
+      "驱散疑虑，\n信心倍增。",
+      "掌控情绪，\n内心安宁。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I believe in myself and rebuild my strength.",
+      "I manage my emotions with confidence."
+    ]
+  },
+  {
+    "card_key": "the_hermit",
+    "card_desc_cn": "正位的隐士象征内省、智慧和引导，提醒你寻求内心的真理，独处以获得启示。",
+    "card_desc_en": "The Hermit (Upright) symbolizes introspection, wisdom, and guidance. It urges you to seek inner truth and spend time alone for enlightenment.",
+    "reversed_card_desc_cn": "逆位的隐士可能表示孤立、逃避或缺乏指导，提醒你与他人连接，寻求帮助，不要闭门造车。",
+    "reversed_card_desc_en": "The Hermit (Reversed) may signify isolation, avoidance, or lack of guidance. It encourages you to connect with others, seek help, and avoid shutting yourself away.",
+    "card_affirmations_cn": [
+      "独处寻真理，\n智慧在心中。",
+      "内观自我，\n找到前行之路。"
+    ],
+    "card_affirmations_en": [
+      "I seek wisdom within myself.",
+      "Solitude brings me clarity and insight."
+    ],
+    "reversed_card_affirmations_cn": [
+      "敞开心扉，\n与世界重新连接。",
+      "接受指导，\n共创美好未来。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I open myself to others and reconnect.",
+      "I seek guidance and embrace collaboration."
+    ]
+  },
+  {
+    "card_key": "the_wheel_of_fortune",
+    "card_desc_cn": "正位的命运之轮代表变化、机遇和周期，提醒你接受生命的起伏，抓住机遇，顺应变化。",
+    "card_desc_en": " Wheel of Fortune (Upright) represents change, opportunity, and cycles. It reminds you to accept life's ups and downs, seize opportunities, and adapt to changes.",
+    "reversed_card_desc_cn": "逆位的命运之轮可能表示阻碍、不顺或停滞，提醒你耐心等待，调整心态，准备迎接转机。",
+    "reversed_card_desc_en": "Wheel of Fortune (Reversed) may indicate obstacles, misfortune, or stagnation. It reminds you to be patient, adjust your mindset, and prepare for a turning point.",
+    "card_affirmations_cn": [
+      "顺应变化，\n抓住命运之轮。",
+      "机遇当前，\n迎接新的开始。"
+    ],
+    "card_affirmations_en": [
+      "I embrace the cycles of life.",
+      "I seize opportunities as they arise."
+    ],
+    "reversed_card_affirmations_cn": [
+      "耐心等待，\n风雨过后见彩虹。",
+      "调整心态，\n静候机会来临。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I remain patient through life's ups and downs.",
+      "I adjust and prepare for positive change."
+    ]
+  },
+  {
+    "card_key": "justice",
+    "card_desc_cn": "正位的正义象征公平、真理和因果，提醒你遵循道德，客观看待事物，做出公正的决定。",
+    "card_desc_en": "Justice (Upright) symbolizes fairness, truth, and karma. It encourages you to uphold morals, view things objectively, and make just decisions.",
+    "reversed_card_desc_cn": "逆位的正义可能表示不公、不平衡或逃避责任，提醒你承担后果，纠正错误，追求平等。",
+    "reversed_card_desc_en": "Justice (Reversed) may represent injustice, imbalance, or evading responsibility. It urges you to accept consequences, correct mistakes, and strive for fairness.",
+    "card_affirmations_cn": [
+      "公平待人，\n心怀正义之光。",
+      "因果循环，\n真理永恒。"
+    ],
+    "card_affirmations_en": [
+      "I act with fairness and integrity.",
+      "I trust in the balance of life."
+    ],
+    "reversed_card_affirmations_cn": [
+      "承担责任，\n纠正过去的偏差。",
+      "追求平衡，\n重建内心的和谐。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I accept responsibility for my actions.",
+      "I strive to restore balance and fairness."
+    ]
+  },
+  {
+    "card_key": "the_hanged_man",
+    "card_desc_cn": "正位的倒吊人代表暂停、反思和新的视角。它象征着通过放下执着和自我牺牲来获得启发，提醒你接受暂时的停滞，以全新的眼光看待问题。",
+    "card_desc_en": "The Hanged Man (Upright) represents pause, reflection, and new perspectives. It symbolizes gaining insight through letting go and self-sacrifice, reminding you to accept temporary delays and see things from a fresh angle.",
+    "reversed_card_desc_cn": "逆位的倒吊人可能表示拖延、僵局或拒绝改变，提醒你打破停滞，主动寻求突破。",
+    "reversed_card_desc_en": "The Hanged Man (Reversed) may indicate procrastination, stalemate, or refusal to change. It reminds you to break free from stagnation and actively seek breakthroughs.",
+    "card_affirmations_cn": [
+      "放下执念，\n换个角度看世界。",
+      "接受改变，\n迎来新的启示。"
+    ],
+    "card_affirmations_en": [
+      "I release and let go.",
+      "I gain insight from new perspectives."
+    ],
+    "reversed_card_affirmations_cn": [
+      "打破僵局，\n顺势而行。",
+      "放下包袱，\n自在前进。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I break free from stagnation.",
+      "I embrace change and move forward."
+    ]
+  },
+  {
+    "card_key": "death",
+    "card_desc_cn": "正位的死神象征结束、转变和重生，提醒你接受不可避免的改变，迎接新生。",
+    "card_desc_en": "Death (Upright) symbolizes endings, transformation, and rebirth. It reminds you to accept inevitable changes and welcome new beginnings.",
+    "reversed_card_desc_cn": "逆位的死神可能表示抵抗改变、停滞或无法放下，提醒你面对现实，勇于改变，释放束缚。",
+    "reversed_card_desc_en": "Death (Reversed) may signify resistance to change, stagnation, or inability to let go. It urges you to face reality, embrace transformation, and release attachments.",
+    "card_affirmations_cn": [
+      "结束也是新的开始，\n转变带来成长。",
+      "接受变化，\n重获新生力量。"
+    ],
+    "card_affirmations_en": [
+      "I embrace transformation and renewal.",
+      "I let go to make way for new beginnings."
+    ],
+    "reversed_card_affirmations_cn": [
+      "勇敢放下，\n迎接新的可能。",
+      "打破束缚，\n走向未来之路。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I release resistance to change.",
+      "I move forward unencumbered."
+    ]
+  },
+  {
+    "card_key": "temperance",
+    "card_desc_cn": "正位的节制代表平衡、和谐和耐心，提醒你保持中庸之道，调和冲突，耐心等待结果。",
+    "card_desc_en": "Temperance (Upright) represents balance, harmony, and patience. It encourages you to maintain moderation, reconcile conflicts, and patiently await results.",
+    "reversed_card_desc_cn": "逆位的节制可能表示失衡、极端或不耐烦，提醒你调整状态，避免过度，寻求内在和平。",
+    "reversed_card_desc_en": "Temperance (Reversed) may represent imbalance, extremes, or impatience. It reminds you to adjust your approach, avoid excess, and seek inner peace.",
+    "card_affirmations_cn": [
+      "心静如水，\n万事皆宜；",
+      "平衡人生，\n和谐自立。"
+    ],
+    "card_affirmations_en": [
+      "I cultivate balance and harmony.",
+      "I practice patience in all things."
+    ],
+    "reversed_card_affirmations_cn": [
+      "调整步调，\n寻回内在平衡。",
+      "放下急躁，\n回归平和之心。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I restore balance within myself.",
+      "I let go of impatience and find peace."
+    ]
+  },
+  {
+    "card_key": "the_devil",
+    "card_desc_cn": "正位的恶魔代表束缚、诱惑和物质欲望。象征着被负面模式或物质世界所困，提醒你认识到自身的限制，寻求解脱和自我控制。",
+    "card_desc_en": "The Devil (Upright) symbolizes bondage, temptation, and material desires. It represents being trapped by negative patterns or the material world, reminding you to recognize your limitations and seek liberation and self-control.",
+    "reversed_card_desc_cn": "逆位的恶魔可能代表释放、突破和恢复掌控。象征着摆脱限制性的信念和行为，提醒你勇于改变，走向自我解放。",
+    "reversed_card_desc_en": "The Devil (Reversed) symbolizes release, breakthroughs, and regaining control. It represents breaking free from limiting beliefs and behaviors, reminding you to courageously change and move toward self-liberation.",
+    "card_affirmations_cn": [
+      "看清束缚，\n重获自由；",
+      "内心觉醒，\n摆脱迷惑。"
+    ],
+    "card_affirmations_en": [
+      "I acknowledge my chains to set me free.",
+      "Embracing truth, I become the real me."
+    ],
+    "reversed_card_affirmations_cn": [
+      "打破枷锁，\n自由翱翔。",
+      "勇敢前行，\n力量绵长。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I break the bonds that held me tight;",
+      "Stepping forward, I claim my light."
+    ]
+  },
+  {
+    "card_key": "the_tower",
+    "card_desc_cn": "正位的塔牌代表突如其来的变化、动荡和觉醒。可能提醒你，虽然旧有的结构崩塌，但这是重生与成长的契机。",
+    "card_desc_en": "The Tower (Upright) represents sudden change, upheaval, and awakening. It may remind you that while old structures crumble, it's an opportunity for rebirth and growth.",
+    "reversed_card_desc_cn": "逆位的塔牌代表对改变的恐惧、抗拒或逃避。提醒你，接受变化才能前进，抗拒只会延续痛苦。",
+    "reversed_card_desc_en": "The Tower (Reversed) represents fear of change, resistance, or avoidance. It reminds you that accepting change is necessary for progress, resisting only prolongs discomfort.",
+    "card_affirmations_cn": [
+      "破碎是起点，\n重生在眼前。",
+      "动荡中成长，\n绽放更灿烂。"
+    ],
+    "card_affirmations_en": [
+      "In chaos, I find my true power. ",
+      "From ruins, I rise, stronger each hour."
+    ],
+    "reversed_card_affirmations_cn": [
+      "放下抗拒，\n迎接新序。 ",
+      "释放恐惧，\n心生勇气。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I release resistance and embrace transformation. ",
+      "Letting go, I find my liberation."
+    ]
+  },
+  {
+    "card_key": "the_star",
+    "card_desc_cn": "正位的星星象征希望、灵感和治愈，提醒你保持乐观，相信未来，连接内在的灵性。",
+    "card_desc_en": "The Star (Upright) symbolizes hope, inspiration, and healing. It encourages you to stay optimistic, believe in the future, and connect with your inner spirituality.",
+    "reversed_card_desc_cn": "逆位的星星牌代表失望、缺乏信心或感到迷茫。提醒你重新连接内心的力量，重拾对未来的信念。",
+    "reversed_card_desc_en": "The Star (Reversed) may signify disappointment, lack of confidence, or feeling lost. It urges you to reconnect with your inner strength and restore faith in the future.",
+    "card_affirmations_cn": [
+      "心怀希望，\n星光指引前路。",
+      "灵感涌现，\n治愈自我。"
+    ],
+    "card_affirmations_en": [
+      "I am guided by hope and inspiration.",
+      "I heal and renew my spirit."
+    ],
+    "reversed_card_affirmations_cn": [
+      "重拾信念，\n驱散阴霾。",
+      "相信自己，\n未来可期。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I reignite my inner light.",
+      "I reconnect with hope and confidence."
+    ]
+  },
+  {
+    "card_key": "the_moon",
+    "card_desc_cn": "正位的月亮代表潜意识、梦境和直觉，提醒你留意内心的声音，探索未知的情感领域。",
+    "card_desc_en": "The Moon (Upright) represents the subconscious, dreams, and intuition. It reminds you to pay attention to your inner voice and explore unknown emotional realms.",
+    "reversed_card_desc_cn": "逆位的月亮可能表示迷雾散去、恐惧消除或逃避现实，提醒你面对真相，澄清困惑。",
+    "reversed_card_desc_en": "The Moon (Reversed) may indicate clarity emerging, fears dissipating, or escaping reality. It reminds you to face the truth and clear up confusion.",
+    "card_affirmations_cn": [
+      "倾听内心之音，\n探索梦幻世界。",
+      "直觉指引，\n发现内在真理。"
+    ],
+    "card_affirmations_en": [
+      "I listen to my inner voice.",
+      "I explore the depths of my subconscious."
+    ],
+    "reversed_card_affirmations_cn": [
+      "拨开迷雾，\n看清真实世界。",
+      "勇敢面对，\n消除内心恐惧。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I see things clearly and face reality.",
+      "I release fears that hold me back."
+    ]
+  },
+  {
+    "card_key": "the_sun",
+    "card_desc_cn": "正位的太阳象征快乐、成功和活力，提醒你享受生命的光明面，充满自信和热情。",
+    "card_desc_en": "The Sun (Upright) symbolizes joy, success, and vitality. It encourages you to enjoy life's bright side with confidence and enthusiasm.",
+    "reversed_card_desc_cn": "逆位的太阳可能表示暂时的挫折、延迟或悲观，提醒你保持积极，等待乌云散去。",
+    "reversed_card_desc_en": "The Sun (Reversed) may represent temporary setbacks, delays, or pessimism. It encourages you to stay positive and wait for brighter days ahead.",
+    "card_affirmations_cn": [
+      "阳光照耀，\n快乐充满心间。",
+      "自信前行，\n成功伴随左右。"
+    ],
+    "card_affirmations_en": [
+      "I shine with joy and vitality.",
+      "I embrace success and happiness."
+    ],
+    "reversed_card_affirmations_cn": [
+      "阴霾终将散去，\n光明重新降临。",
+      "保持积极，\n期待美好未来。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I remain positive through challenges.",
+      "I know brighter days are ahead."
+    ]
+  },
+  {
+    "card_key": "judgement",
+    "card_desc_cn": "正位的审判代表觉醒、评估和复苏，提醒你反思过去，做出新的决定，迈向更高的层次。",
+    "card_desc_en": "Judgement (Upright) represents awakening, evaluation, and renewal. It reminds you to reflect on the past, make new decisions, and ascend to higher levels.",
+    "reversed_card_desc_cn": "逆位的审判可能表示自我怀疑、拒绝改变或内疚，提醒你原谅自己，接受新的机会。",
+    "reversed_card_desc_en": "Judgement (Reversed) may indicate self-doubt, refusal to change, or guilt. It reminds you to forgive yourself and embrace new opportunities.",
+    "card_affirmations_cn": [
+      "觉醒之时，\n重生之日。",
+      "反思过去，\n迈向新生。"
+    ],
+    "card_affirmations_en": [
+      "I awaken to my true purpose.",
+      "I embrace renewal and transformation."
+    ],
+    "reversed_card_affirmations_cn": [
+      "放下自责，\n原谅自我。",
+      "接受改变，\n迎接新生。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I forgive myself and release the past.",
+      "I open myself to new possibilities."
+    ]
+  },
+  {
+    "card_key": "the_world",
+    "card_desc_cn": "正位的世界象征完成、成就和整体，提醒你庆祝成果，感受圆满，准备新的旅程。",
+    "card_desc_en": "The World (Upright) symbolizes completion, achievement, and wholeness. It encourages you to celebrate your accomplishments, feel fulfilled, and prepare for new journeys.",
+    "reversed_card_desc_cn": "逆位的世界可能表示未完成、停滞或缺乏闭合，提醒你完成未竟之事，寻求完整。",
+    "reversed_card_desc_en": "The World (Reversed) may signify incompletion, stagnation, or lack of closure. It urges you to finish unfinished business and seek wholeness.",
+    "card_affirmations_cn": [
+      "圆满达成，\n步步高升。",
+      "心怀感激，\n迎接新篇章。"
+    ],
+    "card_affirmations_en": [
+      "I celebrate my accomplishments.",
+      "I embrace the wholeness of life."
+    ],
+    "reversed_card_affirmations_cn": [
+      "完成未竟之事，\n寻求内心完整。",
+      "打破阻碍，\n迈向新的阶段。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I tie up loose ends and seek fulfillment.",
+      "I move forward without hesitation."
+    ]
+  },
+  {
+    "card_key": "ace_of_wands",
+    "card_desc_cn": "正位的权杖王牌象征新的激情、创造力和潜力，提醒你抓住机会，开启充满活力的新项目或想法。",
+    "card_desc_en": "Ace of Wands (Upright) symbolizes new passion, creativity, and potential. It reminds you to seize opportunities and start vibrant new projects or ideas.",
+    "reversed_card_desc_cn": "逆位的权杖王牌可能表示延迟、阻碍或缺乏方向，提醒你克服障碍，重新聚焦目标。",
+    "reversed_card_desc_en": "Ace of Wands (Reversed) may represent delays, obstacles, or lack of direction. It reminds you to overcome barriers and refocus on your goals.",
+    "card_affirmations_cn": [
+      "激情点燃创造，\n机会就在眼前。",
+      "勇敢开启新篇，\n潜力无限绽放。"
+    ],
+    "card_affirmations_en": [
+      "I ignite my creativity and seize new opportunities.",
+      "My potential is limitless."
+    ],
+    "reversed_card_affirmations_cn": [
+      "突破阻碍，\n重拾前进动力。",
+      "聚焦目标，\n坚定迈向成功。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I overcome delays and refocus my intentions.",
+      "I move forward with clarity and purpose."
+    ]
+  },
+  {
+    "card_key": "two_of_wands",
+    "card_desc_cn": "正位的权杖二代表规划、决策和展望未来，提醒你评估选择，制定长期计划。",
+    "card_desc_en": "Two of Wands (Upright) represents planning, decision-making, and future vision. It encourages you to evaluate options and create long-term plans.",
+    "reversed_card_desc_cn": "逆位的权杖二可能表示犹豫不决、机会错失或缺乏远见，提醒你坚定信念，抓住机遇。",
+    "reversed_card_desc_en": "Two of Wands (Reversed) may indicate indecision, missed opportunities, or lack of vision. It urges you to strengthen your convictions and seize chances.",
+    "card_affirmations_cn": [
+      "放眼远方，\n规划未来蓝图。",
+      "慎重决策，\n迈向成功之路。"
+    ],
+    "card_affirmations_en": [
+      "I plan ahead with confidence.",
+      "I make decisions that shape my future."
+    ],
+    "reversed_card_affirmations_cn": [
+      "坚定信心，\n勇敢做出选择。",
+      "抓住机遇，\n不再错失良机。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I trust my decisions and seize opportunities.",
+      "I look forward with vision and purpose."
+    ]
+  },
+  {
+    "card_key": "three_of_wands",
+    "card_desc_cn": "正位的权杖三象征扩展、探索和前景，提醒你期待成果，保持积极的态度。",
+    "card_desc_en": "Three of Wands (Upright) symbolizes expansion, exploration, and prospects. It reminds you to anticipate results and maintain a positive attitude.",
+    "reversed_card_desc_cn": "逆位的权杖三可能表示延迟、失望或计划受阻，提醒你调整策略，保持耐心。",
+    "reversed_card_desc_en": "Three of Wands (Reversed) may represent delays, disappointment, or hindered plans. It reminds you to adjust your strategies and remain patient.",
+    "card_affirmations_cn": [
+      "目光远大，\n期待收获满满。",
+      "积极前行，\n探索无限可能。"
+    ],
+    "card_affirmations_en": [
+      "I look ahead with optimism.",
+      "I embrace the expansion of my horizons."
+    ],
+    "reversed_card_affirmations_cn": [
+      "调整方向，\n耐心等待时机。",
+      "克服阻碍，\n继续追寻梦想。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I adapt to changes and remain patient.",
+      "I overcome obstacles to achieve my goals."
+    ]
+  },
+  {
+    "card_key": "four_of_wands",
+    "card_desc_cn": "正位的权杖四象征着庆祝、和谐与成就。它代表着一段旅程的圆满，提醒你享受当下的成功和美好时光，庆祝与他人共同取得的进步。",
+    "card_desc_en": "Four of Wands (Upright) symbolizes celebration, harmony, and achievement. It represents the completion of a journey, reminding you to enjoy current successes and celebrate shared progress.",
+    "reversed_card_desc_cn": "逆位的权杖四可能代表不安、延迟或缺乏稳定。它提醒你审视自己当前的环境，找出潜在的障碍，重建内心的平衡与和谐。",
+    "reversed_card_desc_en": "Four of Wands (Reversed) may signify restlessness, delays, or lack of stability. It reminds you to assess your environment, identify obstacles, and rebuild inner harmony.",
+    "card_affirmations_cn": [
+      "庆祝成果，\n心怀感恩之情。",
+      "感恩此刻，\n心向光明。"
+    ],
+    "card_affirmations_en": [
+      "I celebrate success and joy in my life.",
+      "Grateful for the peace, free from strife."
+    ],
+    "reversed_card_affirmations_cn": [
+      "消除疑虑，\n重建安宁。",
+      "平和心境，\n再寻启程。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I release doubts and find my ground.",
+      "With calm within, my peace is found."
+    ]
+  },
+  {
+    "card_key": "five_of_wands",
+    "card_desc_cn": "正位的权杖五象征竞争、冲突和挑战，提醒你面对竞争，提升自己的能力。",
+    "card_desc_en": "Five of Wands (Upright) symbolizes competition, conflict, and challenges. It encourages you to face competition and enhance your abilities.",
+    "reversed_card_desc_cn": "逆位的权杖五可能表示冲突化解、合作或内部纷争，提醒你寻求共同点，促进合作。",
+    "reversed_card_desc_en": "Five of Wands (Reversed) may indicate conflict resolution, cooperation, or internal strife. It urges you to find common ground and promote collaboration.",
+    "card_affirmations_cn": [
+      "迎接挑战，\n竞争激发潜能。",
+      "坚持不懈，\n超越自我极限。"
+    ],
+    "card_affirmations_en": [
+      "I embrace challenges as opportunities.",
+      "I grow stronger through healthy competition."
+    ],
+    "reversed_card_affirmations_cn": [
+      "化干戈为玉帛，\n共同合作前行。",
+      "寻求共识，\n解决内部纷争。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I promote cooperation over conflict.",
+      "I find common ground to achieve harmony."
+    ]
+  },
+  {
+    "card_key": "six_of_wands",
+    "card_desc_cn": "正位的权杖六代表胜利、认可和成功，提醒你享受荣耀，继续保持努力。",
+    "card_desc_en": "Six of Wands (Upright) represents victory, recognition, and success. It reminds you to enjoy your achievements and keep striving forward.",
+    "reversed_card_desc_cn": "逆位的权杖六可能表示自满、延迟或缺乏认可，提醒你保持谦逊，继续努力。",
+    "reversed_card_desc_en": "Six of Wands (Reversed) may represent complacency, delays, or lack of recognition. It reminds you to stay humble and continue striving.",
+    "card_affirmations_cn": [
+      "每一步迈向更远的未来。",
+      "继续前行，\n辉煌永续。"
+    ],
+    "card_affirmations_en": [
+      "I celebrate my victories with gratitude.",
+      "I continue striving for excellence."
+    ],
+    "reversed_card_affirmations_cn": [
+      "谦虚谨慎，\n努力终有回报。",
+      "谦逊为先，\n脚踏实地。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I remain humble and persistent.",
+      "I trust that my efforts will be recognized."
+    ]
+  },
+  {
+    "card_key": "seven_of_wands",
+    "card_desc_cn": "正位的权杖七象征防卫、挑战和坚持，提醒你捍卫自己的立场，面对挑战毫不退缩。",
+    "card_desc_en": "Seven of Wands (Upright) symbolizes defense, challenges, and perseverance. It encourages you to stand your ground and face challenges without hesitation.",
+    "reversed_card_desc_cn": "逆位的权杖七可能表示防御过度、压力或退缩，提醒你放松警惕，寻求支持。",
+    "reversed_card_desc_en": "Seven of Wands (Reversed) may indicate over-defensiveness, pressure, or withdrawal. It encourages you to lower your guard and seek support.",
+    "card_affirmations_cn": [
+      "坚定立场，\n勇敢面对挑战。",
+      "坚持信念，\n不惧任何阻碍。"
+    ],
+    "card_affirmations_en": [
+      "I stand my ground with courage.",
+      "I defend my beliefs confidently."
+    ],
+    "reversed_card_affirmations_cn": [
+      "放下防备，\n接受他人帮助。",
+      "缓解压力，\n重新振作精神。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I release unnecessary defenses.",
+      "I seek support when needed."
+    ]
+  },
+  {
+    "card_key": "eight_of_wands",
+    "card_desc_cn": "正位的权杖八代表快速行动、沟通和进展，提醒你抓住机会，迅速采取行动。",
+    "card_desc_en": "Eight of Wands (Upright) represents swift action, communication, and progress. It reminds you to seize opportunities and act quickly.",
+    "reversed_card_desc_cn": "逆位的权杖八可能表示延迟、混乱或信息误传，提醒你理清思路，谨慎沟通。",
+    "reversed_card_desc_en": "Eight of Wands (Reversed) may represent delays, confusion, or miscommunication. It reminds you to clarify your thoughts and communicate carefully.",
+    "card_affirmations_cn": [
+      "行动迅速，\n机会不容错过。",
+      "风速而行，\n机遇当前。"
+    ],
+    "card_affirmations_en": [
+      "I act swiftly and decisively.",
+      "I embrace progress with open arms."
+    ],
+    "reversed_card_affirmations_cn": [
+      "理清思绪，\n避免误解发生。",
+      "耐心等待，\n静待时机成熟。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I communicate clearly and avoid confusion.",
+      "I remain patient through delays."
+    ]
+  },
+  {
+    "card_key": "nine_of_wands",
+    "card_desc_cn": "正位的权杖九象征坚韧、毅力和防备，提醒你保持坚强，继续前行。",
+    "card_desc_en": "Nine of Wands (Upright) symbolizes resilience, perseverance, and preparedness. It encourages you to stay strong and keep moving forward.",
+    "reversed_card_desc_cn": "逆位的权杖九可能表示疲惫、放弃或防御过度，提醒你休息调整，恢复元气。",
+    "reversed_card_desc_en": "Nine of Wands (Reversed) may signify exhaustion, giving up, or excessive defensiveness. It urges you to rest, adjust, and regain strength.",
+    "card_affirmations_cn": [
+      "坚韧不拔，\n困难无法击倒我。",
+      "毅力支撑，\n成功指日可待。"
+    ],
+    "card_affirmations_en": [
+      "I persist with resilience and strength.",
+      "I am unwavering in the face of challenges."
+    ],
+    "reversed_card_affirmations_cn": [
+      "放下重担，\n轻装上阵。",
+      "释放疲惫，\n重拾希望。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I allow myself to rest and rejuvenate.",
+      "I release unnecessary defenses."
+    ]
+  },
+  {
+    "card_key": "ten_of_wands",
+    "card_desc_cn": "正位的权杖十代表负担、责任和压力，提醒你合理分配任务，避免过度劳累。",
+    "card_desc_en": "Ten of Wands (Upright) represents burden, responsibility, and stress. It reminds you to delegate tasks wisely and avoid burnout.",
+    "reversed_card_desc_cn": "逆位的权杖十可能表示释放负担、逃避责任或压垮，提醒你正视问题，寻求帮助。",
+    "reversed_card_desc_en": "Ten of Wands (Reversed) may indicate releasing burdens, avoiding responsibility, or feeling overwhelmed. It reminds you to face issues and seek assistance.",
+    "card_affirmations_cn": [
+      "分担重担，\n轻装前行。",
+      "合理安排，\n压力自然减轻。"
+    ],
+    "card_affirmations_en": [
+      "I delegate tasks to lighten my load.",
+      "I manage my responsibilities wisely."
+    ],
+    "reversed_card_affirmations_cn": [
+      "释放压力，\n寻求他人支持。",
+      "勇敢承担，\n走出困境。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I seek assistance when overwhelmed.",
+      "I face my responsibilities with courage."
+    ]
+  },
+  {
+    "card_key": "page_of_wands",
+    "card_desc_cn": "正位的权杖侍者象征激情、冒险和消息，提醒你保持好奇，探索新的可能性。",
+    "card_desc_en": "Page of Wands (Upright) symbolizes passion, adventure, and news. It encourages you to stay curious and explore new possibilities.",
+    "reversed_card_desc_cn": "逆位的权杖侍者可能表示不成熟、冲动或计划受阻，提醒你三思而后行，制定明确的计划。",
+    "reversed_card_desc_en": "Page of Wands (Reversed) may represent immaturity, impulsiveness, or stalled plans. It urges you to think twice and create clear strategies.",
+    "card_affirmations_cn": [
+      "好奇心引领新冒险，激情点燃新希望。",
+      "勇于探索，无限可能等待着我。"
+    ],
+    "card_affirmations_en": [
+      "I embrace new adventures with enthusiasm.",
+      "My curiosity opens doors to possibilities."
+    ],
+    "reversed_card_affirmations_cn": [
+      "冷静思考，\n制定清晰目标。",
+      "避免冲动，\n稳步前行。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I plan carefully before taking action.",
+      "I channel my energy wisely"
+    ]
+  },
+  {
+    "card_key": "knight_of_wands",
+    "card_desc_cn": "正位的权杖骑士象征着冒险、激情与行动力。它代表着快速行动和冲动的决断，提醒你大胆追求自己的目标，保持热情和动力。",
+    "card_desc_en": "Knight of Wands (Upright) represents adventure, passion, and drive. It signifies quick action and impulsive decisions, reminding you to boldly pursue your goals with enthusiasm.",
+    "reversed_card_desc_cn": "逆位的权杖骑士可能代表鲁莽、缺乏计划或不稳定的情绪。它提醒你在行动前先做好准备，避免草率行事。",
+    "reversed_card_desc_en": "Knight of Wands (Reversed) may symbolize recklessness, lack of planning, or unstable emotions. It reminds you to prepare before acting and avoid hasty decisions.",
+    "card_affirmations_cn": [
+      "勇敢出发，\n心中有火。",
+      "激情澎湃，\n挑战无惧。"
+    ],
+    "card_affirmations_en": [
+      "I move forward with energy and passion.",
+      "I embrace adventures wholeheartedly."
+    ],
+    "reversed_card_affirmations_cn": [
+      "冷静思考，\n稳步前行。",
+      "计划为先，\n步伐清晰。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I move with care, not haste or fear.",
+      "I plan with purpose, my path is clear."
+    ]
+  },
+  {
+    "card_key": "queen_of_wands",
+    "card_desc_cn": "正位的权杖王后象征自信、独立和魅力，提醒你发挥领导力，散发个人魅力。",
+    "card_desc_en": "Queen of Wands (Upright) symbolizes confidence, independence, and charisma. It encourages you to exercise leadership and exude personal charm.",
+    "reversed_card_desc_cn": "逆位的权杖王后可能表示嫉妒、自私或不安，提醒你关注内在，平衡情绪。",
+    "reversed_card_desc_en": "Queen of Wands (Reversed) may indicate jealousy, selfishness, or insecurity. It encourages you to focus inward and balance your emotions.",
+    "card_affirmations_cn": [
+      "自信满满，\n魅力无法抵挡。",
+      "领导才能，\n激励他人前进。"
+    ],
+    "card_affirmations_en": [
+      "I exude confidence and charisma.",
+      "I lead and inspire those around me."
+    ],
+    "reversed_card_affirmations_cn": [
+      "平静内心，\n释放消极情绪。",
+      "培养自爱，\n重拾自信光芒。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I nurture my inner peace and confidence.",
+      "I let go of negativity and embrace self-love."
+    ]
+  },
+  {
+    "card_key": "king_of_wands",
+    "card_desc_cn": "正位的权杖国王代表着成熟、智慧和对目标的清晰规划，提醒你展现出领导才能，带领他人走向成功。",
+    "card_desc_en": "King of Wands (Upright) represents maturity, wisdom, and clear goal-setting. It reminds you to demonstrate leadership and guide others toward success.",
+    "reversed_card_desc_cn": "逆位的权杖国王可能代表独断、过度控制或焦虑。它提醒你在领导中保持平衡，避免过度干涉他人，信任团队的力量。",
+    "reversed_card_desc_en": "King of Wands (Reversed) may represent authoritarianism, overcontrol, or anxiety. It reminds you to maintain balanced leadership, avoid micromanaging, and trust your team's strength.",
+    "card_affirmations_cn": [
+      "引领前行，\n愿景指引方向。",
+      "动力无限，\n成就辉煌事业。"
+    ],
+    "card_affirmations_en": [
+      "I lead with vision and confidence.",
+      "I inspire others with my passion."
+    ],
+    "reversed_card_affirmations_cn": [
+      "平衡权力，\n信任同行。",
+      "宽容包容，\n团队为重。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I lead with humility and clarity.",
+      "I channel my energy wisely."
+    ]
+  },
+  {
+    "card_key": "ace_of_cups",
+    "card_desc_cn": "正位的圣杯王牌象征新的情感开始、爱和灵感，提醒你敞开心扉，接受爱的能量。",
+    "card_desc_en": "Ace of Cups (Upright) symbolizes new emotional beginnings, love, and inspiration. It reminds you to open your heart and embrace loving energy.",
+    "reversed_card_desc_cn": "逆位的圣杯王牌可能表示情感阻塞、失望或压抑，提醒你释放情绪，疗愈内心。",
+    "reversed_card_desc_en": "Ace of Cups (Reversed) may signify emotional blockage, disappointment, or repression. It urges you to release feelings and heal your heart.",
+    "card_affirmations_cn": [
+      "心门敞开，\n爱意涌入心田。",
+      "情感新生，\n灵感源源不断。"
+    ],
+    "card_affirmations_en": [
+      "I open my heart to new emotional experiences.",
+      "Love and inspiration flow freely."
+    ],
+    "reversed_card_affirmations_cn": [
+      "释放情感，\n疗愈内心创伤。",
+      "重新开始，\n拥抱新的希望。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I heal by releasing suppressed emotions.",
+      "I make space for new beginnings."
+    ]
+  },
+  {
+    "card_key": "two_of_cups",
+    "card_desc_cn": "正位的圣杯二代表着深厚的情感纽带，提醒你珍惜与他人的关系，建立真诚、平等的连接。",
+    "card_desc_en": "Two of Cups (Upright) represents deep emotional bonds. It reminds you to cherish relationships and build sincere, balanced connections.",
+    "reversed_card_desc_cn": "逆位的圣杯二可能表示不和、分离或误解，提醒你沟通清晰，解决矛盾。",
+    "reversed_card_desc_en": "Two of Cups (Reversed) may indicate disharmony, separation, or misunderstandings. It reminds you to communicate clearly and resolve conflicts.",
+    "card_affirmations_cn": [
+      "爱与和谐，\n心心相印。",
+      "真诚相待，\n情深意长。"
+    ],
+    "card_affirmations_en": [
+      "I embrace love, with an open heart.",
+      "In harmony, we shall never part."
+    ],
+    "reversed_card_affirmations_cn": [
+      "修复裂痕，\n恢复平衡。",
+      "珍惜每一份真挚的情感。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I resolve misunderstandings with honesty.",
+      "I work towards healing my relationships."
+    ]
+  },
+  {
+    "card_key": "three_of_cups",
+    "card_desc_cn": "正位的圣杯三象征庆祝、友情和社交，提醒你享受与他人共度的美好时光。",
+    "card_desc_en": "Three of Cups (Upright) symbolizes celebration, friendship, and socializing. It encourages you to enjoy joyful moments with others.",
+    "reversed_card_desc_cn": "逆位的圣杯三可能代表过度享乐、社交疏离或与朋友的误解。它提醒你重视人际关系，避免自我孤立。",
+    "reversed_card_desc_en": "Three of Cups (Reversed) may represent overindulgence, social isolation, or misunderstandings with friends. It urges you to value relationships and avoid self-isolation.",
+    "card_affirmations_cn": [
+      "与友同乐，\n笑语相伴。",
+      "心中有爱，\n幸福无边。"
+    ],
+    "card_affirmations_en": [
+      "I celebrate life's joys with those I cherish. ",
+      "My happiness grows when shared with others."
+    ],
+    "reversed_card_affirmations_cn": [
+      "敞开心扉，\n重建友谊。 ",
+      "放下隔阂，\n幸福归一。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I open my heart to reconnect with others. ",
+      "I release barriers and embrace true friendship."
+    ]
+  },
+  {
+    "card_key": "four_of_cups",
+    "card_desc_cn": "正位的圣杯四代表沉思、不满足或机会被忽视，提醒你打开眼界，接受新的可能。",
+    "card_desc_en": "Four of Cups (Upright) represents contemplation, dissatisfaction, or missed opportunities. It reminds you to open your mind and accept new possibilities.",
+    "reversed_card_desc_cn": "逆位的圣杯四可能表示觉醒、动力或重新关注，提醒你走出自我，积极行动。",
+    "reversed_card_desc_en": "Four of Cups (Reversed) may signify awakening, motivation, or renewed focus. It encourages you to step out and take positive action.",
+    "card_affirmations_cn": [
+      "敞开心扉，\n发现新的机会。",
+      "珍惜当下，\n满足于所拥有。"
+    ],
+    "card_affirmations_en": [
+      "I open myself to new possibilities.",
+      "I appreciate what life offers me."
+    ],
+    "reversed_card_affirmations_cn": [
+      "重新振作，\n积极拥抱生活。",
+      "专注目标，\n行动带来改变。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I re-engage with life enthusiastically.",
+      "I take action towards my goals."
+    ]
+  },
+  {
+    "card_key": "five_of_cups",
+    "card_desc_cn": "正位的圣杯五代表着情感上的困境，提醒你正视痛苦的情感，但也要学会从失落中寻找新的希望。",
+    "card_desc_en": "Five of Cups (Upright) symbolizes emotional challenges. It reminds you to face painful feelings but also to find new hope after loss.",
+    "reversed_card_desc_cn": "逆位的圣杯五可能代表情感上的放下与释然。它提醒你从过去的痛苦中走出，重新拥抱生活中的美好。",
+    "reversed_card_desc_en": "Five of Cups (Reversed) may represent emotional release and letting go. It reminds you to move past pain and embrace life's joys.",
+    "card_affirmations_cn": [
+      "放下悲伤，\n过去无法改变。",
+      "心中有光，\n未来可期。"
+    ],
+    "card_affirmations_en": [
+      "I release sorrow and embrace healing.",
+      "I look forward to new beginnings."
+    ],
+    "reversed_card_affirmations_cn": [
+      "放下过去，\n心无牵挂。",
+      "迎接新生，\n喜乐常在。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I release the past, unburdened and free.",
+      "I embrace the present, full of possibility."
+    ]
+  },
+  {
+    "card_key": "six_of_cups",
+    "card_desc_cn": "正位的圣杯六代表怀旧、童年和慷慨，提醒你珍惜美好回忆，分享爱与关怀。",
+    "card_desc_en": "Six of Cups (Upright) symbolizes nostalgia, childhood, and generosity. It encourages you to treasure fond memories and share love and care.",
+    "reversed_card_desc_cn": "逆位的圣杯六可能表示沉溺过去、逃避现实或成长，提醒你放下过去，专注当下。",
+    "reversed_card_desc_en": "Six of Cups (Reversed) may indicate dwelling on the past, avoiding reality, or resisting growth. It urges you to let go and focus on the present.",
+    "card_affirmations_cn": [
+      "回忆美好时光，\n心中充满温暖。",
+      "慷慨待人，\n爱心传递四方。"
+    ],
+    "card_affirmations_en": [
+      "I cherish fond memories and kindness.",
+      "I share love generously with others."
+    ],
+    "reversed_card_affirmations_cn": [
+      "放下过去，\n活在当下时刻。",
+      "接受成长，\n迎接未来挑战。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I release the past and embrace the present.",
+      "I grow and look forward to the future."
+    ]
+  },
+  {
+    "card_key": "seven_of_cups",
+    "card_desc_cn": "正位的圣杯七象征幻想、选择和诱惑，提醒你明辨是非，做出明智的选择。",
+    "card_desc_en": "Seven of Cups (Upright) represents fantasies, choices, and temptations. It reminds you to discern reality from illusion and make wise decisions.",
+    "reversed_card_desc_cn": "逆位的圣杯七可能表示清醒、优先排序或机会失去，提醒你集中精力，实现目标。",
+    "reversed_card_desc_en": "Seven of Cups (Reversed) may signify clarity, prioritization, or missed opportunities. It reminds you to concentrate and achieve your goals.",
+    "card_affirmations_cn": [
+      "清晰思考，\n明智做出选择。",
+      "脚踏实地，\n梦想方能实现。"
+    ],
+    "card_affirmations_en": [
+      "I see through illusions and choose wisely.",
+      "I ground my dreams in reality."
+    ],
+    "reversed_card_affirmations_cn": [
+      "专注目标，\n行动带来成果。",
+      "抓住机会，\n不再犹豫不决。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I focus on what truly matters.",
+      "I take decisive action towards success."
+    ]
+  },
+  {
+    "card_key": "eight_of_cups",
+    "card_desc_cn": "正位的圣杯八代表放弃、寻求和自我探索，提醒你离开不再满足的事物，追寻新的方向。",
+    "card_desc_en": "Eight of Cups (Upright) symbolizes abandonment, seeking, and self-exploration. It urges you to leave unsatisfying situations and seek new directions.",
+    "reversed_card_desc_cn": "逆位的圣杯八可能表示犹豫、不愿放手或回归，提醒你正视内心，做出决定。",
+    "reversed_card_desc_en": "Eight of Cups (Reversed) may represent hesitation, unwillingness to let go, or returning. It urges you to face your feelings and make decisions.",
+    "card_affirmations_cn": [
+      "勇敢离开，\n追寻内心渴望。",
+      "自我探索，\n发现新的天地。"
+    ],
+    "card_affirmations_en": [
+      "I leave behind what no longer serves me.",
+      "I embark on a journey of self-discovery."
+    ],
+    "reversed_card_affirmations_cn": [
+      "正视内心，\n勇敢做出选择。",
+      "放下执念，\n迎接新起点。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I confront my hesitations and decide.",
+      "I let go to embrace new beginnings."
+    ]
+  },
+  {
+    "card_key": "nine_of_cups",
+    "card_desc_cn": "正位的圣杯九象征满足、愿望成真和幸福，提醒你享受成就，心怀感恩。",
+    "card_desc_en": "Nine of Cups (Upright) represents satisfaction, wishes fulfilled, and happiness. It reminds you to enjoy your achievements and remain grateful.",
+    "reversed_card_desc_cn": "逆位的圣杯九可能表示不满足、过度或空虚，提醒你寻求内在满足，避免过度追求物质。",
+    "reversed_card_desc_en": "Nine of Cups (Reversed) may indicate dissatisfaction, excess, or emptiness. It reminds you to seek inner fulfillment and avoid overindulgence.",
+    "card_affirmations_cn": [
+      "愿望实现，\n幸福充盈心间。",
+      "感恩所获，\n生活美满圆满。"
+    ],
+    "card_affirmations_en": [
+      "I celebrate my fulfilled desires.",
+      "I am grateful for the abundance in my life."
+    ],
+    "reversed_card_affirmations_cn": [
+      "寻求内心平静，\n满足源于内在。",
+      "适度生活，\n找到真正的快乐。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I find contentment within myself.",
+      "I balance desire with appreciation."
+    ]
+  },
+  {
+    "card_key": "ten_of_cups",
+    "card_desc_cn": "正位的圣杯十代表和谐、幸福和家庭，提醒你珍惜家庭之乐，享受和谐关系。",
+    "card_desc_en": "Ten of Cups (Upright) symbolizes harmony, happiness, and family. It encourages you to treasure family joy and enjoy harmonious relationships.",
+    "reversed_card_desc_cn": "逆位的圣杯十可能表示不和谐、紧张或破裂，提醒你修复关系，重建家庭幸福。",
+    "reversed_card_desc_en": "Ten of Cups (Reversed) may signify disharmony, tension, or breakdowns. It encourages you to repair relationships and rebuild happiness.",
+    "card_affirmations_cn": [
+      "家庭幸福，\n爱意洋溢心间。",
+      "和谐关系，\n生活充满美好。"
+    ],
+    "card_affirmations_en": [
+      "I embrace the joy of harmonious relationships.",
+      "My life is filled with love and happiness."
+    ],
+    "reversed_card_affirmations_cn": [
+      "努力修复关系，\n重建和谐之家。",
+      "以爱化解矛盾，\n迎接幸福未来。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I work towards healing my relationships.",
+      "I restore harmony with love and understanding."
+    ]
+  },
+  {
+    "card_key": "page_of_cups",
+    "card_desc_cn": "正位的圣杯侍者象征创意、直觉和新消息，提醒你保持开放，接受新的情感体验。",
+    "card_desc_en": "Page of Cups (Upright) symbolizes creativity, intuition, and new messages. It reminds you to stay open and embrace new emotional experiences.",
+    "reversed_card_desc_cn": "逆位的圣杯侍者可能表示不成熟、逃避或情感封闭，提醒你面对情感，培养成熟。",
+    "reversed_card_desc_en": "Page of Cups (Reversed) may represent immaturity, avoidance, or emotional blockage. It urges you to face your feelings and develop maturity.",
+    "card_affirmations_cn": [
+      "心灵开放，\n创意源源不断。",
+      "直觉指引，\n接受新讯息。"
+    ],
+    "card_affirmations_en": [
+      "I remain open to new emotional experiences.",
+      "My creativity and intuition guide me."
+    ],
+    "reversed_card_affirmations_cn": [
+      "正视情感，\n更加成熟。",
+      "敞开心扉，\n接受自我。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I confront my emotions responsibly.",
+      "I open my heart to personal growth."
+    ]
+  },
+  {
+    "card_key": "knight_of_cups",
+    "card_desc_cn": "正位的圣杯骑士代表浪漫、提议和理想主义，提醒你追随心之所向，表达情感。",
+    "card_desc_en": "Knight of Cups (Upright) represents romance, proposals, and idealism. It encourages you to follow your heart and express your feelings.",
+    "reversed_card_desc_cn": "逆位的圣杯骑士可能表示情感波动、幻灭或不切实际，提醒你保持平衡，脚踏实地。",
+    "reversed_card_desc_en": "Knight of Cups (Reversed) may indicate emotional fluctuations, disillusionment, or unrealistic ideals. It reminds you to stay balanced and grounded.",
+    "card_affirmations_cn": [
+      "追随内心，\n浪漫点亮生活。",
+      "勇于表达，\n情感自由流动。"
+    ],
+    "card_affirmations_en": [
+      "I follow my heart with grace.",
+      "I express my feelings openly."
+    ],
+    "reversed_card_affirmations_cn": [
+      "平衡情感，\n理性看待现实。",
+      "脚踏实地，\n避免幻想破灭。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I balance my emotions with realism.",
+      "I stay grounded in my pursuits."
+    ]
+  },
+  {
+    "card_key": "queen_of_cups",
+    "card_desc_cn": "正位的圣杯王后象征直觉、关怀和敏感，提醒你倾听内心，关爱他人。",
+    "card_desc_en": "Queen of Cups (Upright) symbolizes intuition, care, and sensitivity. It reminds you to listen to your inner self and nurture others.",
+    "reversed_card_desc_cn": "逆位的圣杯王后可能表示情感受阻、依赖或过度敏感，提醒你照顾自己，设定界限。",
+    "reversed_card_desc_en": "Queen of Cups (Reversed) may signify emotional blockage, dependency, or oversensitivity. It encourages you to care for yourself and set healthy boundaries.",
+    "card_affirmations_cn": [
+      "直觉敏锐，\n心怀慈爱之心。",
+      "关怀他人，\n情感联系深厚。"
+    ],
+    "card_affirmations_en": [
+      "I trust my intuition deeply.",
+      "I nurture others with compassion."
+    ],
+    "reversed_card_affirmations_cn": [
+      "照顾自我，\n设定健康界限。",
+      "平衡情感，\n保持内心平静。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I care for myself as I care for others.",
+      "I maintain emotional balance."
+    ]
+  },
+  {
+    "card_key": "king_of_cups",
+    "card_desc_cn": "正位的圣杯国王代表情感平衡、智慧和同理心，提醒你以成熟的方式处理情感。",
+    "card_desc_en": "King of Cups (Upright) represents emotional balance, wisdom, and empathy. It encourages you to handle emotions maturely and compassionately.",
+    "reversed_card_desc_cn": "逆位的圣杯国王可能表示情感压抑、不稳定或操纵，提醒你正视情绪，诚实待人。",
+    "reversed_card_desc_en": "King of Cups (Reversed) may represent emotional repression, instability, or manipulation. It urges you to acknowledge your emotions and be honest with others.",
+    "card_affirmations_cn": [
+      "情感稳重，\n智慧引领方向。",
+      "以同理心，\n理解他人感受。"
+    ],
+    "card_affirmations_en": [
+      "I manage my emotions with wisdom.",
+      "I empathize and lead with compassion."
+    ],
+    "reversed_card_affirmations_cn": [
+      "正视内心情绪，\n保持情感健康。",
+      "真诚待人，\n建立信任关系。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I acknowledge and address my emotions.",
+      "I foster trust through honesty."
+    ]
+  },
+  {
+    "card_key": "ace_of_swords",
+    "card_desc_cn": "正位的宝剑王牌象征新的想法、清晰和真理，提醒你运用智慧，追求真理。",
+    "card_desc_en": "Ace of Swords (Upright) symbolizes new ideas, clarity, and truth. It reminds you to use wisdom and pursue honesty.",
+    "reversed_card_desc_cn": "逆位的宝剑王牌可能表示困惑、误导或延迟，提醒你理清思路，避免偏见。",
+    "reversed_card_desc_en": "Ace of Swords (Reversed) may indicate confusion, misinformation, or delays. It reminds you to clear your mind and avoid biases.",
+    "card_affirmations_cn": [
+      "智慧开启新篇章，\n真理照亮前路。",
+      "思想清晰，\n决策果断。"
+    ],
+    "card_affirmations_en": [
+      "I embrace clarity and new ideas.",
+      "Truth guides my action"
+    ],
+    "reversed_card_affirmations_cn": [
+      "澄清困惑，\n追求内心真相。",
+      "摒弃偏见，\n寻找明晰方向。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I dispel confusion and seek clarity.",
+      "I overcome obstacles to understanding."
+    ]
+  },
+  {
+    "card_key": "two_of_swords",
+    "card_desc_cn": "正位的宝剑二代表僵局、选择和平衡，提醒你面对问题，做出决定。",
+    "card_desc_en": "Two of Swords (Upright) represents stalemate, choices, and balance. It urges you to face issues directly and make decisions.",
+    "reversed_card_desc_cn": "逆位的宝剑二可能表示决策、揭示或混乱，提醒你信任直觉，行动果断。",
+    "reversed_card_desc_en": "Two of Swords (Reversed) may represent decision-making, revelations, or chaos. It urges you to trust your intuition and act decisively.",
+    "card_affirmations_cn": [
+      "直面抉择，\n勇敢打破僵局。",
+      "平衡思考，\n找到最佳方案。"
+    ],
+    "card_affirmations_en": [
+      "I confront decisions with courage.",
+      "I seek balance in my choices."
+    ],
+    "reversed_card_affirmations_cn": [
+      "信任自己，\n果断采取行动。",
+      "理清思路，\n走出混乱局面。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I trust myself to make the right choice.",
+      "I move forward with confidence."
+    ]
+  },
+  {
+    "card_key": "three_of_swords",
+    "card_desc_cn": "正位的宝剑三象征心碎、悲伤和分离，提醒你面对痛苦，疗愈自我。",
+    "card_desc_en": "Three of Swords (Upright) symbolizes heartbreak, sorrow, and separation. It reminds you to confront pain and heal yourself.",
+    "reversed_card_desc_cn": "逆位的宝剑三可能代表着痛苦的结束或逐渐恢复。提醒你已经走出情感的阴影，准备迎接新生。",
+    "reversed_card_desc_en": "Three of Swords (Reversed) may signify the end of pain or gradual healing. It reminds you that you've moved past sorrow and are ready for renewal.",
+    "card_affirmations_cn": [
+      "接受悲伤，\n允许自己疗愈。",
+      "穿越痛苦，\n迎接新生希望。"
+    ],
+    "card_affirmations_en": [
+      "I allow myself to heal from pain.",
+      "I emerge stronger from heartbreak."
+    ],
+    "reversed_card_affirmations_cn": [
+      "痛苦已尽，\n光明将至。",
+      "心中重生，\n焕然一新。"
+    ],
+    "reversed_card_affirmations_en": [
+      "The pain has passed, peace comes anew.",
+      "I heal and rise, my spirit true."
+    ]
+  },
+  {
+    "card_key": "four_of_swords",
+    "card_desc_cn": "正位的宝剑四代表休息、恢复和冥想，提醒你暂停脚步，恢复能量。",
+    "card_desc_en": "Four of Swords (Upright) represents rest, recovery, and meditation. It encourages you to pause and rejuvenate your energy.",
+    "reversed_card_desc_cn": "逆位的宝剑四可能表示不安、觉醒或恢复活力，提醒你准备行动，重新出发。",
+    "reversed_card_desc_en": "Four of Swords (Reversed) may represent restlessness, awakening, or revitalization. It encourages you to prepare for action and embark anew.",
+    "card_affirmations_cn": [
+      "休息是为了更好前行。",
+      "冥想静心，\n恢复内在力量。"
+    ],
+    "card_affirmations_en": [
+      "I take time to rest and rejuvenate.",
+      "I find strength in stillness."
+    ],
+    "reversed_card_affirmations_cn": [
+      "恢复活力，\n准备再度起航。",
+      "结束休整，\n迎接新挑战。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I awaken refreshed and ready.",
+      "I move forward with renewed energy."
+    ]
+  },
+  {
+    "card_key": "five_of_swords",
+    "card_desc_cn": "正位的宝剑五象征冲突、失败和自私，提醒你反思行为，避免伤害他人。",
+    "card_desc_en": "Five of Swords (Upright) symbolizes conflict, defeat, and selfishness. It urges you to reflect on your actions and avoid harming others.",
+    "reversed_card_desc_cn": "逆位的宝剑五可能表示和解、原谅或遗憾，提醒你修复关系，学会宽恕。",
+    "reversed_card_desc_en": "Five of Swords (Reversed) may indicate reconciliation, forgiveness, or regret. It urges you to mend relationships and practice forgiveness.",
+    "card_affirmations_cn": [
+      "反思自己的行为，\n追求和谐共处。",
+      "放下自私，\n学会合作共赢。"
+    ],
+    "card_affirmations_en": [
+      "I consider the impact of my actions.",
+      "I choose harmony over conflict."
+    ],
+    "reversed_card_affirmations_cn": [
+      "寻求和解，\n释放心中怨恨。",
+      "学会宽恕，\n迈向和平之路。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I seek forgiveness and reconciliation.",
+      "I let go of past grievances."
+    ]
+  },
+  {
+    "card_key": "six_of_swords",
+    "card_desc_cn": "正位的宝剑六代表过渡、旅行和康复，提醒你离开困难，寻求新的开始。",
+    "card_desc_en": "Six of Swords (Upright) represents transition, travel, and recovery. It encourages you to leave difficulties behind and seek new beginnings.",
+    "reversed_card_desc_cn": "逆位的宝剑六可能表示阻碍、无法前进或返回，提醒你面对障碍，寻找解决之道。",
+    "reversed_card_desc_en": "Six of Swords (Reversed) may signify obstacles, inability to move forward, or returning. It reminds you to face challenges and find solutions.",
+    "card_affirmations_cn": [
+      "告别过去，\n踏上康复之旅。",
+      "迎接变化，\n前方充满希望。"
+    ],
+    "card_affirmations_en": [
+      "I move forward towards healing.",
+      "I embrace transitions with hope."
+    ],
+    "reversed_card_affirmations_cn": [
+      "克服阻碍，\n坚定前进信念。",
+      "不再退缩，\n勇敢面对挑战。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I overcome obstacles with determination.",
+      "I face challenges head-on."
+    ]
+  },
+  {
+    "card_key": "seven_of_swords",
+    "card_desc_cn": "正位的宝剑七象征着策略、隐秘与谨慎。代表着需要用智慧和策略来应对挑战，提醒你在行动时要保持警觉，避免被误导或陷入困境。",
+    "card_desc_en": "Seven of Swords (Upright) symbolizes strategy, secrecy, and caution. It signifies the need to use wisdom and strategy to face challenges, reminding you to stay alert and avoid deception.",
+    "reversed_card_desc_cn": "逆位的宝剑七可能代表揭露、失信或自我欺骗。它提醒你要诚实与透明，避免隐藏真实的自我或情感。",
+    "reversed_card_desc_en": "Seven of Swords (Reversed) may represent exposure, loss of trust, or self-deception. It urges you to be honest and transparent, avoiding hidden truths.",
+    "card_affirmations_cn": [
+      "智慧为剑，\n隐秘为盾。",
+      "谨慎行动，\n稳步前行。"
+    ],
+    "card_affirmations_en": [
+      "I act with integrity and honesty.",
+      "I plan wisely and ethically."
+    ],
+    "reversed_card_affirmations_cn": [
+      "正视真相，\n改过自新。",
+      "遵循道德，\n重建信任。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I confront the truth and make amends.",
+      "I rebuild trust through right actions."
+    ]
+  },
+  {
+    "card_key": "eight_of_swords",
+    "card_desc_cn": "正位的宝剑八代表束缚、限制和困惑，提醒你突破自我设限，寻找出路。",
+    "card_desc_en": "Eight of Swords (Upright) represents bondage, restriction, and confusion. It urges you to break free from self-imposed limitations and find a way out.",
+    "reversed_card_desc_cn": "逆位的宝剑八可能表示解脱、觉醒或希望，提醒你采取行动，重获自由。",
+    "reversed_card_desc_en": "Eight of Swords (Reversed) may indicate liberation, awakening, or newfound hope. It encourages you to take action and regain freedom.",
+    "card_affirmations_cn": [
+      "释放自我，\n打破内心枷锁。",
+      "信任自己，\n走出困境。"
+    ],
+    "card_affirmations_en": [
+      "I free myself from self-imposed limitations.",
+      "I trust my ability to overcome obstacles."
+    ],
+    "reversed_card_affirmations_cn": [
+      "采取行动，\n重获内心自由。",
+      "觉醒自我，\n迎接新生。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I take steps towards liberation.",
+      "I awaken to new possibilities."
+    ]
+  },
+  {
+    "card_key": "nine_of_swords",
+    "card_desc_cn": "正位的宝剑九象征焦虑、担忧和失眠，提醒你面对恐惧，寻求内心平静。",
+    "card_desc_en": "Nine of Swords (Upright) symbolizes anxiety, worry, and insomnia. It reminds you to face your fears and seek inner peace.",
+    "reversed_card_desc_cn": "逆位的宝剑九可能表示希望、恢复或过度焦虑，提醒你寻求帮助，走出阴霾。",
+    "reversed_card_desc_en": "Nine of Swords (Reversed) may signify hope, recovery, or excessive anxiety. It reminds you to seek support and emerge from darkness.",
+    "card_affirmations_cn": [
+      "放下忧虑，\n寻找内心安宁。",
+      "相信自己，\n一切都会好转。"
+    ],
+    "card_affirmations_en": [
+      "I release my fears and find peace.",
+      "I trust that things will improve."
+    ],
+    "reversed_card_affirmations_cn": [
+      "寻求支持，\n走出焦虑之谷。",
+      "拥抱希望，\n重拾快乐心情。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I reach out for support and heal.",
+      "I embrace hope and joy."
+    ]
+  },
+  {
+    "card_key": "ten_of_swords",
+    "card_desc_cn": "正位的宝剑十代表结束、背叛和痛苦，提醒你接受结束，准备新的开始。",
+    "card_desc_en": "Ten of Swords (Upright) represents endings, betrayal, and pain. It encourages you to accept closure and prepare for new starts.",
+    "reversed_card_desc_cn": "逆位的宝剑十可能表示恢复、再生或抵抗结束，提醒你放下过去，重建自我。",
+    "reversed_card_desc_en": "Ten of Swords (Reversed) may represent recovery, regeneration, or resisting endings. It urges you to let go of the past and rebuild.",
+    "card_affirmations_cn": [
+      "结束带来新生，\n痛苦终将过去。",
+      "准备启程，\n迎接新的人生篇章。"
+    ],
+    "card_affirmations_en": [
+      "I accept endings and release pain.",
+      "I prepare for a new beginning."
+    ],
+    "reversed_card_affirmations_cn": [
+      "放下过去，\n重塑自我力量。",
+      "走出阴霾，\n迎接光明未来。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I rebuild myself stronger than before.",
+      "I move forward into the light."
+    ]
+  },
+  {
+    "card_key": "page_of_swords",
+    "card_desc_cn": "正位的宝剑侍者象征好奇、学习和消息，提醒你保持警觉，追求知识。",
+    "card_desc_en": "Page of Swords (Upright) symbolizes curiosity, learning, and messages. It urges you to stay alert and pursue knowledge.",
+    "reversed_card_desc_cn": "逆位的宝剑侍者可能表示轻率、八卦或延迟，提醒你谨慎言行，避免误导。",
+    "reversed_card_desc_en": "Page of Swords (Reversed) may indicate rashness, gossip, or delays. It reminds you to be cautious in words and actions to prevent misunderstandings.",
+    "card_affirmations_cn": [
+      "好奇心驱动，\n知识无限拓展。",
+      "警觉思考，\n智慧伴我前行。"
+    ],
+    "card_affirmations_en": [
+      "I pursue knowledge with enthusiasm.",
+      "I remain alert and informed."
+    ],
+    "reversed_card_affirmations_cn": [
+      "谨言慎行，\n远离流言蜚语。",
+      "深思熟虑，\n行动更有力量。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I communicate thoughtfully and responsibly.",
+      "I consider consequences before acting."
+    ]
+  },
+  {
+    "card_key": "knight_of_swords",
+    "card_desc_cn": "正位的宝剑骑士代表行动、雄心和冲劲，提醒你勇敢前进，追求目标。",
+    "card_desc_en": "Knight of Swords (Upright) represents action, ambition, and drive. It encourages you to move forward boldly and chase your goals.",
+    "reversed_card_desc_cn": "逆位的宝剑骑士可能表示鲁莽、冲动或争论，提醒你冷静思考，谨慎行动。",
+    "reversed_card_desc_en": "Knight of Swords (Reversed) may represent recklessness, impulsiveness, or disputes. It urges you to think calmly and proceed carefully.",
+    "card_affirmations_cn": [
+      "全力以赴，\n目标坚定不移。",
+      "行动迅速，\n实现雄心壮志。"
+    ],
+    "card_affirmations_en": [
+      "I pursue my goals with determination.",
+      "I act swiftly and decisively."
+    ],
+    "reversed_card_affirmations_cn": [
+      "冷静头脑，\n避免冲动决策。",
+      "理性行动，\n确保成功。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I temper my ambition with wisdom.",
+      "I act thoughtfully to achieve my aims."
+    ]
+  },
+  {
+    "card_key": "queen_of_swords",
+    "card_desc_cn": "正位的宝剑王后象征独立、智慧和清晰，提醒你运用理性，表达真相。",
+    "card_desc_en": "Queen of Swords (Upright) symbolizes independence, wisdom, and clarity. It reminds you to use logic and speak your truth.",
+    "reversed_card_desc_cn": "逆位的宝剑王后可能表示冷漠、尖刻或情感压抑，提醒你平衡理性与情感。",
+    "reversed_card_desc_en": "Queen of Swords (Reversed) may signify coldness, sharpness, or emotional suppression. It reminds you to balance logic with compassion.",
+    "card_affirmations_cn": [
+      "智慧引领，\n理性看待一切。",
+      "清晰沟通，\n真理始终相随。"
+    ],
+    "card_affirmations_en": [
+      "I think critically and communicate clearly.",
+      "I stand by the truth with confidence."
+    ],
+    "reversed_card_affirmations_cn": [
+      "平衡思考，\n温暖待人接物。",
+      "释放情感，\n完整表达自我。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I balance intellect with compassion.",
+      "I express my emotions openly."
+    ]
+  },
+  {
+    "card_key": "king_of_swords",
+    "card_desc_cn": "正位的宝剑国王代表权威、判断力和理性，提醒你公平公正，做出明智决定。",
+    "card_desc_en": "King of Swords (Upright) represents authority, judgment, and rationality. It encourages you to be fair and make wise decisions.",
+    "reversed_card_desc_cn": "逆位的宝剑国王可能表示专横、滥用权力或冷酷，提醒你谦逊待人，尊重他人。",
+    "reversed_card_desc_en": "King of Swords (Reversed) may represent tyranny, abuse of power, or harshness. It urges you to practice humility and respect others.",
+    "card_affirmations_cn": [
+      "理性判断，\n公正处理事务。",
+      "权威引领，\n决策明智无误。"
+    ],
+    "card_affirmations_en": [
+      "I lead with wisdom and fairness.",
+      "I make decisions with clear judgment."
+    ],
+    "reversed_card_affirmations_cn": [
+      "谦逊领导，\n尊重每个人的价值。",
+      "以善待人，\n赢得真诚信任。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I lead with humility and respect.",
+      "I earn trust through kindness."
+    ]
+  },
+  {
+    "card_key": "ace_of_pentacles",
+    "card_desc_cn": "正位的星币王牌象征新的财富、机会和物质成功，提醒你抓住机遇，实现物质目标。",
+    "card_desc_en": "Ace of Pentacles (Upright) symbolizes new wealth, opportunities, and material success. It reminds you to seize opportunities and achieve your goals.",
+    "reversed_card_desc_cn": "逆位的星币王牌可能表示延迟、机会错失或贪婪，提醒你谨慎投资，避免贪心。",
+    "reversed_card_desc_en": "Ace of Pentacles (Reversed) may indicate delays, missed opportunities, or greed. It reminds you to invest wisely and avoid excessive desire.",
+    "card_affirmations_cn": [
+      "机遇当前，\n财富之门开启。",
+      "努力耕耘，\n收获物质成功。"
+    ],
+    "card_affirmations_en": [
+      "I seize new opportunities for prosperity.",
+      "I cultivate success in my endeavors."
+    ],
+    "reversed_card_affirmations_cn": [
+      "谨慎前行，\n把握真正机会。",
+      "知足常乐，\n财富自会到来。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I proceed carefully and recognize true opportunities.",
+      "I find contentment in what I have."
+    ]
+  },
+  {
+    "card_key": "two_of_pentacles",
+    "card_desc_cn": "正位的星币二代表平衡、适应和多任务处理，提醒你灵活应对，平衡生活各方面。",
+    "card_desc_en": "Two of Pentacles (Upright) represents balance, adaptability, and multitasking. It encourages you to be flexible and balance all aspects of life.",
+    "reversed_card_desc_cn": "逆位的星币二可能表示失衡、压力或优先次序混乱，提醒你理清事务，专注重点。",
+    "reversed_card_desc_en": "Two of Pentacles (Reversed) may signify imbalance, stress, or disorganized priorities. It urges you to streamline tasks and focus on what's important.",
+    "card_affirmations_cn": [
+      "灵活应变，\n平衡生活重担。",
+      "游刃有余，\n轻松驾驭变化。"
+    ],
+    "card_affirmations_en": [
+      "I balance my responsibilities with ease.",
+      "I adapt gracefully to life's changes."
+    ],
+    "reversed_card_affirmations_cn": [
+      "理清头绪，\n专注最重要的事。",
+      "释放压力，\n重获内在平衡。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I prioritize effectively and reduce stress.",
+      "I restore balance in my life."
+    ]
+  },
+  {
+    "card_key": "three_of_pentacles",
+    "card_desc_cn": "正位：正位的星币三象征合作、技能和成就，提醒你与他人合作，发挥才能。",
+    "card_desc_en": "Three of Pentacles (Upright) symbolizes collaboration, skills, and achievement. It reminds you to work with others and showcase your talents.",
+    "reversed_card_desc_cn": "逆位的星币三可能表示缺乏合作、质量低下或忽视细节，提醒你重视团队，注重品质。",
+    "reversed_card_desc_en": "Three of Pentacles (Reversed) may represent lack of collaboration, poor quality, or neglecting details. It reminds you to value teamwork and emphasize quality.",
+    "card_affirmations_cn": [
+      "合作共赢，\n技能日益精进。",
+      "共同努力，\n成就卓越事业。"
+    ],
+    "card_affirmations_en": [
+      "I collaborate to achieve great things.",
+      "I hone my skills and contribute meaningfully"
+    ],
+    "reversed_card_affirmations_cn": [
+      "重视团队力量，\n提升工作质量。",
+      "关注细节，\n追求卓越成果。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I value teamwork and strive for excellence.",
+      "I pay attention to details that matter."
+    ]
+  },
+  {
+    "card_key": "four_of_pentacles",
+    "card_desc_cn": "正位的星币四代表稳定、保守和控制，提醒你保护资源，但也要适度分享。",
+    "card_desc_en": "Four of Pentacles (Upright) represents stability, conservatism, and control. It encourages you to protect your resources but also to share appropriately.",
+    "reversed_card_desc_cn": "逆位的星币四可能表示贪婪、阻碍或放手，提醒你放松控制，信任流动性。",
+    "reversed_card_desc_en": "Four of Pentacles (Reversed) may indicate greed, blockage, or letting go. It urges you to relax control and trust in the natural flow.",
+    "card_affirmations_cn": [
+      "珍惜所有，\n稳固物质基础。",
+      "适度分享，\n财富源源不断。"
+    ],
+    "card_affirmations_en": [
+      "I protect my resources wisely.",
+      "I balance saving with generosity."
+    ],
+    "reversed_card_affirmations_cn": [
+      "释放执着，\n信任自然循环。",
+      "慷慨待人，\n财富自会增长。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I let go and trust in abundance.",
+      "I give freely and receive gratefully."
+    ]
+  },
+  {
+    "card_key": "five_of_pentacles",
+    "card_desc_cn": "正位的星币五象征匮乏、困难和孤立，提醒你寻求帮助，坚持信念。",
+    "card_desc_en": "Five of Pentacles (Upright) symbolizes scarcity, hardship, and isolation. It reminds you to seek help and persist in your beliefs.",
+    "reversed_card_desc_cn": "逆位的星币五可能表示改善、恢复或精神贫乏，提醒你拥抱变化，提升自我价值。",
+    "reversed_card_desc_en": "Five of Pentacles (Reversed) may signify improvement, recovery, or spiritual lack. It encourages you to embrace change and boost self-worth.",
+    "card_affirmations_cn": [
+      "困难只是暂时，\n坚持必有出路。",
+      "寻求支持，\n希望始终存在。"
+    ],
+    "card_affirmations_en": [
+      "I persevere through challenges.",
+      "I seek support and remain hopeful."
+    ],
+    "reversed_card_affirmations_cn": [
+      "接受改变，\n走向康复之路。",
+      "相信自己，\n价值不可估量。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I embrace change and recover.",
+      "I recognize my inherent worth."
+    ]
+  },
+  {
+    "card_key": "six_of_pentacles",
+    "card_desc_cn": "正位的星币六代表慷慨、分享和平衡，提醒你给予与接受，保持和谐。",
+    "card_desc_en": "Six of Pentacles (Upright) represents generosity, sharing, and balance. It encourages you to give and receive, maintaining harmony.",
+    "reversed_card_desc_cn": "逆位的星币六可能表示不平衡、自私或债务，提醒你审视关系，追求公平。",
+    "reversed_card_desc_en": "Six of Pentacles (Reversed) may represent imbalance, selfishness, or debt. It urges you to assess relationships and strive for fairness.",
+    "card_affirmations_cn": [
+      "给予他人，\n收获内心满足。",
+      "平衡取舍，\n生活更加美好。"
+    ],
+    "card_affirmations_en": [
+      "I give and receive with gratitude.",
+      "I maintain harmony through generosity."
+    ],
+    "reversed_card_affirmations_cn": [
+      "审视关系，\n追求公平互惠。",
+      "释放自私，\n培养慷慨之心。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I strive for balance in my relationships.",
+      "I let go of selfishness and embrace generosity."
+    ]
+  },
+  {
+    "card_key": "seven_of_pentacles",
+    "card_desc_cn": "正位的星币七象征耐心、评估和等待收获，提醒你反思进展，耐心等待成果。",
+    "card_desc_en": "Seven of Pentacles (Upright) symbolizes patience, evaluation, and awaiting results. It reminds you to reflect on progress and patiently await outcomes.",
+    "reversed_card_desc_cn": "逆位的星币七可能表示焦虑、失望或浪费时间，提醒你重新评估，做出改变。",
+    "reversed_card_desc_en": "Seven of Pentacles (Reversed) may indicate anxiety, disappointment, or wasted effort. It reminds you to reevaluate and make necessary changes.",
+    "card_affirmations_cn": [
+      "耐心耕耘，\n收获指日可待。",
+      "评估进展，\n调整前进方向。"
+    ],
+    "card_affirmations_en": [
+      "I am patient as I await my harvest.",
+      "I assess and adjust my efforts wisely."
+    ],
+    "reversed_card_affirmations_cn": [
+      "重新审视，\n做出必要调整。 ",
+      "珍惜时间，\n追求有效成果。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I reevaluate my path and make changes. ",
+      "I value my time and focus on what works."
+    ]
+  },
+  {
+    "card_key": "eight_of_pentacles",
+    "card_desc_cn": "正位的星币八代表勤奋、技能和专注，提醒你努力工作，提升专业能力。",
+    "card_desc_en": "Eight of Pentacles (Upright) represents diligence, skill development, and focus. It encourages you to work hard and enhance your abilities.",
+    "reversed_card_desc_cn": "逆位的星币八可能表示倦怠、粗心或缺乏动力，提醒你找回热情，重拾专注。",
+    "reversed_card_desc_en": "Eight of Pentacles (Reversed) may signify burnout, carelessness, or lack of motivation. It urges you to rekindle passion and refocus your efforts.",
+    "card_affirmations_cn": [
+      "勤奋努力，\n技能日益精湛。 ",
+      "专注目标，\n实现自我价值。"
+    ],
+    "card_affirmations_en": [
+      " I dedicate myself to mastering my craft. ",
+      "I focus on my goals with determination."
+    ],
+    "reversed_card_affirmations_cn": [
+      "重燃热情，\n专注手中之事。 ",
+      "摒弃懈怠，\n追求卓越品质。 "
+    ],
+    "reversed_card_affirmations_en": [
+      "I rekindle my passion and focus. ",
+      "I strive for excellence in all I do."
+    ]
+  },
+  {
+    "card_key": "nine_of_pentacles",
+    "card_desc_cn": "正位的星币九象征独立、富足和享受成果，提醒你庆祝成功，享受生活。",
+    "card_desc_en": "Nine of Pentacles (Upright) symbolizes independence, abundance, and enjoying rewards. It reminds you to celebrate success and enjoy life's pleasures.",
+    "reversed_card_desc_cn": "逆位的星币九可能表示孤独、过度依赖或财务问题，提醒你建立连接，审视花费。",
+    "reversed_card_desc_en": "Nine of Pentacles (Reversed) may represent loneliness, overdependence, or financial issues. It reminds you to build connections and monitor expenses.",
+    "card_affirmations_cn": [
+      "独立自主，\n富足充盈心间。 ",
+      "享受成果，\n感恩所获一切。 "
+    ],
+    "card_affirmations_en": [
+      "I enjoy the fruits of my labor. ",
+      "I celebrate my independence and abundance."
+    ],
+    "reversed_card_affirmations_cn": [
+      "建立联系，\n丰富精神世界。",
+      "审慎理财，\n实现财务自由。 "
+    ],
+    "reversed_card_affirmations_en": [
+      "I connect with others meaningfully. ",
+      "I manage my finances responsibly."
+    ]
+  },
+  {
+    "card_key": "ten_of_pentacles",
+    "card_desc_cn": "正位的星币十代表财富、家族和传承，提醒你珍惜家庭，规划未来。",
+    "card_desc_en": "Ten of Pentacles (Upright) represents wealth, family, and legacy. It encourages you to cherish family ties and plan for the future.",
+    "reversed_card_desc_cn": "逆位的星币十可能表示家庭不和、财务损失或遗产问题，提醒你解决矛盾，保护资产。",
+    "reversed_card_desc_en": "Ten of Pentacles (Reversed) may signify family discord, financial loss, or inheritance problems. It urges you to resolve conflicts and safeguard assets.",
+    "card_affirmations_cn": [
+      "家族和睦，\n财富世代相传。 ",
+      "规划未来，\n传承美好价值。"
+    ],
+    "card_affirmations_en": [
+      "I cherish my family's legacy. ",
+      "I build a secure future for generations."
+    ],
+    "reversed_card_affirmations_cn": [
+      "化解家庭矛盾，\n重建和谐关系。 ",
+      "保护资产，\n确保未来安稳。"
+    ],
+    "reversed_card_affirmations_en": [
+      " I resolve family issues peacefully. ",
+      "I safeguard my assets responsibly."
+    ]
+  },
+  {
+    "card_key": "page_of_pentacles",
+    "card_desc_cn": "正位的星币侍者象征学习、机会和实际计划，提醒你专注学习，抓住机遇。",
+    "card_desc_en": "Page of Pentacles (Upright) symbolizes learning, opportunities, and practical planning. It reminds you to focus on education and seize chances.",
+    "reversed_card_desc_cn": "逆位的星币侍者可能表示懒散、计划受阻或不成熟，提醒你培养纪律，制定计划。",
+    "reversed_card_desc_en": "Page of Pentacles (Reversed) may indicate laziness, stalled plans, or immaturity. It reminds you to cultivate discipline and create concrete plans.",
+    "card_affirmations_cn": [
+      "专注学习，\n机会就在眼前。 ",
+      "实际计划，\n迈向成功之路。"
+    ],
+    "card_affirmations_en": [
+      "I embrace learning new skills. ",
+      "I seize opportunities with practical steps."
+    ],
+    "reversed_card_affirmations_cn": [
+      "培养自律，\n制定清晰目标。 ",
+      "克服拖延，\n实现自我成长。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I develop discipline and set clear goals. ",
+      "I overcome procrastination to grow."
+    ]
+  },
+  {
+    "card_key": "knight_of_pentacles",
+    "card_desc_cn": "正位的星币骑士代表可靠、勤奋和稳健，提醒你坚持不懈，踏实前行。",
+    "card_desc_en": "Knight of Pentacles (Upright) represents reliability, diligence, and steadiness. It encourages you to persevere and proceed methodically.",
+    "reversed_card_desc_cn": "逆位的星币骑士可能表示固执、停滞或懒惰，提醒你灵活思考，重拾动力。",
+    "reversed_card_desc_en": "Knight of Pentacles (Reversed) may represent stubbornness, stagnation, or lethargy. It urges you to think flexibly and regain momentum.",
+    "card_affirmations_cn": [
+      "稳扎稳打，\n踏实迈向目标。 ",
+      "勤奋努力，\n成功水到渠成。"
+    ],
+    "card_affirmations_en": [
+      "I progress steadily towards my goals. ",
+      "I achieve success through diligence."
+    ],
+    "reversed_card_affirmations_cn": [
+      "开放思维，\n灵活应对挑战。 ",
+      "重拾动力，\n继续前行。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I stay open to new approaches. ",
+      "I reignite my drive to move forward."
+    ]
+  },
+  {
+    "card_key": "queen_of_pentacles",
+    "card_desc_cn": "正位的星币王后象征慷慨、实际和关怀，提醒你照顾自己和他人，享受物质和精神的丰富。",
+    "card_desc_en": "Queen of Pentacles (Upright) symbolizes generosity, practicality, and care. It reminds you to care for yourself and others, enjoying both material and spiritual richness.",
+    "reversed_card_desc_cn": "逆位的星币王后可能表示忽视、自私或物质主义，提醒你平衡生活，关注内在需求。",
+    "reversed_card_desc_en": "Queen of Pentacles (Reversed) may signify neglect, selfishness, or materialism. It reminds you to balance your life and focus on inner needs.",
+    "card_affirmations_cn": [
+      "关爱自己，\n慷慨待人接物。 ",
+      "享受丰盛，\n心灵物质俱足。"
+    ],
+    "card_affirmations_en": [
+      "I nurture myself and others generously. ",
+      "I embrace abundance in all forms."
+    ],
+    "reversed_card_affirmations_cn": [
+      "平衡生活，\n关注内心世界。 ",
+      "超越物质，\n追求精神满足。"
+    ],
+    "reversed_card_affirmations_en": [
+      "I balance my material and emotional needs. ",
+      "I seek fulfillment beyond possessions."
+    ]
+  },
+  {
+    "card_key": "king_of_pentacles",
+    "card_desc_cn": "正位的星币国王代表成功、稳定和繁荣，提醒你运用智慧，建立稳固的基础。",
+    "card_desc_en": "King of Pentacles (Upright) represents success, stability, and prosperity. It encourages you to use wisdom to build a solid foundation.",
+    "reversed_card_desc_cn": "逆位的星币国王可能表示固执、自负或贪婪，提醒你谦逊待人，分享成功。",
+    "reversed_card_desc_en": "King of Pentacles (Reversed) may represent obstinance, arrogance, or greed. It urges you to practice humility and share your success.",
+    "card_affirmations_cn": [
+      "智慧经营，\n成功稳如磐石。 ",
+      "繁荣昌盛，\n生活充满富足。"
+    ],
+    "card_affirmations_en": [
+      "I build lasting success through wisdom. ",
+      "I enjoy prosperity and stability."
+    ],
+    "reversed_card_affirmations_cn": [
+      "谦逊有度，\n与人分享成功。 ",
+      "远离贪婪，\n保持内心纯净。"
+    ],
+    "reversed_card_affirmations_en": [
+      " I lead with humility and generosity. ",
+      "I remain grounded and content."
+    ]
+  }
+]

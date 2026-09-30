@@ -1,0 +1,66 @@
+package defpackage;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+public final /* synthetic */ class sj2 implements x16 {
+    public final /* synthetic */ int a;
+    public final /* synthetic */ gh6 b;
+    public final /* synthetic */ x16 c;
+
+    public /* synthetic */ sj2(gh6 gh6Var, x16 x16Var, int i) {
+        this.a = i;
+        this.b = gh6Var;
+        this.c = x16Var;
+    }
+
+    @Override // defpackage.x16
+    public final Object invoke() {
+        int i = this.a;
+        wef wefVar = wef.a;
+        x16 x16Var = this.c;
+        gh6 gh6Var = this.b;
+        switch (i) {
+            case 0:
+                gh6Var.c();
+                x16Var.invoke();
+                break;
+            case 1:
+                gh6Var.c();
+                x16Var.invoke();
+                break;
+            case 2:
+                gh6Var.c();
+                x16Var.invoke();
+                break;
+            case 3:
+                gh6Var.c();
+                x16Var.invoke();
+                break;
+            case 4:
+                gh6Var.c();
+                x16Var.invoke();
+                break;
+            case 5:
+                gh6Var.c();
+                x16Var.invoke();
+                break;
+            case 6:
+                gh6Var.c();
+                x16Var.invoke();
+                break;
+            case 7:
+                gh6Var.c();
+                x16Var.invoke();
+                break;
+            case 8:
+                gh6Var.c();
+                x16Var.invoke();
+                break;
+            default:
+                gh6Var.c();
+                x16Var.invoke();
+                break;
+        }
+        return wefVar;
+    }
+}

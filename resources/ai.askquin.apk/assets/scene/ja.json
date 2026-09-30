@@ -1,0 +1,231 @@
+[
+  {
+    "id": "new-love",
+    "category": "loveRelationship",
+    "title": "運命の人",
+    "subTitle": "あなたの「本命」は、いつ訪れる",
+    "shuffleCardHint": "心の中で質問を念じてください",
+    "spreadKey": "MOU",
+    "imageURL": "img-truelove-light.webp",
+    "darkImageURL": "img-truelove-dark.webp",
+    "guessQuestions": [
+      "今後3ヶ月以内に新しい恋愛運はあるかな？",
+      "現在の気になる相手との関係、時には甘く、時には迷いも。運命の相手でしょうか？",
+      "次に運命の相手に出会うのはいつ？"
+    ]
+  },
+  {
+    "id": "relationship-insight",
+    "category": "loveRelationship",
+    "title": "関係の行方",
+    "subTitle": "この関係、これからどうなる",
+    "shuffleCardHint": "心の中で質問を念じてください",
+    "spreadKey": "RD",
+    "imageURL": "img-relationship-light.webp",
+    "darkImageURL": "img-relationship-dark.webp",
+    "guessQuestions": [
+      "停滞している関係は今後3ヶ月で進展しますか？",
+      "遠距離恋愛中ですが、関係を維持するにはどうすれば？",
+      "この人を追いかける価値がありますか？",
+      "冷戦中、私から連絡すべき？",
+      "心に思っている人は運命の相手ですか？"
+    ]
+  },
+  {
+    "id": "their-real-thoughts",
+    "category": "loveRelationship",
+    "title": "あの人の気持ち",
+    "subTitle": "本当は、どう思ってる",
+    "shuffleCardHint": "心の中で質問を念じてください",
+    "spreadKey": "TFA",
+    "imageURL": "img-abouthim-light.webp",
+    "darkImageURL": "img-abouthim-dark.webp",
+    "guessQuestions": [
+      "相手は私の最近の行動をどう思っていますか？",
+      "最近相手が冷たかったり優しかったり。本心は？",
+      "相手は私との未来を考えていますか？長期的関係を望んでいますか？",
+      "相手の今の本心は？"
+    ]
+  },
+  {
+    "id": "relationship-reconciliation",
+    "category": "loveRelationship",
+    "title": "復縁",
+    "subTitle": "もう一度、やり直せる",
+    "shuffleCardHint": "心の中で質問を念じてください",
+    "spreadKey": "RD",
+    "imageURL": "img-breakup-light.webp",
+    "darkImageURL": "img-breakup-dark.webp",
+    "guessQuestions": [
+      "今後3ヶ月以内に復縁できる可能性は？",
+      "私から連絡した場合、相手の反応は良い？悪い？",
+      "この関係を続けるべきか、それとも手放すべきか？",
+      "相手はこの関係にどう行動する？"
+    ]
+  },
+  {
+    "id": "yes-or-no",
+    "category": "popular",
+    "title": "Yes / No",
+    "subTitle": "迷ったときのヒント",
+    "shuffleCardHint": "心の中で質問を念じてください",
+    "spreadKey": "S",
+    "imageURL": "img-yesorno-light.webp",
+    "darkImageURL": "img-yesorno-dark.webp",
+    "guessQuestions": [
+      "相手に告白すべき？",
+      "このオファーを受けるべき？",
+      "友人や家族のアドバイスを聞くべき？"
+    ]
+  },
+  {
+    "id": "choose-between-two",
+    "category": "other",
+    "title": "二者択一",
+    "subTitle": "どっちを選ぶべき",
+    "shuffleCardHint": "心の中で選択肢を念じてください",
+    "spreadKey": "ABS",
+    "imageURL": "img-oneoftwo-light.webp",
+    "darkImageURL": "img-oneoftwo-dark.webp",
+    "guessQuestions": [
+      "相手に連絡するべき？それとも待つべき？",
+      "今の仕事を続けるべきか、辞めるべきか？"
+    ]
+  },
+  {
+    "id": "choose-from-three",
+    "category": "other",
+    "title": "三者択一",
+    "subTitle": "あなたに最適なのはどれ",
+    "shuffleCardHint": "心の中で選択肢を念じてください",
+    "spreadKey": "ABCS",
+    "imageURL": "img-oneofthree-light.webp",
+    "darkImageURL": "img-oneofthree-dark.webp",
+    "guessQuestions": [
+      "次の休みはどこへ旅行すべき？",
+      "週末は誰と過ごせば最も楽しめる？",
+      "どの専攻を選ぶべき？"
+    ]
+  },
+  {
+    "id": "shopping-decision",
+    "category": "popular",
+    "title": "お買い物占い",
+    "subTitle": "買ったら、気分はどうなる",
+    "shuffleCardHint": "心の中で購入したいものを念じてください",
+    "spreadKey": "BNS",
+    "imageURL": "img-shopping-light.webp",
+    "darkImageURL": "img-shopping-dark.webp",
+    "guessQuestions": [
+      "これを買ったら幸せになる？",
+      "気になる物、買うべき？"
+    ]
+  },
+  {
+    "id": "exam-luck",
+    "category": "academicCareer",
+    "title": "試験の行方",
+    "subTitle": "結果と、今できること",
+    "shuffleCardHint": "心の中で質問を念じてください",
+    "spreadKey": "P",
+    "imageURL": "img-exam-light.webp",
+    "darkImageURL": "img-exam-dark.webp",
+    "guessQuestions": [
+      "来月の試験運は？",
+      "今回の試験は順調に合格できますか？",
+      "今回の復習で特に注意すべきポイントは？"
+    ]
+  },
+  {
+    "id": "event-prediction",
+    "category": "other",
+    "title": "出来事の行方",
+    "subTitle": "この先、どうなる",
+    "shuffleCardHint": "心の中で質問を念じてください",
+    "spreadKey": "SAO",
+    "imageURL": "img-specificevents-light.webp",
+    "darkImageURL": "img-specificevents-dark.webp",
+    "guessQuestions": [
+      "計画中の旅行は順調に行きますか？",
+      "告白したら、相手は受け入れてくれる？",
+      "今悩んでいることの今後3ヶ月の展開は？"
+    ]
+  },
+  {
+    "id": "daily-outfit-tips",
+    "category": "popular",
+    "title": "今日のコーデ",
+    "subTitle": "運気が上がる装いって",
+    "spreadKey": "TOG",
+    "imageURL": "img-ootd-light.webp",
+    "darkImageURL": "img-ootd-dark.webp",
+    "guessQuestions": [
+      "今日のシーンに合ったコーデは？",
+      "今日は何色の服が運気アップ？",
+      "今日はどんなアクセサリーをつけると運気アップ？"
+    ]
+  },
+  {
+    "id": "health-status",
+    "category": "other",
+    "title": "心と体のサイン",
+    "subTitle": "小さな変化に、気づくために",
+    "shuffleCardHint": "心の中で質問を念じてください",
+    "spreadKey": "PPF",
+    "imageURL": "img-health-light.webp",
+    "darkImageURL": "img-health-dark.webp",
+    "guessQuestions": [
+      "今後3ヶ月の健康状態は？",
+      "今後3ヶ月に気をつけるべき健康問題は？",
+      "今後3ヶ月で健康改善のため生活をどう調整すべき？"
+    ]
+  },
+  {
+    "id": "social-relations",
+    "category": "other",
+    "title": "人間関係のサイン",
+    "subTitle": "距離感、変わってきたかも",
+    "shuffleCardHint": "心の中で質問を念じてください",
+    "spreadKey": "MOU",
+    "imageURL": "img-interpersonal-light.webp",
+    "darkImageURL": "img-interpersonal-dark.webp",
+    "guessQuestions": [
+      "片想いの相手との最近の関係は？",
+      "気になる友人との最近の関係は？",
+      "恋人との関係に隠れた問題は？",
+      "最近家族との関係はどう処理すべき？"
+    ]
+  },
+  {
+    "id": "job-opportunities",
+    "category": "academicCareer",
+    "title": "仕事運",
+    "subTitle": "理想の仕事、いつ巡ってくる",
+    "shuffleCardHint": "心の中で質問を念じてください",
+    "spreadKey": "JI",
+    "imageURL": "img-jobseeking-light.webp",
+    "darkImageURL": "img-jobseeking-dark.webp",
+    "guessQuestions": [
+      "今後3ヶ月で新しい仕事のチャンスはありますか？",
+      "現在進めているプロジェクトは順調に進む？",
+      "面接は順調に合格できますか？",
+      "最近送った履歴書に返信は来ますか？"
+    ]
+  },
+  {
+    "id": "career-path",
+    "category": "academicCareer",
+    "title": "キャリアの選択",
+    "subTitle": "このままでいい？それとも変えるとき？",
+    "shuffleCardHint": "心の中で質問を念じてください",
+    "spreadKey": "P",
+    "imageURL": "img-career-light.webp",
+    "darkImageURL": "img-career-dark.webp",
+    "guessQuestions": [
+      "現在の会社・職位での今後3ヶ月の展望は？",
+      "転職・転業を検討すべき？どちらの方向が向いている？",
+      "仕事で行き詰まりと迷いを感じています。どう突破すればいい？",
+      "来月は転職に成功できますか？"
+    ]
+  }
+]

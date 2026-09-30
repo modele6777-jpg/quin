@@ -1,0 +1,41 @@
+package tech.chatmind.api;
+
+import defpackage.dod;
+import defpackage.eod;
+import defpackage.lx4;
+import defpackage.pa7;
+import defpackage.tyc;
+import defpackage.z7c;
+import kotlin.Metadata;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes3.dex */
+@tyc(with = eod.class)
+@Metadata(d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0010\u0010\n\u0002\b\u0017\b\u0081\u0081\u0002\u0018\u0000 \u00042\b\u0012\u0004\u0012\u00020\u00000\u0001:\u0001\u0005B\t\b\u0002¢\u0006\u0004\b\u0002\u0010\u0003j\u0002\b\u0006j\u0002\b\u0007j\u0002\b\bj\u0002\b\tj\u0002\b\nj\u0002\b\u000bj\u0002\b\fj\u0002\b\rj\u0002\b\u000ej\u0002\b\u000fj\u0002\b\u0010j\u0002\b\u0011j\u0002\b\u0012j\u0002\b\u0013j\u0002\b\u0014j\u0002\b\u0015j\u0002\b\u0016j\u0002\b\u0017¨\u0006\u0018"}, d2 = {"Ltech/chatmind/api/SkinType;", "", "<init>", "(Ljava/lang/String;I)V", "Companion", "dod", "RiderWaite", "Cat", "Love", "Puppet", "Symbolism", "Minimalism", "Fable", "Woodcut", "Dream", "Prism", "Midnight", "DarkGold", "ZenithDay", "EternalNight", "Transformation", "SecretManor", "MagicAwakening", "Unknown", "Quin.core:base-api_release"}, k = 1, mv = {2, 4, 0}, xi = z7c.f)
+public enum SkinType {
+    RiderWaite,
+    Cat,
+    Love,
+    Puppet,
+    Symbolism,
+    Minimalism,
+    Fable,
+    Woodcut,
+    Dream,
+    Prism,
+    Midnight,
+    DarkGold,
+    ZenithDay,
+    EternalNight,
+    Transformation,
+    SecretManor,
+    MagicAwakening,
+    Unknown;
+
+    private static final /* synthetic */ lx4 $ENTRIES = pa7.Q(values());
+    public static final dod Companion = new dod();
+
+    public static lx4 getEntries() {
+        return $ENTRIES;
+    }
+}

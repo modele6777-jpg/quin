@@ -1,0 +1,12 @@
+package defpackage;
+
+import android.os.Build;
+
+/* JADX INFO: compiled from: r8-map-id-c0f90335ad52c1b57db77aaf4b1db5c7c9c2627f2e01f059a43261b6162c0147 */
+/* JADX INFO: loaded from: classes.dex */
+public final class q76 implements wm3 {
+    @Override // defpackage.wm3
+    public final mm3 a() {
+        return Build.VERSION.SDK_INT >= 28 ? new xy() : new o76();
+    }
+}
